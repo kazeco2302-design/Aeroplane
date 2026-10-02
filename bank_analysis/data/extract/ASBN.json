@@ -1,0 +1,2618 @@
+{
+ "ticker": "ASBN",
+ "company": "АО «ForteBank»",
+ "units": "млрд тенге (акции — штуки, EPS/BVPS/DPS — тенге)",
+ "periods": {
+  "FY2021": {
+   "balance": {
+    "assets": {
+     "value": 2425.8,
+     "src": "ASBN_FY2022.pdf стр.11 (сравнит.), сверено с ASBN_FY2021.pdf стр.11"
+    },
+    "loans_net": {
+     "value": 808.9,
+     "src": "ASBN_FY2022.pdf стр.11 (сравнит.), сверено с ASBN_FY2021.pdf стр.11"
+    },
+    "deposits": {
+     "value": 1733.8,
+     "src": "ASBN_FY2022.pdf стр.11 (сравнит.), сверено с ASBN_FY2021.pdf стр.11"
+    },
+    "equity": {
+     "value": 277.7,
+     "src": "ASBN_FY2022.pdf стр.11 (сравнит.), сверено с ASBN_FY2021.pdf стр.11"
+    },
+    "equity_parent": {
+     "value": 277.7,
+     "src": "ASBN_FY2022.pdf стр.11 (сравнит.), сверено с ASBN_FY2021.pdf стр.11"
+    },
+    "gross_loans": {
+     "value": 847.1,
+     "src": "ASBN_FY2022.pdf стр.11 (сравнит.), сверено с ASBN_FY2021.pdf стр.11"
+    },
+    "loan_ecl_allowance": {
+     "value": 38.2,
+     "src": "ASBN_FY2022.pdf стр.11 (сравнит.), сверено с ASBN_FY2021.pdf стр.11"
+    },
+    "interest_earning_assets": {
+     "value": 2208.244,
+     "formula": "ДС и экв. − наличные в кассе + средства в ФО + ЦБ ССПУ + инвест. ЦБ (вкл. в репо) + кредиты нетто"
+    }
+   },
+   "loan_quality": {
+    "stage1": {
+     "gross": {
+      "value": 711.2,
+      "src": "ASBN_FY2022.pdf прим.15 стр.43 (сравнит.; = ASBN_FY2021.pdf txt)"
+     },
+     "ecl": {
+      "value": 12.7,
+      "src": "ASBN_FY2022.pdf прим.15 стр.43 (сравнит.; = ASBN_FY2021.pdf txt)"
+     }
+    },
+    "stage2": {
+     "gross": {
+      "value": 24.3,
+      "src": "ASBN_FY2022.pdf прим.15 стр.43 (сравнит.; = ASBN_FY2021.pdf txt)"
+     },
+     "ecl": {
+      "value": 2.4,
+      "src": "ASBN_FY2022.pdf прим.15 стр.43 (сравнит.; = ASBN_FY2021.pdf txt)"
+     }
+    },
+    "stage3": {
+     "gross": {
+      "value": 84.4,
+      "src": "ASBN_FY2022.pdf прим.15 стр.43 (сравнит.; = ASBN_FY2021.pdf txt)"
+     },
+     "ecl": {
+      "value": 21.8,
+      "src": "ASBN_FY2022.pdf прим.15 стр.43 (сравнит.; = ASBN_FY2021.pdf txt)"
+     }
+    },
+    "poci": {
+     "gross": {
+      "value": 27.2,
+      "src": "ASBN_FY2022.pdf прим.15 стр.43 (сравнит.; = ASBN_FY2021.pdf txt)"
+     },
+     "ecl": {
+      "value": 1.4,
+      "src": "ASBN_FY2022.pdf прим.15 стр.43 (сравнит.; = ASBN_FY2021.pdf txt)"
+     }
+    },
+    "stage3_poci_share": {
+     "value": 13.1732,
+     "formula": "(Этап3+ПСКО брутто)/брутто-кредиты, %"
+    },
+    "stage3_share": {
+     "value": 9.9654,
+     "formula": "Этап3 брутто/брутто-кредиты, %"
+    },
+    "stage3_coverage_by_s3_ecl": {
+     "value": 25.7649,
+     "formula": "резерв Этапа3/брутто Этапа3, %"
+    },
+    "stage3_poci_coverage_by_total_ecl": {
+     "value": 34.2229,
+     "formula": "весь резерв/(Этап3+ПСКО брутто), %"
+    },
+    "total_ecl_to_gross": {
+     "value": 4.5082,
+     "formula": "резерв/брутто, %"
+    }
+   },
+   "income": {
+    "interest_income": {
+     "value": 193.0,
+     "src": "ASBN_FY2021.pdf стр.9 (скан, OCR) = ASBN_FY2022.pdf стр.9 (сравнит.)"
+    },
+    "interest_expense": {
+     "value": -97.1,
+     "src": "ASBN_FY2021.pdf стр.9 (скан, OCR) = ASBN_FY2022.pdf стр.9 (сравнит.)"
+    },
+    "nii": {
+     "value": 95.9,
+     "src": "ASBN_FY2021.pdf стр.9 (скан, OCR) = ASBN_FY2022.pdf стр.9 (сравнит.)"
+    },
+    "fee_income": {
+     "value": 37.3,
+     "src": "ASBN_FY2021.pdf стр.9 (скан, OCR) = ASBN_FY2022.pdf стр.9 (сравнит.)"
+    },
+    "fee_expense": {
+     "value": -14.8,
+     "src": "ASBN_FY2021.pdf стр.9 (скан, OCR) = ASBN_FY2022.pdf стр.9 (сравнит.)"
+    },
+    "non_interest_income_total": {
+     "value": 40.4,
+     "src": "ASBN_FY2021.pdf стр.9 (скан, OCR) = ASBN_FY2022.pdf стр.9 (сравнит.)"
+    },
+    "credit_loss_expense_total": {
+     "value": -9.9,
+     "src": "ASBN_FY2021.pdf стр.9 (скан, OCR) = ASBN_FY2022.pdf стр.9 (сравнит.)"
+    },
+    "credit_loss_expense_loans": {
+     "value": -12.0,
+     "src": "ASBN_FY2022.pdf прим.8 стр.38"
+    },
+    "ga_expenses": {
+     "value": -51.3,
+     "src": "ASBN_FY2021.pdf стр.9 (скан, OCR) = ASBN_FY2022.pdf стр.9 (сравнит.)"
+    },
+    "income_tax": {
+     "value": -3.0,
+     "src": "ASBN_FY2021.pdf стр.9 (скан, OCR) = ASBN_FY2022.pdf стр.9 (сравнит.)"
+    },
+    "net_profit": {
+     "value": 64.1,
+     "src": "ASBN_FY2021.pdf стр.9 (скан, OCR) = ASBN_FY2022.pdf стр.9 (сравнит.)"
+    },
+    "net_profit_to_shareholders": {
+     "value": 64.1,
+     "src": "ASBN_FY2021.pdf стр.9 (скан, OCR) = ASBN_FY2022.pdf стр.9 (сравнит.)"
+    }
+   },
+   "ratios": {
+    "NIM": {
+     "value": 4.7201,
+     "formula": "ЧПД×1/среднее(IEA нач.,кон.), %"
+    },
+    "cost_of_risk": {
+     "value": 1.4301,
+     "formula": "расход ОКУ по кредитам×1/среднее брутто-кредитов, %"
+    },
+    "ROE": {
+     "value": 23.6808,
+     "formula": "ЧП акционерам×1/средний капитал акционеров (вкл. AT1), %"
+    },
+    "ROE_common": {
+     "value": 23.6808,
+     "formula": "(ЧП акционерам − купон AT1)×1/средний капитал без AT1, %"
+    },
+    "ROA": {
+     "value": 2.8376,
+     "formula": "ЧП×1/средние активы, %"
+    },
+    "cost_income": {
+     "value": 37.6252,
+     "formula": "Общ.-адм. расходы/(ЧПД + непроцентные доходы по ОПиУ), %"
+    },
+    "effective_tax_rate": {
+     "value": 4.5348,
+     "formula": "налог/прибыль до налога, %"
+    }
+   },
+   "capital_adequacy": {
+    "tier1": {
+     "value": 252.1,
+     "src": "ASBN_FY2022.pdf прим.29 стр.94 (сравнит.; = ASBN_FY2021.pdf txt)"
+    },
+    "total_reg_capital": {
+     "value": 265.0,
+     "src": "ASBN_FY2022.pdf прим.29 стр.94 (сравнит.; = ASBN_FY2021.pdf txt)"
+    },
+    "rwa": {
+     "value": 1089.9,
+     "src": "ASBN_FY2022.pdf прим.29 стр.94 (сравнит.; = ASBN_FY2021.pdf txt)"
+    },
+    "k1_pct": {
+     "value": 23.1,
+     "src": "ASBN_FY2022.pdf прим.29 стр.94 (сравнит.; = ASBN_FY2021.pdf txt)"
+    },
+    "k1_2_pct": {
+     "value": 23.1,
+     "src": "ASBN_FY2022.pdf прим.29 стр.94 (сравнит.; = ASBN_FY2021.pdf txt)"
+    },
+    "k2_pct": {
+     "value": 24.3,
+     "src": "ASBN_FY2022.pdf прим.29 стр.94 (сравнит.; = ASBN_FY2021.pdf txt)"
+    },
+    "min_k1_k1_2_k2_pct": {
+     "value": [
+      7.5,
+      8.5,
+      10.0
+     ],
+     "src": "ASBN_FY2022.pdf прим.29 стр.94 (сравнит.; = ASBN_FY2021.pdf txt) (минимумы как раскрыты в примечании; буферы отдельно не раскрыты)"
+    },
+    "basis": "Банк (АО ForteBank), отдельно по требованиям НБРК/АРРФР"
+   },
+   "related_parties": {
+    "loans_shareholders": {
+     "value": 0.0,
+     "src": "ASBN_FY2022.pdf прим.31 стр.97"
+    },
+    "loans_common_control": {
+     "value": 0.0,
+     "src": "ASBN_FY2022.pdf прим.31 стр.97"
+    },
+    "loans_other_related(KMP)": {
+     "value": 4.395,
+     "src": "ASBN_FY2022.pdf прим.31 стр.97"
+    },
+    "loans_total": {
+     "value": 4.4,
+     "src": "ASBN_FY2022.pdf прим.31 стр.97"
+    },
+    "loans_pct_equity": {
+     "value": 1.5827,
+     "formula": "кредиты связанным/капитал, %"
+    },
+    "deposits_shareholders": {
+     "value": 23.316,
+     "src": "ASBN_FY2022.pdf прим.31 стр.97"
+    },
+    "deposits_common_control": {
+     "value": 44.905,
+     "src": "ASBN_FY2022.pdf прим.31 стр.97"
+    },
+    "deposits_other": {
+     "value": 8.389,
+     "src": "ASBN_FY2022.pdf прим.31 стр.97"
+    },
+    "deposits_total": {
+     "value": 76.6,
+     "src": "ASBN_FY2022.pdf прим.31 стр.97"
+    },
+    "interest_income": {
+     "value": 0.239,
+     "src": "ASBN_FY2022.pdf прим.31 стр.97"
+    },
+    "interest_expense": {
+     "value": -1.127,
+     "src": "ASBN_FY2022.pdf прим.31 стр.97"
+    },
+    "ga_paid_to_common_control": {
+     "value": -0.731,
+     "src": "ASBN_FY2022.pdf прим.31 стр.97"
+    },
+    "credit_commitments": {
+     "value": 0.071,
+     "src": "ASBN_FY2022.pdf прим.31 стр.97"
+    }
+   },
+   "shares": {
+    "shares_outstanding": {
+     "value": 90452727392,
+     "src": "ASBN_FY2022.pdf прим.23-24 стр.73-74"
+    },
+    "weighted_avg_shares": {
+     "value": 89111066504,
+     "src": "ASBN_FY2022.pdf прим.23-24 стр.73-74"
+    },
+    "eps_reported_tenge": {
+     "value": 0.72,
+     "src": "ASBN_FY2022.pdf прим.23-24 стр.73-74"
+    },
+    "preferred_shares": {
+     "value": 0,
+     "src": "привилегированные акции не размещены (прим. «Акционерный капитал» — только простые)"
+    },
+    "shares_issued": {
+     "value": 92387104089,
+     "src": "ASBN_FY2022.pdf прим.23-24 стр.73-74"
+    },
+    "eps_check": {
+     "value": 0.7189,
+     "formula": "ЧП акционерам/средневзв. число акций, тенге"
+    },
+    "bvps_tenge": {
+     "value": 3.0701,
+     "formula": "(капитал акционеров − AT1)×10^6 / акции в обращении, тенге"
+    }
+   },
+   "dividends": {
+    "declared": {
+     "value": 52.961,
+     "src": "ASBN_FY2022.pdf прим.23 стр.73; ОДДС стр.13"
+    },
+    "dps_tenge": {
+     "value": 0.5951,
+     "formula": "≈ 52.961/88.995.268.392 акций в обращении на 01.01.2021 (DPS в файлах не найден)"
+    },
+    "paid_cf": {
+     "value": 52.961,
+     "src": "ASBN_FY2022.pdf прим.23 стр.73; ОДДС стр.13"
+    },
+    "comment": "за FY2020; решение 29.03.2021",
+    "payout_vs_prev_year_np": {
+     "value": 99.9981,
+     "formula": "дивиденды объявленные/ЧП предыдущего года, %"
+    }
+   },
+   "equity_reconciliation": {
+    "open": {
+     "value": 263.331,
+     "src": "ASBN_FY2022.pdf стр.14"
+    },
+    "net_profit": {
+     "value": 64.06,
+     "src": "ASBN_FY2022.pdf стр.14"
+    },
+    "oci": {
+     "value": -1.07,
+     "src": "ASBN_FY2022.pdf стр.14"
+    },
+    "dividends": {
+     "value": -52.961,
+     "src": "ASBN_FY2022.pdf стр.14"
+    },
+    "treasury_sale": {
+     "value": 4.337,
+     "src": "ASBN_FY2022.pdf стр.14"
+    },
+    "other": {
+     "value": 0.0,
+     "src": "ASBN_FY2022.pdf стр.14"
+    },
+    "close_reported": {
+     "value": 277.697,
+     "src": "ASBN_FY2022.pdf стр.14"
+    },
+    "close_calc": {
+     "value": 277.697,
+     "formula": "начало+ЧП+ПСД−дивиденды+продажа каз. акций+прочее"
+    },
+    "diff": {
+     "value": 0.0,
+     "formula": "отчёт−расчёт"
+    }
+   },
+   "concentration": {
+    "top10_borrowers_bn": {
+     "value": 164.689,
+     "src": "ASBN_FY2022.pdf прим.15 стр.65; прим.19 стр.71"
+    },
+    "top10_borrowers_pct_loans": {
+     "value": 19.44,
+     "src": "ASBN_FY2022.pdf прим.15 стр.65; прим.19 стр.71"
+    },
+    "top10_borrowers_pct_equity": {
+     "value": 59.3053,
+     "formula": "топ-10 заёмщиков/капитал, %"
+    },
+    "top10_depositors_pct": {
+     "value": 22.28,
+     "src": "ASBN_FY2022.pdf прим.15 стр.65; прим.19 стр.71"
+    }
+   },
+   "problem_assets": {
+    "repossessed_collateral": {
+     "value": 36.246,
+     "src": "ASBN_FY2022.pdf прим.18 стр.70 (сравнит.)"
+    },
+    "investment_property": {
+     "value": 2.469,
+     "src": "ASBN_FY2022.pdf прим.18 стр.70 (сравнит.)"
+    }
+   },
+   "audit": {
+    "auditor": "ТОО «Эрнст энд Янг» (EY)",
+    "date": "9 марта 2022",
+    "opinion": "немодифицированное",
+    "kam": [
+     "ОКУ по кредитам клиентам",
+     "Оценка справедливой стоимости полученных кредитов от финансовых организаций (гос. программы/КФУ)"
+    ],
+    "src": "ASBN_FY2021.pdf стр.3-8 (скан, OCR)"
+   }
+  },
+  "FY2022": {
+   "balance": {
+    "assets": {
+     "value": 2789.4,
+     "src": "ASBN_FY2022.pdf стр.11; прим.15 стр.43; прим.12 стр.41"
+    },
+    "loans_net": {
+     "value": 1173.5,
+     "src": "ASBN_FY2022.pdf стр.11; прим.15 стр.43; прим.12 стр.41"
+    },
+    "deposits": {
+     "value": 2011.7,
+     "src": "ASBN_FY2022.pdf стр.11; прим.15 стр.43; прим.12 стр.41"
+    },
+    "equity": {
+     "value": 343.8,
+     "src": "ASBN_FY2022.pdf стр.11; прим.15 стр.43; прим.12 стр.41"
+    },
+    "equity_parent": {
+     "value": 343.8,
+     "src": "ASBN_FY2022.pdf стр.11; прим.15 стр.43; прим.12 стр.41"
+    },
+    "gross_loans": {
+     "value": 1238.6,
+     "src": "ASBN_FY2022.pdf стр.11; прим.15 стр.43; прим.12 стр.41"
+    },
+    "loan_ecl_allowance": {
+     "value": 65.1,
+     "src": "ASBN_FY2022.pdf стр.11; прим.15 стр.43; прим.12 стр.41"
+    },
+    "interest_earning_assets": {
+     "value": 2610.094,
+     "formula": "ДС и экв. − наличные в кассе + средства в ФО + ЦБ ССПУ + инвест. ЦБ (вкл. в репо) + кредиты нетто"
+    }
+   },
+   "loan_quality": {
+    "stage1": {
+     "gross": {
+      "value": 1101.8,
+      "src": "ASBN_FY2022.pdf прим.15 стр.43"
+     },
+     "ecl": {
+      "value": 22.0,
+      "src": "ASBN_FY2022.pdf прим.15 стр.43"
+     }
+    },
+    "stage2": {
+     "gross": {
+      "value": 28.9,
+      "src": "ASBN_FY2022.pdf прим.15 стр.43"
+     },
+     "ecl": {
+      "value": 6.8,
+      "src": "ASBN_FY2022.pdf прим.15 стр.43"
+     }
+    },
+    "stage3": {
+     "gross": {
+      "value": 84.5,
+      "src": "ASBN_FY2022.pdf прим.15 стр.43"
+     },
+     "ecl": {
+      "value": 34.4,
+      "src": "ASBN_FY2022.pdf прим.15 стр.43"
+     }
+    },
+    "poci": {
+     "gross": {
+      "value": 23.4,
+      "src": "ASBN_FY2022.pdf прим.15 стр.43"
+     },
+     "ecl": {
+      "value": 1.8,
+      "src": "ASBN_FY2022.pdf прим.15 стр.43"
+     }
+    },
+    "stage3_poci_share": {
+     "value": 8.7127,
+     "formula": "(Этап3+ПСКО брутто)/брутто-кредиты, %"
+    },
+    "stage3_share": {
+     "value": 6.8206,
+     "formula": "Этап3 брутто/брутто-кредиты, %"
+    },
+    "stage3_coverage_by_s3_ecl": {
+     "value": 40.692,
+     "formula": "резерв Этапа3/брутто Этапа3, %"
+    },
+    "stage3_poci_coverage_by_total_ecl": {
+     "value": 60.2932,
+     "formula": "весь резерв/(Этап3+ПСКО брутто), %"
+    },
+    "total_ecl_to_gross": {
+     "value": 5.2532,
+     "formula": "резерв/брутто, %"
+    }
+   },
+   "income": {
+    "interest_income": {
+     "value": 260.7,
+     "src": "ASBN_FY2022.pdf стр.9 (скан, прочитан визуально)"
+    },
+    "interest_expense": {
+     "value": -132.1,
+     "src": "ASBN_FY2022.pdf стр.9 (скан, прочитан визуально)"
+    },
+    "nii": {
+     "value": 128.6,
+     "src": "ASBN_FY2022.pdf стр.9 (скан, прочитан визуально)"
+    },
+    "fee_income": {
+     "value": 36.2,
+     "src": "ASBN_FY2022.pdf стр.9 (скан, прочитан визуально)"
+    },
+    "fee_expense": {
+     "value": -12.2,
+     "src": "ASBN_FY2022.pdf стр.9 (скан, прочитан визуально)"
+    },
+    "non_interest_income_total": {
+     "value": 75.4,
+     "src": "ASBN_FY2022.pdf стр.9 (скан, прочитан визуально)"
+    },
+    "credit_loss_expense_total": {
+     "value": -37.6,
+     "src": "ASBN_FY2022.pdf стр.9 (скан, прочитан визуально)"
+    },
+    "credit_loss_expense_loans": {
+     "value": -36.7,
+     "src": "ASBN_FY2022.pdf прим.8 стр.38"
+    },
+    "ga_expenses": {
+     "value": -62.2,
+     "src": "ASBN_FY2022.pdf стр.9 (скан, прочитан визуально)"
+    },
+    "income_tax": {
+     "value": -0.6,
+     "src": "ASBN_FY2022.pdf стр.9 (скан, прочитан визуально)"
+    },
+    "net_profit": {
+     "value": 98.1,
+     "src": "ASBN_FY2022.pdf стр.9 (скан, прочитан визуально)"
+    },
+    "net_profit_to_shareholders": {
+     "value": 98.1,
+     "src": "ASBN_FY2022.pdf стр.9 (скан, прочитан визуально)"
+    }
+   },
+   "ratios": {
+    "NIM": {
+     "value": 5.3393,
+     "formula": "ЧПД×1/среднее(IEA нач.,кон.), %"
+    },
+    "cost_of_risk": {
+     "value": 3.5188,
+     "formula": "расход ОКУ по кредитам×1/среднее брутто-кредитов, %"
+    },
+    "ROE": {
+     "value": 31.5665,
+     "formula": "ЧП акционерам×1/средний капитал акционеров (вкл. AT1), %"
+    },
+    "ROE_common": {
+     "value": 31.5665,
+     "formula": "(ЧП акционерам − купон AT1)×1/средний капитал без AT1, %"
+    },
+    "ROA": {
+     "value": 3.7616,
+     "formula": "ЧП×1/средние активы, %"
+    },
+    "cost_income": {
+     "value": 30.4849,
+     "formula": "Общ.-адм. расходы/(ЧПД + непроцентные доходы по ОПиУ), %"
+    },
+    "effective_tax_rate": {
+     "value": 0.6352,
+     "formula": "налог/прибыль до налога, %"
+    }
+   },
+   "capital_adequacy": {
+    "tier1": {
+     "value": 315.1,
+     "src": "ASBN_FY2022.pdf прим.29 стр.94"
+    },
+    "total_reg_capital": {
+     "value": 325.4,
+     "src": "ASBN_FY2022.pdf прим.29 стр.94"
+    },
+    "rwa": {
+     "value": 1609.2,
+     "src": "ASBN_FY2022.pdf прим.29 стр.94"
+    },
+    "k1_pct": {
+     "value": 19.6,
+     "src": "ASBN_FY2022.pdf прим.29 стр.94"
+    },
+    "k1_2_pct": {
+     "value": 19.6,
+     "src": "ASBN_FY2022.pdf прим.29 стр.94"
+    },
+    "k2_pct": {
+     "value": 20.2,
+     "src": "ASBN_FY2022.pdf прим.29 стр.94"
+    },
+    "min_k1_k1_2_k2_pct": {
+     "value": [
+      7.5,
+      8.5,
+      10.0
+     ],
+     "src": "ASBN_FY2022.pdf прим.29 стр.94 (минимумы как раскрыты в примечании; буферы отдельно не раскрыты)"
+    },
+    "basis": "Банк (АО ForteBank), отдельно по требованиям НБРК/АРРФР"
+   },
+   "related_parties": {
+    "loans_shareholders": {
+     "value": 0.0,
+     "src": "ASBN_FY2022.pdf прим.31 стр.96-97"
+    },
+    "loans_common_control": {
+     "value": 0.0,
+     "src": "ASBN_FY2022.pdf прим.31 стр.96-97"
+    },
+    "loans_other_related(KMP)": {
+     "value": 4.69,
+     "src": "ASBN_FY2022.pdf прим.31 стр.96-97"
+    },
+    "loans_total": {
+     "value": 4.7,
+     "src": "ASBN_FY2022.pdf прим.31 стр.96-97"
+    },
+    "loans_pct_equity": {
+     "value": 1.3643,
+     "formula": "кредиты связанным/капитал, %"
+    },
+    "deposits_shareholders": {
+     "value": 19.498,
+     "src": "ASBN_FY2022.pdf прим.31 стр.96-97"
+    },
+    "deposits_common_control": {
+     "value": 39.401,
+     "src": "ASBN_FY2022.pdf прим.31 стр.96-97"
+    },
+    "deposits_other": {
+     "value": 9.483,
+     "src": "ASBN_FY2022.pdf прим.31 стр.96-97"
+    },
+    "deposits_total": {
+     "value": 68.4,
+     "src": "ASBN_FY2022.pdf прим.31 стр.96-97"
+    },
+    "interest_income": {
+     "value": 0.252,
+     "src": "ASBN_FY2022.pdf прим.31 стр.96-97"
+    },
+    "interest_expense": {
+     "value": -1.183,
+     "src": "ASBN_FY2022.pdf прим.31 стр.96-97"
+    },
+    "ga_paid_to_common_control": {
+     "value": -0.874,
+     "src": "ASBN_FY2022.pdf прим.31 стр.96-97"
+    },
+    "credit_commitments": {
+     "value": 0.111,
+     "src": "ASBN_FY2022.pdf прим.31 стр.96-97"
+    }
+   },
+   "shares": {
+    "shares_outstanding": {
+     "value": 90452669892,
+     "src": "ASBN_FY2022.pdf прим.23-24 стр.73-74"
+    },
+    "weighted_avg_shares": {
+     "value": 90452724871,
+     "src": "ASBN_FY2022.pdf прим.23-24 стр.73-74"
+    },
+    "eps_reported_tenge": {
+     "value": 1.08,
+     "src": "ASBN_FY2022.pdf прим.23-24 стр.73-74"
+    },
+    "preferred_shares": {
+     "value": 0,
+     "src": "привилегированные акции не размещены (прим. «Акционерный капитал» — только простые)"
+    },
+    "shares_issued": {
+     "value": 92387104089,
+     "src": "ASBN_FY2022.pdf прим.23-24 стр.73-74"
+    },
+    "eps_check": {
+     "value": 1.0844,
+     "formula": "ЧП акционерам/средневзв. число акций, тенге"
+    },
+    "bvps_tenge": {
+     "value": 3.8004,
+     "formula": "(капитал акционеров − AT1)×10^6 / акции в обращении, тенге"
+    }
+   },
+   "dividends": {
+    "declared": {
+     "value": 0.0,
+     "src": "ASBN_FY2022.pdf прим.23 стр.73"
+    },
+    "dps_tenge": {
+     "value": null,
+     "src": "ASBN_FY2022.pdf прим.23 стр.73"
+    },
+    "paid_cf": {
+     "value": 0.0,
+     "src": "ASBN_FY2022.pdf прим.23 стр.73"
+    },
+    "comment": "не объявлялись"
+   },
+   "equity_reconciliation": {
+    "open": {
+     "value": 277.697,
+     "src": "ASBN_FY2022.pdf стр.14"
+    },
+    "net_profit": {
+     "value": 98.086,
+     "src": "ASBN_FY2022.pdf стр.14"
+    },
+    "oci": {
+     "value": -32.023,
+     "src": "ASBN_FY2022.pdf стр.14"
+    },
+    "dividends": {
+     "value": 0.0,
+     "src": "ASBN_FY2022.pdf стр.14"
+    },
+    "treasury_sale": {
+     "value": 0.0,
+     "src": "ASBN_FY2022.pdf стр.14"
+    },
+    "other": {
+     "value": 0.0,
+     "src": "ASBN_FY2022.pdf стр.14"
+    },
+    "close_reported": {
+     "value": 343.76,
+     "src": "ASBN_FY2022.pdf стр.14"
+    },
+    "close_calc": {
+     "value": 343.76,
+     "formula": "начало+ЧП+ПСД−дивиденды+продажа каз. акций+прочее"
+    },
+    "diff": {
+     "value": 0.0,
+     "formula": "отчёт−расчёт"
+    }
+   },
+   "concentration": {
+    "top10_borrowers_bn": {
+     "value": 315.382,
+     "src": "ASBN_FY2022.pdf стр.65, 71"
+    },
+    "top10_borrowers_pct_loans": {
+     "value": 25.45,
+     "src": "ASBN_FY2022.pdf стр.65, 71"
+    },
+    "top10_borrowers_pct_equity": {
+     "value": 91.7448,
+     "formula": "топ-10 заёмщиков/капитал, %"
+    },
+    "top10_depositors_pct": {
+     "value": 17.73,
+     "src": "ASBN_FY2022.pdf стр.65, 71"
+    }
+   },
+   "problem_assets": {
+    "repossessed_collateral": {
+     "value": 30.593,
+     "src": "ASBN_FY2022.pdf прим.18 стр.70"
+    },
+    "investment_property": {
+     "value": 1.609,
+     "src": "ASBN_FY2022.pdf прим.18 стр.70"
+    }
+   },
+   "audit": {
+    "auditor": "ТОО «Эрнст энд Янг» (EY)",
+    "date": "13 марта 2023",
+    "opinion": "немодифицированное",
+    "kam": [
+     "ОКУ по кредитам клиентам",
+     "Оценка полученных кредитов от финансовых организаций (СС при первоначальном признании)"
+    ],
+    "src": "ASBN_FY2022.pdf стр.3-8 (скан)"
+   }
+  },
+  "FY2023": {
+   "balance": {
+    "assets": {
+     "value": 3253.2,
+     "src": "ASBN_FY2023.pdf стр.10; прим.14 стр.33; прим.12 стр.31"
+    },
+    "loans_net": {
+     "value": 1377.5,
+     "src": "ASBN_FY2023.pdf стр.10; прим.14 стр.33; прим.12 стр.31"
+    },
+    "deposits": {
+     "value": 2261.0,
+     "src": "ASBN_FY2023.pdf стр.10; прим.14 стр.33; прим.12 стр.31"
+    },
+    "equity": {
+     "value": 429.8,
+     "src": "ASBN_FY2023.pdf стр.10; прим.14 стр.33; прим.12 стр.31"
+    },
+    "equity_parent": {
+     "value": 429.8,
+     "src": "ASBN_FY2023.pdf стр.10; прим.14 стр.33; прим.12 стр.31"
+    },
+    "gross_loans": {
+     "value": 1467.8,
+     "src": "ASBN_FY2023.pdf стр.10; прим.14 стр.33; прим.12 стр.31"
+    },
+    "loan_ecl_allowance": {
+     "value": 90.3,
+     "src": "ASBN_FY2023.pdf стр.10; прим.14 стр.33; прим.12 стр.31"
+    },
+    "interest_earning_assets": {
+     "value": 3071.606,
+     "formula": "ДС и экв. − наличные в кассе + средства в ФО + ЦБ ССПУ + инвест. ЦБ (вкл. в репо) + кредиты нетто"
+    }
+   },
+   "loan_quality": {
+    "stage1": {
+     "gross": {
+      "value": 1346.3,
+      "src": "ASBN_FY2023.pdf прим.14 стр.33; = ASBN_FY2024.pdf стр.35"
+     },
+     "ecl": {
+      "value": 20.2,
+      "src": "ASBN_FY2023.pdf прим.14 стр.33; = ASBN_FY2024.pdf стр.35"
+     }
+    },
+    "stage2": {
+     "gross": {
+      "value": 24.3,
+      "src": "ASBN_FY2023.pdf прим.14 стр.33; = ASBN_FY2024.pdf стр.35"
+     },
+     "ecl": {
+      "value": 9.0,
+      "src": "ASBN_FY2023.pdf прим.14 стр.33; = ASBN_FY2024.pdf стр.35"
+     }
+    },
+    "stage3": {
+     "gross": {
+      "value": 75.6,
+      "src": "ASBN_FY2023.pdf прим.14 стр.33; = ASBN_FY2024.pdf стр.35"
+     },
+     "ecl": {
+      "value": 51.4,
+      "src": "ASBN_FY2023.pdf прим.14 стр.33; = ASBN_FY2024.pdf стр.35"
+     }
+    },
+    "poci": {
+     "gross": {
+      "value": 21.6,
+      "src": "ASBN_FY2023.pdf прим.14 стр.33; = ASBN_FY2024.pdf стр.35"
+     },
+     "ecl": {
+      "value": 9.7,
+      "src": "ASBN_FY2023.pdf прим.14 стр.33; = ASBN_FY2024.pdf стр.35"
+     }
+    },
+    "stage3_poci_share": {
+     "value": 6.6232,
+     "formula": "(Этап3+ПСКО брутто)/брутто-кредиты, %"
+    },
+    "stage3_share": {
+     "value": 5.1516,
+     "formula": "Этап3 брутто/брутто-кредиты, %"
+    },
+    "stage3_coverage_by_s3_ecl": {
+     "value": 68.0227,
+     "formula": "резерв Этапа3/брутто Этапа3, %"
+    },
+    "stage3_poci_coverage_by_total_ecl": {
+     "value": 92.8508,
+     "formula": "весь резерв/(Этап3+ПСКО брутто), %"
+    },
+    "total_ecl_to_gross": {
+     "value": 6.1497,
+     "formula": "резерв/брутто, %"
+    }
+   },
+   "income": {
+    "interest_income": {
+     "value": 373.8,
+     "src": "ASBN_FY2024.pdf стр.8 (сравнит., реклассиф.); в ASBN_FY2023.pdf стр.8: ЧПД 193.348"
+    },
+    "interest_expense": {
+     "value": -180.8,
+     "src": "ASBN_FY2024.pdf стр.8 (сравнит., реклассиф.); в ASBN_FY2023.pdf стр.8: ЧПД 193.348"
+    },
+    "nii": {
+     "value": 193.0,
+     "src": "ASBN_FY2024.pdf стр.8 (сравнит., реклассиф.); в ASBN_FY2023.pdf стр.8: ЧПД 193.348"
+    },
+    "fee_income": {
+     "value": 36.3,
+     "src": "ASBN_FY2024.pdf стр.8 (сравнит., реклассиф.); в ASBN_FY2023.pdf стр.8: ЧПД 193.348"
+    },
+    "fee_expense": {
+     "value": -13.1,
+     "src": "ASBN_FY2024.pdf стр.8 (сравнит., реклассиф.); в ASBN_FY2023.pdf стр.8: ЧПД 193.348"
+    },
+    "non_interest_income_total": {
+     "value": 63.1,
+     "src": "ASBN_FY2024.pdf стр.8 (сравнит., реклассиф.); в ASBN_FY2023.pdf стр.8: ЧПД 193.348"
+    },
+    "credit_loss_expense_total": {
+     "value": -49.7,
+     "src": "ASBN_FY2024.pdf стр.8 (сравнит., реклассиф.); в ASBN_FY2023.pdf стр.8: ЧПД 193.348"
+    },
+    "credit_loss_expense_loans": {
+     "value": -48.7,
+     "src": "ASBN_FY2023.pdf прим.8 стр.28; ASBN_FY2024.pdf прим.9 стр.29"
+    },
+    "ga_expenses": {
+     "value": -79.1,
+     "src": "ASBN_FY2024.pdf стр.8 (сравнит., реклассиф.); в ASBN_FY2023.pdf стр.8: ЧПД 193.348"
+    },
+    "income_tax": {
+     "value": -0.0,
+     "src": "ASBN_FY2024.pdf стр.8 (сравнит., реклассиф.); в ASBN_FY2023.pdf стр.8: ЧПД 193.348"
+    },
+    "net_profit": {
+     "value": 116.4,
+     "src": "ASBN_FY2024.pdf стр.8 (сравнит., реклассиф.); в ASBN_FY2023.pdf стр.8: ЧПД 193.348"
+    },
+    "net_profit_to_shareholders": {
+     "value": 116.4,
+     "src": "ASBN_FY2024.pdf стр.8 (сравнит., реклассиф.); в ASBN_FY2023.pdf стр.8: ЧПД 193.348"
+    }
+   },
+   "ratios": {
+    "NIM": {
+     "value": 6.7954,
+     "formula": "ЧПД×1/среднее(IEA нач.,кон.), %"
+    },
+    "cost_of_risk": {
+     "value": 3.5983,
+     "formula": "расход ОКУ по кредитам×1/среднее брутто-кредитов, %"
+    },
+    "ROE": {
+     "value": 30.1039,
+     "formula": "ЧП акционерам×1/средний капитал акционеров (вкл. AT1), %"
+    },
+    "ROE_common": {
+     "value": 30.1039,
+     "formula": "(ЧП акционерам − купон AT1)×1/средний капитал без AT1, %"
+    },
+    "ROA": {
+     "value": 3.8539,
+     "formula": "ЧП×1/средние активы, %"
+    },
+    "cost_income": {
+     "value": 30.8781,
+     "formula": "Общ.-адм. расходы/(ЧПД + непроцентные доходы по ОПиУ), %"
+    },
+    "effective_tax_rate": {
+     "value": 0.0206,
+     "formula": "налог/прибыль до налога, %"
+    }
+   },
+   "capital_adequacy": {
+    "tier1": {
+     "value": 406.8,
+     "src": "ASBN_FY2023.pdf прим.29 стр.78"
+    },
+    "total_reg_capital": {
+     "value": 414.9,
+     "src": "ASBN_FY2023.pdf прим.29 стр.78"
+    },
+    "rwa": {
+     "value": 1953.6,
+     "src": "ASBN_FY2023.pdf прим.29 стр.78"
+    },
+    "k1_pct": {
+     "value": 20.8,
+     "src": "ASBN_FY2023.pdf прим.29 стр.78"
+    },
+    "k1_2_pct": {
+     "value": 20.8,
+     "src": "ASBN_FY2023.pdf прим.29 стр.78"
+    },
+    "k2_pct": {
+     "value": 21.2,
+     "src": "ASBN_FY2023.pdf прим.29 стр.78"
+    },
+    "min_k1_k1_2_k2_pct": {
+     "value": [
+      7.5,
+      8.5,
+      10.0
+     ],
+     "src": "ASBN_FY2023.pdf прим.29 стр.78 (минимумы как раскрыты в примечании; буферы отдельно не раскрыты)"
+    },
+    "basis": "Банк (АО ForteBank), отдельно по требованиям НБРК/АРРФР"
+   },
+   "related_parties": {
+    "loans_shareholders": {
+     "value": 0.0,
+     "src": "ASBN_FY2024.pdf прим.31 стр.80"
+    },
+    "loans_common_control": {
+     "value": 0.0,
+     "src": "ASBN_FY2024.pdf прим.31 стр.80"
+    },
+    "loans_other_related(KMP)": {
+     "value": 14.87,
+     "src": "ASBN_FY2024.pdf прим.31 стр.80"
+    },
+    "loans_total": {
+     "value": 14.9,
+     "src": "ASBN_FY2024.pdf прим.31 стр.80"
+    },
+    "loans_pct_equity": {
+     "value": 3.4597,
+     "formula": "кредиты связанным/капитал, %"
+    },
+    "deposits_shareholders": {
+     "value": 5.792,
+     "src": "ASBN_FY2024.pdf прим.31 стр.80"
+    },
+    "deposits_common_control": {
+     "value": 49.917,
+     "src": "ASBN_FY2024.pdf прим.31 стр.80"
+    },
+    "deposits_other": {
+     "value": 15.844,
+     "src": "ASBN_FY2024.pdf прим.31 стр.80"
+    },
+    "deposits_total": {
+     "value": 71.6,
+     "src": "ASBN_FY2024.pdf прим.31 стр.80"
+    },
+    "interest_income": {
+     "value": 1.343,
+     "src": "ASBN_FY2024.pdf прим.31 стр.80"
+    },
+    "interest_expense": {
+     "value": -3.307,
+     "src": "ASBN_FY2024.pdf прим.31 стр.80"
+    },
+    "ga_paid_to_common_control": {
+     "value": -6.835,
+     "src": "ASBN_FY2024.pdf прим.31 стр.80"
+    },
+    "credit_commitments": {
+     "value": 27.95,
+     "src": "ASBN_FY2024.pdf прим.31 стр.80"
+    }
+   },
+   "shares": {
+    "shares_outstanding": {
+     "value": 90452669892,
+     "src": "ASBN_FY2024.pdf прим.23-24 стр.55-56"
+    },
+    "weighted_avg_shares": {
+     "value": 90452669892,
+     "src": "ASBN_FY2024.pdf прим.23-24 стр.55-56"
+    },
+    "eps_reported_tenge": {
+     "value": 1.29,
+     "src": "ASBN_FY2024.pdf прим.23-24 стр.55-56"
+    },
+    "preferred_shares": {
+     "value": 0,
+     "src": "привилегированные акции не размещены (прим. «Акционерный капитал» — только простые)"
+    },
+    "shares_issued": {
+     "value": 92387104089,
+     "src": "ASBN_FY2024.pdf прим.23-24 стр.55-56"
+    },
+    "eps_check": {
+     "value": 1.2873,
+     "formula": "ЧП акционерам/средневзв. число акций, тенге"
+    },
+    "bvps_tenge": {
+     "value": 4.7517,
+     "formula": "(капитал акционеров − AT1)×10^6 / акции в обращении, тенге"
+    }
+   },
+   "dividends": {
+    "declared": {
+     "value": 49.034,
+     "src": "ASBN_FY2024.pdf прим.23 стр.56; ASBN_FY2023.pdf ОДДС стр.12"
+    },
+    "dps_tenge": {
+     "value": 0.5421,
+     "src": "ASBN_FY2024.pdf прим.23 стр.56; ASBN_FY2023.pdf ОДДС стр.12"
+    },
+    "paid_cf": {
+     "value": 49.034,
+     "src": "ASBN_FY2024.pdf прим.23 стр.56; ASBN_FY2023.pdf ОДДС стр.12"
+    },
+    "comment": "за FY2022; решение 02.05.2023",
+    "payout_vs_prev_year_np": {
+     "value": 49.9908,
+     "formula": "дивиденды объявленные/ЧП предыдущего года, %"
+    }
+   },
+   "equity_reconciliation": {
+    "open": {
+     "value": 343.76,
+     "src": "ASBN_FY2024.pdf стр.13 (803 — перенос резерва переоценки долевых инструментов в НП)"
+    },
+    "net_profit": {
+     "value": 116.437,
+     "src": "ASBN_FY2024.pdf стр.13 (803 — перенос резерва переоценки долевых инструментов в НП)"
+    },
+    "oci": {
+     "value": 17.842,
+     "src": "ASBN_FY2024.pdf стр.13 (803 — перенос резерва переоценки долевых инструментов в НП)"
+    },
+    "dividends": {
+     "value": -49.034,
+     "src": "ASBN_FY2024.pdf стр.13 (803 — перенос резерва переоценки долевых инструментов в НП)"
+    },
+    "treasury_sale": {
+     "value": 0.0,
+     "src": "ASBN_FY2024.pdf стр.13 (803 — перенос резерва переоценки долевых инструментов в НП)"
+    },
+    "other": {
+     "value": 0.803,
+     "src": "ASBN_FY2024.pdf стр.13 (803 — перенос резерва переоценки долевых инструментов в НП)"
+    },
+    "close_reported": {
+     "value": 429.808,
+     "src": "ASBN_FY2024.pdf стр.13 (803 — перенос резерва переоценки долевых инструментов в НП)"
+    },
+    "close_calc": {
+     "value": 429.808,
+     "formula": "начало+ЧП+ПСД−дивиденды+продажа каз. акций+прочее"
+    },
+    "diff": {
+     "value": 0.0,
+     "formula": "отчёт−расчёт"
+    }
+   },
+   "concentration": {
+    "top10_borrowers_bn": {
+     "value": 321.7,
+     "src": "ASBN_FY2023.pdf стр.47, 55"
+    },
+    "top10_borrowers_pct_loans": {
+     "value": 21.92,
+     "src": "ASBN_FY2023.pdf стр.47, 55"
+    },
+    "top10_borrowers_pct_equity": {
+     "value": 74.8474,
+     "formula": "топ-10 заёмщиков/капитал, %"
+    },
+    "top10_depositors_pct": {
+     "value": 12.29,
+     "src": "ASBN_FY2023.pdf стр.47, 55"
+    }
+   },
+   "problem_assets": {
+    "repossessed_collateral": {
+     "value": 19.864,
+     "src": "ASBN_FY2023.pdf прим.18 стр.54"
+    },
+    "investment_property": {
+     "value": 1.572,
+     "src": "ASBN_FY2023.pdf прим.18 стр.54"
+    }
+   },
+   "audit": {
+    "auditor": "ТОО «КПМГ Аудит» (KPMG), партнёр Урдабаева А.А.",
+    "date": "14 марта 2024",
+    "opinion": "немодифицированное; 'Прочие сведения' — смена аудитора (FY2022 аудировал другой аудитор)",
+    "kam": [
+     "ОКУ по кредитам клиентам (вкл. ПСКО)"
+    ],
+    "src": "ASBN_FY2023.pdf стр.3-7"
+   }
+  },
+  "FY2024": {
+   "balance": {
+    "assets": {
+     "value": 4090.9,
+     "src": "ASBN_FY2024.pdf стр.10; прим.15 стр.35; прим.13 стр.33"
+    },
+    "loans_net": {
+     "value": 1820.1,
+     "src": "ASBN_FY2024.pdf стр.10; прим.15 стр.35; прим.13 стр.33"
+    },
+    "deposits": {
+     "value": 2868.0,
+     "src": "ASBN_FY2024.pdf стр.10; прим.15 стр.35; прим.13 стр.33"
+    },
+    "equity": {
+     "value": 568.2,
+     "src": "ASBN_FY2024.pdf стр.10; прим.15 стр.35; прим.13 стр.33"
+    },
+    "equity_parent": {
+     "value": 568.2,
+     "src": "ASBN_FY2024.pdf стр.10; прим.15 стр.35; прим.13 стр.33"
+    },
+    "gross_loans": {
+     "value": 1909.5,
+     "src": "ASBN_FY2024.pdf стр.10; прим.15 стр.35; прим.13 стр.33"
+    },
+    "loan_ecl_allowance": {
+     "value": 89.4,
+     "src": "ASBN_FY2024.pdf стр.10; прим.15 стр.35; прим.13 стр.33"
+    },
+    "interest_earning_assets": {
+     "value": 3920.507,
+     "formula": "ДС и экв. − наличные в кассе + средства в ФО + ЦБ ССПУ + инвест. ЦБ (вкл. в репо) + кредиты нетто"
+    }
+   },
+   "loan_quality": {
+    "stage1": {
+     "gross": {
+      "value": 1776.0,
+      "src": "ASBN_FY2024.pdf прим.15 стр.35"
+     },
+     "ecl": {
+      "value": 20.0,
+      "src": "ASBN_FY2024.pdf прим.15 стр.35"
+     }
+    },
+    "stage2": {
+     "gross": {
+      "value": 37.1,
+      "src": "ASBN_FY2024.pdf прим.15 стр.35"
+     },
+     "ecl": {
+      "value": 10.8,
+      "src": "ASBN_FY2024.pdf прим.15 стр.35"
+     }
+    },
+    "stage3": {
+     "gross": {
+      "value": 85.6,
+      "src": "ASBN_FY2024.pdf прим.15 стр.35"
+     },
+     "ecl": {
+      "value": 55.0,
+      "src": "ASBN_FY2024.pdf прим.15 стр.35"
+     }
+    },
+    "poci": {
+     "gross": {
+      "value": 10.8,
+      "src": "ASBN_FY2024.pdf прим.15 стр.35"
+     },
+     "ecl": {
+      "value": 3.6,
+      "src": "ASBN_FY2024.pdf прим.15 стр.35"
+     }
+    },
+    "stage3_poci_share": {
+     "value": 5.0494,
+     "formula": "(Этап3+ПСКО брутто)/брутто-кредиты, %"
+    },
+    "stage3_share": {
+     "value": 4.4821,
+     "formula": "Этап3 брутто/брутто-кредиты, %"
+    },
+    "stage3_coverage_by_s3_ecl": {
+     "value": 64.3131,
+     "formula": "резерв Этапа3/брутто Этапа3, %"
+    },
+    "stage3_poci_coverage_by_total_ecl": {
+     "value": 92.7048,
+     "formula": "весь резерв/(Этап3+ПСКО брутто), %"
+    },
+    "total_ecl_to_gross": {
+     "value": 4.681,
+     "formula": "резерв/брутто, %"
+    }
+   },
+   "income": {
+    "interest_income": {
+     "value": 523.0,
+     "src": "ASBN_FY2024.pdf стр.8"
+    },
+    "interest_expense": {
+     "value": -260.3,
+     "src": "ASBN_FY2024.pdf стр.8"
+    },
+    "nii": {
+     "value": 262.7,
+     "src": "ASBN_FY2024.pdf стр.8"
+    },
+    "fee_income": {
+     "value": 36.1,
+     "src": "ASBN_FY2024.pdf стр.8"
+    },
+    "fee_expense": {
+     "value": -13.7,
+     "src": "ASBN_FY2024.pdf стр.8"
+    },
+    "non_interest_income_total": {
+     "value": 55.2,
+     "src": "ASBN_FY2024.pdf стр.8"
+    },
+    "credit_loss_expense_total": {
+     "value": -41.8,
+     "src": "ASBN_FY2024.pdf стр.8"
+    },
+    "credit_loss_expense_loans": {
+     "value": -40.5,
+     "src": "ASBN_FY2024.pdf прим.9 стр.29"
+    },
+    "ga_expenses": {
+     "value": -87.3,
+     "src": "ASBN_FY2024.pdf стр.8"
+    },
+    "income_tax": {
+     "value": -14.0,
+     "src": "ASBN_FY2024.pdf стр.8"
+    },
+    "net_profit": {
+     "value": 160.3,
+     "src": "ASBN_FY2024.pdf стр.8"
+    },
+    "net_profit_to_shareholders": {
+     "value": 160.3,
+     "src": "ASBN_FY2024.pdf стр.8"
+    }
+   },
+   "ratios": {
+    "NIM": {
+     "value": 7.515,
+     "formula": "ЧПД×1/среднее(IEA нач.,кон.), %"
+    },
+    "cost_of_risk": {
+     "value": 2.4013,
+     "formula": "расход ОКУ по кредитам×1/среднее брутто-кредитов, %"
+    },
+    "ROE": {
+     "value": 32.1337,
+     "formula": "ЧП акционерам×1/средний капитал акционеров (вкл. AT1), %"
+    },
+    "ROE_common": {
+     "value": 32.1337,
+     "formula": "(ЧП акционерам − купон AT1)×1/средний капитал без AT1, %"
+    },
+    "ROA": {
+     "value": 4.3667,
+     "formula": "ЧП×1/средние активы, %"
+    },
+    "cost_income": {
+     "value": 27.4517,
+     "formula": "Общ.-адм. расходы/(ЧПД + непроцентные доходы по ОПиУ), %"
+    },
+    "effective_tax_rate": {
+     "value": 8.0284,
+     "formula": "налог/прибыль до налога, %"
+    }
+   },
+   "capital_adequacy": {
+    "tier1": {
+     "value": 542.2,
+     "src": "ASBN_FY2024.pdf прим.29 стр.76"
+    },
+    "total_reg_capital": {
+     "value": 548.1,
+     "src": "ASBN_FY2024.pdf прим.29 стр.76"
+    },
+    "rwa": {
+     "value": 2270.5,
+     "src": "ASBN_FY2024.pdf прим.29 стр.76"
+    },
+    "k1_pct": {
+     "value": 23.9,
+     "src": "ASBN_FY2024.pdf прим.29 стр.76"
+    },
+    "k1_2_pct": {
+     "value": 23.9,
+     "src": "ASBN_FY2024.pdf прим.29 стр.76"
+    },
+    "k2_pct": {
+     "value": 24.1,
+     "src": "ASBN_FY2024.pdf прим.29 стр.76"
+    },
+    "min_k1_k1_2_k2_pct": {
+     "value": [
+      8.0,
+      9.0,
+      10.5
+     ],
+     "src": "ASBN_FY2024.pdf прим.29 стр.76 (минимумы как раскрыты в примечании; буферы отдельно не раскрыты)"
+    },
+    "basis": "Банк (АО ForteBank), отдельно по требованиям НБРК/АРРФР"
+   },
+   "related_parties": {
+    "loans_shareholders": {
+     "value": 0.0,
+     "src": "ASBN_FY2024.pdf прим.31 стр.79"
+    },
+    "loans_common_control": {
+     "value": 0.0,
+     "src": "ASBN_FY2024.pdf прим.31 стр.79"
+    },
+    "loans_other_related(KMP)": {
+     "value": 14.805,
+     "src": "ASBN_FY2024.pdf прим.31 стр.79"
+    },
+    "loans_total": {
+     "value": 14.8,
+     "src": "ASBN_FY2024.pdf прим.31 стр.79"
+    },
+    "loans_pct_equity": {
+     "value": 2.6057,
+     "formula": "кредиты связанным/капитал, %"
+    },
+    "deposits_shareholders": {
+     "value": 25.951,
+     "src": "ASBN_FY2024.pdf прим.31 стр.79"
+    },
+    "deposits_common_control": {
+     "value": 30.475,
+     "src": "ASBN_FY2024.pdf прим.31 стр.79"
+    },
+    "deposits_other": {
+     "value": 12.43,
+     "src": "ASBN_FY2024.pdf прим.31 стр.79"
+    },
+    "deposits_total": {
+     "value": 68.9,
+     "src": "ASBN_FY2024.pdf прим.31 стр.79"
+    },
+    "interest_income": {
+     "value": 2.687,
+     "src": "ASBN_FY2024.pdf прим.31 стр.79"
+    },
+    "interest_expense": {
+     "value": -5.543,
+     "src": "ASBN_FY2024.pdf прим.31 стр.79"
+    },
+    "ga_paid_to_common_control": {
+     "value": -3.054,
+     "src": "ASBN_FY2024.pdf прим.31 стр.79"
+    },
+    "credit_commitments": {
+     "value": 2.109,
+     "src": "ASBN_FY2024.pdf прим.31 стр.79"
+    }
+   },
+   "shares": {
+    "shares_outstanding": {
+     "value": 90452669892,
+     "src": "ASBN_FY2024.pdf прим.23-24 стр.55-56"
+    },
+    "weighted_avg_shares": {
+     "value": 90452669892,
+     "src": "ASBN_FY2024.pdf прим.23-24 стр.55-56"
+    },
+    "eps_reported_tenge": {
+     "value": 1.77,
+     "src": "ASBN_FY2024.pdf прим.23-24 стр.55-56"
+    },
+    "preferred_shares": {
+     "value": 0,
+     "src": "привилегированные акции не размещены (прим. «Акционерный капитал» — только простые)"
+    },
+    "shares_issued": {
+     "value": 92387104089,
+     "src": "ASBN_FY2024.pdf прим.23-24 стр.55-56"
+    },
+    "eps_check": {
+     "value": 1.7727,
+     "formula": "ЧП акционерам/средневзв. число акций, тенге"
+    },
+    "bvps_tenge": {
+     "value": 6.2816,
+     "formula": "(капитал акционеров − AT1)×10^6 / акции в обращении, тенге"
+    }
+   },
+   "dividends": {
+    "declared": {
+     "value": 58.215,
+     "src": "ASBN_FY2024.pdf прим.23 стр.56; ОДДС стр.12"
+    },
+    "dps_tenge": {
+     "value": 0.6436,
+     "src": "ASBN_FY2024.pdf прим.23 стр.56; ОДДС стр.12"
+    },
+    "paid_cf": {
+     "value": 58.214,
+     "src": "ASBN_FY2024.pdf прим.23 стр.56; ОДДС стр.12"
+    },
+    "comment": "за FY2023; решение 17.04.2024",
+    "payout_vs_prev_year_np": {
+     "value": 49.997,
+     "formula": "дивиденды объявленные/ЧП предыдущего года, %"
+    }
+   },
+   "equity_reconciliation": {
+    "open": {
+     "value": 429.808,
+     "src": "ASBN_FY2024.pdf стр.13"
+    },
+    "net_profit": {
+     "value": 160.346,
+     "src": "ASBN_FY2024.pdf стр.13"
+    },
+    "oci": {
+     "value": 36.245,
+     "src": "ASBN_FY2024.pdf стр.13"
+    },
+    "dividends": {
+     "value": -58.215,
+     "src": "ASBN_FY2024.pdf стр.13"
+    },
+    "treasury_sale": {
+     "value": 0.0,
+     "src": "ASBN_FY2024.pdf стр.13"
+    },
+    "other": {
+     "value": 0.0,
+     "src": "ASBN_FY2024.pdf стр.13"
+    },
+    "close_reported": {
+     "value": 568.184,
+     "src": "ASBN_FY2024.pdf стр.13"
+    },
+    "close_calc": {
+     "value": 568.184,
+     "formula": "начало+ЧП+ПСД−дивиденды+продажа каз. акций+прочее"
+    },
+    "diff": {
+     "value": 0.0,
+     "formula": "отчёт−расчёт"
+    }
+   },
+   "concentration": {
+    "top10_borrowers_bn": {
+     "value": 488.225,
+     "src": "ASBN_FY2024.pdf стр.46, 53"
+    },
+    "top10_borrowers_pct_loans": {
+     "value": 25.57,
+     "src": "ASBN_FY2024.pdf стр.46, 53"
+    },
+    "top10_borrowers_pct_equity": {
+     "value": 85.9273,
+     "formula": "топ-10 заёмщиков/капитал, %"
+    },
+    "top10_depositors_pct": {
+     "value": 15.43,
+     "src": "ASBN_FY2024.pdf стр.46, 53"
+    }
+   },
+   "problem_assets": {
+    "repossessed_collateral": {
+     "value": 16.049,
+     "src": "ASBN_FY2024.pdf прим.18 стр.52"
+    },
+    "investment_property": {
+     "value": 1.652,
+     "src": "ASBN_FY2024.pdf прим.18 стр.52"
+    }
+   },
+   "audit": {
+    "auditor": "ТОО «КПМГ Аудит» (KPMG)",
+    "date": "7 марта 2025",
+    "opinion": "немодифицированное",
+    "kam": [
+     "ОКУ по кредитам клиентам"
+    ],
+    "src": "ASBN_FY2024.pdf стр.3-7"
+   }
+  },
+  "FY2025": {
+   "balance": {
+    "assets": {
+     "value": 6102.1,
+     "src": "ASBN_FY2025.pdf стр.11; прим.15 стр.41; прим.13 стр.38"
+    },
+    "loans_net": {
+     "value": 3686.8,
+     "src": "ASBN_FY2025.pdf стр.11; прим.15 стр.41; прим.13 стр.38"
+    },
+    "deposits": {
+     "value": 4292.7,
+     "src": "ASBN_FY2025.pdf стр.11; прим.15 стр.41; прим.13 стр.38"
+    },
+    "equity": {
+     "value": 774.9,
+     "src": "ASBN_FY2025.pdf стр.11; прим.15 стр.41; прим.13 стр.38"
+    },
+    "equity_parent": {
+     "value": 774.9,
+     "src": "ASBN_FY2025.pdf стр.11; прим.15 стр.41; прим.13 стр.38"
+    },
+    "gross_loans": {
+     "value": 3840.0,
+     "src": "ASBN_FY2025.pdf стр.11; прим.15 стр.41; прим.13 стр.38"
+    },
+    "loan_ecl_allowance": {
+     "value": 153.2,
+     "src": "ASBN_FY2025.pdf стр.11; прим.15 стр.41; прим.13 стр.38"
+    },
+    "deposit_certificates": {
+     "value": 106.1,
+     "src": "ASBN_FY2025.pdf стр.11; прим.15 стр.41; прим.13 стр.38"
+    },
+    "at1_perpetual_in_equity": {
+     "value": 209.6,
+     "src": "ASBN_FY2025.pdf стр.11; прим.15 стр.41; прим.13 стр.38; прим. AT1"
+    },
+    "interest_earning_assets": {
+     "value": 5812.911,
+     "formula": "ДС и экв. − наличные в кассе + средства в ФО + ЦБ ССПУ + инвест. ЦБ (вкл. в репо) + кредиты нетто"
+    }
+   },
+   "loan_quality": {
+    "stage1": {
+     "gross": {
+      "value": 3500.1,
+      "src": "ASBN_FY2025.pdf прим.15 стр.41"
+     },
+     "ecl": {
+      "value": 37.3,
+      "src": "ASBN_FY2025.pdf прим.15 стр.41"
+     }
+    },
+    "stage2": {
+     "gross": {
+      "value": 87.9,
+      "src": "ASBN_FY2025.pdf прим.15 стр.41"
+     },
+     "ecl": {
+      "value": 14.2,
+      "src": "ASBN_FY2025.pdf прим.15 стр.41"
+     }
+    },
+    "stage3": {
+     "gross": {
+      "value": 169.6,
+      "src": "ASBN_FY2025.pdf прим.15 стр.41"
+     },
+     "ecl": {
+      "value": 97.6,
+      "src": "ASBN_FY2025.pdf прим.15 стр.41"
+     }
+    },
+    "poci": {
+     "gross": {
+      "value": 82.5,
+      "src": "ASBN_FY2025.pdf прим.15 стр.41"
+     },
+     "ecl": {
+      "value": 4.0,
+      "src": "ASBN_FY2025.pdf прим.15 стр.41"
+     }
+    },
+    "stage3_poci_share": {
+     "value": 6.5637,
+     "formula": "(Этап3+ПСКО брутто)/брутто-кредиты, %"
+    },
+    "stage3_share": {
+     "value": 4.4164,
+     "formula": "Этап3 брутто/брутто-кредиты, %"
+    },
+    "stage3_coverage_by_s3_ecl": {
+     "value": 57.5677,
+     "formula": "резерв Этапа3/брутто Этапа3, %"
+    },
+    "stage3_poci_coverage_by_total_ecl": {
+     "value": 60.7944,
+     "formula": "весь резерв/(Этап3+ПСКО брутто), %"
+    },
+    "total_ecl_to_gross": {
+     "value": 3.9904,
+     "formula": "резерв/брутто, %"
+    }
+   },
+   "income": {
+    "interest_income": {
+     "value": 681.4,
+     "src": "ASBN_FY2025.pdf стр.9; прим.6 стр.33"
+    },
+    "interest_expense": {
+     "value": -367.6,
+     "src": "ASBN_FY2025.pdf стр.9; прим.6 стр.33"
+    },
+    "nii": {
+     "value": 313.9,
+     "src": "ASBN_FY2025.pdf стр.9; прим.6 стр.33"
+    },
+    "fee_income": {
+     "value": 39.4,
+     "src": "ASBN_FY2025.pdf стр.9; прим.6 стр.33"
+    },
+    "fee_expense": {
+     "value": -19.3,
+     "src": "ASBN_FY2025.pdf стр.9; прим.6 стр.33"
+    },
+    "non_interest_income_total": {
+     "value": 41.6,
+     "src": "ASBN_FY2025.pdf стр.9; прим.6 стр.33"
+    },
+    "credit_loss_expense_total": {
+     "value": -16.6,
+     "src": "ASBN_FY2025.pdf стр.9; прим.6 стр.33"
+    },
+    "credit_loss_expense_loans": {
+     "value": -16.9,
+     "src": "ASBN_FY2025.pdf прим.10 стр.35"
+    },
+    "ga_expenses": {
+     "value": -96.7,
+     "src": "ASBN_FY2025.pdf стр.9; прим.6 стр.33"
+    },
+    "income_tax": {
+     "value": -38.8,
+     "src": "ASBN_FY2025.pdf стр.9; прим.6 стр.33"
+    },
+    "net_profit": {
+     "value": 191.0,
+     "src": "ASBN_FY2025.pdf стр.9; прим.6 стр.33"
+    },
+    "net_profit_to_shareholders": {
+     "value": 190.4,
+     "src": "ASBN_FY2025.pdf стр.9; прим.6 стр.33"
+    }
+   },
+   "ratios": {
+    "NIM": {
+     "value": 6.4489,
+     "formula": "ЧПД×1/среднее(IEA нач.,кон.), %"
+    },
+    "cost_of_risk": {
+     "value": 0.5871,
+     "formula": "расход ОКУ по кредитам×1/среднее брутто-кредитов, %"
+    },
+    "ROE": {
+     "value": 28.3552,
+     "formula": "ЧП акционерам×1/средний капитал акционеров (вкл. AT1), %"
+    },
+    "ROE_common": {
+     "value": 33.5983,
+     "formula": "(ЧП акционерам − купон AT1)×1/средний капитал без AT1, %"
+    },
+    "ROA": {
+     "value": 3.748,
+     "formula": "ЧП×1/средние активы, %"
+    },
+    "cost_income": {
+     "value": 27.2129,
+     "formula": "Общ.-адм. расходы/(ЧПД + непроцентные доходы по ОПиУ), %"
+    },
+    "effective_tax_rate": {
+     "value": 16.8857,
+     "formula": "налог/прибыль до налога, %"
+    }
+   },
+   "capital_adequacy": {
+    "tier1": {
+     "value": 768.9,
+     "src": "ASBN_FY2025.pdf прим.30 стр.87-88"
+    },
+    "total_reg_capital": {
+     "value": 773.2,
+     "src": "ASBN_FY2025.pdf прим.30 стр.87-88"
+    },
+    "rwa": {
+     "value": 3607.9,
+     "src": "ASBN_FY2025.pdf прим.30 стр.87-88"
+    },
+    "k1_pct": {
+     "value": 15.5,
+     "src": "ASBN_FY2025.pdf прим.30 стр.87-88"
+    },
+    "k1_2_pct": {
+     "value": 21.3,
+     "src": "ASBN_FY2025.pdf прим.30 стр.87-88"
+    },
+    "k2_pct": {
+     "value": 21.4,
+     "src": "ASBN_FY2025.pdf прим.30 стр.87-88"
+    },
+    "min_k1_k1_2_k2_pct": {
+     "value": [
+      8.0,
+      9.0,
+      10.5
+     ],
+     "src": "ASBN_FY2025.pdf прим.30 стр.87-88 (минимумы как раскрыты в примечании; буферы отдельно не раскрыты)"
+    },
+    "basis": "Банк (АО ForteBank), отдельно по требованиям НБРК/АРРФР",
+    "home_credit_bank_k1_k2_pct": {
+     "value": 14.9,
+     "src": "ASBN_FY2025.pdf прим.30 стр.88"
+    },
+    "conglomerate_ratio": {
+     "value": 1.7,
+     "src": "ASBN_FY2025.pdf прим.30 стр.87 (мин. 1,0)"
+    }
+   },
+   "related_parties": {
+    "loans_shareholders": {
+     "value": 0.0,
+     "src": "ASBN_FY2025.pdf прим.32 стр.92-93"
+    },
+    "loans_common_control": {
+     "value": 0.759,
+     "src": "ASBN_FY2025.pdf прим.32 стр.92-93"
+    },
+    "loans_other_related(KMP)": {
+     "value": 34.898,
+     "src": "ASBN_FY2025.pdf прим.32 стр.92-93"
+    },
+    "loans_total": {
+     "value": 35.7,
+     "src": "ASBN_FY2025.pdf прим.32 стр.92-93"
+    },
+    "loans_pct_equity": {
+     "value": 4.6017,
+     "formula": "кредиты связанным/капитал, %"
+    },
+    "deposits_shareholders": {
+     "value": 4.266,
+     "src": "ASBN_FY2025.pdf прим.32 стр.92-93"
+    },
+    "deposits_common_control": {
+     "value": 53.394,
+     "src": "ASBN_FY2025.pdf прим.32 стр.92-93"
+    },
+    "deposits_other": {
+     "value": 14.183,
+     "src": "ASBN_FY2025.pdf прим.32 стр.92-93"
+    },
+    "deposits_total": {
+     "value": 71.8,
+     "src": "ASBN_FY2025.pdf прим.32 стр.92-93"
+    },
+    "interest_income": {
+     "value": 4.841,
+     "src": "ASBN_FY2025.pdf прим.32 стр.92-93"
+    },
+    "interest_expense": {
+     "value": -4.292,
+     "src": "ASBN_FY2025.pdf прим.32 стр.92-93"
+    },
+    "ga_paid_to_common_control": {
+     "value": -2.042,
+     "src": "ASBN_FY2025.pdf прим.32 стр.92-93"
+    },
+    "credit_commitments": {
+     "value": 13.34,
+     "src": "ASBN_FY2025.pdf прим.32 стр.92-93"
+    }
+   },
+   "shares": {
+    "shares_outstanding": {
+     "value": 92211311333,
+     "src": "ASBN_FY2025.pdf прим.24-25 стр.65-66"
+    },
+    "weighted_avg_shares": {
+     "value": 91655494631,
+     "src": "ASBN_FY2025.pdf прим.24-25 стр.65-66"
+    },
+    "eps_reported_tenge": {
+     "value": 2.08,
+     "src": "ASBN_FY2025.pdf прим.24-25 стр.65-66"
+    },
+    "preferred_shares": {
+     "value": 0,
+     "src": "привилегированные акции не размещены (прим. «Акционерный капитал» — только простые)"
+    },
+    "shares_issued": {
+     "value": 92387104089,
+     "src": "ASBN_FY2025.pdf прим.24-25 стр.65-66"
+    },
+    "eps_check": {
+     "value": 2.0775,
+     "formula": "ЧП акционерам/средневзв. число акций, тенге"
+    },
+    "bvps_tenge": {
+     "value": 6.1302,
+     "formula": "(капитал акционеров − AT1)×10^6 / акции в обращении, тенге"
+    },
+    "bvps_incl_at1_tenge": {
+     "value": 8.4031,
+     "formula": "капитал вкл. AT1 / акции в обращении"
+    }
+   },
+   "dividends": {
+    "declared": {
+     "value": 101.704,
+     "src": "ASBN_FY2025.pdf прим.24 стр.65; ОДДС стр.13"
+    },
+    "dps_tenge": {
+     "value": 1.104,
+     "src": "ASBN_FY2025.pdf прим.24 стр.65; ОДДС стр.13"
+    },
+    "paid_cf": {
+     "value": 101.7,
+     "src": "ASBN_FY2025.pdf прим.24 стр.65; ОДДС стр.13"
+    },
+    "comment": "за FY2024; решение 29.04.2025 (в 1П2025: 101.996)",
+    "payout_vs_prev_year_np": {
+     "value": 63.4278,
+     "formula": "дивиденды объявленные/ЧП предыдущего года, %"
+    }
+   },
+   "equity_reconciliation": {
+    "open": {
+     "value": 568.184,
+     "src": "ASBN_FY2025.pdf стр.15 (прочее: +57.554 НКД при приобретении HCB, -76.131 выкуп НКД, +209.586 AT1)"
+    },
+    "net_profit": {
+     "value": 191.019,
+     "src": "ASBN_FY2025.pdf стр.15 (прочее: +57.554 НКД при приобретении HCB, -76.131 выкуп НКД, +209.586 AT1)"
+    },
+    "oci": {
+     "value": -84.478,
+     "src": "ASBN_FY2025.pdf стр.15 (прочее: +57.554 НКД при приобретении HCB, -76.131 выкуп НКД, +209.586 AT1)"
+    },
+    "dividends": {
+     "value": -101.704,
+     "src": "ASBN_FY2025.pdf стр.15 (прочее: +57.554 НКД при приобретении HCB, -76.131 выкуп НКД, +209.586 AT1)"
+    },
+    "treasury_sale": {
+     "value": 10.833,
+     "src": "ASBN_FY2025.pdf стр.15 (прочее: +57.554 НКД при приобретении HCB, -76.131 выкуп НКД, +209.586 AT1)"
+    },
+    "other": {
+     "value": 191.009,
+     "src": "ASBN_FY2025.pdf стр.15 (прочее: +57.554 НКД при приобретении HCB, -76.131 выкуп НКД, +209.586 AT1)"
+    },
+    "close_reported": {
+     "value": 774.863,
+     "src": "ASBN_FY2025.pdf стр.15 (прочее: +57.554 НКД при приобретении HCB, -76.131 выкуп НКД, +209.586 AT1)"
+    },
+    "close_calc": {
+     "value": 774.863,
+     "formula": "начало+ЧП+ПСД−дивиденды+продажа каз. акций+прочее"
+    },
+    "diff": {
+     "value": 0.0,
+     "formula": "отчёт−расчёт"
+    }
+   },
+   "concentration": {
+    "top10_borrowers_bn": {
+     "value": 643.744,
+     "src": "ASBN_FY2025.pdf прим.15 стр.53; прим.19 стр.61"
+    },
+    "top10_borrowers_pct_loans": {
+     "value": 16.8,
+     "src": "ASBN_FY2025.pdf прим.15 стр.53; прим.19 стр.61"
+    },
+    "top10_borrowers_pct_equity": {
+     "value": 83.0784,
+     "formula": "топ-10 заёмщиков/капитал, %"
+    },
+    "top10_depositors_pct": {
+     "value": 10.59,
+     "src": "ASBN_FY2025.pdf прим.15 стр.53; прим.19 стр.61"
+    }
+   },
+   "problem_assets": {
+    "repossessed_collateral": {
+     "value": 8.438,
+     "src": "ASBN_FY2025.pdf прим.18 стр.59"
+    },
+    "investment_property": {
+     "value": 1.061,
+     "src": "ASBN_FY2025.pdf прим.18 стр.59"
+    },
+    "stage3_poci_net_and_collateral": {
+     "value": {
+      "net_s3_poci": 150.372,
+      "collateral_capped": 49.505
+     },
+     "src": "ASBN_FY2025.pdf прим.15 стр.53"
+    }
+   },
+   "audit": {
+    "auditor": "ТОО «КПМГ Аудит» (KPMG)",
+    "date": "6 марта 2026",
+    "opinion": "немодифицированное",
+    "kam": [
+     "ОКУ по кредитам клиентам",
+     "Приобретение АО «Home Credit Bank» (оценка СС, гудвил)"
+    ],
+    "src": "ASBN_FY2025.pdf стр.3-8"
+   },
+   "fx_position": {
+    "value": {
+     "USD_on_balance": -365.8,
+     "USD_after_derivatives": -9.2,
+     "EUR_after": -0.6,
+     "total_net": 613.3
+    },
+    "src": "ASBN_FY2025.pdf прим.26 стр.77 (млрд тенге)"
+   },
+   "acquisition_HCB": {
+    "value": {
+     "net_assets_fv": 230.2,
+     "consideration_control_48.2pct": 147.0,
+     "associate_26.8pct_fv": 48.0,
+     "HomeITTech": 14.6,
+     "goodwill": 26.4,
+     "NCI_buyout_charge_to_RE": -18.0,
+     "loans_acquired_fv": 906.2,
+     "loans_contractual_gross": 952.6
+    },
+    "src": "ASBN_FY2025.pdf прим.4 стр.28-30; ОИК стр.15"
+   }
+  },
+  "H1_2025": {
+   "income": {
+    "interest_income": {
+     "value": 301.5,
+     "src": "ASBN_H1_2026.pdf стр.7 (сравнит.); прим.5 стр.22"
+    },
+    "interest_expense": {
+     "value": -158.0,
+     "src": "ASBN_H1_2026.pdf стр.7 (сравнит.); прим.5 стр.22"
+    },
+    "nii": {
+     "value": 143.5,
+     "src": "ASBN_H1_2026.pdf стр.7 (сравнит.); прим.5 стр.22"
+    },
+    "fee_income": {
+     "value": 17.4,
+     "src": "ASBN_H1_2026.pdf стр.7 (сравнит.); прим.5 стр.22"
+    },
+    "fee_expense": {
+     "value": -8.3,
+     "src": "ASBN_H1_2026.pdf стр.7 (сравнит.); прим.5 стр.22"
+    },
+    "non_interest_income_total": {
+     "value": 18.0,
+     "src": "ASBN_H1_2026.pdf стр.7 (сравнит.); прим.5 стр.22"
+    },
+    "credit_loss_expense_total": {
+     "value": -2.3,
+     "src": "ASBN_H1_2026.pdf стр.7 (сравнит.); прим.5 стр.22"
+    },
+    "credit_loss_expense_loans": {
+     "value": -2.7,
+     "src": "ASBN_H1_2026.pdf прим.8 стр.24"
+    },
+    "ga_expenses": {
+     "value": -45.0,
+     "src": "ASBN_H1_2026.pdf стр.7 (сравнит.); прим.5 стр.22"
+    },
+    "income_tax": {
+     "value": -8.8,
+     "src": "ASBN_H1_2026.pdf стр.7 (сравнит.); прим.5 стр.22"
+    },
+    "net_profit": {
+     "value": 100.0,
+     "src": "ASBN_H1_2026.pdf стр.7 (сравнит.); прим.5 стр.22"
+    },
+    "net_profit_to_shareholders": {
+     "value": 100.0,
+     "src": "ASBN_H1_2026.pdf стр.7 (сравнит.); прим.5 стр.22"
+    }
+   },
+   "ratios": {
+    "NIM": {
+     "value": null,
+     "formula": "нет баланса на 30.06.2025 в файлах"
+    },
+    "cost_of_risk": {
+     "value": 0.2846,
+     "formula": "≈ ОКУ×2/брутто на 31.12.2024 (баланса на 30.06.2025 нет) — приблизительно"
+    },
+    "ROE": {
+     "value": 37.5477,
+     "formula": "ЧП×2/среднее(капитал 31.12.24; 30.06.25 из ОИК)"
+    },
+    "ROA": {
+     "value": null,
+     "formula": "нет активов на 30.06.2025"
+    },
+    "cost_income": {
+     "value": 27.8433,
+     "formula": "Общ.-адм. расходы/(ЧПД + непроцентные доходы по ОПиУ), %"
+    },
+    "effective_tax_rate": {
+     "value": 8.1004,
+     "formula": "налог/прибыль до налога, %"
+    }
+   },
+   "shares": {
+    "shares_outstanding": {
+     "value": null,
+     "src": "ASBN_H1_2026.pdf прим.22 стр.44"
+    },
+    "weighted_avg_shares": {
+     "value": 91090465497,
+     "src": "ASBN_H1_2026.pdf прим.22 стр.44"
+    },
+    "eps_reported_tenge": {
+     "value": 1.1,
+     "src": "ASBN_H1_2026.pdf прим.22 стр.44"
+    },
+    "preferred_shares": {
+     "value": 0,
+     "src": "привилегированные акции не размещены (прим. «Акционерный капитал» — только простые)"
+    },
+    "eps_check": {
+     "value": 1.0979,
+     "formula": "ЧП акционерам/средневзв. число акций, тенге"
+    },
+    "bvps_tenge": {
+     "value": 5.392,
+     "formula": "капитал 30.06.25 (ОИК)/92.211.311.333 акций"
+    }
+   },
+   "dividends": {
+    "declared": {
+     "value": 101.996,
+     "src": "ASBN_H1_2026.pdf прим.21 стр.44; стр.13"
+    },
+    "dps_tenge": {
+     "value": 1.104,
+     "src": "ASBN_H1_2026.pdf прим.21 стр.44; стр.13"
+    },
+    "paid_cf": {
+     "value": 101.7,
+     "src": "ASBN_H1_2026.pdf прим.21 стр.44; стр.13"
+    },
+    "comment": "за FY2024 (сумма по отчёту 1П)",
+    "payout_vs_prev_year_np": {
+     "value": 63.6099,
+     "formula": "дивиденды объявленные/ЧП предыдущего года, %"
+    }
+   },
+   "equity_reconciliation": {
+    "open": {
+     "value": 568.184,
+     "src": "ASBN_H1_2026.pdf стр.13"
+    },
+    "net_profit": {
+     "value": 100.007,
+     "src": "ASBN_H1_2026.pdf стр.13"
+    },
+    "oci": {
+     "value": -79.826,
+     "src": "ASBN_H1_2026.pdf стр.13"
+    },
+    "dividends": {
+     "value": -101.996,
+     "src": "ASBN_H1_2026.pdf стр.13"
+    },
+    "treasury_sale": {
+     "value": 10.833,
+     "src": "ASBN_H1_2026.pdf стр.13"
+    },
+    "other": {
+     "value": 0.0,
+     "src": "ASBN_H1_2026.pdf стр.13"
+    },
+    "close_reported": {
+     "value": 497.202,
+     "src": "ASBN_H1_2026.pdf стр.13"
+    },
+    "close_calc": {
+     "value": 497.202,
+     "formula": "начало+ЧП+ПСД−дивиденды+продажа каз. акций+прочее"
+    },
+    "diff": {
+     "value": 0.0,
+     "formula": "отчёт−расчёт"
+    }
+   }
+  },
+  "H1_2026": {
+   "balance": {
+    "assets": {
+     "value": 6238.8,
+     "src": "ASBN_H1_2026.pdf стр.9; прим.13 стр.27; прим.11 стр.25"
+    },
+    "loans_net": {
+     "value": 3862.5,
+     "src": "ASBN_H1_2026.pdf стр.9; прим.13 стр.27; прим.11 стр.25"
+    },
+    "deposits": {
+     "value": 4276.5,
+     "src": "ASBN_H1_2026.pdf стр.9; прим.13 стр.27; прим.11 стр.25"
+    },
+    "equity": {
+     "value": 881.6,
+     "src": "ASBN_H1_2026.pdf стр.9; прим.13 стр.27; прим.11 стр.25"
+    },
+    "equity_parent": {
+     "value": 881.6,
+     "src": "ASBN_H1_2026.pdf стр.9; прим.13 стр.27; прим.11 стр.25"
+    },
+    "gross_loans": {
+     "value": 4050.8,
+     "src": "ASBN_H1_2026.pdf стр.9; прим.13 стр.27; прим.11 стр.25"
+    },
+    "loan_ecl_allowance": {
+     "value": 188.3,
+     "src": "ASBN_H1_2026.pdf стр.9; прим.13 стр.27; прим.11 стр.25"
+    },
+    "deposit_certificates": {
+     "value": 115.3,
+     "src": "ASBN_H1_2026.pdf стр.9; прим.13 стр.27; прим.11 стр.25"
+    },
+    "at1_perpetual_in_equity": {
+     "value": 209.6,
+     "src": "ASBN_H1_2026.pdf стр.9; прим.13 стр.27; прим.11 стр.25; прим. AT1"
+    },
+    "interest_earning_assets": {
+     "value": 5879.413,
+     "formula": "ДС и экв. − наличные в кассе + средства в ФО + ЦБ ССПУ + инвест. ЦБ (вкл. в репо) + кредиты нетто"
+    }
+   },
+   "loan_quality": {
+    "stage1": {
+     "gross": {
+      "value": 3650.5,
+      "src": "ASBN_H1_2026.pdf прим.13 стр.27"
+     },
+     "ecl": {
+      "value": 41.4,
+      "src": "ASBN_H1_2026.pdf прим.13 стр.27"
+     }
+    },
+    "stage2": {
+     "gross": {
+      "value": 82.4,
+      "src": "ASBN_H1_2026.pdf прим.13 стр.27"
+     },
+     "ecl": {
+      "value": 18.6,
+      "src": "ASBN_H1_2026.pdf прим.13 стр.27"
+     }
+    },
+    "stage3": {
+     "gross": {
+      "value": 245.3,
+      "src": "ASBN_H1_2026.pdf прим.13 стр.27"
+     },
+     "ecl": {
+      "value": 126.2,
+      "src": "ASBN_H1_2026.pdf прим.13 стр.27"
+     }
+    },
+    "poci": {
+     "gross": {
+      "value": 72.7,
+      "src": "ASBN_H1_2026.pdf прим.13 стр.27"
+     },
+     "ecl": {
+      "value": 2.1,
+      "src": "ASBN_H1_2026.pdf прим.13 стр.27"
+     }
+    },
+    "stage3_poci_share": {
+     "value": 7.8506,
+     "formula": "(Этап3+ПСКО брутто)/брутто-кредиты, %"
+    },
+    "stage3_share": {
+     "value": 6.0558,
+     "formula": "Этап3 брутто/брутто-кредиты, %"
+    },
+    "stage3_coverage_by_s3_ecl": {
+     "value": 51.4343,
+     "formula": "резерв Этапа3/брутто Этапа3, %"
+    },
+    "stage3_poci_coverage_by_total_ecl": {
+     "value": 59.2114,
+     "formula": "весь резерв/(Этап3+ПСКО брутто), %"
+    },
+    "total_ecl_to_gross": {
+     "value": 4.6484,
+     "formula": "резерв/брутто, %"
+    }
+   },
+   "income": {
+    "interest_income": {
+     "value": 501.1,
+     "src": "ASBN_H1_2026.pdf стр.7; прим.5 стр.22"
+    },
+    "interest_expense": {
+     "value": -293.0,
+     "src": "ASBN_H1_2026.pdf стр.7; прим.5 стр.22"
+    },
+    "nii": {
+     "value": 208.1,
+     "src": "ASBN_H1_2026.pdf стр.7; прим.5 стр.22"
+    },
+    "fee_income": {
+     "value": 21.8,
+     "src": "ASBN_H1_2026.pdf стр.7; прим.5 стр.22"
+    },
+    "fee_expense": {
+     "value": -14.7,
+     "src": "ASBN_H1_2026.pdf стр.7; прим.5 стр.22"
+    },
+    "non_interest_income_total": {
+     "value": 12.1,
+     "src": "ASBN_H1_2026.pdf стр.7; прим.5 стр.22"
+    },
+    "credit_loss_expense_total": {
+     "value": -54.9,
+     "src": "ASBN_H1_2026.pdf стр.7; прим.5 стр.22"
+    },
+    "credit_loss_expense_loans": {
+     "value": -54.7,
+     "src": "ASBN_H1_2026.pdf прим.8 стр.24"
+    },
+    "ga_expenses": {
+     "value": -80.3,
+     "src": "ASBN_H1_2026.pdf стр.7; прим.5 стр.22"
+    },
+    "income_tax": {
+     "value": -12.0,
+     "src": "ASBN_H1_2026.pdf стр.7; прим.5 стр.22"
+    },
+    "net_profit": {
+     "value": 62.1,
+     "src": "ASBN_H1_2026.pdf стр.7; прим.5 стр.22"
+    },
+    "net_profit_to_shareholders": {
+     "value": 62.1,
+     "src": "ASBN_H1_2026.pdf стр.7; прим.5 стр.22"
+    }
+   },
+   "ratios": {
+    "NIM": {
+     "value": 7.1193,
+     "formula": "ЧПД×2/среднее(IEA нач.,кон.), %"
+    },
+    "cost_of_risk": {
+     "value": 2.7743,
+     "formula": "расход ОКУ по кредитам×2/среднее брутто-кредитов, %"
+    },
+    "ROE": {
+     "value": 14.993,
+     "formula": "ЧП акционерам×2/средний капитал акционеров (вкл. AT1), %"
+    },
+    "ROE_common": {
+     "value": 17.1628,
+     "formula": "(ЧП акционерам − купон AT1)×2/средний капитал без AT1, %"
+    },
+    "ROA": {
+     "value": 2.0124,
+     "formula": "ЧП×2/средние активы, %"
+    },
+    "cost_income": {
+     "value": 36.4779,
+     "formula": "Общ.-адм. расходы/(ЧПД + непроцентные доходы по ОПиУ), %"
+    },
+    "effective_tax_rate": {
+     "value": 16.1789,
+     "formula": "налог/прибыль до налога, %"
+    }
+   },
+   "capital_adequacy": {
+    "tier1": {
+     "value": 882.2,
+     "src": "ASBN_H1_2026.pdf прим.23 стр.45"
+    },
+    "total_reg_capital": {
+     "value": 885.4,
+     "src": "ASBN_H1_2026.pdf прим.23 стр.45"
+    },
+    "rwa": {
+     "value": 3731.2,
+     "src": "ASBN_H1_2026.pdf прим.23 стр.45"
+    },
+    "k1_pct": {
+     "value": 18.0,
+     "src": "ASBN_H1_2026.pdf прим.23 стр.45"
+    },
+    "k1_2_pct": {
+     "value": 23.6,
+     "src": "ASBN_H1_2026.pdf прим.23 стр.45"
+    },
+    "k2_pct": {
+     "value": 23.7,
+     "src": "ASBN_H1_2026.pdf прим.23 стр.45"
+    },
+    "min_k1_k1_2_k2_pct": {
+     "value": [
+      8.0,
+      9.0,
+      10.5
+     ],
+     "src": "ASBN_H1_2026.pdf прим.23 стр.45 (минимумы как раскрыты в примечании; буферы отдельно не раскрыты)"
+    },
+    "basis": "Банк (АО ForteBank), отдельно по требованиям НБРК/АРРФР",
+    "conglomerate_ratio": {
+     "value": 1.5,
+     "src": "ASBN_H1_2026.pdf прим.23 стр.45 (мин. 1,0)"
+    }
+   },
+   "related_parties": {
+    "loans_shareholders": {
+     "value": 0.0,
+     "src": "ASBN_H1_2026.pdf прим.25 стр.48"
+    },
+    "loans_common_control": {
+     "value": 0.646,
+     "src": "ASBN_H1_2026.pdf прим.25 стр.48"
+    },
+    "loans_other_related(KMP)": {
+     "value": 39.818,
+     "src": "ASBN_H1_2026.pdf прим.25 стр.48"
+    },
+    "loans_total": {
+     "value": 40.5,
+     "src": "ASBN_H1_2026.pdf прим.25 стр.48"
+    },
+    "loans_pct_equity": {
+     "value": 4.5899,
+     "formula": "кредиты связанным/капитал, %"
+    },
+    "deposits_shareholders": {
+     "value": 5.16,
+     "src": "ASBN_H1_2026.pdf прим.25 стр.48"
+    },
+    "deposits_common_control": {
+     "value": 66.829,
+     "src": "ASBN_H1_2026.pdf прим.25 стр.48"
+    },
+    "deposits_other": {
+     "value": 10.516,
+     "src": "ASBN_H1_2026.pdf прим.25 стр.48"
+    },
+    "deposits_total": {
+     "value": 82.5,
+     "src": "ASBN_H1_2026.pdf прим.25 стр.48"
+    },
+    "interest_income": {
+     "value": 2.443,
+     "src": "ASBN_H1_2026.pdf прим.25 стр.48"
+    },
+    "interest_expense": {
+     "value": -1.683,
+     "src": "ASBN_H1_2026.pdf прим.25 стр.48"
+    },
+    "ga_paid_to_common_control": {
+     "value": -1.283,
+     "src": "ASBN_H1_2026.pdf прим.25 стр.48"
+    },
+    "credit_commitments": {
+     "value": 3.476,
+     "src": "ASBN_H1_2026.pdf прим.25 стр.48"
+    }
+   },
+   "shares": {
+    "shares_outstanding": {
+     "value": 95814283454,
+     "src": "ASBN_H1_2026.pdf прим.21-22 стр.44"
+    },
+    "weighted_avg_shares": {
+     "value": 92350652796,
+     "src": "ASBN_H1_2026.pdf прим.21-22 стр.44"
+    },
+    "eps_reported_tenge": {
+     "value": 0.67,
+     "src": "ASBN_H1_2026.pdf прим.21-22 стр.44"
+    },
+    "preferred_shares": {
+     "value": 0,
+     "src": "привилегированные акции не размещены (прим. «Акционерный капитал» — только простые)"
+    },
+    "shares_issued": {
+     "value": 95990076210,
+     "src": "ASBN_H1_2026.pdf прим.21-22 стр.44"
+    },
+    "eps_check": {
+     "value": 0.6723,
+     "formula": "ЧП акционерам/средневзв. число акций, тенге"
+    },
+    "eps_adj_for_at1_coupon": {
+     "value": 0.0,
+     "formula": "(ЧП − купон AT1 9.000)/средневзв. акций"
+    },
+    "bvps_tenge": {
+     "value": 7.0136,
+     "formula": "(капитал акционеров − AT1)×10^6 / акции в обращении, тенге"
+    },
+    "bvps_incl_at1_tenge": {
+     "value": 9.201,
+     "formula": "капитал вкл. AT1 / акции в обращении"
+    }
+   },
+   "dividends": {
+    "declared": {
+     "value": 0.0,
+     "src": "ASBN_H1_2026.pdf прим.21 стр.44"
+    },
+    "dps_tenge": {
+     "value": null,
+     "src": "ASBN_H1_2026.pdf прим.21 стр.44"
+    },
+    "paid_cf": {
+     "value": 0.0,
+     "src": "ASBN_H1_2026.pdf прим.21 стр.44"
+    },
+    "comment": "не объявлялись; выплачен купон AT1 9.000"
+   },
+   "equity_reconciliation": {
+    "open": {
+     "value": 774.863,
+     "src": "ASBN_H1_2026.pdf стр.12 (прочее: +46.118 эмиссия акций, -9.000 купон AT1)"
+    },
+    "net_profit": {
+     "value": 62.088,
+     "src": "ASBN_H1_2026.pdf стр.12 (прочее: +46.118 эмиссия акций, -9.000 купон AT1)"
+    },
+    "oci": {
+     "value": 7.521,
+     "src": "ASBN_H1_2026.pdf стр.12 (прочее: +46.118 эмиссия акций, -9.000 купон AT1)"
+    },
+    "dividends": {
+     "value": 0.0,
+     "src": "ASBN_H1_2026.pdf стр.12 (прочее: +46.118 эмиссия акций, -9.000 купон AT1)"
+    },
+    "treasury_sale": {
+     "value": 0.0,
+     "src": "ASBN_H1_2026.pdf стр.12 (прочее: +46.118 эмиссия акций, -9.000 купон AT1)"
+    },
+    "other": {
+     "value": 37.118,
+     "src": "ASBN_H1_2026.pdf стр.12 (прочее: +46.118 эмиссия акций, -9.000 купон AT1)"
+    },
+    "close_reported": {
+     "value": 881.59,
+     "src": "ASBN_H1_2026.pdf стр.12 (прочее: +46.118 эмиссия акций, -9.000 купон AT1)"
+    },
+    "close_calc": {
+     "value": 881.59,
+     "formula": "начало+ЧП+ПСД−дивиденды+продажа каз. акций+прочее"
+    },
+    "diff": {
+     "value": 0.0,
+     "formula": "отчёт−расчёт"
+    }
+   },
+   "concentration": {
+    "top10_borrowers_bn": {
+     "value": 697.678,
+     "src": "ASBN_H1_2026.pdf прим.13 стр.35; прим.16 стр.40"
+    },
+    "top10_borrowers_pct_loans": {
+     "value": 17.2,
+     "src": "ASBN_H1_2026.pdf прим.13 стр.35; прим.16 стр.40"
+    },
+    "top10_borrowers_pct_equity": {
+     "value": 79.1386,
+     "formula": "топ-10 заёмщиков/капитал, %"
+    },
+    "top10_depositors_pct": {
+     "value": 10.28,
+     "src": "ASBN_H1_2026.pdf прим.13 стр.35; прим.16 стр.40"
+    }
+   },
+   "audit": {
+    "auditor": "ТОО «КПМГ Аудит» (KPMG), Урдабаева А.А.",
+    "date": "31 августа 2026",
+    "opinion": "немодифицированное мнение по IAS 34 — это АУДИТ промежуточной сокращённой отчётности (не обзорная проверка); данные за 2 кв. не аудированы и не проверялись",
+    "kam": [],
+    "src": "ASBN_H1_2026.pdf стр.3-6"
+   },
+   "held_for_sale_ForteLeasing": {
+    "value": {
+     "assets": 49.2,
+     "liabilities": 6.1,
+     "price": 16.589,
+     "impairment": -1.109,
+     "buyer": "не раскрыт; 30.06.2026 СД одобрил замену покупателя"
+    },
+    "src": "ASBN_H1_2026.pdf прим.15 стр.38-39"
+   },
+   "share_issue": {
+    "value": {
+     "shares": 3602972121,
+     "price_tenge": 12.8,
+     "proceeds_bn": 46.118,
+     "date": "июнь 2026, решение СД 12.05.2026"
+    },
+    "src": "ASBN_H1_2026.pdf прим.21 стр.44"
+   }
+  }
+ },
+ "checks": [
+  "Капитал: начало+ЧП+ПСД−дивиденды±прочее = конец — сходится с разницей 0 во всех периодах (FY2021–FY2025, 1П2025, 1П2026).",
+  "EPS: расчёт ЧП/средневзв. акций совпадает с отчётным (0,72; 1,08; 1,29; 1,77; 2,08; 1,10; 0,67). FY2025: банк в прим.25 взял 191.019 (вкл. НКД 607) вместо 190.412 — на округление не влияет (2,08 vs 2,077). 1П2026: купон AT1 9.000 не вычтен из числителя; с вычетом EPS = 0,575 vs 0,67 (−14%).",
+  "Брутто-кредиты/резерв по этапам = итог по балансу во всех периодах (суммы этапов проверены). FY2021 из файла FY2021 (pdftotext без кириллицы) численно совпадают со сравнительными данными FY2022 — рестейтмента нет.",
+  "Рестейтменты/реклассификации: FY2023 в отчёте FY2023 — ЧПД 193.348, в сравнит. FY2024 — 193.046 (302 переклассифицировано из процентной выручки), курсовой доход 31.909→29.922, ССПУ −958→+1.029; ЧП 116.437 без изменений. FY2021: убыток ССПУ (1.154) перенесён из расходов в доходы (непроцентные доходы 41.516→40.362). Разбивка расходов ОКУ по этапам за 2022 и 2023 пересчитана в последующих отчётах (итоги те же: 36.697; 48.692).",
+  "Дивиденды за FY2024: в годовом отчёте FY2025 объявлено 101.704 млн, в отчёте 1П2026 (сравнит. 1П2025) — 101.996 млн (разница 292 млн; 101.996/1,104 ≈ 92,39 млрд акций = выпущенные с казначейскими). Выплачено 101.700 в обоих.",
+  "Файл ASBN_H1_2026_notes.pdf — помечен «Предварительная», неаудированная версия: ЧП 64.583 vs 62.088 в аудированном ASBN_H1_2026.pdf (−2.495), ОКУ 50.335 vs 54.904, кредиты нетто 3.866.996 vs 3.862.535, средства клиентов 4.269.173 vs 4.276.473, капитал 884.139 vs 881.590, комиссионные доходы 22.955 vs 21.779, погашение займов ФО 93.516 vs 128.516. В extract используется аудированная версия.",
+  "Отчёт 1П2026 — не обзорная проверка, а аудит промежуточной сокращённой отчётности по IAS 34 (KPMG, 31.08.2026, немодифицированное мнение); 2 кв. не проверялся.",
+  "Нормативы k1/k1-2/k2 из отчёта FY2021 (txt) совпадают с FY2022 сравнит. (23,1/23,1/24,3%)."
+ ],
+ "red_flags": [
+  "Скачок проблемных кредитов после покупки Home Credit Bank: доля Этап3+ПСКО 5,0% (2024) → 6,6% (2025) → 7,9% (1П2026); CoR 1П2026 ≈2,8% годовых (ОКУ по кредитам 54,7 млрд vs 2,7 млрд в 1П2025), ЧП 1П2026 −38% г/г. CoR 2025 (0,6%) занижен: брутто HCB (952 млрд по договорам) вошло в знаменатель только на 1 мес.",
+  "k1 банка упал с 23,9% до 15,5% (2025) из-за HCB и роста RWA на 59%; k1-2/k2 поддержаны AT1 (USD 400 млн, 9,75%, 209,6 млрд в капитале). Без AT1 BVPS 6,13 тг (2025), с AT1 8,40 тг — BVPS для простых акций нужно считать за вычетом AT1.",
+  "Связанные стороны: кредиты «прочим связанным сторонам» (ключевой персонал и их компании) выросли 4,4 млрд (2021) → 35,7 млрд (2025) → 40,5 млрд (1П2026) при ставке 15–19%; общие и адм. расходы в пользу компаний под общим контролем мажоритария: 6,8 млрд (2023), 3,1 (2024), 2,0 (2025), 1,3 (1П2026). Покупатели казначейских акций (2021: 1,457 млрд шт. по ≈2,98 тг; 2025: 1,759 млрд шт. по ≈6,16 тг ≈ BVPS) и эмиссии 06.2026 (3,6 млрд шт. по 12,80 тг) не раскрыты; доля Утемуратова выросла 90,91%→91,10%→91,43%.",
+  "Продажа АО «ForteLeasing» за 16,6 млрд (убыток от обесценения 1,1 млрд): покупатель не раскрыт, 30.06.2026 СД одобрил замену покупателя; внутригрупповые займы 26,5 млрд остаются в ForteLeasing и переходят покупателю.",
+  "Концентрация: топ-10 групп заёмщиков 16,8% кредитов / 83% капитала (2025), 25,6% / 86% (2024); один банк-контрагент держит 626,6 млрд ДС (1П2026).",
+  "Дивиденды при накопленном убытке: в 2021 выплачено 52,96 млрд (≈100% ЧП 2020) при нераспределённой прибыли −94,5 млрд на начало года. 2025: payout 63% + выкуп НКД HCB (−18,0 млрд в НП).",
+  "ОПиУ волатильно из-за деривативов: убыток ССПУ −40,6 млрд (2025) и −30,3 млрд (1П2026) против дохода от валютных операций; налог на сверхприбыль 10% (15,0 млрд в 2025), с 2026 ставка КПН для банков 25%.",
+  "Госпрограммы/квазигос. фондирование: 220 млрд 4% облигации, купленные ФНБ «Самрук-Казына» в обмен на депозит (2018–15.12.2024, погашены 228,8 млрд), с обеспечением в виде облигаций Самрук/КТЖ/Казатомпрома (241 млрд на 2022); займы Даму/БРК/ФРП/АКК/ЭКАК 123,9 млрд и КФУ 9,5 млрд (2025) по льготным ставкам 0,1–9%. Явных ограничений на дивиденды в примечаниях не найдено.",
+  "Ковенант k4: в дек. 2024 снижение k4 на 16,3% за месяц нарушило ковенант по займам 7,6 млрд; кредиторы письменно отказались от требований.",
+  "Смена аудитора EY → KPMG с FY2023."
+ ],
+ "notes": [
+  "Единицы: млрд тенге (в отчётности — млн тенге, разделено на 1000). Страницы — номера страниц PDF.",
+  "FY2021: pdftotext дал текст без кириллицы (шрифт без ToUnicode) — числа взяты из текста и сверены со сравнительными данными FY2022; аудиторское заключение и ОПиУ (стр.3-10, сканы) распознаны OCR постранично.",
+  "FY2022: стр.3-10 (заключение EY, ОПиУ) — сканы, прочитаны по изображению/OCR.",
+  "IEA (процентные активы) = ДС и эквиваленты минус наличные в кассе + средства в ФО + ЦБ ССПУ + инвестиционные ЦБ + кредиты нетто. Включает текущие счета в НБРК/корсчета (часть без процентов) → NIM слегка занижен. Банк NIM не раскрывает.",
+  "Для 1П показатели аннуализированы ×2. Для 1П2025 баланса на 30.06.2025 в файлах нет — NIM/ROA null, CoR приблизительно.",
+  "Средние за 2025 искажены консолидацией HCB с 30.11.2025 (активы +1,25 трлн, доходы — 1 месяц). Если бы покупка была 01.01.2025: ЧПД 490,5 млрд, ЧП 245,9 млрд (прим.4).",
+  "FY2020 (для средних 2021): активы 2.089.264, брутто-кредиты 833.027, резерв 83.285, капитал 263.331 (ASBN_FY2021, сравнит.).",
+  "Привилегированных акций нет. Объявлено к выпуску 150,003 млрд простых акций. GDR: доля в GDR 0,01% (2025); соотношение GDR:акции в файлах не найдено.",
+  "Дивидендная история: FY2020→52,96 млрд (2021); FY2021→0; FY2022→49,03 (0,5421 тг); FY2023→58,22 (0,6436 тг); FY2024→101,70 (1,104 тг); в 1П2026 дивиденды не объявлялись."
+ ]
+}

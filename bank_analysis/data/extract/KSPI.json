@@ -1,0 +1,2334 @@
+{
+ "ticker": "KSPI",
+ "units": "млрд тенге (KZT bn), если не указано иное; коэффициенты – доли (0.123 = 12.3%); акции – штуки; EPS/DPS/BVPS – тенге",
+ "entity": "АО «Kaspi.kz» (консолидировано); нормативы капитала – дочерний АО «Kaspi Bank» (98.95%)",
+ "ads_ratio": {
+  "value": "1 ADS = 1 простая акция",
+  "src": "KSPI_20-F_2025.txt прим.23 ('One GDR/ADS represents one share'); KSPI_6K_20260812_ex1.txt прим.14"
+ },
+ "periods": {
+  "FY2021": {
+   "total_assets": {
+    "value": 3607.924,
+    "src": "KSPI_F-1A_2024.txt F-38 (баланс 31.12.2021), прим.12/16; reports/KSPI_FY2021.pdf стр.11"
+   },
+   "loans_gross": {
+    "value": 2573.153,
+    "src": "KSPI_F-1A_2024.txt F-38 (баланс 31.12.2021), прим.12/16; reports/KSPI_FY2021.pdf стр.11"
+   },
+   "loan_ecl_allowance": {
+    "value": 142.416,
+    "src": "KSPI_F-1A_2024.txt F-38 (баланс 31.12.2021), прим.12/16; reports/KSPI_FY2021.pdf стр.11"
+   },
+   "loans_net": {
+    "value": 2430.737,
+    "src": "KSPI_F-1A_2024.txt F-38 (баланс 31.12.2021), прим.12/16; reports/KSPI_FY2021.pdf стр.11"
+   },
+   "customer_accounts": {
+    "value": 2763.043,
+    "src": "KSPI_F-1A_2024.txt F-38 (баланс 31.12.2021), прим.12/16; reports/KSPI_FY2021.pdf стр.11"
+   },
+   "goodwill": {
+    "value": null,
+    "src": "нет отдельной строки (до 2023 гудвил в прочих активах, несущественен)"
+   },
+   "investment_securities": {
+    "value": 607.417,
+    "src": "KSPI_F-1A_2024.txt F-38 (баланс 31.12.2021), прим.12/16; reports/KSPI_FY2021.pdf стр.11"
+   },
+   "mandatory_reserves_nbrk": {
+    "value": 32.734,
+    "src": "KSPI_F-1A_2024.txt F-38 (баланс 31.12.2021), прим.12/16; reports/KSPI_FY2021.pdf стр.11"
+   },
+   "equity_total": {
+    "value": 504.695,
+    "src": "KSPI_F-1A_2024.txt F-38 (баланс 31.12.2021), прим.12/16; reports/KSPI_FY2021.pdf стр.11"
+   },
+   "equity_attributable": {
+    "value": 499.727,
+    "src": "KSPI_F-1A_2024.txt F-38 (баланс 31.12.2021), прим.12/16; reports/KSPI_FY2021.pdf стр.11"
+   },
+   "stages": {
+    "value": {
+     "s1": {
+      "gross": 2407.687,
+      "ecl": 64.043,
+      "coverage": 0.0266
+     },
+     "s2": {
+      "gross": 29.831,
+      "ecl": 10.582,
+      "coverage": 0.3547
+     },
+     "s3": {
+      "gross": 135.635,
+      "ecl": 67.791,
+      "coverage": 0.4998
+     },
+     "poci": {
+      "gross": 0.0,
+      "ecl": 0.0,
+      "coverage": null
+     }
+    },
+    "src": "KSPI_F-1A_2024.txt F-38 (баланс 31.12.2021), прим.12/16; reports/KSPI_FY2021.pdf стр.11 (прим. Loans to customers: gross by stage)"
+   },
+   "stage3_poci_share": {
+    "value": 0.0527,
+    "formula": "(Stage3+POCI брутто)/брутто-кредиты"
+   },
+   "stage3_share": {
+    "value": 0.0527,
+    "formula": "Stage3 брутто/брутто-кредиты"
+   },
+   "stage3_coverage_by_s3_ecl": {
+    "value": 0.4998,
+    "formula": "резерв Stage3/брутто Stage3"
+   },
+   "stage3_coverage_total_ecl": {
+    "value": 1.05,
+    "formula": "весь резерв по кредитам/брутто Stage3"
+   },
+   "npl_90dpd": {
+    "value": 120.652,
+    "src": "KSPI_F-1A_2024.txt F-38 (баланс 31.12.2021), прим.12/16; reports/KSPI_FY2021.pdf стр.11 (NPL >90 дней)"
+   },
+   "npl_ratio": {
+    "value": 0.0469,
+    "formula": "NPL(>90д)/брутто-кредиты"
+   },
+   "interest_income": {
+    "value": 422.075,
+    "src": "KSPI_20-F_2023.txt F-6 (ОПиУ), прим.4,7,12; KSPI_F-1A_2024.txt прим.12"
+   },
+   "interest_expense": {
+    "value": 171.491,
+    "src": "KSPI_20-F_2023.txt F-6 (ОПиУ), прим.4,7,12; KSPI_F-1A_2024.txt прим.12"
+   },
+   "net_interest_income": {
+    "value": 250.584,
+    "formula": "процентная выручка − процентные расходы (без fees for collection of credit card receivables)"
+   },
+   "loan_provision_expense": {
+    "value": 31.981,
+    "src": "KSPI_20-F_2023.txt F-6 (ОПиУ), прим.4,7,12; KSPI_F-1A_2024.txt прим.12 – из примечания по кредитам (Provision expenses on loans to customers)"
+   },
+   "total_provision_expense": {
+    "value": 34.383,
+    "src": "KSPI_20-F_2023.txt F-6 (ОПиУ), прим.4,7,12; KSPI_F-1A_2024.txt прим.12 строка ОПиУ Provision expenses"
+   },
+   "fee_income_gross": {
+    "value": 519.474,
+    "src": "KSPI_20-F_2023.txt F-6 (ОПиУ), прим.4,7,12; KSPI_F-1A_2024.txt прим.12 прим. Revenue (Fee revenue до вычета Rewards)"
+   },
+   "rewards_kaspi_bonus": {
+    "value": -51.981,
+    "src": "KSPI_20-F_2023.txt F-6 (ОПиУ), прим.4,7,12; KSPI_F-1A_2024.txt прим.12"
+   },
+   "net_fee_revenue": {
+    "value": 467.493,
+    "src": "KSPI_20-F_2023.txt F-6 (ОПиУ), прим.4,7,12; KSPI_F-1A_2024.txt прим.12"
+   },
+   "fee_expense_transaction": {
+    "value": -16.542,
+    "src": "KSPI_20-F_2023.txt F-6 (ОПиУ), прим.4,7,12; KSPI_F-1A_2024.txt прим.12 (Transaction expenses – аналог комиссионных расходов)"
+   },
+   "operating_expenses": {
+    "value": -133.604,
+    "formula": "себестоимость товаров/услуг + технологии + маркетинг + G&A (без процентов, транзакц. расходов и резервов)"
+   },
+   "income_tax": {
+    "value": -93.588,
+    "src": "KSPI_20-F_2023.txt F-6 (ОПиУ), прим.4,7,12; KSPI_F-1A_2024.txt прим.12"
+   },
+   "pbt": {
+    "value": 528.802,
+    "src": "KSPI_20-F_2023.txt F-6 (ОПиУ), прим.4,7,12; KSPI_F-1A_2024.txt прим.12"
+   },
+   "net_income_total": {
+    "value": 435.214,
+    "src": "KSPI_20-F_2023.txt F-6 (ОПиУ), прим.4,7,12; KSPI_F-1A_2024.txt прим.12"
+   },
+   "net_income_attributable": {
+    "value": 431.914,
+    "src": "KSPI_20-F_2023.txt F-6 (ОПиУ), прим.4,7,12; KSPI_F-1A_2024.txt прим.12"
+   },
+   "revenue": {
+    "value": 884.822,
+    "src": "KSPI_20-F_2023.txt F-6 (ОПиУ), прим.4,7,12; KSPI_F-1A_2024.txt прим.12"
+   },
+   "segments_revenue": {
+    "value": {
+     "Payments": 217.085,
+     "Marketplace": 153.604,
+     "Fintech": 566.114
+    },
+    "src": "KSPI_20-F_2023.txt F-6 (ОПиУ), прим.4,7,12; KSPI_F-1A_2024.txt прим.12 прим. Segment reporting"
+   },
+   "segments_net_income": {
+    "value": {
+     "Payments": 126.653,
+     "Marketplace": 99.716,
+     "Fintech": 208.845
+    },
+    "src": "KSPI_20-F_2023.txt F-6 (ОПиУ), прим.4,7,12; KSPI_F-1A_2024.txt прим.12 прим. Segment reporting"
+   },
+   "interest_earning_assets": {
+    "value": 3279.49,
+    "formula": "кредиты нетто + инвест. ЦБ и деривативы + средства в банках + (ДС и эквиваленты − наличные в кассе); обяз. резервы в НБРК исключены"
+   },
+   "nim_calc_group": {
+    "value": 0.0867,
+    "formula": "ЧПД / среднее(IEA нач.,кон.)"
+   },
+   "cost_of_risk_calc": {
+    "value": 0.0156,
+    "formula": "резервы по кредитам / среднее брутто-кредитов (нач.,кон.)"
+   },
+   "roa": {
+    "value": 0.1357,
+    "formula": "ЧП всего / средние активы"
+   },
+   "nim_fintech_segment_calc": {
+    "value": 0.1043,
+    "formula": "(процентная выручка Fintech − процентные расходы, отнесённые на Fintech) / средние кредиты нетто (нач.,кон.)"
+   },
+   "nim_disclosed_group": {
+    "value": 0.088,
+    "src": "KSPI_20-F_2023.txt Item 4 Selected Statistical Info 'Interest-earning Assets-Margin' (среднемесячные остатки)"
+   },
+   "cost_of_risk_disclosed": {
+    "value": 0.016,
+    "src": "20-F (Fintech key metrics, CoR = резервы по кредитам / среднемесячные брутто-кредиты)"
+   },
+   "roe": {
+    "value": 0.9697,
+    "formula": "ЧП акционерам / средний капитал акционеров"
+   },
+   "cost_income": {
+    "value": 0.2105,
+    "formula": "(опер. расходы + транзакционные расходы) / (выручка − процентные расходы и сборы)"
+   },
+   "tax_rate": {
+    "value": 0.177,
+    "formula": "налог / прибыль до налога"
+   },
+   "capital_kaspi_bank": {
+    "k1": {
+     "value": null,
+     "src": "не раскрывается ни в 20-F/6-K, ни в KASE-версии (прим. Regulatory matters содержит только k1.2 и k2)"
+    },
+    "k1_2": {
+     "value": 0.115,
+     "src": "KSPI_F-1A_2024.txt прим.25 Regulatory matters"
+    },
+    "k2": {
+     "value": 0.129,
+     "src": "KSPI_F-1A_2024.txt прим.25 Regulatory matters"
+    },
+    "basel3_tier1": {
+     "value": 0.159,
+     "src": "KSPI_F-1A_2024.txt прим.25 Regulatory matters"
+    },
+    "basel3_total": {
+     "value": 0.18,
+     "src": "KSPI_F-1A_2024.txt прим.25 Regulatory matters"
+    },
+    "min_requirements_incl_buffers": {
+     "value": {
+      "k1": 0.095,
+      "k1_2": 0.105,
+      "k2": 0.12
+     },
+     "src": "KSPI_20-F_2025.txt Item 4 Regulation (D-SIB: 9.5%/10.5%/12% с буферами; база 5.5/6.5/8 + консервационный 3% + системный 1%)"
+    }
+   },
+   "equity_reconciliation": {
+    "value": {
+     "open": 391.118,
+     "ni": 431.914,
+     "oci": -2.574,
+     "div": -340.362,
+     "buyback": 0.0,
+     "sbc": 19.631,
+     "other": 0.0,
+     "close": 499.727,
+     "calc_close": 499.727,
+     "diff": 0.0
+    },
+    "formula": "капитал акционеров нач. + ЧП + ПСД − дивиденды − выкуп ± начисленные опционы ± изменения долей НКД = капитал кон.",
+    "src": "KSPI_20-F_2023.txt F-9 (отчёт об изменениях в капитале)"
+   },
+   "dividends_declared": {
+    "value": 340.362,
+    "src": "KSPI_F-1A_2024.txt прим.20; ОДДС"
+   },
+   "dividends_paid_cf": {
+    "value": 340.362,
+    "src": "KSPI_F-1A_2024.txt прим.20; ОДДС"
+   },
+   "dps": {
+    "value": 1771,
+    "src": "KSPI_F-1A_2024.txt прим.20; ОДДС; март 888, сент 415, дек 468"
+   },
+   "payout_prev_year": {
+    "value": 1.3042,
+    "formula": "дивиденды объявленные в 2021 / ЧП акционерам 2020 (260,964 – KASE FY2021 стр.9)"
+   },
+   "buyback": {
+    "value": 0.0,
+    "units_ads": 0,
+    "src": "отчёт об изменениях в капитале / прим. Share capital"
+   },
+   "shares_outstanding": {
+    "value": 192187223,
+    "src": "KSPI_F-1A_2024.txt F-38 (баланс 31.12.2021), прим.12/16; reports/KSPI_FY2021.pdf стр.11 прим. Share capital (выпущено 199,500,000, за вычетом казначейских)"
+   },
+   "bvps": {
+    "value": 2600.0,
+    "formula": "капитал акционеров / акции в обращении (тенге); привилегированных акций у Kaspi.kz нет"
+   },
+   "preferred_shares": {
+    "value": 0,
+    "src": "у АО Kaspi.kz один класс простых акций; привилег. акции Kaspi Bank (у НКД) – долговой компонент 0.161 млрд (прим.20 20-F 2025)"
+   },
+   "eps_basic": {
+    "value": 2247,
+    "src": "KSPI_20-F_2023.txt F-6 (ОПиУ), прим.4,7,12; KSPI_F-1A_2024.txt прим.12"
+   },
+   "eps_diluted": {
+    "value": 2222,
+    "src": "KSPI_20-F_2023.txt F-6 (ОПиУ), прим.4,7,12; KSPI_F-1A_2024.txt прим.12"
+   },
+   "weighted_avg_shares_basic": {
+    "value": 192187223,
+    "src": "KSPI_20-F_2023.txt F-6 (ОПиУ), прим.4,7,12; KSPI_F-1A_2024.txt прим.12"
+   },
+   "eps_check": {
+    "value": 2247.4,
+    "formula": "ЧП акционерам / средневзв. число акций"
+   },
+   "related_parties": {
+    "loans": 3.568,
+    "loans_category": "прочие связанные стороны",
+    "deposits": 17.077,
+    "deposits_split_mln": "компании под контролем КУП 6,414; КУП 2,421; прочие 8,242",
+    "interest_income": 0.362,
+    "interest_expense": 0.166,
+    "guarantees": 0,
+    "loans_pct_equity": 0.00714,
+    "deposits_pct_equity": 0.03417,
+    "other": "Комиссии Kolesa (компания под контролем КУП) за автокредиты 10,981; вознаграждение КУП 782 + SBC 11,381",
+    "src": "KSPI_F-1A_2024.txt прим.23"
+   },
+   "auditor": {
+    "value": "Deloitte (ТОО «Делойт»/Deloitte LLP); немодифицированное; КВА – ОКУ по кредитам. KASE FY2021 стр.4-5 (визуально проверено); в F-1A (PCAOB) отчёт за 2020-2022 содержит пояснение о рестейтменте раскрытия иерархии справедливой стоимости 2021-2022",
+    "src": "аудиторские заключения 20-F/F-1A/KASE"
+   }
+  },
+  "FY2022": {
+   "total_assets": {
+    "value": 5121.647,
+    "src": "KSPI_20-F_2023.txt F-8 (баланс), прим.10,12,16"
+   },
+   "loans_gross": {
+    "value": 3369.512,
+    "src": "KSPI_20-F_2023.txt F-8 (баланс), прим.10,12,16"
+   },
+   "loan_ecl_allowance": {
+    "value": 214.702,
+    "src": "KSPI_20-F_2023.txt F-8 (баланс), прим.10,12,16"
+   },
+   "loans_net": {
+    "value": 3154.81,
+    "src": "KSPI_20-F_2023.txt F-8 (баланс), прим.10,12,16"
+   },
+   "customer_accounts": {
+    "value": 4000.69,
+    "src": "KSPI_20-F_2023.txt F-8 (баланс), прим.10,12,16"
+   },
+   "goodwill": {
+    "value": null,
+    "src": "нет отдельной строки (до 2023 гудвил в прочих активах, несущественен)"
+   },
+   "investment_securities": {
+    "value": 1076.272,
+    "src": "KSPI_20-F_2023.txt F-8 (баланс), прим.10,12,16"
+   },
+   "mandatory_reserves_nbrk": {
+    "value": 42.917,
+    "src": "KSPI_20-F_2023.txt F-8 (баланс), прим.10,12,16"
+   },
+   "equity_total": {
+    "value": 825.689,
+    "src": "KSPI_20-F_2023.txt F-8 (баланс), прим.10,12,16"
+   },
+   "equity_attributable": {
+    "value": 819.165,
+    "src": "KSPI_20-F_2023.txt F-8 (баланс), прим.10,12,16"
+   },
+   "stages": {
+    "value": {
+     "s1": {
+      "gross": 3058.897,
+      "ecl": 67.604,
+      "coverage": 0.0221
+     },
+     "s2": {
+      "gross": 40.934,
+      "ecl": 11.785,
+      "coverage": 0.2879
+     },
+     "s3": {
+      "gross": 264.927,
+      "ecl": 135.313,
+      "coverage": 0.5108
+     },
+     "poci": {
+      "gross": 4.754,
+      "ecl": 0.0,
+      "coverage": 0.0
+     }
+    },
+    "src": "KSPI_20-F_2023.txt F-8 (баланс), прим.10,12,16 (прим. Loans to customers: gross by stage)"
+   },
+   "stage3_poci_share": {
+    "value": 0.08,
+    "formula": "(Stage3+POCI брутто)/брутто-кредиты"
+   },
+   "stage3_share": {
+    "value": 0.0786,
+    "formula": "Stage3 брутто/брутто-кредиты"
+   },
+   "stage3_coverage_by_s3_ecl": {
+    "value": 0.5108,
+    "formula": "резерв Stage3/брутто Stage3"
+   },
+   "stage3_coverage_total_ecl": {
+    "value": 0.8104,
+    "formula": "весь резерв по кредитам/брутто Stage3"
+   },
+   "npl_90dpd": {
+    "value": 211.581,
+    "src": "KSPI_20-F_2023.txt F-8 (баланс), прим.10,12,16 (NPL >90 дней)"
+   },
+   "npl_ratio": {
+    "value": 0.0628,
+    "formula": "NPL(>90д)/брутто-кредиты"
+   },
+   "interest_income": {
+    "value": 574.426,
+    "src": "KSPI_20-F_2024.txt F-5 (ОПиУ), прим.4,5,7,12"
+   },
+   "interest_expense": {
+    "value": 278.676,
+    "src": "KSPI_20-F_2024.txt F-5 (ОПиУ), прим.4,5,7,12"
+   },
+   "net_interest_income": {
+    "value": 295.75,
+    "formula": "процентная выручка − процентные расходы (без fees for collection of credit card receivables)"
+   },
+   "loan_provision_expense": {
+    "value": 53.245,
+    "src": "KSPI_20-F_2024.txt F-5 (ОПиУ), прим.4,5,7,12 – из примечания по кредитам (Provision expenses on loans to customers)"
+   },
+   "total_provision_expense": {
+    "value": 55.21,
+    "src": "KSPI_20-F_2024.txt F-5 (ОПиУ), прим.4,5,7,12 строка ОПиУ Provision expenses"
+   },
+   "fee_income_gross": {
+    "value": 724.742,
+    "src": "KSPI_20-F_2024.txt F-5 (ОПиУ), прим.4,5,7,12 прим. Revenue (Fee revenue до вычета Rewards)"
+   },
+   "rewards_kaspi_bonus": {
+    "value": -44.96,
+    "src": "KSPI_20-F_2024.txt F-5 (ОПиУ), прим.4,5,7,12"
+   },
+   "net_fee_revenue": {
+    "value": 679.782,
+    "src": "KSPI_20-F_2024.txt F-5 (ОПиУ), прим.4,5,7,12"
+   },
+   "fee_expense_transaction": {
+    "value": -22.188,
+    "src": "KSPI_20-F_2024.txt F-5 (ОПиУ), прим.4,5,7,12 (Transaction expenses – аналог комиссионных расходов)"
+   },
+   "operating_expenses": {
+    "value": -193.944,
+    "formula": "себестоимость товаров/услуг + технологии + маркетинг + G&A (без процентов, транзакц. расходов и резервов)"
+   },
+   "income_tax": {
+    "value": -131.73,
+    "src": "KSPI_20-F_2024.txt F-5 (ОПиУ), прим.4,5,7,12"
+   },
+   "pbt": {
+    "value": 720.574,
+    "src": "KSPI_20-F_2024.txt F-5 (ОПиУ), прим.4,5,7,12"
+   },
+   "net_income_total": {
+    "value": 588.844,
+    "src": "KSPI_20-F_2024.txt F-5 (ОПиУ), прим.4,5,7,12"
+   },
+   "net_income_attributable": {
+    "value": 585.026,
+    "src": "KSPI_20-F_2024.txt F-5 (ОПиУ), прим.4,5,7,12"
+   },
+   "revenue": {
+    "value": 1270.592,
+    "src": "KSPI_20-F_2024.txt F-5 (ОПиУ), прим.4,5,7,12"
+   },
+   "segments_revenue": {
+    "value": {
+     "Payments": 333.343,
+     "Marketplace": 239.609,
+     "Fintech": 745.023
+    },
+    "src": "KSPI_20-F_2024.txt F-5 (ОПиУ), прим.4,5,7,12 прим. Segment reporting"
+   },
+   "segments_net_income": {
+    "value": {
+     "Payments": 199.489,
+     "Marketplace": 152.248,
+     "Fintech": 237.107
+    },
+    "src": "KSPI_20-F_2024.txt F-5 (ОПиУ), прим.4,5,7,12 прим. Segment reporting"
+   },
+   "interest_earning_assets": {
+    "value": 4692.344,
+    "formula": "кредиты нетто + инвест. ЦБ и деривативы + средства в банках + (ДС и эквиваленты − наличные в кассе); обяз. резервы в НБРК исключены"
+   },
+   "nim_calc_group": {
+    "value": 0.0742,
+    "formula": "ЧПД / среднее(IEA нач.,кон.)"
+   },
+   "cost_of_risk_calc": {
+    "value": 0.0179,
+    "formula": "резервы по кредитам / среднее брутто-кредитов (нач.,кон.)"
+   },
+   "roa": {
+    "value": 0.1349,
+    "formula": "ЧП всего / средние активы"
+   },
+   "nim_fintech_segment_calc": {
+    "value": 0.0793,
+    "formula": "(процентная выручка Fintech − процентные расходы, отнесённые на Fintech) / средние кредиты нетто (нач.,кон.)"
+   },
+   "nim_disclosed_group": {
+    "value": 0.081,
+    "src": "KSPI_20-F_2024.txt Item 4 Selected Statistical Info 'Interest-earning Assets-Margin' (среднемесячные остатки)"
+   },
+   "cost_of_risk_disclosed": {
+    "value": 0.019,
+    "src": "20-F (Fintech key metrics, CoR = резервы по кредитам / среднемесячные брутто-кредиты)"
+   },
+   "roe": {
+    "value": 0.8871,
+    "formula": "ЧП акционерам / средний капитал акционеров"
+   },
+   "cost_income": {
+    "value": 0.2179,
+    "formula": "(опер. расходы + транзакционные расходы) / (выручка − процентные расходы и сборы)"
+   },
+   "tax_rate": {
+    "value": 0.1828,
+    "formula": "налог / прибыль до налога"
+   },
+   "capital_kaspi_bank": {
+    "k1": {
+     "value": null,
+     "src": "не раскрывается ни в 20-F/6-K, ни в KASE-версии (прим. Regulatory matters содержит только k1.2 и k2)"
+    },
+    "k1_2": {
+     "value": 0.122,
+     "src": "KSPI_20-F_2023.txt прим.25 Regulatory matters"
+    },
+    "k2": {
+     "value": 0.131,
+     "src": "KSPI_20-F_2023.txt прим.25 Regulatory matters"
+    },
+    "basel3_tier1": {
+     "value": 0.17,
+     "src": "KSPI_20-F_2023.txt прим.25 Regulatory matters"
+    },
+    "basel3_total": {
+     "value": 0.18,
+     "src": "KSPI_20-F_2023.txt прим.25 Regulatory matters"
+    },
+    "min_requirements_incl_buffers": {
+     "value": {
+      "k1": 0.095,
+      "k1_2": 0.105,
+      "k2": 0.12
+     },
+     "src": "KSPI_20-F_2025.txt Item 4 Regulation (D-SIB: 9.5%/10.5%/12% с буферами; база 5.5/6.5/8 + консервационный 3% + системный 1%)"
+    }
+   },
+   "equity_reconciliation": {
+    "value": {
+     "open": 499.727,
+     "ni": 585.026,
+     "oci": -11.798,
+     "div": -210.102,
+     "buyback": -63.672,
+     "sbc": 19.984,
+     "other": 0.0,
+     "close": 819.165,
+     "calc_close": 819.165,
+     "diff": 0.0
+    },
+    "formula": "капитал акционеров нач. + ЧП + ПСД − дивиденды − выкуп ± начисленные опционы ± изменения долей НКД = капитал кон.",
+    "src": "KSPI_20-F_2024.txt F-8"
+   },
+   "dividends_declared": {
+    "value": 210.102,
+    "src": "KSPI_20-F_2023.txt прим.20; ОДДС"
+   },
+   "dividends_paid_cf": {
+    "value": 210.102,
+    "src": "KSPI_20-F_2023.txt прим.20; ОДДС"
+   },
+   "dps": {
+    "value": 1100,
+    "src": "KSPI_20-F_2023.txt прим.20; ОДДС; сент 500, дек 600"
+   },
+   "payout_prev_year": {
+    "value": 0.4864,
+    "formula": "дивиденды объявленные в году / ЧП акционерам FY2021"
+   },
+   "buyback": {
+    "value": 63.672,
+    "units_ads": 2376725,
+    "src": "отчёт об изменениях в капитале / прим. Share capital"
+   },
+   "shares_outstanding": {
+    "value": 190309970,
+    "src": "KSPI_20-F_2023.txt F-8 (баланс), прим.10,12,16 прим. Share capital (выпущено 199,500,000, за вычетом казначейских)"
+   },
+   "bvps": {
+    "value": 4304.0,
+    "formula": "капитал акционеров / акции в обращении (тенге); привилегированных акций у Kaspi.kz нет"
+   },
+   "preferred_shares": {
+    "value": 0,
+    "src": "у АО Kaspi.kz один класс простых акций; привилег. акции Kaspi Bank (у НКД) – долговой компонент 0.161 млрд (прим.20 20-F 2025)"
+   },
+   "eps_basic": {
+    "value": 3051,
+    "src": "KSPI_20-F_2024.txt F-5 (ОПиУ), прим.4,5,7,12"
+   },
+   "eps_diluted": {
+    "value": 3016,
+    "src": "KSPI_20-F_2024.txt F-5 (ОПиУ), прим.4,5,7,12"
+   },
+   "weighted_avg_shares_basic": {
+    "value": 191725280,
+    "src": "KSPI_20-F_2024.txt F-5 (ОПиУ), прим.4,5,7,12"
+   },
+   "eps_check": {
+    "value": 3051.4,
+    "formula": "ЧП акционерам / средневзв. число акций"
+   },
+   "related_parties": {
+    "loans": 3.057,
+    "loans_category": "прочие связанные стороны",
+    "deposits": 16.442,
+    "deposits_split_mln": "компании КУП 5,462; КУП 478; прочие 10,502",
+    "interest_income": 0.314,
+    "interest_expense": 0.403,
+    "guarantees": 0,
+    "loans_pct_equity": 0.00373,
+    "deposits_pct_equity": 0.02007,
+    "other": "Комиссии Kolesa 4,862; вознаграждение КУП 800 + SBC 7,298",
+    "src": "KSPI_20-F_2023.txt прим.23"
+   },
+   "auditor": {
+    "value": "Deloitte; немодифицированное; КВА – ОКУ. В 20-F 2023 раскрыты существенные недостатки (material weaknesses) ВКФО, впервые выявленные при подготовке отчётности 2021-2022; иерархия справедливой стоимости 2022 рестейтнута (прим.24 restated)",
+    "src": "аудиторские заключения 20-F/F-1A/KASE"
+   }
+  },
+  "FY2023": {
+   "total_assets": {
+    "value": 6821.932,
+    "src": "KSPI_20-F_2024.txt F-7 (баланс), прим.10,12,16"
+   },
+   "loans_gross": {
+    "value": 4478.489,
+    "src": "KSPI_20-F_2024.txt F-7 (баланс), прим.10,12,16"
+   },
+   "loan_ecl_allowance": {
+    "value": 242.532,
+    "src": "KSPI_20-F_2024.txt F-7 (баланс), прим.10,12,16"
+   },
+   "loans_net": {
+    "value": 4235.957,
+    "src": "KSPI_20-F_2024.txt F-7 (баланс), прим.10,12,16"
+   },
+   "customer_accounts": {
+    "value": 5441.456,
+    "src": "KSPI_20-F_2024.txt F-7 (баланс), прим.10,12,16"
+   },
+   "goodwill": {
+    "value": 34.078,
+    "src": "KSPI_20-F_2024.txt F-7 (баланс), прим.10,12,16"
+   },
+   "investment_securities": {
+    "value": 1377.772,
+    "src": "KSPI_20-F_2024.txt F-7 (баланс), прим.10,12,16"
+   },
+   "mandatory_reserves_nbrk": {
+    "value": 47.11,
+    "src": "KSPI_20-F_2024.txt F-7 (баланс), прим.10,12,16"
+   },
+   "equity_total": {
+    "value": 1103.213,
+    "src": "KSPI_20-F_2024.txt F-7 (баланс), прим.10,12,16"
+   },
+   "equity_attributable": {
+    "value": 1078.123,
+    "src": "KSPI_20-F_2024.txt F-7 (баланс), прим.10,12,16"
+   },
+   "stages": {
+    "value": {
+     "s1": {
+      "gross": 4048.478,
+      "ecl": 59.939,
+      "coverage": 0.0148
+     },
+     "s2": {
+      "gross": 55.804,
+      "ecl": 16.29,
+      "coverage": 0.2919
+     },
+     "s3": {
+      "gross": 363.703,
+      "ecl": 166.042,
+      "coverage": 0.4565
+     },
+     "poci": {
+      "gross": 10.504,
+      "ecl": 0.261,
+      "coverage": 0.0248
+     }
+    },
+    "src": "KSPI_20-F_2024.txt F-7 (баланс), прим.10,12,16 (прим. Loans to customers: gross by stage)"
+   },
+   "stage3_poci_share": {
+    "value": 0.0836,
+    "formula": "(Stage3+POCI брутто)/брутто-кредиты"
+   },
+   "stage3_share": {
+    "value": 0.0812,
+    "formula": "Stage3 брутто/брутто-кредиты"
+   },
+   "stage3_coverage_by_s3_ecl": {
+    "value": 0.4565,
+    "formula": "резерв Stage3/брутто Stage3"
+   },
+   "stage3_coverage_total_ecl": {
+    "value": 0.6668,
+    "formula": "весь резерв по кредитам/брутто Stage3"
+   },
+   "npl_90dpd": {
+    "value": 244.161,
+    "src": "KSPI_20-F_2024.txt F-7 (баланс), прим.10,12,16 (NPL >90 дней)"
+   },
+   "npl_ratio": {
+    "value": 0.0545,
+    "formula": "NPL(>90д)/брутто-кредиты"
+   },
+   "interest_income": {
+    "value": 833.516,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "interest_expense": {
+    "value": 478.01,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "net_interest_income": {
+    "value": 355.506,
+    "formula": "процентная выручка − процентные расходы (без fees for collection of credit card receivables)"
+   },
+   "loan_provision_expense": {
+    "value": 76.888,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12 – из примечания по кредитам (Provision expenses on loans to customers)"
+   },
+   "total_provision_expense": {
+    "value": 79.634,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12 строка ОПиУ Provision expenses"
+   },
+   "fee_income_gross": {
+    "value": 1027.545,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12 прим. Revenue (Fee revenue до вычета Rewards)"
+   },
+   "rewards_kaspi_bonus": {
+    "value": -39.578,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "net_fee_revenue": {
+    "value": 987.967,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "fee_expense_transaction": {
+    "value": -27.47,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12 (Transaction expenses – аналог комиссионных расходов)"
+   },
+   "operating_expenses": {
+    "value": -306.372,
+    "formula": "себестоимость товаров/услуг + технологии + маркетинг + G&A (без процентов, транзакц. расходов и резервов)"
+   },
+   "income_tax": {
+    "value": -173.234,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "pbt": {
+    "value": 1022.004,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "net_income_total": {
+    "value": 848.77,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "net_income_attributable": {
+    "value": 841.351,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "revenue": {
+    "value": 1913.49,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "segments_revenue": {
+    "value": {
+     "Payments": 478.684,
+     "Marketplace": 448.223,
+     "Fintech": 1026.721
+    },
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12 прим. Segment reporting"
+   },
+   "segments_net_income": {
+    "value": {
+     "Payments": 308.901,
+     "Marketplace": 247.955,
+     "Fintech": 291.914
+    },
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12 прим. Segment reporting"
+   },
+   "interest_earning_assets": {
+    "value": 6205.239,
+    "formula": "кредиты нетто + инвест. ЦБ и деривативы + средства в банках + (ДС и эквиваленты − наличные в кассе); обяз. резервы в НБРК исключены"
+   },
+   "nim_calc_group": {
+    "value": 0.0652,
+    "formula": "ЧПД / среднее(IEA нач.,кон.)"
+   },
+   "cost_of_risk_calc": {
+    "value": 0.0196,
+    "formula": "резервы по кредитам / среднее брутто-кредитов (нач.,кон.)"
+   },
+   "roa": {
+    "value": 0.1421,
+    "formula": "ЧП всего / средние активы"
+   },
+   "nim_fintech_segment_calc": {
+    "value": 0.0665,
+    "formula": "(процентная выручка Fintech − процентные расходы, отнесённые на Fintech) / средние кредиты нетто (нач.,кон.)"
+   },
+   "loan_spread_margin_calc": {
+    "value": 0.0896,
+    "formula": "(процентный доход по кредитам − процентные расходы на фондирование кредитов) / средние кредиты нетто"
+   },
+   "nim_disclosed_group": {
+    "value": 0.068,
+    "src": "KSPI_20-F_2025.txt Item 4 Selected Statistical Info 'Interest-earning Assets-Margin' (среднемесячные остатки)"
+   },
+   "cost_of_risk_disclosed": {
+    "value": 0.02,
+    "src": "20-F (Fintech key metrics, CoR = резервы по кредитам / среднемесячные брутто-кредиты)"
+   },
+   "roe": {
+    "value": 0.8869,
+    "formula": "ЧП акционерам / средний капитал акционеров"
+   },
+   "cost_income": {
+    "value": 0.2326,
+    "formula": "(опер. расходы + транзакционные расходы) / (выручка − процентные расходы и сборы)"
+   },
+   "tax_rate": {
+    "value": 0.1695,
+    "formula": "налог / прибыль до налога"
+   },
+   "capital_kaspi_bank": {
+    "k1": {
+     "value": null,
+     "src": "не раскрывается ни в 20-F/6-K, ни в KASE-версии (прим. Regulatory matters содержит только k1.2 и k2)"
+    },
+    "k1_2": {
+     "value": 0.126,
+     "src": "KSPI_20-F_2024.txt прим.25 Regulatory matters"
+    },
+    "k2": {
+     "value": 0.13,
+     "src": "KSPI_20-F_2024.txt прим.25 Regulatory matters"
+    },
+    "basel3_tier1": {
+     "value": 0.174,
+     "src": "KSPI_20-F_2024.txt прим.25 Regulatory matters"
+    },
+    "basel3_total": {
+     "value": 0.181,
+     "src": "KSPI_20-F_2024.txt прим.25 Regulatory matters"
+    },
+    "min_requirements_incl_buffers": {
+     "value": {
+      "k1": 0.095,
+      "k1_2": 0.105,
+      "k2": 0.12
+     },
+     "src": "KSPI_20-F_2025.txt Item 4 Regulation (D-SIB: 9.5%/10.5%/12% с буферами; база 5.5/6.5/8 + консервационный 3% + системный 1%)"
+    }
+   },
+   "equity_reconciliation": {
+    "value": {
+     "open": 819.165,
+     "ni": 841.351,
+     "oci": 18.92,
+     "div": -560.132,
+     "buyback": -60.703,
+     "sbc": 20.859,
+     "other": -1.337,
+     "close": 1078.123,
+     "calc_close": 1078.123,
+     "diff": 0.0
+    },
+    "formula": "капитал акционеров нач. + ЧП + ПСД − дивиденды − выкуп ± начисленные опционы ± изменения долей НКД = капитал кон.",
+    "src": "KSPI_20-F_2025.txt F-8 (прочее: изменение доли НКД Magnum −1,337)"
+   },
+   "dividends_declared": {
+    "value": 560.132,
+    "src": "KSPI_20-F_2024.txt прим.20; ОДДС"
+   },
+   "dividends_paid_cf": {
+    "value": 560.132,
+    "src": "KSPI_20-F_2024.txt прим.20; ОДДС"
+   },
+   "dps": {
+    "value": 2950,
+    "src": "KSPI_20-F_2024.txt прим.20; ОДДС; март 1,350, сент 750, дек 850"
+   },
+   "payout_prev_year": {
+    "value": 0.9574,
+    "formula": "дивиденды объявленные в году / ЧП акционерам FY2022"
+   },
+   "buyback": {
+    "value": 60.703,
+    "units_ads": 1595293,
+    "src": "отчёт об изменениях в капитале / прим. Share capital"
+   },
+   "shares_outstanding": {
+    "value": 189333465,
+    "src": "KSPI_20-F_2024.txt F-7 (баланс), прим.10,12,16 прим. Share capital (выпущено 199,500,000, за вычетом казначейских)"
+   },
+   "bvps": {
+    "value": 5694.0,
+    "formula": "капитал акционеров / акции в обращении (тенге); привилегированных акций у Kaspi.kz нет"
+   },
+   "preferred_shares": {
+    "value": 0,
+    "src": "у АО Kaspi.kz один класс простых акций; привилег. акции Kaspi Bank (у НКД) – долговой компонент 0.161 млрд (прим.20 20-F 2025)"
+   },
+   "eps_basic": {
+    "value": 4431,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "eps_diluted": {
+    "value": 4381,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "weighted_avg_shares_basic": {
+    "value": 189859971,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "eps_check": {
+    "value": 4431.4,
+    "formula": "ЧП акционерам / средневзв. число акций"
+   },
+   "related_parties": {
+    "loans": 2.435,
+    "loans_category": "компании под контролем КУП",
+    "deposits": 15.259,
+    "deposits_split_mln": "компании КУП 9,526; КУП 5,662; прочие 71",
+    "interest_income": 0.259,
+    "interest_expense": 0.544,
+    "guarantees": 0,
+    "loans_pct_equity": 0.00226,
+    "deposits_pct_equity": 0.01415,
+    "other": "Комиссии Kolesa 5,748; покупка коммерч. недвижимости 4,779 и земли 1,665 у компаний КУП; закупки товаров у Magnum (В. Ким) 4,310; покупка 39.758% Kolesa у фонда Baring Vostok за 42,195 + доверительное управление 11% долей М. Ломтадзе",
+    "src": "KSPI_20-F_2024.txt прим.23; KSPI_20-F_2023.txt прим.28"
+   },
+   "auditor": {
+    "value": "Deloitte LLP, 26.02.2024; немодифицированное (PCAOB); КВА – ОКУ по кредитам с общими характеристиками риска; material weaknesses ВКФО на 31.12.2023 (раскрытие контролей неэффективно)",
+    "src": "аудиторские заключения 20-F/F-1A/KASE"
+   }
+  },
+  "FY2024": {
+   "total_assets": {
+    "value": 8377.101,
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18"
+   },
+   "loans_gross": {
+    "value": 6042.443,
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18"
+   },
+   "loan_ecl_allowance": {
+    "value": 295.843,
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18"
+   },
+   "loans_net": {
+    "value": 5746.6,
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18"
+   },
+   "customer_accounts": {
+    "value": 6561.95,
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18"
+   },
+   "goodwill": {
+    "value": 17.438,
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18"
+   },
+   "investment_securities": {
+    "value": 1506.831,
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18"
+   },
+   "mandatory_reserves_nbrk": {
+    "value": 57.307,
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18"
+   },
+   "equity_total": {
+    "value": 1572.861,
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18"
+   },
+   "equity_attributable": {
+    "value": 1517.224,
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18"
+   },
+   "stages": {
+    "value": {
+     "s1": {
+      "gross": 5447.804,
+      "ecl": 77.521,
+      "coverage": 0.0142
+     },
+     "s2": {
+      "gross": 86.251,
+      "ecl": 22.378,
+      "coverage": 0.2595
+     },
+     "s3": {
+      "gross": 485.252,
+      "ecl": 193.759,
+      "coverage": 0.3993
+     },
+     "poci": {
+      "gross": 23.136,
+      "ecl": 2.185,
+      "coverage": 0.0944
+     }
+    },
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18 (прим. Loans to customers: gross by stage)"
+   },
+   "stage3_poci_share": {
+    "value": 0.0841,
+    "formula": "(Stage3+POCI брутто)/брутто-кредиты"
+   },
+   "stage3_share": {
+    "value": 0.0803,
+    "formula": "Stage3 брутто/брутто-кредиты"
+   },
+   "stage3_coverage_by_s3_ecl": {
+    "value": 0.3993,
+    "formula": "резерв Stage3/брутто Stage3"
+   },
+   "stage3_coverage_total_ecl": {
+    "value": 0.6097,
+    "formula": "весь резерв по кредитам/брутто Stage3"
+   },
+   "npl_90dpd": {
+    "value": 327.73,
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18 (NPL >90 дней)"
+   },
+   "npl_ratio": {
+    "value": 0.0542,
+    "formula": "NPL(>90д)/брутто-кредиты"
+   },
+   "interest_income": {
+    "value": 1082.668,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "interest_expense": {
+    "value": 616.116,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "net_interest_income": {
+    "value": 466.552,
+    "formula": "процентная выручка − процентные расходы (без fees for collection of credit card receivables)"
+   },
+   "loan_provision_expense": {
+    "value": 110.293,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12 – из примечания по кредитам (Provision expenses on loans to customers)"
+   },
+   "total_provision_expense": {
+    "value": 113.957,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12 строка ОПиУ Provision expenses"
+   },
+   "fee_income_gross": {
+    "value": 1329.35,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12 прим. Revenue (Fee revenue до вычета Rewards)"
+   },
+   "rewards_kaspi_bonus": {
+    "value": -54.225,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "net_fee_revenue": {
+    "value": 1275.125,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "fee_expense_transaction": {
+    "value": -29.494,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12 (Transaction expenses – аналог комиссионных расходов)"
+   },
+   "operating_expenses": {
+    "value": -490.3,
+    "formula": "себестоимость товаров/услуг + технологии + маркетинг + G&A (без процентов, транзакц. расходов и резервов)"
+   },
+   "income_tax": {
+    "value": -225.455,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "pbt": {
+    "value": 1282.289,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "net_income_total": {
+    "value": 1056.834,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "net_income_attributable": {
+    "value": 1039.739,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "revenue": {
+    "value": 2532.156,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "segments_revenue": {
+    "value": {
+     "Payments": 587.097,
+     "Marketplace": 732.943,
+     "Fintech": 1281.827
+    },
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12 прим. Segment reporting"
+   },
+   "segments_net_income": {
+    "value": {
+     "Payments": 381.607,
+     "Marketplace": 348.4,
+     "Fintech": 326.827
+    },
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12 прим. Segment reporting"
+   },
+   "interest_earning_assets": {
+    "value": 7713.807,
+    "formula": "кредиты нетто + инвест. ЦБ и деривативы + средства в банках + (ДС и эквиваленты − наличные в кассе); обяз. резервы в НБРК исключены"
+   },
+   "nim_calc_group": {
+    "value": 0.067,
+    "formula": "ЧПД / среднее(IEA нач.,кон.)"
+   },
+   "cost_of_risk_calc": {
+    "value": 0.021,
+    "formula": "резервы по кредитам / среднее брутто-кредитов (нач.,кон.)"
+   },
+   "roa": {
+    "value": 0.1391,
+    "formula": "ЧП всего / средние активы"
+   },
+   "nim_fintech_segment_calc": {
+    "value": 0.068,
+    "formula": "(процентная выручка Fintech − процентные расходы, отнесённые на Fintech) / средние кредиты нетто (нач.,кон.)"
+   },
+   "loan_spread_margin_calc": {
+    "value": 0.0901,
+    "formula": "(процентный доход по кредитам − процентные расходы на фондирование кредитов) / средние кредиты нетто"
+   },
+   "nim_disclosed_group": {
+    "value": 0.07,
+    "src": "KSPI_20-F_2025.txt Item 4 Selected Statistical Info 'Interest-earning Assets-Margin' (среднемесячные остатки)"
+   },
+   "cost_of_risk_disclosed": {
+    "value": 0.021,
+    "src": "20-F (Fintech key metrics, CoR = резервы по кредитам / среднемесячные брутто-кредиты)"
+   },
+   "roe": {
+    "value": 0.8012,
+    "formula": "ЧП акционерам / средний капитал акционеров"
+   },
+   "cost_income": {
+    "value": 0.2713,
+    "formula": "(опер. расходы + транзакционные расходы) / (выручка − процентные расходы и сборы)"
+   },
+   "tax_rate": {
+    "value": 0.1758,
+    "formula": "налог / прибыль до налога"
+   },
+   "capital_kaspi_bank": {
+    "k1": {
+     "value": null,
+     "src": "не раскрывается ни в 20-F/6-K, ни в KASE-версии (прим. Regulatory matters содержит только k1.2 и k2)"
+    },
+    "k1_2": {
+     "value": 0.126,
+     "src": "KSPI_20-F_2025.txt прим.29 Regulatory matters (стр.F-64); Item 5.B (RWA 8,059 млрд)"
+    },
+    "k2": {
+     "value": 0.127,
+     "src": "KSPI_20-F_2025.txt прим.29 Regulatory matters (стр.F-64); Item 5.B (RWA 8,059 млрд)"
+    },
+    "basel3_tier1": {
+     "value": 0.176,
+     "src": "KSPI_20-F_2025.txt прим.29 Regulatory matters (стр.F-64); Item 5.B (RWA 8,059 млрд)"
+    },
+    "basel3_total": {
+     "value": 0.183,
+     "src": "KSPI_20-F_2025.txt прим.29 Regulatory matters (стр.F-64); Item 5.B (RWA 8,059 млрд)"
+    },
+    "min_requirements_incl_buffers": {
+     "value": {
+      "k1": 0.095,
+      "k1_2": 0.105,
+      "k2": 0.12
+     },
+     "src": "KSPI_20-F_2025.txt Item 4 Regulation (D-SIB: 9.5%/10.5%/12% с буферами; база 5.5/6.5/8 + консервационный 3% + системный 1%)"
+    }
+   },
+   "equity_reconciliation": {
+    "value": {
+     "open": 1078.123,
+     "ni": 1039.739,
+     "oci": 31.307,
+     "div": -646.056,
+     "buyback": -2.852,
+     "sbc": 16.963,
+     "other": 0.0,
+     "close": 1517.224,
+     "calc_close": 1517.224,
+     "diff": 0.0
+    },
+    "formula": "капитал акционеров нач. + ЧП + ПСД − дивиденды − выкуп ± начисленные опционы ± изменения долей НКД = капитал кон.",
+    "src": "KSPI_20-F_2025.txt F-8"
+   },
+   "dividends_declared": {
+    "value": 646.056,
+    "src": "KSPI_20-F_2025.txt прим.23; ОДДС"
+   },
+   "dividends_paid_cf": {
+    "value": 646.056,
+    "src": "KSPI_20-F_2025.txt прим.23; ОДДС"
+   },
+   "dps": {
+    "value": 3400,
+    "src": "KSPI_20-F_2025.txt прим.23; ОДДС; 4 x 850"
+   },
+   "payout_prev_year": {
+    "value": 0.7679,
+    "formula": "дивиденды объявленные в году / ЧП акционерам FY2023"
+   },
+   "buyback": {
+    "value": 2.852,
+    "units_ads": 64914,
+    "src": "отчёт об изменениях в капитале / прим. Share capital"
+   },
+   "shares_outstanding": {
+    "value": 190015729,
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18 прим. Share capital (выпущено 199,500,000, за вычетом казначейских)"
+   },
+   "bvps": {
+    "value": 7985.0,
+    "formula": "капитал акционеров / акции в обращении (тенге); привилегированных акций у Kaspi.kz нет"
+   },
+   "preferred_shares": {
+    "value": 0,
+    "src": "у АО Kaspi.kz один класс простых акций; привилег. акции Kaspi Bank (у НКД) – долговой компонент 0.161 млрд (прим.20 20-F 2025)"
+   },
+   "eps_basic": {
+    "value": 5477,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "eps_diluted": {
+    "value": 5431,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "weighted_avg_shares_basic": {
+    "value": 189832053,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "eps_check": {
+    "value": 5477.2,
+    "formula": "ЧП акционерам / средневзв. число акций"
+   },
+   "related_parties": {
+    "loans": 1.103,
+    "loans_category": "компании под контролем КУП",
+    "deposits": 12.12,
+    "deposits_split_mln": "компании КУП 2,846; КУП 9,146; прочие 128",
+    "interest_income": 0.202,
+    "interest_expense": 0.609,
+    "guarantees": 0,
+    "loans_pct_equity": 0.00073,
+    "deposits_pct_equity": 0.00799,
+    "other": "покупка коммерч. недвижимости у компаний КУП 2,245; закупки товаров 6,336",
+    "src": "KSPI_20-F_2025.txt прим.27; KSPI_20-F_2024.txt прим.23"
+   },
+   "auditor": {
+    "value": "Deloitte LLP, 24.02.2025; немодифицированное; КВА – ОКУ. Material weaknesses устранены, ВКФО признан эффективным (оценка руководства)",
+    "src": "аудиторские заключения 20-F/F-1A/KASE"
+   }
+  },
+  "FY2025": {
+   "total_assets": {
+    "value": 11081.748,
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18"
+   },
+   "loans_gross": {
+    "value": 7543.926,
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18"
+   },
+   "loan_ecl_allowance": {
+    "value": 371.764,
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18"
+   },
+   "loans_net": {
+    "value": 7172.162,
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18"
+   },
+   "customer_accounts": {
+    "value": 7531.286,
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18"
+   },
+   "goodwill": {
+    "value": 447.128,
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18"
+   },
+   "investment_securities": {
+    "value": 1179.819,
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18"
+   },
+   "mandatory_reserves_nbrk": {
+    "value": 305.126,
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18"
+   },
+   "equity_total": {
+    "value": 2601.577,
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18"
+   },
+   "equity_attributable": {
+    "value": 2491.843,
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18"
+   },
+   "stages": {
+    "value": {
+     "s1": {
+      "gross": 6691.163,
+      "ecl": 74.162,
+      "coverage": 0.0111
+     },
+     "s2": {
+      "gross": 129.8,
+      "ecl": 26.061,
+      "coverage": 0.2008
+     },
+     "s3": {
+      "gross": 703.082,
+      "ecl": 270.058,
+      "coverage": 0.3841
+     },
+     "poci": {
+      "gross": 19.881,
+      "ecl": 1.483,
+      "coverage": 0.0746
+     }
+    },
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18 (прим. Loans to customers: gross by stage)"
+   },
+   "stage3_poci_share": {
+    "value": 0.0958,
+    "formula": "(Stage3+POCI брутто)/брутто-кредиты"
+   },
+   "stage3_share": {
+    "value": 0.0932,
+    "formula": "Stage3 брутто/брутто-кредиты"
+   },
+   "stage3_coverage_by_s3_ecl": {
+    "value": 0.3841,
+    "formula": "резерв Stage3/брутто Stage3"
+   },
+   "stage3_coverage_total_ecl": {
+    "value": 0.5288,
+    "formula": "весь резерв по кредитам/брутто Stage3"
+   },
+   "npl_90dpd": {
+    "value": 466.845,
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18 (NPL >90 дней)"
+   },
+   "npl_ratio": {
+    "value": 0.0619,
+    "formula": "NPL(>90д)/брутто-кредиты"
+   },
+   "interest_income": {
+    "value": 1579.346,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "interest_expense": {
+    "value": 825.849,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12 (без комиссий за досрочную инкассацию карточной дебиторки 82,849 млн – Hepsiburada)"
+   },
+   "net_interest_income": {
+    "value": 753.497,
+    "formula": "процентная выручка − процентные расходы (без fees for collection of credit card receivables)"
+   },
+   "loan_provision_expense": {
+    "value": 158.408,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12 – из примечания по кредитам (Provision expenses on loans to customers)"
+   },
+   "total_provision_expense": {
+    "value": 161.651,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12 строка ОПиУ Provision expenses"
+   },
+   "fee_income_gross": {
+    "value": 1654.238,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12 прим. Revenue (Fee revenue до вычета Rewards)"
+   },
+   "rewards_kaspi_bonus": {
+    "value": -55.887,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "net_fee_revenue": {
+    "value": 1598.351,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "fee_expense_transaction": {
+    "value": -31.603,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12 (Transaction expenses – аналог комиссионных расходов)"
+   },
+   "operating_expenses": {
+    "value": -1612.204,
+    "formula": "себестоимость товаров/услуг + технологии + маркетинг + G&A (без процентов, транзакц. расходов и резервов)"
+   },
+   "income_tax": {
+    "value": -264.211,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "pbt": {
+    "value": 1331.918,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "net_income_total": {
+    "value": 1067.707,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "net_income_attributable": {
+    "value": 1073.177,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "revenue": {
+    "value": 4046.074,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "segments_revenue": {
+    "value": {
+     "Payments": 658.726,
+     "Marketplace": 1931.472,
+     "Fintech": 1542.934
+    },
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12 прим. Segment reporting"
+   },
+   "segments_net_income": {
+    "value": {
+     "Payments": 433.001,
+     "Marketplace": 279.773,
+     "Fintech": 354.933
+    },
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12 прим. Segment reporting"
+   },
+   "interest_earning_assets": {
+    "value": 9125.665,
+    "formula": "кредиты нетто + инвест. ЦБ и деривативы + средства в банках + (ДС и эквиваленты − наличные в кассе); обяз. резервы в НБРК исключены"
+   },
+   "nim_calc_group": {
+    "value": 0.0895,
+    "formula": "ЧПД / среднее(IEA нач.,кон.)"
+   },
+   "cost_of_risk_calc": {
+    "value": 0.0233,
+    "formula": "резервы по кредитам / среднее брутто-кредитов (нач.,кон.)"
+   },
+   "roa": {
+    "value": 0.1097,
+    "formula": "ЧП всего / средние активы"
+   },
+   "nim_fintech_segment_calc": {
+    "value": 0.0959,
+    "formula": "(процентная выручка Fintech − процентные расходы, отнесённые на Fintech) / средние кредиты нетто (нач.,кон.)"
+   },
+   "loan_spread_margin_calc": {
+    "value": 0.1269,
+    "formula": "(процентный доход по кредитам − процентные расходы на фондирование кредитов) / средние кредиты нетто"
+   },
+   "nim_disclosed_group": {
+    "value": 0.092,
+    "src": "KSPI_20-F_2025.txt Item 4 Selected Statistical Info 'Interest-earning Assets-Margin' (среднемесячные остатки)"
+   },
+   "cost_of_risk_disclosed": {
+    "value": 0.022,
+    "src": "20-F (Fintech key metrics, CoR = резервы по кредитам / среднемесячные брутто-кредиты)"
+   },
+   "roe": {
+    "value": 0.5354,
+    "formula": "ЧП акционерам / средний капитал акционеров"
+   },
+   "cost_income": {
+    "value": 0.5239,
+    "formula": "(опер. расходы + транзакционные расходы) / (выручка − процентные расходы и сборы)"
+   },
+   "tax_rate": {
+    "value": 0.1984,
+    "formula": "налог / прибыль до налога"
+   },
+   "capital_kaspi_bank": {
+    "k1": {
+     "value": null,
+     "src": "не раскрывается ни в 20-F/6-K, ни в KASE-версии (прим. Regulatory matters содержит только k1.2 и k2)"
+    },
+    "k1_2": {
+     "value": 0.127,
+     "src": "KSPI_20-F_2025.txt прим.29 (стр.F-64); Item 5.B (RWA 9,979 млрд, капитал 1,271 млрд); KASE FY2025 стр.78 – совпадает"
+    },
+    "k2": {
+     "value": 0.127,
+     "src": "KSPI_20-F_2025.txt прим.29 (стр.F-64); Item 5.B (RWA 9,979 млрд, капитал 1,271 млрд); KASE FY2025 стр.78 – совпадает"
+    },
+    "basel3_tier1": {
+     "value": 0.196,
+     "src": "KSPI_20-F_2025.txt прим.29 (стр.F-64); Item 5.B (RWA 9,979 млрд, капитал 1,271 млрд); KASE FY2025 стр.78 – совпадает"
+    },
+    "basel3_total": {
+     "value": 0.196,
+     "src": "KSPI_20-F_2025.txt прим.29 (стр.F-64); Item 5.B (RWA 9,979 млрд, капитал 1,271 млрд); KASE FY2025 стр.78 – совпадает"
+    },
+    "min_requirements_incl_buffers": {
+     "value": {
+      "k1": 0.095,
+      "k1_2": 0.105,
+      "k2": 0.12
+     },
+     "src": "KSPI_20-F_2025.txt Item 4 Regulation (D-SIB: 9.5%/10.5%/12% с буферами; база 5.5/6.5/8 + консервационный 3% + системный 1%)"
+    }
+   },
+   "equity_reconciliation": {
+    "value": {
+     "open": 1517.224,
+     "ni": 1073.177,
+     "oci": -81.571,
+     "div": 0.0,
+     "buyback": -21.907,
+     "sbc": 15.476,
+     "other": -10.556,
+     "close": 2491.843,
+     "calc_close": 2491.843,
+     "diff": 0.0
+    },
+    "formula": "капитал акционеров нач. + ЧП + ПСД − дивиденды − выкуп ± начисленные опционы ± изменения долей НКД = капитал кон.",
+    "src": "KSPI_20-F_2025.txt F-9 (прочее: выкуп доли НКД Hepsiburada −10,556)"
+   },
+   "dividends_declared": {
+    "value": 0.0,
+    "src": "KSPI_20-F_2025.txt прим.23; ОДДС"
+   },
+   "dividends_paid_cf": {
+    "value": 0.0,
+    "src": "KSPI_20-F_2025.txt прим.23; ОДДС"
+   },
+   "dps": {
+    "value": 0,
+    "src": "KSPI_20-F_2025.txt прим.23; ОДДС; в 2025 г. дивиденды не объявлялись"
+   },
+   "payout_prev_year": {
+    "value": 0.0,
+    "formula": "дивиденды объявленные в году / ЧП акционерам FY2024"
+   },
+   "buyback": {
+    "value": 21.907,
+    "units_ads": 559553,
+    "src": "отчёт об изменениях в капитале / прим. Share capital"
+   },
+   "shares_outstanding": {
+    "value": 190227932,
+    "src": "KSPI_20-F_2025.txt F-7 (баланс), прим.10,12,14,18 прим. Share capital (выпущено 199,500,000, за вычетом казначейских)"
+   },
+   "bvps": {
+    "value": 13099.0,
+    "formula": "капитал акционеров / акции в обращении (тенге); привилегированных акций у Kaspi.kz нет"
+   },
+   "preferred_shares": {
+    "value": 0,
+    "src": "у АО Kaspi.kz один класс простых акций; привилег. акции Kaspi Bank (у НКД) – долговой компонент 0.161 млрд (прим.20 20-F 2025)"
+   },
+   "eps_basic": {
+    "value": 5631,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "eps_diluted": {
+    "value": 5592,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "weighted_avg_shares_basic": {
+    "value": 190581647,
+    "src": "KSPI_20-F_2025.txt F-5 (ОПиУ), прим.4,5,6,7,12"
+   },
+   "eps_check": {
+    "value": 5631.1,
+    "formula": "ЧП акционерам / средневзв. число акций"
+   },
+   "related_parties": {
+    "loans": 0.333,
+    "loans_category": "компании под контролем КУП",
+    "deposits": 18.474,
+    "deposits_split_mln": "компании КУП 2,865; КУП 15,573; прочие 36",
+    "interest_income": 0.146,
+    "interest_expense": 0.957,
+    "guarantees": 0,
+    "loans_pct_equity": 0.00013,
+    "deposits_pct_equity": 0.00741,
+    "other": "закупки товаров у компаний КУП (Magnum) 7,354; ОС/НМА у Magnum 2,967; средства банков от компаний КУП 146",
+    "src": "KSPI_20-F_2025.txt прим.27; Item 7.B"
+   },
+   "auditor": {
+    "value": "Deloitte LLP, 12.03.2026; немодифицированное по ФО и по ВКФО (ICFR, SOX 404(b)); Hepsiburada исключена из оценки ВКФО; КВА – ОКУ. KASE FY2025 – Deloitte (стр.3)",
+    "src": "аудиторские заключения 20-F/F-1A/KASE"
+   }
+  },
+  "H1_2025": {
+   "total_assets": {
+    "value": null,
+    "src": "баланс на 30.06.2025 не раскрыт в 6-K за 1П2026 (сравнит. – 31.12.2025)"
+   },
+   "loans_gross": {
+    "value": null,
+    "src": "баланс на 30.06.2025 не раскрыт в 6-K за 1П2026 (сравнит. – 31.12.2025)"
+   },
+   "loan_ecl_allowance": {
+    "value": null,
+    "src": "баланс на 30.06.2025 не раскрыт в 6-K за 1П2026 (сравнит. – 31.12.2025)"
+   },
+   "loans_net": {
+    "value": null,
+    "src": "баланс на 30.06.2025 не раскрыт в 6-K за 1П2026 (сравнит. – 31.12.2025)"
+   },
+   "customer_accounts": {
+    "value": null,
+    "src": "баланс на 30.06.2025 не раскрыт в 6-K за 1П2026 (сравнит. – 31.12.2025)"
+   },
+   "equity_total": {
+    "value": 2029.662,
+    "src": "KSPI_6K_20260812_ex1.txt (отчёт об изменениях в капитале: остаток на 30.06.2025); баланс на 30.06.2025 в 6-K не приводится"
+   },
+   "equity_attributable": {
+    "value": 1954.446,
+    "src": "KSPI_6K_20260812_ex1.txt (отчёт об изменениях в капитале: остаток на 30.06.2025); баланс на 30.06.2025 в 6-K не приводится"
+   },
+   "interest_income": {
+    "value": 709.033,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,6,7,8,11 (сравнит.)"
+   },
+   "interest_expense": {
+    "value": 374.37,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,6,7,8,11 (сравнит.) (без комиссий за досрочную инкассацию карточной дебиторки 26,984 млн – Hepsiburada)"
+   },
+   "net_interest_income": {
+    "value": 334.663,
+    "formula": "процентная выручка − процентные расходы (без fees for collection of credit card receivables)"
+   },
+   "loan_provision_expense": {
+    "value": 79.972,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,6,7,8,11 (сравнит.) – из примечания по кредитам (Provision expenses on loans to customers)"
+   },
+   "total_provision_expense": {
+    "value": 82.428,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,6,7,8,11 (сравнит.) строка ОПиУ Provision expenses"
+   },
+   "fee_income_gross": {
+    "value": 768.183,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,6,7,8,11 (сравнит.) прим. Revenue (Fee revenue до вычета Rewards)"
+   },
+   "rewards_kaspi_bonus": {
+    "value": -26.978,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,6,7,8,11 (сравнит.)"
+   },
+   "net_fee_revenue": {
+    "value": 741.205,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,6,7,8,11 (сравнит.)"
+   },
+   "fee_expense_transaction": {
+    "value": -16.245,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,6,7,8,11 (сравнит.) (Transaction expenses – аналог комиссионных расходов)"
+   },
+   "operating_expenses": {
+    "value": -659.917,
+    "formula": "себестоимость товаров/услуг + технологии + маркетинг + G&A (без процентов, транзакц. расходов и резервов)"
+   },
+   "income_tax": {
+    "value": -116.73,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,6,7,8,11 (сравнит.)"
+   },
+   "pbt": {
+    "value": 629.408,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,6,7,8,11 (сравнит.)"
+   },
+   "net_income_total": {
+    "value": 512.678,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,6,7,8,11 (сравнит.)"
+   },
+   "net_income_attributable": {
+    "value": 509.383,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,6,7,8,11 (сравнит.)"
+   },
+   "revenue": {
+    "value": 1789.352,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,6,7,8,11 (сравнит.)"
+   },
+   "segments_revenue": {
+    "value": {
+     "Payments": 308.687,
+     "Marketplace": 808.433,
+     "Fintech": 713.528
+    },
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,6,7,8,11 (сравнит.) прим. Segment reporting"
+   },
+   "segments_adj_ebitda": {
+    "value": {
+     "Payments": 188.72,
+     "Marketplace": 223.276,
+     "Fintech": 303.425
+    },
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,6,7,8,11 (сравнит.) прим.5 – с 2026 г. показатель сегмента = adjusted EBITDA (чистая прибыль по сегментам не раскрывается)"
+   },
+   "nim_calc_group": {
+    "value": null,
+    "formula": "нет баланса на 30.06.2025 в источниках"
+   },
+   "cost_of_risk_calc": {
+    "value": null,
+    "formula": "нет баланса на 30.06.2025 в источниках"
+   },
+   "roa": {
+    "value": null,
+    "formula": "нет баланса на 30.06.2025 в источниках"
+   },
+   "loan_spread_margin_note": {
+    "value": null,
+    "formula": "нет средних кредитов на 30.06.2025"
+   },
+   "nim_disclosed_group": {
+    "value": null,
+    "src": "не раскрывается для промежуточного периода"
+   },
+   "cost_of_risk_disclosed": {
+    "value": null,
+    "src": "2К2025 0.6% – KSPI_6K_20260810_ex1.txt"
+   },
+   "roe": {
+    "value": 0.5869,
+    "formula": "ЧП акционерам / средний капитал акционеров ×2"
+   },
+   "cost_income": {
+    "value": 0.4871,
+    "formula": "(опер. расходы + транзакционные расходы) / (выручка − процентные расходы и сборы)"
+   },
+   "tax_rate": {
+    "value": 0.1855,
+    "formula": "налог / прибыль до налога"
+   },
+   "equity_reconciliation": {
+    "value": {
+     "open": 1517.224,
+     "ni": 509.383,
+     "oci": -77.5,
+     "div": 0.0,
+     "buyback": 0.0,
+     "sbc": 4.287,
+     "other": 1.052,
+     "close": 1954.446,
+     "calc_close": 1954.446,
+     "diff": 0.0
+    },
+    "formula": "капитал акционеров нач. + ЧП + ПСД − дивиденды − выкуп ± начисленные опционы ± изменения долей НКД = капитал кон.",
+    "src": "KSPI_6K_20260812_ex1.txt стр.6"
+   },
+   "dividends_declared": {
+    "value": 0.0,
+    "src": "KSPI_6K_20260812_ex1.txt стр.6-8"
+   },
+   "dividends_paid_cf": {
+    "value": 0.0,
+    "src": "KSPI_6K_20260812_ex1.txt стр.6-8"
+   },
+   "dps": {
+    "value": 0,
+    "src": "KSPI_6K_20260812_ex1.txt стр.6-8; "
+   },
+   "buyback": {
+    "value": 0.0,
+    "units_ads": 0,
+    "src": "отчёт об изменениях в капитале / прим. Share capital"
+   },
+   "preferred_shares": {
+    "value": 0,
+    "src": "у АО Kaspi.kz один класс простых акций; привилег. акции Kaspi Bank (у НКД) – долговой компонент 0.161 млрд (прим.20 20-F 2025)"
+   },
+   "eps_basic": {
+    "value": 2675,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,6,7,8,11 (сравнит.)"
+   },
+   "eps_diluted": {
+    "value": 2664,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,6,7,8,11 (сравнит.)"
+   },
+   "weighted_avg_shares_basic": {
+    "value": 190402249,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,6,7,8,11 (сравнит.)"
+   },
+   "eps_check": {
+    "value": 2675.3,
+    "formula": "ЧП акционерам / средневзв. число акций"
+   },
+   "auditor": {
+    "value": "6-K за 1П2025 – сравнительные данные, обзор",
+    "src": "аудиторские заключения 20-F/F-1A/KASE"
+   }
+  },
+  "H1_2026": {
+   "total_assets": {
+    "value": 12057.493,
+    "src": "KSPI_6K_20260812_ex1.txt стр.5 (баланс 30.06.2026), прим.9,10,11,13"
+   },
+   "loans_gross": {
+    "value": 7855.745,
+    "src": "KSPI_6K_20260812_ex1.txt стр.5 (баланс 30.06.2026), прим.9,10,11,13"
+   },
+   "loan_ecl_allowance": {
+    "value": 415.933,
+    "src": "KSPI_6K_20260812_ex1.txt стр.5 (баланс 30.06.2026), прим.9,10,11,13"
+   },
+   "loans_net": {
+    "value": 7439.812,
+    "src": "KSPI_6K_20260812_ex1.txt стр.5 (баланс 30.06.2026), прим.9,10,11,13"
+   },
+   "customer_accounts": {
+    "value": 8132.007,
+    "src": "KSPI_6K_20260812_ex1.txt стр.5 (баланс 30.06.2026), прим.9,10,11,13"
+   },
+   "goodwill": {
+    "value": 459.118,
+    "src": "KSPI_6K_20260812_ex1.txt стр.5 (баланс 30.06.2026), прим.9,10,11,13"
+   },
+   "investment_securities": {
+    "value": 1574.304,
+    "src": "KSPI_6K_20260812_ex1.txt стр.5 (баланс 30.06.2026), прим.9,10,11,13"
+   },
+   "mandatory_reserves_nbrk": {
+    "value": 469.802,
+    "src": "KSPI_6K_20260812_ex1.txt стр.5 (баланс 30.06.2026), прим.9,10,11,13"
+   },
+   "equity_total": {
+    "value": 2730.505,
+    "src": "KSPI_6K_20260812_ex1.txt стр.5 (баланс 30.06.2026), прим.9,10,11,13"
+   },
+   "equity_attributable": {
+    "value": 2639.116,
+    "src": "KSPI_6K_20260812_ex1.txt стр.5 (баланс 30.06.2026), прим.9,10,11,13"
+   },
+   "stages": {
+    "value": {
+     "s1": {
+      "gross": 6863.966,
+      "ecl": 69.478,
+      "coverage": 0.0101
+     },
+     "s2": {
+      "gross": 146.723,
+      "ecl": 27.956,
+      "coverage": 0.1905
+     },
+     "s3": {
+      "gross": 821.123,
+      "ecl": 316.052,
+      "coverage": 0.3849
+     },
+     "poci": {
+      "gross": 23.933,
+      "ecl": 2.447,
+      "coverage": 0.1022
+     }
+    },
+    "src": "KSPI_6K_20260812_ex1.txt стр.5 (баланс 30.06.2026), прим.9,10,11,13 (прим. Loans to customers: gross by stage)"
+   },
+   "stage3_poci_share": {
+    "value": 0.1076,
+    "formula": "(Stage3+POCI брутто)/брутто-кредиты"
+   },
+   "stage3_share": {
+    "value": 0.1045,
+    "formula": "Stage3 брутто/брутто-кредиты"
+   },
+   "stage3_coverage_by_s3_ecl": {
+    "value": 0.3849,
+    "formula": "резерв Stage3/брутто Stage3"
+   },
+   "stage3_coverage_total_ecl": {
+    "value": 0.5065,
+    "formula": "весь резерв по кредитам/брутто Stage3"
+   },
+   "npl_90dpd": {
+    "value": 547.942,
+    "src": "KSPI_6K_20260812_ex1.txt стр.5 (баланс 30.06.2026), прим.9,10,11,13 (NPL >90 дней)"
+   },
+   "npl_ratio": {
+    "value": 0.0698,
+    "formula": "NPL(>90д)/брутто-кредиты"
+   },
+   "interest_income": {
+    "value": 935.092,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,5,6,7,8,11"
+   },
+   "interest_expense": {
+    "value": 509.815,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,5,6,7,8,11 (без комиссий за досрочную инкассацию карточной дебиторки 43,731 млн – Hepsiburada)"
+   },
+   "net_interest_income": {
+    "value": 425.277,
+    "formula": "процентная выручка − процентные расходы (без fees for collection of credit card receivables)"
+   },
+   "loan_provision_expense": {
+    "value": 105.36,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,5,6,7,8,11 – из примечания по кредитам (Provision expenses on loans to customers)"
+   },
+   "total_provision_expense": {
+    "value": 106.928,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,5,6,7,8,11 строка ОПиУ Provision expenses"
+   },
+   "fee_income_gross": {
+    "value": 814.585,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,5,6,7,8,11 прим. Revenue (Fee revenue до вычета Rewards)"
+   },
+   "rewards_kaspi_bonus": {
+    "value": -22.069,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,5,6,7,8,11"
+   },
+   "net_fee_revenue": {
+    "value": 794.815,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,5,6,7,8,11"
+   },
+   "fee_expense_transaction": {
+    "value": -18.902,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,5,6,7,8,11 (Transaction expenses – аналог комиссионных расходов)"
+   },
+   "operating_expenses": {
+    "value": -863.124,
+    "formula": "себестоимость товаров/услуг + технологии + маркетинг + G&A (без процентов, транзакц. расходов и резервов)"
+   },
+   "income_tax": {
+    "value": -139.486,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,5,6,7,8,11"
+   },
+   "pbt": {
+    "value": 650.282,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,5,6,7,8,11"
+   },
+   "net_income_total": {
+    "value": 510.796,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,5,6,7,8,11"
+   },
+   "net_income_attributable": {
+    "value": 506.127,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,5,6,7,8,11"
+   },
+   "revenue": {
+    "value": 2192.782,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,5,6,7,8,11"
+   },
+   "segments_revenue": {
+    "value": {
+     "Payments": 327.174,
+     "Marketplace": 1028.033,
+     "Fintech": 884.468
+    },
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,5,6,7,8,11 прим. Segment reporting"
+   },
+   "segments_adj_ebitda": {
+    "value": {
+     "Payments": 187.918,
+     "Marketplace": 246.266,
+     "Fintech": 330.917
+    },
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,5,6,7,8,11 прим.5 – с 2026 г. показатель сегмента = adjusted EBITDA (чистая прибыль по сегментам не раскрывается)"
+   },
+   "interest_earning_assets": {
+    "value": 9922.833,
+    "formula": "кредиты нетто + инвест. ЦБ и деривативы + средства в банках + (ДС и эквиваленты − наличные в кассе); обяз. резервы в НБРК исключены"
+   },
+   "nim_calc_group": {
+    "value": 0.0893,
+    "formula": "ЧПД×2 / среднее(IEA нач.,кон.)"
+   },
+   "cost_of_risk_calc": {
+    "value": 0.0274,
+    "formula": "резервы по кредитам×2 / среднее брутто-кредитов (нач.,кон.)"
+   },
+   "roa": {
+    "value": 0.0883,
+    "formula": "ЧП всего / средние активы ×2"
+   },
+   "loan_spread_margin_calc": {
+    "value": 0.1303,
+    "formula": "(процентный доход по кредитам − процентные расходы на фондирование кредитов) / средние кредиты нетто ×2"
+   },
+   "nim_disclosed_group": {
+    "value": null,
+    "src": "не раскрывается для промежуточного периода"
+   },
+   "cost_of_risk_disclosed": {
+    "value": null,
+    "src": "2К2026 0.7% (квартал, не аннуализ.) vs 2К2025 0.6% – KSPI_6K_20260810_ex1.txt"
+   },
+   "roe": {
+    "value": 0.3946,
+    "formula": "ЧП акционерам / средний капитал акционеров ×2"
+   },
+   "cost_income": {
+    "value": 0.5381,
+    "formula": "(опер. расходы + транзакционные расходы) / (выручка − процентные расходы и сборы)"
+   },
+   "tax_rate": {
+    "value": 0.2145,
+    "formula": "налог / прибыль до налога"
+   },
+   "capital_kaspi_bank": {
+    "k1": {
+     "value": null,
+     "src": "не раскрывается ни в 20-F/6-K, ни в KASE-версии (прим. Regulatory matters содержит только k1.2 и k2)"
+    },
+    "k1_2": {
+     "value": 0.141,
+     "src": "KSPI_6K_20260812_ex1.txt прим.18 Regulatory matters"
+    },
+    "k2": {
+     "value": 0.141,
+     "src": "KSPI_6K_20260812_ex1.txt прим.18 Regulatory matters"
+    },
+    "basel3_tier1": {
+     "value": 0.208,
+     "src": "KSPI_6K_20260812_ex1.txt прим.18 Regulatory matters"
+    },
+    "basel3_total": {
+     "value": 0.208,
+     "src": "KSPI_6K_20260812_ex1.txt прим.18 Regulatory matters"
+    },
+    "min_requirements_incl_buffers": {
+     "value": {
+      "k1": 0.095,
+      "k1_2": 0.105,
+      "k2": 0.12
+     },
+     "src": "KSPI_20-F_2025.txt Item 4 Regulation (D-SIB: 9.5%/10.5%/12% с буферами; база 5.5/6.5/8 + консервационный 3% + системный 1%)"
+    },
+    "note": "С 01.04.2026 НБРК ввёл секторальный контрциклический буфер 2% на RWA розничных кредитов (≈83% RWA банка) – фактический минимум выше 10.5%/12%; точная величина требования на 30.06.2026 в источниках не раскрыта (оценка ≈+1.7 п.п.)"
+   },
+   "equity_reconciliation": {
+    "value": {
+     "open": 2491.843,
+     "ni": 506.127,
+     "oci": 20.81,
+     "div": -323.201,
+     "buyback": -28.368,
+     "sbc": 5.484,
+     "other": -33.579,
+     "close": 2639.116,
+     "calc_close": 2639.116,
+     "diff": 0.0
+    },
+    "formula": "капитал акционеров нач. + ЧП + ПСД − дивиденды − выкуп ± начисленные опционы ± изменения долей НКД = капитал кон.",
+    "src": "KSPI_6K_20260812_ex1.txt стр.6 (прочее: докупка доли Hepsiburada −33,579)"
+   },
+   "dividends_declared": {
+    "value": 323.201,
+    "src": "KSPI_6K_20260812_ex1.txt прим.14, 19; KSPI_6K_20260910_ex1.txt"
+   },
+   "dividends_paid_cf": {
+    "value": 323.201,
+    "src": "KSPI_6K_20260812_ex1.txt прим.14, 19; KSPI_6K_20260910_ex1.txt"
+   },
+   "dps": {
+    "value": 1700,
+    "src": "KSPI_6K_20260812_ex1.txt прим.14, 19; KSPI_6K_20260910_ex1.txt; апрель 850, июнь 850; 09.09.2026 ВОСА утвердило 1,000 за 2К2026 (после отчётной даты)"
+   },
+   "payout_prev_year": {
+    "value": 0.3012,
+    "formula": "дивиденды 1П2026 / ЧП акционерам FY2025 (только полугодие)"
+   },
+   "buyback": {
+    "value": 28.368,
+    "units_ads": 737578,
+    "src": "отчёт об изменениях в капитале / прим. Share capital"
+   },
+   "shares_outstanding": {
+    "value": 190027266,
+    "src": "KSPI_6K_20260812_ex1.txt стр.5 (баланс 30.06.2026), прим.9,10,11,13 прим. Share capital (выпущено 199,500,000, за вычетом казначейских)"
+   },
+   "bvps": {
+    "value": 13888.0,
+    "formula": "капитал акционеров / акции в обращении (тенге); привилегированных акций у Kaspi.kz нет"
+   },
+   "preferred_shares": {
+    "value": 0,
+    "src": "у АО Kaspi.kz один класс простых акций; привилег. акции Kaspi Bank (у НКД) – долговой компонент 0.161 млрд (прим.20 20-F 2025)"
+   },
+   "eps_basic": {
+    "value": 2665,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,5,6,7,8,11"
+   },
+   "eps_diluted": {
+    "value": 2654,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,5,6,7,8,11"
+   },
+   "weighted_avg_shares_basic": {
+    "value": 189932402,
+    "src": "KSPI_6K_20260812_ex1.txt стр.3 (ОПиУ), прим.4,5,6,7,8,11"
+   },
+   "eps_check": {
+    "value": 2664.8,
+    "formula": "ЧП акционерам / средневзв. число акций"
+   },
+   "related_parties": {
+    "loans": 0.006,
+    "loans_category": "компании под контролем КУП",
+    "deposits": 12.51,
+    "deposits_split_mln": "компании КУП 1,987; КУП 10,482; прочие 41",
+    "interest_income": 0.044,
+    "interest_expense": 0.996,
+    "guarantees": 0,
+    "loans_pct_equity": 0.0,
+    "deposits_pct_equity": 0.00474,
+    "other": "закупки товаров у компаний КУП 4,863",
+    "src": "KSPI_6K_20260812_ex1.txt прим.17"
+   },
+   "auditor": {
+    "value": "Обзорная (не аудит) – Deloitte, KASE KSPI_H1_2026.pdf стр.4; 6-K помечен unaudited",
+    "src": "аудиторские заключения 20-F/F-1A/KASE"
+   }
+  },
+  "FY2020_ref": {
+   "note": "только для средних величин",
+   "total_assets": {
+    "value": 2806.742,
+    "src": "reports/KSPI_FY2021.pdf стр.11"
+   },
+   "loans_net": {
+    "value": 1404.554,
+    "src": "reports/KSPI_FY2021.pdf стр.11"
+   },
+   "loans_gross": {
+    "value": 1526.443,
+    "formula": "кредиты нетто 1,404,554 + резерв 121,889 (Stage1-3 на 31.12.2020, 20-F 2023 прим.7)"
+   },
+   "equity_attributable": {
+    "value": 391.118,
+    "src": "reports/KSPI_FY2021.pdf стр.11"
+   },
+   "net_income_attributable": {
+    "value": 260.964,
+    "src": "reports/KSPI_FY2021.pdf стр.9"
+   },
+   "nim_disclosed_group": {
+    "value": 0.085,
+    "src": "KSPI_F-1A_2024.txt SSI"
+   },
+   "cost_of_risk_disclosed": {
+    "value": 0.018,
+    "src": "KSPI_F-1A_2024.txt"
+   }
+  }
+ },
+ "checks": [
+  {
+   "period": "FY2021",
+   "check": "сумма стадий = итог брутто/резерв",
+   "result": "OK"
+  },
+  {
+   "period": "FY2021",
+   "check": "сверка капитала акционеров (rollforward)",
+   "result": "diff = 0 млн KZT"
+  },
+  {
+   "period": "FY2021",
+   "check": "EPS ≈ ЧП/средневзв. акции",
+   "result": "расчёт 2247.4 vs отчёт 2247"
+  },
+  {
+   "period": "FY2022",
+   "check": "сумма стадий = итог брутто/резерв",
+   "result": "OK"
+  },
+  {
+   "period": "FY2022",
+   "check": "сверка капитала акционеров (rollforward)",
+   "result": "diff = 0 млн KZT"
+  },
+  {
+   "period": "FY2022",
+   "check": "EPS ≈ ЧП/средневзв. акции",
+   "result": "расчёт 3051.4 vs отчёт 3051"
+  },
+  {
+   "period": "FY2023",
+   "check": "сумма стадий = итог брутто/резерв",
+   "result": "OK"
+  },
+  {
+   "period": "FY2023",
+   "check": "сверка капитала акционеров (rollforward)",
+   "result": "diff = 0 млн KZT"
+  },
+  {
+   "period": "FY2023",
+   "check": "EPS ≈ ЧП/средневзв. акции",
+   "result": "расчёт 4431.4 vs отчёт 4431"
+  },
+  {
+   "period": "FY2024",
+   "check": "сумма стадий = итог брутто/резерв",
+   "result": "OK"
+  },
+  {
+   "period": "FY2024",
+   "check": "сверка капитала акционеров (rollforward)",
+   "result": "diff = 0 млн KZT"
+  },
+  {
+   "period": "FY2024",
+   "check": "EPS ≈ ЧП/средневзв. акции",
+   "result": "расчёт 5477.2 vs отчёт 5477"
+  },
+  {
+   "period": "FY2025",
+   "check": "сумма стадий = итог брутто/резерв",
+   "result": "OK"
+  },
+  {
+   "period": "FY2025",
+   "check": "сверка капитала акционеров (rollforward)",
+   "result": "diff = 0 млн KZT"
+  },
+  {
+   "period": "FY2025",
+   "check": "EPS ≈ ЧП/средневзв. акции",
+   "result": "расчёт 5631.1 vs отчёт 5631"
+  },
+  {
+   "period": "H1_2025",
+   "check": "сверка капитала акционеров (rollforward)",
+   "result": "diff = 0 млн KZT"
+  },
+  {
+   "period": "H1_2025",
+   "check": "EPS ≈ ЧП/средневзв. акции",
+   "result": "расчёт 2675.3 vs отчёт 2675"
+  },
+  {
+   "period": "H1_2026",
+   "check": "сумма стадий = итог брутто/резерв",
+   "result": "OK"
+  },
+  {
+   "period": "H1_2026",
+   "check": "сверка капитала акционеров (rollforward)",
+   "result": "diff = 0 млн KZT"
+  },
+  {
+   "period": "H1_2026",
+   "check": "EPS ≈ ЧП/средневзв. акции",
+   "result": "расчёт 2664.8 vs отчёт 2665"
+  },
+  {
+   "check": "KASE (скан, рус.) vs SEC: итоги активов, кредиты нетто, средства клиентов, капитал, ЧП",
+   "result": "OK – совпадают до 1 млн во всех периодах: FY2021 стр.11/9, FY2022 стр.11/9, FY2023 стр.11/9, FY2024 стр.11/9, FY2025 стр.12/10, 1П2026 стр.7/5 (визуальная сверка отрендеренных страниц; OCR-файлы KSPI на момент работы не готовы – /tmp/claude-0/ocr.log пуст по KSPI)"
+  },
+  {
+   "check": "KASE FY2021 ОПиУ: структура выручки",
+   "result": "KASE FY2021/FY2022 (оригинальная презентация): сборы/комиссии/транзакц. доходы раздельно, прочие доходы 2021 −2,074 млн; в SEC/последующих отчётах реклассифицировано: Net fee revenue 467,493 и Other losses −4,746 (перенос 2,672 млн). Итог выручки 884,822 и ЧП 435,214 совпадают – реклассификация, не рестейтмент"
+  },
+  {
+   "check": "Рестейтменты балансов",
+   "result": "Сравнительные данные следующего года совпадают с исходными по всем итогам. Реклассификации: 2024 – гудвил, запасы и торговые обязательства выделены из прочих активов/обязательств (20-F 2025); 1П2026 – отложенный налог выделен из прочих обязательств (Dec-2025: 254,148 → 182,900 + 71,409 – итог тот же). Рестейтмент только раскрытия иерархии справедливой стоимости 2021-2022 (F-1A, 20-F 2023 прим.24)"
+  },
+  {
+   "check": "XBRL kspi_facts.json vs текст",
+   "result": "OK: Assets, EquityAttributableToOwnersOfParent, ProfitLossAttributableToOwnersOfParent, LoansAndAdvancesToCustomers, DepositsFromCustomers, InterestRevenue, InterestExpense (2025: 825,849 – без fees), DividendsPaid – совпадают. Замечание: EquityAndLiabilities размечен в единице 'TJS' (ошибка разметки XBRL, значение = KZT)"
+  },
+  {
+   "check": "Резерв по кредитам: сверка движения (прим.7) с балансом (прим.12)",
+   "result": "OK: сумма столбцов Stage1-3+POCI на конец года = allowance в прим.12 (2021 142,416; 2022 214,702; 2023 242,532; 2024 295,843; 2025 371,764; 1П2026 415,933). Расход по кредитам = сумма 'Total effect' по столбцам кредитов (2021 31,981; 2022 53,245; 2023 76,888; 2024 110,293; 2025 158,408; 1П25 79,972; 1П26 105,360)"
+  },
+  {
+   "check": "Расчётный NIM vs раскрытый",
+   "result": "Расчётный (по остаткам на начало/конец года) ниже раскрытого на 0.1-0.7 п.п.: 2021 8.7% vs 8.8%, 2022 7.4% vs 8.1%, 2023 6.5% vs 6.8%, 2024 6.7% vs 7.0%, 2025 9.0% vs 9.2%. Причина – раскрытый NIM на среднемесячных остатках и IEA без нетекущих счетов в банках; тренд совпадает. ЧПД 2023: 355,506 по ОПиУ vs 355,848 в таблице SSI (там процентный доход 833,858 vs 833,516 в ОПиУ – расхождение 342 млн внутри 20-F)"
+  },
+  {
+   "check": "Расчётный CoR vs раскрытый",
+   "result": "Близко: расчётный 2021 1.6%, 2022 1.8%, 2023 2.0%, 2024 2.1%, 2025 2.3% vs раскрытый 1.6/1.9/2.0/2.1/2.2% (раскрытый – на среднемесячных брутто; 2025 группа 2.3%, Казахстан ~2.2% – Hepsiburada)"
+  },
+  {
+   "check": "Дивиденды объявленные = выплаченные (ОДДС)",
+   "result": "OK во всех периодах (2021 340,362; 2022 210,102; 2023 560,132; 2024 646,056; 2025 0; 1П2026 323,201)"
+  },
+  {
+   "check": "Выкуп: прим. Share capital vs отчёт о капитале vs ОДДС",
+   "result": "OK: 2022 63,672; 2023 60,703; 2024 2,852; 2025 21,907; 1П2026 28,368; 7-я программа итого 1,297,131 ADS / 50,274 млн (= 21,907 + 28,368 – 1)"
+  },
+  {
+   "check": "Акции в обращении: KASE BVPS-лист FY2021 vs SEC",
+   "result": "OK: 192,187,223 (2021) и 191,805,000 (2020); KASE-методика BVPS (за вычетом НМА) = 2,552 тенге (2021) vs наш BVPS 2,600 тенге"
+  }
+ ],
+ "red_flags": [
+  "Рост проблемных кредитов опережает портфель: Stage3+POCI 5.4% (2021) → 9.6% (2025) → 10.8% (1П2026); NPL>90д 4.7% → 6.2% → 7.0%; покрытие NPL общим резервом упало с 118% (2021) до 80% (2025) и 76% (1П2026). Компания объясняет ростом доли автокредитов и кредитов мерчантам",
+  "Реструктуризации NPL (беспроцентное удлинение графика): 55 млрд (2022) → 99 (2023) → 138 (2024) → 185 (2025) → 136 млрд за 1П2026; реструктурированные Stage3 145 млрд на 31.12.2025 и 179 млрд на 30.06.2026; растущий 'Modification effect' в резервах (8.4 → 48.2 млрд 2022→2025; 32.6 млрд за 1П2026)",
+  "В 2022 г. изменён критерий списания (761 → 1,080 дней просрочки) – оставил на балансе 19.6 млрд брутто / 13.0 млрд резерва; завышает Stage3 и затрудняет сопоставимость",
+  "Тонкий запас капитала Kaspi Bank по НБРК: k1-2 11.5-12.7%, k2 12.7-13.1% при минимумах D-SIB 10.5%/12% (FY2021-FY2025); k2 = k1-2 после погашения субординированного долга (июль 2025); с 01.04.2026 добавлен секторальный буфер 2% на розничные RWA (83% RWA). 1П2026: 14.1%. k1 не раскрывается",
+  "Высокий payout и выкупы: дивиденды 2021 = 130% ЧП 2020; 2023 – 96% ЧП 2022; 2024 – 77%; в 2025 дивиденды не объявлялись (исключение из политики ≥50%, совпало с покупкой Hepsiburada ~$1.13 млрд + Eurobond $650 млн); с 2026 возобновлены (850, 850, 1,000 тенге)",
+  "Приобретение Hepsiburada (Турция, 29.01.2025): гудвил 422 млрд (447 млрд на 31.12.2025 = 18% капитала акционеров), запас по стресс-тесту обесценения – только +1 п.п. WACC; Hepsiburada убыточна (−68 млрд ЧП 2025; Турция −93 млрд); гиперинфляционный учёт (IAS 29); докупка долей до 86.74% (выкуп НКД −33.7 млрд в 2025 и −57.2 млрд в 1П2026 через нераспределённую прибыль)",
+  "Сделки со связанными сторонами: покупка 39.76% Kolesa у фонда Baring Vostok (акционер Kaspi) за 42.2 млрд (2023) + контроль через доверительное управление 11% акций М. Ломтадзе (консолидация при 39.6% экономической доли); до 2023 – комиссии Kolesa за автокредиты (10.98 млрд 2021); покупки недвижимости у компаний КУП (4.8 + 1.7 млрд 2023; 2.2 млрд 2024); закупки у Magnum (В. Ким). Объёмы малы относительно капитала (<1%)",
+  "Material weaknesses ВКФО (выявлены за 2021-2022, не устранены на 31.12.2023; устранены в 2024); рестейтмент раскрытия иерархии справедливой стоимости 2021-2022",
+  "Коллективный иск в Нью-Йорке (16.04.2025) по IPO 2024 – утверждения о вводящих в заблуждение раскрытиях о связях с Россией; резерв не создан (вероятность убытка оценена как remote)",
+  "Рост стоимости фондирования: процентные расходы/средние срочные депозиты 13.0% (2025), cost of funding 14.5% во 2К2026; рост обязательных резервов НБРК (305 → 470 млрд, не приносят доход); первый в 2026 г. Eurobond-долг в USD (доля обязательств в ин. валюте 15% на 2025)"
+ ],
+ "notes": [
+  "Kaspi.kz – экосистема, а не классический банк: ОПиУ не содержит строк 'процентные доходы/расходы' банковского формата; использованы Interest revenue и Interest expenses (без 'fees for collection of credit card receivables' Hepsiburada: 82.8 млрд 2025, 27.0 млрд 1П25, 43.7 млрд 1П26). Комиссионные доходы = Fee revenue до вычета Rewards; комиссионные расходы – прокси: Transaction expenses. Операционные расходы включают себестоимость товаров ритейла (Marketplace), поэтому Cost/Income не сопоставим с банками.",
+  "Все кредиты отнесены к сегменту Fintech; все процентные расходы (2021-2024) отнесены к Fintech; в 2025 г. к Fintech отнесено 763,964 млн (остальное – Турция). 'nim_fintech_segment_calc' = (процентная выручка Fintech − процентные расходы Fintech)/средние кредиты нетто. Компания раскрывает Fintech Yield (процент.+комисс. доход Fintech / средний чистый портфель): 30% 2021, 27% 2022, 26% 2023, 24% 2024, 24% 2025; портфельная доходность 2К2026 ~6% за квартал.",
+  "С 2026 г. показатель результата сегментов – adjusted EBITDA (non-IFRS); чистая прибыль по сегментам за 1П2025/1П2026 не раскрывается.",
+  "NIM, раскрытый компанией (группа, по среднемесячным остаткам): 2020 8.5%, 2021 8.8%, 2022 8.1%, 2023 6.8%, 2024 7.0%, 2025 9.2%. Отдельного NIM Kaspi Bank в источниках нет.",
+  "Нормативы капитала относятся к АО «Kaspi Bank» (доля группы 98.95%); k1 (базовый капитал) не раскрывается; Базель III Tier1/Total – на консолидированной отчётности банка.",
+  "1П2025: баланс на 30.06.2025 не раскрыт (6-K содержит сравнение с 31.12.2025), поэтому активы/кредиты/NIM/CoR/ROA за 1П2025 = null; ROE считается по капиталу из отчёта об изменениях в капитале.",
+  "Rahat: упоминаний в предоставленных файлах SEC нет – данных не извлекалось. Прочие M&A: Magnum E-commerce (90.01%, 2023, bargain purchase 1.1 млрд), Kolesa (2023, гудвил ~34 млрд → 17.4 млрд после окончательной оценки в 2024), Hepsiburada (2025), продажа Portmone (Украина, 2025, без существенного результата), Rabobank A.Ş. → Hepsi Bank (закрыто 14.07.2026, капитализация ~$300 млн планируется).",
+  "Концентрация: Kaspi не выдавал кредитов, превышающих 10% капитала; топ-20 вкладчиков: 1.50% (2021), 2.72% (2022), 1.80% (2023), 1.16% (2024), 1.04% (2025), 1.3% (1П2026) средств клиентов. Топ-10/20 заёмщиков не раскрываются (розничный портфель). Средства клиентов в KZT: 87% (2022), 91% (2023-24), 93% (2025, 1П2026).",
+  "Акционеры (30.06.2026): М. Ломтадзе 23.04%, В. Ким 20.06%, Baring Funds 19.00%, публичные 33.87%, менеджмент 4.03%. Директора и руководство как группа – 46.18% (31.01.2026).",
+  "OCR KASE-файлов KSPI фоновым процессом к моменту работы не был готов (лог /tmp/claude-0/ocr.log без 'done KSPI_*'); сверка с KASE выполнена визуально по отрендеренным страницам (pdftoppm) – ОПиУ, баланс, прим. 'Регуляторные вопросы' (FY2025 стр.78), прим.10 (FY2021 стр.51), аудиторское заключение FY2021 стр.4-5."
+ ]
+}
