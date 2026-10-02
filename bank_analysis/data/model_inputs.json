@@ -166,7 +166,7 @@
    "eps_ltm": 1.55,
    "coe": 0.21,
    "roe_sust": 0.2,
-   "t_div": 0.0,
+   "t_div": 0.05,
    "t_cg": 0.0,
    "probs": {
     "bear": 0.25,
