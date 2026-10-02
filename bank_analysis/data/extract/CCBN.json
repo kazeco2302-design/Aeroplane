@@ -1,0 +1,2604 @@
+{
+ "ticker": "CCBN",
+ "units": "млрд тенге (если не указано иное; EPS/BVPS — тенге, акции — штук, коэффициенты — доли)",
+ "entity": "АО «Банк ЦентрКредит» (BCC), консолидированная отчетность Группы по МСФО; аудитор ТОО «КПМГ Аудит»",
+ "periods": {
+  "FY2020": {
+   "total_assets": {
+    "value": 1857.3,
+    "src": "CCBN_FY2021.pdf стр.12 (сравн., OCR)"
+   },
+   "cash_equiv": {
+    "value": 279.3,
+    "src": "CCBN_FY2021.pdf стр.12"
+   },
+   "cash_in_hand": {
+    "value": 57.0,
+    "src": "CCBN_FY2021.pdf прим.13 стр.54"
+   },
+   "fvtpl": {
+    "value": 26.0,
+    "src": "CCBN_FY2021.pdf стр.12"
+   },
+   "inv_securities": {
+    "value": 312.9,
+    "src": "CCBN_FY2021.pdf стр.12"
+   },
+   "due_from_banks": {
+    "value": 63.4,
+    "src": "CCBN_FY2021.pdf стр.12"
+   },
+   "loans_net_clients_banks": {
+    "value": 1009.5,
+    "src": "CCBN_FY2021.pdf стр.12 = прим.17 1,009,473"
+   },
+   "loans_gross_clients": {
+    "value": 1078.7,
+    "src": "CCBN_FY2021.pdf прим.17 стр.57"
+   },
+   "ecl_clients": {
+    "value": 115.0,
+    "src": "CCBN_FY2021.pdf прим.17 стр.57"
+   },
+   "customer_accounts": {
+    "value": 1189.3,
+    "src": "CCBN_FY2021.pdf стр.12"
+   },
+   "equity_total": {
+    "value": 131.7,
+    "src": "CCBN_FY2021.pdf стр.12"
+   },
+   "equity_sh": {
+    "value": 131.7,
+    "src": "CCBN_FY2021.pdf стр.12"
+   },
+   "s1_gross": {
+    "value": 762.2,
+    "src": "CCBN_FY2021.pdf прим.4 стр.47"
+   },
+   "s2_gross": {
+    "value": 97.1,
+    "src": "CCBN_FY2021.pdf прим.4 стр.47"
+   },
+   "s3_gross": {
+    "value": 218.1,
+    "src": "CCBN_FY2021.pdf прим.4 стр.47"
+   },
+   "poci_gross": {
+    "value": 1.4,
+    "src": "CCBN_FY2021.pdf прим.4 стр.47"
+   },
+   "s1_ecl": {
+    "value": 5.5,
+    "src": "CCBN_FY2021.pdf прим.4"
+   },
+   "s2_ecl": {
+    "value": 6.8,
+    "src": "CCBN_FY2021.pdf прим.4"
+   },
+   "s3_ecl": {
+    "value": 102.7,
+    "src": "CCBN_FY2021.pdf прим.4"
+   },
+   "poci_ecl": {
+    "value": 0.0,
+    "src": "CCBN_FY2021.pdf прим.4"
+   },
+   "nii": {
+    "value": 62.2,
+    "src": "CCBN_FY2021.pdf стр.9"
+   },
+   "ecl_loans_pl": {
+    "value": 48.2,
+    "src": "CCBN_FY2021.pdf стр.9"
+   },
+   "net_profit": {
+    "value": 12.5,
+    "src": "CCBN_FY2021.pdf стр.10"
+   },
+   "net_profit_sh": {
+    "value": 12.5,
+    "src": "CCBN_FY2021.pdf стр.10"
+   },
+   "iea_bank": {
+    "value": 1461.6,
+    "src": "CCBN_FY2021.pdf прим.27 стр.91"
+   },
+   "eps_basic": {
+    "value": 74.39,
+    "src": "CCBN_FY2021.pdf стр.10"
+   },
+   "shares_common_out": {
+    "value": 172249571,
+    "src": "CCBN_FY2021.pdf прим.25 стр.75"
+   },
+   "shares_treasury": {
+    "value": 7760328,
+    "src": "CCBN_FY2021.pdf прим.25"
+   },
+   "k1": {
+    "value": 0.115,
+    "src": "CCBN_FY2021.pdf прим.28 стр.95"
+   },
+   "k1_2": {
+    "value": 0.115,
+    "src": "CCBN_FY2021.pdf прим.28"
+   },
+   "k2": {
+    "value": 0.191,
+    "src": "CCBN_FY2021.pdf прим.28"
+   },
+   "k1_min": {
+    "value": 0.065,
+    "src": "CCBN_FY2021.pdf прим.28"
+   },
+   "k1_2_min": {
+    "value": 0.075,
+    "src": "CCBN_FY2021.pdf прим.28"
+   },
+   "k2_min": {
+    "value": 0.09,
+    "src": "CCBN_FY2021.pdf прим.28"
+   },
+   "stage3_poci_share": {
+    "value": 0.2034,
+    "formula": "(Stage3 + POCI брутто) / сумма брутто по стадиям (кредиты клиентам)"
+   },
+   "stage3_coverage_s3": {
+    "value": 0.4709,
+    "formula": "резерв Stage3 / брутто Stage3"
+   },
+   "stage3_coverage_total": {
+    "value": 0.5241,
+    "formula": "весь резерв по кредитам клиентам / (Stage3+POCI брутто)"
+   },
+   "nim_bank_iea": {
+    "value": null,
+    "formula": "ЧПД / среднее (нач.+кон.)/2 активов, по которым начисляются проценты, из таблицы процентного риска банка (ДС и эквиваленты с %, ФИ ССПУ, инв. ЦБ ССПСД и АС, средства в банках, ссуды клиентам и банкам)"
+   },
+   "iea_broad": {
+    "value": 1634.1,
+    "formula": "(ДС и эквиваленты − наличные в кассе) + ФИ ССПУ + инвестиционные ЦБ + средства в банках + ссуды клиентам и банкам (нетто, вкл. обратное РЕПО и фин.аренду)"
+   },
+   "nim_broad": {
+    "value": null,
+    "formula": "ЧПД / среднее iea_broad"
+   },
+   "roe": {
+    "value": null,
+    "formula": "ЧП акционерам / средний капитал акционеров"
+   },
+   "roa": {
+    "value": null,
+    "formula": "ЧП / средние активы"
+   },
+   "op_income_pre_prov": {
+    "value": 62.2,
+    "formula": "ЧПД до резервов + чистый комиссионный + ССПУ + ССПСД + FX + первонач. признание + прочие доходы (+страх. результат с 2026); без резервов/обесценения и без дохода от выгодного приобретения"
+   },
+   "cost_income": {
+    "value": null,
+    "formula": "операционные расходы / op_income_pre_prov"
+   },
+   "bvps_calc": {
+    "value": 765.0,
+    "formula": "капитал акционеров / простые акции в обращении (префы ~0.2 млрд не вычитались — несущественно), тенге"
+   },
+   "ltd": {
+    "value": 0.8488,
+    "formula": "ссуды клиентам и банкам нетто / средства клиентов"
+   },
+   "shareholders_pct": {
+    "value": {
+     "Байсеитов Б.Р.": 52.56,
+     "Ли В.С.": 11.43,
+     "Аманкулов Д.Р.": 3.71
+    },
+    "src": "CCBN_FY2021.pdf прим.1 стр.17"
+   },
+   "related_parties_bn": {
+    "value": {
+     "loans_gross": 21.5,
+     "of_which_common_control_usd": 21.4,
+     "ecl": null,
+     "deposits": 7.5,
+     "loans_gross_pct_equity": 0.1632
+    },
+    "src": "CCBN_FY2021.pdf прим.33 стр.103 (сравн.); ставка по USD-займу 7.24%"
+   }
+  },
+  "FY2021": {
+   "total_assets": {
+    "value": 2079.3,
+    "src": "CCBN_FY2022.pdf стр.13 (сравн., OCR; сумма строк сверена)"
+   },
+   "cash_equiv": {
+    "value": 261.5,
+    "src": "CCBN_FY2022.pdf стр.13"
+   },
+   "cash_in_hand": {
+    "value": 46.3,
+    "src": "CCBN_FY2022.pdf прим.14 стр.59"
+   },
+   "fvtpl": {
+    "value": 33.1,
+    "src": "CCBN_FY2022.pdf стр.13"
+   },
+   "inv_securities": {
+    "value": 475.1,
+    "src": "CCBN_FY2022.pdf стр.13"
+   },
+   "due_from_banks": {
+    "value": 13.0,
+    "src": "CCBN_FY2022.pdf стр.13"
+   },
+   "loans_net_clients_banks": {
+    "value": 1138.7,
+    "src": "CCBN_FY2022.pdf стр.13 = прим.18 1,138,701"
+   },
+   "loans_gross_clients": {
+    "value": 1195.3,
+    "src": "CCBN_FY2022.pdf прим.18 стр.62"
+   },
+   "ecl_clients": {
+    "value": 92.4,
+    "src": "CCBN_FY2022.pdf прим.18 стр.62"
+   },
+   "loans_net_clients": {
+    "value": 1102.8,
+    "src": "CCBN_FY2022.pdf прим.18 стр.62"
+   },
+   "customer_accounts": {
+    "value": 1353.7,
+    "src": "CCBN_FY2022.pdf стр.13 = 1,353,707"
+   },
+   "equity_total": {
+    "value": 150.8,
+    "src": "CCBN_FY2022.pdf стр.13"
+   },
+   "equity_sh": {
+    "value": 150.8,
+    "src": "CCBN_FY2022.pdf стр.13 (неконтр. доли нет)"
+   },
+   "nci": {
+    "value": 0.0,
+    "src": "CCBN_FY2022.pdf стр.13"
+   },
+   "share_capital": {
+    "value": 63.6,
+    "src": "CCBN_FY2022.pdf стр.13"
+   },
+   "s1_gross": {
+    "value": 986.3,
+    "src": "CCBN_FY2022.pdf прим.5 стр.52"
+   },
+   "s2_gross": {
+    "value": 48.4,
+    "src": "CCBN_FY2022.pdf прим.5 стр.52"
+   },
+   "s3_gross": {
+    "value": 157.5,
+    "src": "CCBN_FY2022.pdf прим.5 стр.52"
+   },
+   "poci_gross": {
+    "value": 3.0,
+    "src": "CCBN_FY2022.pdf прим.5 стр.52"
+   },
+   "s1_ecl": {
+    "value": 6.7,
+    "src": "CCBN_FY2022.pdf прим.5 стр.52"
+   },
+   "s2_ecl": {
+    "value": 7.2,
+    "src": "CCBN_FY2022.pdf прим.5 стр.52"
+   },
+   "s3_ecl": {
+    "value": 78.5,
+    "src": "CCBN_FY2022.pdf прим.5 стр.52"
+   },
+   "poci_ecl": {
+    "value": 0.0,
+    "src": "CCBN_FY2022.pdf прим.5 стр.52"
+   },
+   "int_income": {
+    "value": 148.3,
+    "src": "CCBN_FY2022.pdf стр.10 / прим.6"
+   },
+   "int_expense": {
+    "value": 81.0,
+    "src": "CCBN_FY2022.pdf стр.10"
+   },
+   "nii": {
+    "value": 67.3,
+    "src": "CCBN_FY2022.pdf стр.10"
+   },
+   "ecl_loans_note": {
+    "value": 27.4,
+    "src": "CCBN_FY2022.pdf прим.7 стр.54"
+   },
+   "ecl_loans_pl": {
+    "value": 27.4,
+    "src": "CCBN_FY2022.pdf стр.10"
+   },
+   "fee_income": {
+    "value": 28.1,
+    "src": "CCBN_FY2022.pdf стр.10 / прим.8"
+   },
+   "fee_expense": {
+    "value": 11.3,
+    "src": "CCBN_FY2022.pdf стр.10"
+   },
+   "fvtpl_gain": {
+    "value": 4.8,
+    "src": "CCBN_FY2022.pdf стр.10"
+   },
+   "fvoci_gain": {
+    "value": 1.5,
+    "src": "CCBN_FY2022.pdf стр.10"
+   },
+   "fx_gain": {
+    "value": 9.2,
+    "src": "CCBN_FY2022.pdf стр.10"
+   },
+   "initial_recog": {
+    "value": 0.0,
+    "src": "CCBN_FY2022.pdf стр.10"
+   },
+   "other_income": {
+    "value": -2.1,
+    "src": "CCBN_FY2022.pdf стр.10"
+   },
+   "other_prov": {
+    "value": -2.0,
+    "src": "CCBN_FY2022.pdf стр.10"
+   },
+   "opex": {
+    "value": 46.6,
+    "src": "CCBN_FY2022.pdf стр.11"
+   },
+   "pbt": {
+    "value": 21.5,
+    "src": "CCBN_FY2022.pdf стр.11"
+   },
+   "tax": {
+    "value": 0.8,
+    "src": "CCBN_FY2022.pdf стр.11"
+   },
+   "net_profit": {
+    "value": 20.6,
+    "src": "CCBN_FY2022.pdf стр.11"
+   },
+   "net_profit_sh": {
+    "value": 20.6,
+    "src": "CCBN_FY2022.pdf стр.11"
+   },
+   "oci_sh": {
+    "value": -3.3,
+    "src": "CCBN_FY2022.pdf стр.12/14"
+   },
+   "buyback": {
+    "value": -1.8,
+    "src": "CCBN_FY2022.pdf стр.14: выкуп 617, выпуск (размещение 8,019,136 акций по 300 тг) +2,411"
+   },
+   "dividends_common": {
+    "value": 0.0,
+    "src": "CCBN_FY2022.pdf стр.14"
+   },
+   "np_common": {
+    "value": 20.6,
+    "src": "CCBN_FY2022.pdf прим.13"
+   },
+   "rwa": {
+    "value": 1096.8,
+    "src": "CCBN_FY2022.pdf прим.29"
+   },
+   "tier1": {
+    "value": 140.9,
+    "src": "CCBN_FY2022.pdf прим.29"
+   },
+   "total_cap_reg": {
+    "value": 217.3,
+    "src": "CCBN_FY2022.pdf прим.29"
+   },
+   "iea_bank": {
+    "value": 1715.6,
+    "src": "CCBN_FY2021.pdf прим.27 стр.90"
+   },
+   "eps_basic": {
+    "value": 114.86,
+    "src": "CCBN_FY2022.pdf стр.11 / прим.13"
+   },
+   "eps_diluted": {
+    "value": 114.87,
+    "src": "CCBN_FY2022.pdf стр.11"
+   },
+   "wavg_shares": {
+    "value": 179627165,
+    "src": "CCBN_FY2022.pdf прим.13 стр.58"
+   },
+   "shares_common_out": {
+    "value": 182503334,
+    "src": "CCBN_FY2022.pdf прим.26 стр.83"
+   },
+   "shares_treasury": {
+    "value": 5525701,
+    "src": "CCBN_FY2022.pdf прим.26 стр.83"
+   },
+   "shares_pref_out": {
+    "value": 123141,
+    "src": "CCBN_FY2022.pdf прим.26 стр.83"
+   },
+   "bvps_kase": {
+    "value": 793,
+    "src": "CCBN_FY2022.pdf стр.13 / прим.13"
+   },
+   "k1": {
+    "value": 0.128,
+    "src": "CCBN_FY2022.pdf прим.29 стр.103"
+   },
+   "k1_2": {
+    "value": 0.128,
+    "src": "CCBN_FY2022.pdf прим.29"
+   },
+   "k2": {
+    "value": 0.198,
+    "src": "CCBN_FY2022.pdf прим.29"
+   },
+   "k1_min": {
+    "value": 0.075,
+    "src": "CCBN_FY2022.pdf прим.29"
+   },
+   "k1_2_min": {
+    "value": 0.085,
+    "src": "CCBN_FY2022.pdf прим.29"
+   },
+   "k2_min": {
+    "value": 0.1,
+    "src": "CCBN_FY2022.pdf прим.29"
+   },
+   "stage3_poci_share": {
+    "value": 0.1343,
+    "formula": "(Stage3 + POCI брутто) / сумма брутто по стадиям (кредиты клиентам)"
+   },
+   "stage3_coverage_s3": {
+    "value": 0.4983,
+    "formula": "резерв Stage3 / брутто Stage3"
+   },
+   "stage3_coverage_total": {
+    "value": 0.5757,
+    "formula": "весь резерв по кредитам клиентам / (Stage3+POCI брутто)"
+   },
+   "nim_bank_iea": {
+    "value": 0.0424,
+    "formula": "ЧПД / среднее (нач.+кон.)/2 активов, по которым начисляются проценты, из таблицы процентного риска банка (ДС и эквиваленты с %, ФИ ССПУ, инв. ЦБ ССПСД и АС, средства в банках, ссуды клиентам и банкам)"
+   },
+   "iea_broad": {
+    "value": 1875.1,
+    "formula": "(ДС и эквиваленты − наличные в кассе) + ФИ ССПУ + инвестиционные ЦБ + средства в банках + ссуды клиентам и банкам (нетто, вкл. обратное РЕПО и фин.аренду)"
+   },
+   "nim_broad": {
+    "value": 0.0384,
+    "formula": "ЧПД / среднее iea_broad"
+   },
+   "cost_of_risk": {
+    "value": 0.0241,
+    "formula": "расходы на ОКУ по ссудам клиентам и банкам (примечание) / средние брутто-ссуды клиентам (нач.+кон.)/2"
+   },
+   "roe": {
+    "value": 0.1462,
+    "formula": "ЧП акционерам / средний капитал акционеров"
+   },
+   "roa": {
+    "value": 0.0105,
+    "formula": "ЧП / средние активы"
+   },
+   "op_income_pre_prov": {
+    "value": 97.5,
+    "formula": "ЧПД до резервов + чистый комиссионный + ССПУ + ССПСД + FX + первонач. признание + прочие доходы (+страх. результат с 2026); без резервов/обесценения и без дохода от выгодного приобретения"
+   },
+   "cost_income": {
+    "value": 0.4779,
+    "formula": "операционные расходы / op_income_pre_prov"
+   },
+   "equity_reconciliation": {
+    "value": {
+     "opening": 131.7,
+     "net_profit": 20.6,
+     "oci": -3.3,
+     "dividends_common": 0.0,
+     "buyback_net": -1.8,
+     "calc_closing": 150.8,
+     "reported_closing": 150.8,
+     "diff_mln": 0
+    },
+    "formula": "капитал акционеров нач. + ЧП + ПСД − дивиденды по простым − выкуп (нетто; отрицательное = продажа/выпуск акций) = кон."
+   },
+   "eps_check": {
+    "value": 114.86,
+    "formula": "ЧП держателям простых акций (млн×1e6) / средневзв. число простых акций, тенге"
+   },
+   "bvps_calc": {
+    "value": 826.0,
+    "formula": "капитал акционеров / простые акции в обращении (префы ~0.2 млрд не вычитались — несущественно), тенге"
+   },
+   "ltd": {
+    "value": 0.8412,
+    "formula": "ссуды клиентам и банкам нетто / средства клиентов"
+   },
+   "eff_tax_rate": {
+    "value": 0.0386,
+    "formula": "налог / прибыль до налога"
+   },
+   "auditor": {
+    "value": "ТОО «КПМГ Аудит»; немодифицированное мнение; КВА: ОКУ по ссудам клиентам",
+    "src": "CCBN_FY2021.pdf стр.3-5 (OCR); подписано 18.04.2022"
+   },
+   "shareholders_pct": {
+    "value": {
+     "Байсеитов Б.Р.": 50.16,
+     "Ли В.С.": 11.55,
+     "Аманкулов Д.Р.": 3.55
+    },
+    "src": "CCBN_FY2021.pdf прим.1 стр.17"
+   },
+   "related_parties_bn": {
+    "value": {
+     "loans_gross": 26.1,
+     "of_which_common_control_usd": 23.5,
+     "ecl": 9.5,
+     "deposits": 11.8,
+     "deposits_shareholders": 2.0,
+     "int_income": 0.28,
+     "int_expense": 0.48,
+     "ecl_charge": 2.07,
+     "loans_gross_pct_equity": 0.1731
+    },
+    "src": "CCBN_FY2022.pdf прим.34 стр.112-113; ставка USD-займа 12.50%"
+   },
+   "concentrations_events": {
+    "value": {
+     "cash_NBRK_gt10pct_capital": 177.9
+    },
+    "src": "CCBN_FY2021.pdf прим.13 стр.54"
+   },
+   "share_issue_detail": {
+    "value": "Март 2021: размещено 8,019,136 простых акций по 300 тг (2.4 млрд); 2020: 14,371,988 акций по 300 тг (4.3 млрд). Доля Байсеитова снизилась 52.56% → 50.16% → 49.04%",
+    "src": "CCBN_FY2021.pdf прим.1, прим.25; CCBN_FY2022.pdf прим.26"
+   }
+  },
+  "FY2022": {
+   "total_assets": {
+    "value": 4324.0,
+    "src": "CCBN_FY2023.pdf стр.11 (сравн., OCR)"
+   },
+   "cash_equiv": {
+    "value": 1136.0,
+    "src": "CCBN_FY2023.pdf стр.11"
+   },
+   "cash_in_hand": {
+    "value": 138.5,
+    "src": "CCBN_FY2023.pdf прим.14 стр.56"
+   },
+   "fvtpl": {
+    "value": 36.0,
+    "src": "CCBN_FY2023.pdf стр.11"
+   },
+   "inv_securities": {
+    "value": 913.4,
+    "src": "CCBN_FY2023.pdf стр.11"
+   },
+   "due_from_banks": {
+    "value": 35.8,
+    "src": "CCBN_FY2023.pdf стр.11"
+   },
+   "loans_net_clients_banks": {
+    "value": 2009.1,
+    "src": "CCBN_FY2023.pdf стр.11 = 2,009,113"
+   },
+   "loans_gross_clients": {
+    "value": 2033.3,
+    "src": "CCBN_FY2023.pdf прим.18 стр.60"
+   },
+   "ecl_clients": {
+    "value": 112.0,
+    "src": "CCBN_FY2023.pdf прим.18 стр.60"
+   },
+   "loans_net_clients": {
+    "value": 1921.4,
+    "src": "CCBN_FY2023.pdf прим.18 стр.60"
+   },
+   "customer_accounts": {
+    "value": 3273.1,
+    "src": "CCBN_FY2023.pdf стр.11 = 3,273,144"
+   },
+   "equity_total": {
+    "value": 273.9,
+    "src": "CCBN_FY2023.pdf стр.11"
+   },
+   "equity_sh": {
+    "value": 273.9,
+    "src": "CCBN_FY2023.pdf стр.11"
+   },
+   "nci": {
+    "value": 0.0,
+    "src": "CCBN_FY2023.pdf стр.11"
+   },
+   "share_capital": {
+    "value": 63.7,
+    "src": "CCBN_FY2023.pdf стр.11"
+   },
+   "s1_gross": {
+    "value": 1798.0,
+    "src": "CCBN_FY2023.pdf прим.5 стр.49"
+   },
+   "s2_gross": {
+    "value": 85.8,
+    "src": "CCBN_FY2023.pdf прим.5 стр.49"
+   },
+   "s3_gross": {
+    "value": 143.8,
+    "src": "CCBN_FY2023.pdf прим.5 стр.49"
+   },
+   "poci_gross": {
+    "value": 5.7,
+    "src": "CCBN_FY2023.pdf прим.5 стр.49"
+   },
+   "s1_ecl": {
+    "value": 13.9,
+    "src": "CCBN_FY2023.pdf прим.5 стр.49"
+   },
+   "s2_ecl": {
+    "value": 12.7,
+    "src": "CCBN_FY2023.pdf прим.5 стр.49"
+   },
+   "s3_ecl": {
+    "value": 84.9,
+    "src": "CCBN_FY2023.pdf прим.5 стр.49"
+   },
+   "poci_ecl": {
+    "value": 0.4,
+    "src": "CCBN_FY2023.pdf прим.5 стр.49"
+   },
+   "int_income": {
+    "value": 285.9,
+    "src": "CCBN_FY2023.pdf стр.8 (сравн.)"
+   },
+   "int_expense": {
+    "value": 150.6,
+    "src": "CCBN_FY2023.pdf стр.8"
+   },
+   "nii": {
+    "value": 135.2,
+    "src": "CCBN_FY2023.pdf стр.8"
+   },
+   "ecl_loans_note": {
+    "value": 41.7,
+    "src": "CCBN_FY2023.pdf прим.7 стр.51"
+   },
+   "ecl_loans_pl": {
+    "value": 41.7,
+    "src": "CCBN_FY2023.pdf стр.8"
+   },
+   "fee_income": {
+    "value": 48.7,
+    "src": "CCBN_FY2023.pdf прим.8"
+   },
+   "fee_expense": {
+    "value": 21.9,
+    "src": "CCBN_FY2023.pdf прим.8"
+   },
+   "fvtpl_gain": {
+    "value": -6.3,
+    "src": "CCBN_FY2023.pdf стр.8"
+   },
+   "fvoci_gain": {
+    "value": 0.4,
+    "src": "выведено: 62,399 − прочие строки стр.8 CCBN_FY2023.pdf; = реклассификация ПСД (358) стр.10"
+   },
+   "fx_gain": {
+    "value": 56.1,
+    "src": "CCBN_FY2023.pdf стр.8"
+   },
+   "initial_recog": {
+    "value": 0.0,
+    "src": "CCBN_FY2023.pdf стр.8"
+   },
+   "other_income": {
+    "value": -3.5,
+    "src": "CCBN_FY2023.pdf стр.8"
+   },
+   "other_prov": {
+    "value": -11.1,
+    "src": "CCBN_FY2023.pdf стр.8"
+   },
+   "bargain_gain": {
+    "value": 84.2,
+    "src": "CCBN_FY2023.pdf стр.9 / прим.4 (приобретение АО ДБ «Альфа-Банк»)"
+   },
+   "opex": {
+    "value": 88.3,
+    "src": "CCBN_FY2023.pdf стр.9"
+   },
+   "pbt": {
+    "value": 151.8,
+    "src": "CCBN_FY2023.pdf стр.9"
+   },
+   "tax": {
+    "value": 6.7,
+    "src": "CCBN_FY2023.pdf стр.9"
+   },
+   "net_profit": {
+    "value": 145.1,
+    "src": "CCBN_FY2023.pdf стр.9"
+   },
+   "net_profit_sh": {
+    "value": 145.1,
+    "src": "CCBN_FY2023.pdf стр.9"
+   },
+   "oci_sh": {
+    "value": -22.2,
+    "src": "CCBN_FY2023.pdf стр.12"
+   },
+   "buyback": {
+    "value": -0.1,
+    "src": "CCBN_FY2023.pdf стр.12: выпуск акций +122"
+   },
+   "dividends_common": {
+    "value": 0.0,
+    "src": "CCBN_FY2023.pdf стр.12"
+   },
+   "np_common": {
+    "value": 145.1,
+    "src": "CCBN_FY2023.pdf прим.13"
+   },
+   "rwa": {
+    "value": 1849.7,
+    "src": "CCBN_FY2023.pdf прим.29"
+   },
+   "tier1": {
+    "value": 259.1,
+    "src": "CCBN_FY2023.pdf прим.29"
+   },
+   "total_cap_reg": {
+    "value": 331.1,
+    "src": "CCBN_FY2023.pdf прим.29"
+   },
+   "iea_bank": {
+    "value": 3438.5,
+    "src": "CCBN_FY2023.pdf прим.28 (сравн.)"
+   },
+   "eps_basic": {
+    "value": 791.34,
+    "src": "CCBN_FY2023.pdf стр.9 / прим.13"
+   },
+   "eps_diluted": {
+    "value": 790.94,
+    "src": "CCBN_FY2023.pdf прим.13"
+   },
+   "wavg_shares": {
+    "value": 183379202,
+    "src": "CCBN_FY2023.pdf прим.13"
+   },
+   "shares_common_out": {
+    "value": 184722599,
+    "src": "CCBN_FY2023.pdf прим.13 стр.56"
+   },
+   "shares_pref_out": {
+    "value": 146382,
+    "src": "CCBN_FY2023.pdf прим.13 стр.56"
+   },
+   "bvps_kase": {
+    "value": 1397,
+    "src": "CCBN_FY2023.pdf прим.13 стр.56"
+   },
+   "k1": {
+    "value": 0.14,
+    "src": "CCBN_FY2023.pdf прим.29"
+   },
+   "k1_2": {
+    "value": 0.14,
+    "src": "CCBN_FY2023.pdf прим.29"
+   },
+   "k2": {
+    "value": 0.179,
+    "src": "CCBN_FY2023.pdf прим.29"
+   },
+   "k1_min": {
+    "value": 0.075,
+    "src": "CCBN_FY2023.pdf прим.29"
+   },
+   "k1_2_min": {
+    "value": 0.085,
+    "src": "CCBN_FY2023.pdf прим.29"
+   },
+   "k2_min": {
+    "value": 0.1,
+    "src": "CCBN_FY2023.pdf прим.29"
+   },
+   "stage3_poci_share": {
+    "value": 0.0735,
+    "formula": "(Stage3 + POCI брутто) / сумма брутто по стадиям (кредиты клиентам)"
+   },
+   "stage3_coverage_s3": {
+    "value": 0.5904,
+    "formula": "резерв Stage3 / брутто Stage3"
+   },
+   "stage3_coverage_total": {
+    "value": 0.749,
+    "formula": "весь резерв по кредитам клиентам / (Stage3+POCI брутто)"
+   },
+   "nim_bank_iea": {
+    "value": 0.0525,
+    "formula": "ЧПД / среднее (нач.+кон.)/2 активов, по которым начисляются проценты, из таблицы процентного риска банка (ДС и эквиваленты с %, ФИ ССПУ, инв. ЦБ ССПСД и АС, средства в банках, ссуды клиентам и банкам)"
+   },
+   "iea_broad": {
+    "value": 3991.7,
+    "formula": "(ДС и эквиваленты − наличные в кассе) + ФИ ССПУ + инвестиционные ЦБ + средства в банках + ссуды клиентам и банкам (нетто, вкл. обратное РЕПО и фин.аренду)"
+   },
+   "nim_broad": {
+    "value": 0.0461,
+    "formula": "ЧПД / среднее iea_broad"
+   },
+   "cost_of_risk": {
+    "value": 0.0258,
+    "formula": "расходы на ОКУ по ссудам клиентам и банкам (примечание) / средние брутто-ссуды клиентам (нач.+кон.)/2"
+   },
+   "roe": {
+    "value": 0.6835,
+    "formula": "ЧП акционерам / средний капитал акционеров"
+   },
+   "roa": {
+    "value": 0.0453,
+    "formula": "ЧП / средние активы"
+   },
+   "op_income_pre_prov": {
+    "value": 208.8,
+    "formula": "ЧПД до резервов + чистый комиссионный + ССПУ + ССПСД + FX + первонач. признание + прочие доходы (+страх. результат с 2026); без резервов/обесценения и без дохода от выгодного приобретения"
+   },
+   "cost_income": {
+    "value": 0.4231,
+    "formula": "операционные расходы / op_income_pre_prov"
+   },
+   "equity_reconciliation": {
+    "value": {
+     "opening": 150.8,
+     "net_profit": 145.1,
+     "oci": -22.2,
+     "dividends_common": 0.0,
+     "buyback_net": -0.1,
+     "calc_closing": 273.9,
+     "reported_closing": 273.9,
+     "diff_mln": 0
+    },
+    "formula": "капитал акционеров нач. + ЧП + ПСД − дивиденды по простым − выкуп (нетто; отрицательное = продажа/выпуск акций) = кон."
+   },
+   "eps_check": {
+    "value": 791.34,
+    "formula": "ЧП держателям простых акций (млн×1e6) / средневзв. число простых акций, тенге"
+   },
+   "bvps_calc": {
+    "value": 1482.0,
+    "formula": "капитал акционеров / простые акции в обращении (префы ~0.2 млрд не вычитались — несущественно), тенге"
+   },
+   "ltd": {
+    "value": 0.6138,
+    "formula": "ссуды клиентам и банкам нетто / средства клиентов"
+   },
+   "eff_tax_rate": {
+    "value": 0.0442,
+    "formula": "налог / прибыль до налога"
+   },
+   "auditor": {
+    "value": "ТОО «КПМГ Аудит»; немодифицированное мнение; КВА: (1) ОКУ по ссудам клиентам, (2) приобретение АО ДБ «Альфа-Банк» (оценка справедливой стоимости)",
+    "src": "CCBN_FY2022.pdf стр.3-5 (OCR); отчетность утв. 05.04.2023"
+   },
+   "shareholders_pct": {
+    "value": {
+     "Байсеитов Б.Р.": 49.04,
+     "Ли В.С.": 11.29,
+     "Аманкулов Д.Р.": 3.47
+    },
+    "src": "CCBN_FY2022.pdf прим.1 стр.18"
+   },
+   "related_parties_bn": {
+    "value": {
+     "loans_gross": 25.9,
+     "of_which_common_control_usd": 24.5,
+     "ecl": 15.1,
+     "deposits": 4.8,
+     "int_income": 1.62,
+     "int_expense": 0.37,
+     "ecl_charge": 5.6,
+     "loans_gross_pct_equity": 0.0946
+    },
+    "src": "CCBN_FY2022.pdf прим.34 / CCBN_FY2023.pdf прим.34 стр.108 (в FY2023 ставка по тому же займу показана 5.00% вместо 12.50% в FY2022)"
+   },
+   "concentrations_events": {
+    "value": {
+     "borrowers_gt10pct_capital": "2 заемщика, 77.5 млрд",
+     "clients_deposits_gt10pct": "1 клиент, 249.7 млрд",
+     "bank_gt10pct (НБРК)": 900.2
+    },
+    "src": "CCBN_FY2023.pdf прим.17-18,22 (сравн.)"
+   },
+   "roe_ex_bargain_gain": {
+    "value": 0.2868,
+    "formula": "(ЧП 145.1 − доход от выгодного приобретения 84.2) / средний капитал акционеров"
+   },
+   "net_profit_ex_bargain_gain": {
+    "value": 60.9,
+    "formula": "145.1 − 84.2 (налогом не облагался, CCBN_FY2022.pdf прим.12)"
+   }
+  },
+  "FY2023": {
+   "total_assets": {
+    "value": 5291.0,
+    "src": "CCBN_FY2023.pdf стр.11 (OCR); = сравн. CCBN_FY2024.pdf стр.11"
+   },
+   "cash_equiv": {
+    "value": 1353.3,
+    "src": "CCBN_FY2023.pdf стр.11"
+   },
+   "cash_in_hand": {
+    "value": 211.2,
+    "src": "CCBN_FY2023.pdf прим.14 стр.56"
+   },
+   "fvtpl": {
+    "value": 55.4,
+    "src": "CCBN_FY2023.pdf стр.11"
+   },
+   "inv_securities": {
+    "value": 690.4,
+    "src": "CCBN_FY2023.pdf стр.11"
+   },
+   "due_from_banks": {
+    "value": 39.5,
+    "src": "CCBN_FY2023.pdf стр.11"
+   },
+   "loans_net_clients_banks": {
+    "value": 2928.8,
+    "src": "CCBN_FY2023.pdf стр.11 = прим.18 2,928,849"
+   },
+   "loans_gross_clients": {
+    "value": 2894.0,
+    "src": "CCBN_FY2023.pdf прим.18 стр.60"
+   },
+   "ecl_clients": {
+    "value": 116.4,
+    "src": "CCBN_FY2023.pdf прим.18 стр.60"
+   },
+   "loans_net_clients": {
+    "value": 2777.6,
+    "src": "CCBN_FY2023.pdf прим.18 стр.60"
+   },
+   "customer_accounts": {
+    "value": 4022.1,
+    "src": "CCBN_FY2023.pdf стр.11 = 4,022,068"
+   },
+   "equity_total": {
+    "value": 419.4,
+    "src": "CCBN_FY2023.pdf стр.11"
+   },
+   "equity_sh": {
+    "value": 418.7,
+    "src": "CCBN_FY2023.pdf стр.11"
+   },
+   "nci": {
+    "value": 0.6,
+    "src": "CCBN_FY2023.pdf стр.11"
+   },
+   "share_capital": {
+    "value": 64.5,
+    "src": "CCBN_FY2023.pdf стр.11"
+   },
+   "s1_gross": {
+    "value": 2670.3,
+    "src": "CCBN_FY2023.pdf прим.5 стр.47"
+   },
+   "s2_gross": {
+    "value": 97.8,
+    "src": "CCBN_FY2023.pdf прим.5 стр.47"
+   },
+   "s3_gross": {
+    "value": 123.3,
+    "src": "CCBN_FY2023.pdf прим.5 стр.47"
+   },
+   "poci_gross": {
+    "value": 2.6,
+    "src": "CCBN_FY2023.pdf прим.5 стр.47"
+   },
+   "s1_ecl": {
+    "value": 25.6,
+    "src": "CCBN_FY2023.pdf прим.5 стр.47"
+   },
+   "s2_ecl": {
+    "value": 17.4,
+    "src": "CCBN_FY2023.pdf прим.5 стр.47"
+   },
+   "s3_ecl": {
+    "value": 73.3,
+    "src": "CCBN_FY2023.pdf прим.5 стр.47"
+   },
+   "poci_ecl": {
+    "value": 0.1,
+    "src": "CCBN_FY2023.pdf прим.5 стр.47"
+   },
+   "int_income": {
+    "value": 532.4,
+    "src": "CCBN_FY2023.pdf стр.8 / прим.6"
+   },
+   "int_expense": {
+    "value": 274.9,
+    "src": "CCBN_FY2023.pdf стр.8"
+   },
+   "nii": {
+    "value": 257.6,
+    "src": "CCBN_FY2023.pdf стр.8 / прим.6"
+   },
+   "ecl_loans_note": {
+    "value": 43.1,
+    "src": "CCBN_FY2023.pdf прим.7 стр.51"
+   },
+   "ecl_loans_pl": {
+    "value": 43.1,
+    "src": "CCBN_FY2023.pdf стр.8"
+   },
+   "fee_income": {
+    "value": 86.5,
+    "src": "CCBN_FY2023.pdf прим.8"
+   },
+   "fee_expense": {
+    "value": 45.1,
+    "src": "CCBN_FY2023.pdf прим.8"
+   },
+   "fvtpl_gain": {
+    "value": 9.3,
+    "src": "CCBN_FY2023.pdf стр.8"
+   },
+   "fvoci_gain": {
+    "value": 0.9,
+    "src": "CCBN_FY2024.pdf стр.8 (сравн.)"
+   },
+   "fx_gain": {
+    "value": 45.6,
+    "src": "CCBN_FY2023.pdf стр.8"
+   },
+   "initial_recog": {
+    "value": 0.0,
+    "src": "CCBN_FY2024.pdf стр.8"
+   },
+   "other_income": {
+    "value": 2.4,
+    "src": "CCBN_FY2023.pdf стр.8"
+   },
+   "other_prov": {
+    "value": -30.6,
+    "src": "CCBN_FY2023.pdf стр.8 (в т.ч. -27,534 резерв по гарантии одному контрагенту, прим.30)"
+   },
+   "opex": {
+    "value": 123.1,
+    "src": "CCBN_FY2023.pdf стр.9 / прим.11"
+   },
+   "pbt": {
+    "value": 160.3,
+    "src": "CCBN_FY2023.pdf стр.9"
+   },
+   "tax": {
+    "value": 25.0,
+    "src": "CCBN_FY2023.pdf стр.9"
+   },
+   "net_profit": {
+    "value": 135.2,
+    "src": "CCBN_FY2023.pdf стр.9"
+   },
+   "net_profit_sh": {
+    "value": 135.1,
+    "src": "CCBN_FY2023.pdf стр.9"
+   },
+   "oci_sh": {
+    "value": 9.0,
+    "src": "CCBN_FY2023.pdf стр.13"
+   },
+   "buyback": {
+    "value": -0.8,
+    "src": "CCBN_FY2023.pdf стр.13: выпуск (продажа казначейских) акций +822"
+   },
+   "dividends_common": {
+    "value": 0.0,
+    "src": "CCBN_FY2023.pdf стр.12-13"
+   },
+   "np_common": {
+    "value": 134.9,
+    "src": "CCBN_FY2023.pdf прим.13"
+   },
+   "rwa": {
+    "value": 2574.8,
+    "src": "CCBN_FY2023.pdf прим.29"
+   },
+   "tier1": {
+    "value": 397.3,
+    "src": "CCBN_FY2023.pdf прим.29"
+   },
+   "total_cap_reg": {
+    "value": 464.9,
+    "src": "CCBN_FY2023.pdf прим.29"
+   },
+   "iea_bank": {
+    "value": 4360.5,
+    "src": "CCBN_FY2023.pdf прим.28 (таблица процентного риска)"
+   },
+   "eps_basic": {
+    "value": 730.46,
+    "src": "CCBN_FY2023.pdf прим.13"
+   },
+   "eps_diluted": {
+    "value": 730.46,
+    "src": "CCBN_FY2023.pdf прим.13"
+   },
+   "wavg_shares": {
+    "value": 184733608,
+    "src": "CCBN_FY2023.pdf прим.13"
+   },
+   "shares_common_out": {
+    "value": 185377060,
+    "src": "CCBN_FY2023.pdf прим.26 / CCBN_FY2024.pdf прим.26 стр.78"
+   },
+   "shares_treasury": {
+    "value": 2651975,
+    "src": "CCBN_FY2024.pdf прим.26 стр.78"
+   },
+   "shares_pref_out": {
+    "value": 164239,
+    "src": "CCBN_FY2024.pdf прим.26 стр.78"
+   },
+   "bvps_kase": {
+    "value": 2175,
+    "src": "CCBN_FY2023.pdf прим.13 стр.56"
+   },
+   "k1": {
+    "value": 0.154,
+    "src": "CCBN_FY2023.pdf прим.29 стр.98-99"
+   },
+   "k1_2": {
+    "value": 0.154,
+    "src": "CCBN_FY2023.pdf прим.29"
+   },
+   "k2": {
+    "value": 0.181,
+    "src": "CCBN_FY2023.pdf прим.29"
+   },
+   "k1_min": {
+    "value": 0.075,
+    "src": "CCBN_FY2023.pdf прим.29"
+   },
+   "k1_2_min": {
+    "value": 0.085,
+    "src": "CCBN_FY2023.pdf прим.29"
+   },
+   "k2_min": {
+    "value": 0.1,
+    "src": "CCBN_FY2023.pdf прим.29"
+   },
+   "stage3_poci_share": {
+    "value": 0.0435,
+    "formula": "(Stage3 + POCI брутто) / сумма брутто по стадиям (кредиты клиентам)"
+   },
+   "stage3_coverage_s3": {
+    "value": 0.5942,
+    "formula": "резерв Stage3 / брутто Stage3"
+   },
+   "stage3_coverage_total": {
+    "value": 0.9241,
+    "formula": "весь резерв по кредитам клиентам / (Stage3+POCI брутто)"
+   },
+   "nim_bank_iea": {
+    "value": 0.066,
+    "formula": "ЧПД / среднее (нач.+кон.)/2 активов, по которым начисляются проценты, из таблицы процентного риска банка (ДС и эквиваленты с %, ФИ ССПУ, инв. ЦБ ССПСД и АС, средства в банках, ссуды клиентам и банкам)"
+   },
+   "iea_broad": {
+    "value": 4856.3,
+    "formula": "(ДС и эквиваленты − наличные в кассе) + ФИ ССПУ + инвестиционные ЦБ + средства в банках + ссуды клиентам и банкам (нетто, вкл. обратное РЕПО и фин.аренду)"
+   },
+   "nim_broad": {
+    "value": 0.0582,
+    "formula": "ЧПД / среднее iea_broad"
+   },
+   "cost_of_risk": {
+    "value": 0.0175,
+    "formula": "расходы на ОКУ по ссудам клиентам и банкам (примечание) / средние брутто-ссуды клиентам (нач.+кон.)/2"
+   },
+   "roe": {
+    "value": 0.39,
+    "formula": "ЧП акционерам / средний капитал акционеров"
+   },
+   "roa": {
+    "value": 0.0281,
+    "formula": "ЧП / средние активы"
+   },
+   "op_income_pre_prov": {
+    "value": 357.1,
+    "formula": "ЧПД до резервов + чистый комиссионный + ССПУ + ССПСД + FX + первонач. признание + прочие доходы (+страх. результат с 2026); без резервов/обесценения и без дохода от выгодного приобретения"
+   },
+   "cost_income": {
+    "value": 0.3447,
+    "formula": "операционные расходы / op_income_pre_prov"
+   },
+   "equity_reconciliation": {
+    "value": {
+     "opening": 273.9,
+     "net_profit": 135.1,
+     "oci": 9.0,
+     "dividends_common": 0.0,
+     "buyback_net": -0.8,
+     "calc_closing": 418.7,
+     "reported_closing": 418.7,
+     "diff_mln": 0
+    },
+    "formula": "капитал акционеров нач. + ЧП + ПСД − дивиденды по простым − выкуп (нетто; отрицательное = продажа/выпуск акций) = кон."
+   },
+   "eps_check": {
+    "value": 730.46,
+    "formula": "ЧП держателям простых акций (млн×1e6) / средневзв. число простых акций, тенге"
+   },
+   "bvps_calc": {
+    "value": 2259.0,
+    "formula": "капитал акционеров / простые акции в обращении (префы ~0.2 млрд не вычитались — несущественно), тенге"
+   },
+   "ltd": {
+    "value": 0.7282,
+    "formula": "ссуды клиентам и банкам нетто / средства клиентов"
+   },
+   "eff_tax_rate": {
+    "value": 0.1561,
+    "formula": "налог / прибыль до налога"
+   },
+   "auditor": {
+    "value": "ТОО «КПМГ Аудит»; немодифицированное мнение; КВА: ОКУ по ссудам клиентам",
+    "src": "CCBN_FY2023.pdf стр.1-7; утв. 04.03.2024"
+   },
+   "shareholders_pct": {
+    "value": {
+     "Байсеитов Б.Р.": 49.04,
+     "Ли В.С.": 11.29
+    },
+    "src": "CCBN_FY2023.pdf прим.1 стр.16"
+   },
+   "related_parties_bn": {
+    "value": {
+     "loans_gross": 25.4,
+     "of_which_common_control_usd": 24.1,
+     "ecl": 18.8,
+     "deposits": 6.7,
+     "int_income": 0.2,
+     "int_expense": 0.58,
+     "ecl_charge": 3.8,
+     "loans_gross_pct_equity": 0.0607
+    },
+    "src": "CCBN_FY2023.pdf прим.34 стр.108-109"
+   },
+   "concentrations_events": {
+    "value": {
+     "borrowers_gt10pct_capital": "1 заемщик, 45.5 млрд",
+     "clients_deposits_gt10pct": "2 клиента, 111.5 млрд",
+     "guarantee_event_one_counterparty": 31.2
+    },
+    "src": "CCBN_FY2023.pdf прим.18,22,25,30"
+   }
+  },
+  "FY2024": {
+   "total_assets": {
+    "value": 7067.9,
+    "src": "CCBN_FY2024.pdf стр.11 (OCR); = сравн. в CCBN_FY2025.pdf стр.12"
+   },
+   "cash_equiv": {
+    "value": 1663.6,
+    "src": "CCBN_FY2024.pdf стр.11"
+   },
+   "cash_in_hand": {
+    "value": 162.2,
+    "src": "CCBN_FY2025.pdf прим.13 стр.56 (сравн.)"
+   },
+   "fvtpl": {
+    "value": 98.0,
+    "src": "CCBN_FY2024.pdf стр.11"
+   },
+   "inv_securities": {
+    "value": 1105.4,
+    "src": "CCBN_FY2024.pdf стр.11"
+   },
+   "due_from_banks": {
+    "value": 103.4,
+    "src": "CCBN_FY2024.pdf стр.11"
+   },
+   "loans_net_clients_banks": {
+    "value": 3860.5,
+    "src": "CCBN_FY2024.pdf стр.11 = 3,860,538"
+   },
+   "loans_gross_clients": {
+    "value": 3899.2,
+    "src": "CCBN_FY2024.pdf прим.18 / CCBN_FY2025.pdf прим.17 стр.60 (без фин.аренды)"
+   },
+   "ecl_clients": {
+    "value": 157.0,
+    "src": "CCBN_FY2025.pdf прим.17 стр.60"
+   },
+   "loans_net_clients": {
+    "value": 3742.3,
+    "src": "CCBN_FY2025.pdf прим.17 стр.60"
+   },
+   "lease_gross": {
+    "value": 32.8,
+    "src": "CCBN_FY2025.pdf прим.17 стр.60"
+   },
+   "lease_ecl": {
+    "value": 0.5,
+    "src": "CCBN_FY2025.pdf прим.17 стр.60"
+   },
+   "customer_accounts": {
+    "value": 5390.6,
+    "src": "CCBN_FY2024.pdf стр.11 = 5,390,568"
+   },
+   "equity_total": {
+    "value": 637.9,
+    "src": "CCBN_FY2024.pdf стр.11"
+   },
+   "equity_sh": {
+    "value": 636.9,
+    "src": "CCBN_FY2024.pdf стр.11"
+   },
+   "nci": {
+    "value": 1.0,
+    "src": "CCBN_FY2024.pdf стр.11"
+   },
+   "share_capital": {
+    "value": 64.1,
+    "src": "CCBN_FY2024.pdf стр.11"
+   },
+   "s1_gross": {
+    "value": 3667.4,
+    "src": "CCBN_FY2024.pdf прим.5 стр.45 (корп. вкл. фин.аренду 32,849)"
+   },
+   "s2_gross": {
+    "value": 120.1,
+    "src": "CCBN_FY2024.pdf прим.5 стр.45"
+   },
+   "s3_gross": {
+    "value": 142.8,
+    "src": "CCBN_FY2024.pdf прим.5 стр.45"
+   },
+   "poci_gross": {
+    "value": 1.8,
+    "src": "CCBN_FY2024.pdf прим.5 стр.45"
+   },
+   "s1_ecl": {
+    "value": 43.8,
+    "src": "CCBN_FY2024.pdf прим.5 стр.45"
+   },
+   "s2_ecl": {
+    "value": 19.0,
+    "src": "CCBN_FY2024.pdf прим.5 стр.45"
+   },
+   "s3_ecl": {
+    "value": 94.6,
+    "src": "CCBN_FY2024.pdf прим.5 стр.45 (вкл. 492 по фин.аренде — в стр.64 FY2025: 66,896 корп.)"
+   },
+   "poci_ecl": {
+    "value": 0.0,
+    "src": "CCBN_FY2024.pdf прим.5 стр.45"
+   },
+   "int_income": {
+    "value": 738.8,
+    "src": "CCBN_FY2024.pdf стр.8 / прим.6"
+   },
+   "int_expense": {
+    "value": 380.5,
+    "src": "CCBN_FY2024.pdf стр.8 / прим.6"
+   },
+   "nii": {
+    "value": 358.4,
+    "src": "CCBN_FY2024.pdf стр.8 / прим.6"
+   },
+   "ecl_loans_note": {
+    "value": 56.6,
+    "src": "CCBN_FY2024.pdf прим.7 стр.49"
+   },
+   "ecl_loans_pl": {
+    "value": 56.6,
+    "src": "CCBN_FY2024.pdf стр.8"
+   },
+   "fee_income": {
+    "value": 76.1,
+    "src": "CCBN_FY2024.pdf прим.8"
+   },
+   "fee_expense": {
+    "value": 37.4,
+    "src": "CCBN_FY2024.pdf прим.8"
+   },
+   "fvtpl_gain": {
+    "value": 7.9,
+    "src": "CCBN_FY2024.pdf стр.8"
+   },
+   "fvoci_gain": {
+    "value": 1.9,
+    "src": "CCBN_FY2024.pdf стр.8"
+   },
+   "fx_gain": {
+    "value": 92.6,
+    "src": "CCBN_FY2024.pdf стр.8"
+   },
+   "initial_recog": {
+    "value": 27.9,
+    "src": "CCBN_FY2024.pdf стр.8 (доход от первонач. признания облигаций 8%, прим.23)"
+   },
+   "other_income": {
+    "value": -5.8,
+    "src": "CCBN_FY2024.pdf стр.8"
+   },
+   "other_prov": {
+    "value": -27.0,
+    "src": "CCBN_FY2024.pdf стр.8"
+   },
+   "opex": {
+    "value": 183.2,
+    "src": "CCBN_FY2024.pdf стр.9 / прим.11"
+   },
+   "pbt": {
+    "value": 254.8,
+    "src": "CCBN_FY2024.pdf стр.9"
+   },
+   "tax": {
+    "value": 52.4,
+    "src": "CCBN_FY2024.pdf стр.9"
+   },
+   "net_profit": {
+    "value": 202.4,
+    "src": "CCBN_FY2024.pdf стр.9"
+   },
+   "net_profit_sh": {
+    "value": 202.0,
+    "src": "CCBN_FY2024.pdf стр.9"
+   },
+   "oci_sh": {
+    "value": 16.5,
+    "src": "CCBN_FY2025.pdf стр.13"
+   },
+   "buyback": {
+    "value": 0.4,
+    "src": "CCBN_FY2024.pdf стр.14 / ОДДС стр.16"
+   },
+   "dividends_common": {
+    "value": 0.0,
+    "src": "CCBN_FY2024.pdf стр.12-14"
+   },
+   "np_common": {
+    "value": 201.8,
+    "src": "CCBN_FY2024.pdf прим.13"
+   },
+   "rwa": {
+    "value": 3636.4,
+    "src": "CCBN_FY2024.pdf прим.29"
+   },
+   "tier1": {
+    "value": 604.5,
+    "src": "CCBN_FY2024.pdf прим.29"
+   },
+   "total_cap_reg": {
+    "value": 647.8,
+    "src": "CCBN_FY2024.pdf прим.29"
+   },
+   "iea_bank": {
+    "value": 5920.9,
+    "src": "CCBN_FY2024.pdf прим.28 (таблица процентного риска)"
+   },
+   "eps_basic": {
+    "value": 1085.13,
+    "src": "CCBN_FY2024.pdf прим.13"
+   },
+   "eps_diluted": {
+    "value": 1085.26,
+    "src": "CCBN_FY2024.pdf прим.13"
+   },
+   "wavg_shares": {
+    "value": 185950421,
+    "src": "CCBN_FY2024.pdf прим.13"
+   },
+   "shares_common_out": {
+    "value": 186313105,
+    "src": "CCBN_FY2024.pdf прим.26 стр.77"
+   },
+   "shares_treasury": {
+    "value": 1715930,
+    "src": "CCBN_FY2024.pdf прим.26 стр.77"
+   },
+   "shares_pref_out": {
+    "value": 227319,
+    "src": "CCBN_FY2024.pdf прим.26 стр.77"
+   },
+   "bvps_kase": {
+    "value": 3315,
+    "src": "CCBN_FY2024.pdf прим.13 стр.54"
+   },
+   "k1": {
+    "value": 0.166,
+    "src": "CCBN_FY2024.pdf прим.29 стр.96-97"
+   },
+   "k1_2": {
+    "value": 0.166,
+    "src": "CCBN_FY2024.pdf прим.29"
+   },
+   "k2": {
+    "value": 0.178,
+    "src": "CCBN_FY2024.pdf прим.29"
+   },
+   "k1_min": {
+    "value": 0.095,
+    "src": "CCBN_FY2024.pdf прим.29"
+   },
+   "k1_2_min": {
+    "value": 0.105,
+    "src": "CCBN_FY2024.pdf прим.29"
+   },
+   "k2_min": {
+    "value": 0.12,
+    "src": "CCBN_FY2024.pdf прим.29"
+   },
+   "stage3_poci_share": {
+    "value": 0.0368,
+    "formula": "(Stage3 + POCI брутто) / сумма брутто по стадиям (кредиты клиентам)"
+   },
+   "stage3_coverage_s3": {
+    "value": 0.6625,
+    "formula": "резерв Stage3 / брутто Stage3"
+   },
+   "stage3_coverage_total": {
+    "value": 1.089,
+    "formula": "весь резерв по кредитам клиентам / (Stage3+POCI брутто)"
+   },
+   "nim_bank_iea": {
+    "value": 0.0697,
+    "formula": "ЧПД / среднее (нач.+кон.)/2 активов, по которым начисляются проценты, из таблицы процентного риска банка (ДС и эквиваленты с %, ФИ ССПУ, инв. ЦБ ССПСД и АС, средства в банках, ссуды клиентам и банкам)"
+   },
+   "iea_broad": {
+    "value": 6668.8,
+    "formula": "(ДС и эквиваленты − наличные в кассе) + ФИ ССПУ + инвестиционные ЦБ + средства в банках + ссуды клиентам и банкам (нетто, вкл. обратное РЕПО и фин.аренду)"
+   },
+   "nim_broad": {
+    "value": 0.0622,
+    "formula": "ЧПД / среднее iea_broad"
+   },
+   "cost_of_risk": {
+    "value": 0.0167,
+    "formula": "расходы на ОКУ по ссудам клиентам и банкам (примечание) / средние брутто-ссуды клиентам (нач.+кон.)/2"
+   },
+   "roe": {
+    "value": 0.3828,
+    "formula": "ЧП акционерам / средний капитал акционеров"
+   },
+   "roa": {
+    "value": 0.0328,
+    "formula": "ЧП / средние активы"
+   },
+   "op_income_pre_prov": {
+    "value": 521.6,
+    "formula": "ЧПД до резервов + чистый комиссионный + ССПУ + ССПСД + FX + первонач. признание + прочие доходы (+страх. результат с 2026); без резервов/обесценения и без дохода от выгодного приобретения"
+   },
+   "cost_income": {
+    "value": 0.3513,
+    "formula": "операционные расходы / op_income_pre_prov"
+   },
+   "equity_reconciliation": {
+    "value": {
+     "opening": 418.7,
+     "net_profit": 202.0,
+     "oci": 16.5,
+     "dividends_common": 0.0,
+     "buyback_net": 0.4,
+     "calc_closing": 636.9,
+     "reported_closing": 636.9,
+     "diff_mln": 0
+    },
+    "formula": "капитал акционеров нач. + ЧП + ПСД − дивиденды по простым − выкуп (нетто; отрицательное = продажа/выпуск акций) = кон."
+   },
+   "eps_check": {
+    "value": 1085.13,
+    "formula": "ЧП держателям простых акций (млн×1e6) / средневзв. число простых акций, тенге"
+   },
+   "bvps_calc": {
+    "value": 3418.0,
+    "formula": "капитал акционеров / простые акции в обращении (префы ~0.2 млрд не вычитались — несущественно), тенге"
+   },
+   "ltd": {
+    "value": 0.7162,
+    "formula": "ссуды клиентам и банкам нетто / средства клиентов"
+   },
+   "eff_tax_rate": {
+    "value": 0.2056,
+    "formula": "налог / прибыль до налога"
+   },
+   "auditor": {
+    "value": "ТОО «КПМГ Аудит»; немодифицированное мнение; КВА: ОКУ по ссудам клиентам",
+    "src": "CCBN_FY2024.pdf стр.1-7; утв. 28.02.2025"
+   },
+   "shareholders_pct": {
+    "value": {
+     "Байсеитов Б.Р.": 49.41,
+     "Ли В.С.": 11.38
+    },
+    "src": "CCBN_FY2025.pdf прим.1 стр.18"
+   },
+   "related_parties_bn": {
+    "value": {
+     "loans_gross": 28.9,
+     "of_which_common_control_usd": 27.8,
+     "ecl": 27.8,
+     "deposits": 5.6,
+     "int_income": 0.25,
+     "int_expense": 0.18,
+     "ecl_charge": 5.38,
+     "loans_gross_pct_equity": 0.0454
+    },
+    "src": "CCBN_FY2024.pdf прим.34 стр.106-107 (резерв 100%)"
+   },
+   "concentrations_events": {
+    "value": {
+     "borrowers_gt10pct_capital": "1 заемщик, 73.6 млрд (11.6% капитала акционеров)",
+     "clients_deposits_gt10pct": "1 клиент, 120.9 млрд"
+    },
+    "src": "CCBN_FY2024.pdf прим.18,22"
+   }
+  },
+  "FY2025": {
+   "total_assets": {
+    "value": 8521.0,
+    "src": "CCBN_FY2025.pdf стр.12 (ОФП, скан-OCR)"
+   },
+   "cash_equiv": {
+    "value": 1836.0,
+    "src": "CCBN_FY2025.pdf стр.12 / прим.13"
+   },
+   "cash_in_hand": {
+    "value": 302.5,
+    "src": "CCBN_FY2025.pdf прим.13 стр.56"
+   },
+   "fvtpl": {
+    "value": 145.5,
+    "src": "CCBN_FY2025.pdf стр.12 (118,062 собств. + 27,390 РЕПО)"
+   },
+   "inv_securities": {
+    "value": 1504.2,
+    "src": "CCBN_FY2025.pdf стр.12 (1,403,415 + 100,769 в залоге)"
+   },
+   "due_from_banks": {
+    "value": 211.3,
+    "src": "CCBN_FY2025.pdf стр.12"
+   },
+   "loans_net_clients_banks": {
+    "value": 4500.3,
+    "src": "CCBN_FY2025.pdf стр.12 (корп. 1,255,177 + розн. 3,245,142) = прим.17 итог 4,500,319"
+   },
+   "loans_gross_clients": {
+    "value": 4595.1,
+    "src": "CCBN_FY2025.pdf прим.17 стр.60 (без фин.аренды; с нач. вознагр.)"
+   },
+   "ecl_clients": {
+    "value": 197.0,
+    "src": "CCBN_FY2025.pdf прим.17 стр.60"
+   },
+   "loans_net_clients": {
+    "value": 4398.1,
+    "src": "CCBN_FY2025.pdf прим.17 стр.60"
+   },
+   "lease_gross": {
+    "value": 54.7,
+    "src": "CCBN_FY2025.pdf прим.17 стр.60"
+   },
+   "lease_ecl": {
+    "value": 1.2,
+    "src": "CCBN_FY2025.pdf прим.17 стр.60"
+   },
+   "customer_accounts": {
+    "value": 6615.0,
+    "src": "CCBN_FY2025.pdf стр.12 / прим.21 = 6,615,016"
+   },
+   "equity_total": {
+    "value": 848.8,
+    "src": "CCBN_FY2025.pdf стр.12"
+   },
+   "equity_sh": {
+    "value": 846.9,
+    "src": "CCBN_FY2025.pdf стр.12"
+   },
+   "nci": {
+    "value": 1.9,
+    "src": "CCBN_FY2025.pdf стр.12"
+   },
+   "share_capital": {
+    "value": 58.6,
+    "src": "CCBN_FY2025.pdf стр.12"
+   },
+   "s1_gross": {
+    "value": 4300.7,
+    "src": "CCBN_FY2025.pdf прим.4 стр.47 (корп.+розн.)"
+   },
+   "s2_gross": {
+    "value": 119.1,
+    "src": "CCBN_FY2025.pdf прим.4 стр.47"
+   },
+   "s3_gross": {
+    "value": 168.8,
+    "src": "CCBN_FY2025.pdf прим.4 стр.47"
+   },
+   "poci_gross": {
+    "value": 6.5,
+    "src": "CCBN_FY2025.pdf прим.4 стр.47"
+   },
+   "s1_ecl": {
+    "value": 72.6,
+    "src": "CCBN_FY2025.pdf прим.4 стр.47 / прим.17(б) стр.63"
+   },
+   "s2_ecl": {
+    "value": 14.7,
+    "src": "CCBN_FY2025.pdf прим.4 стр.47"
+   },
+   "s3_ecl": {
+    "value": 109.6,
+    "src": "CCBN_FY2025.pdf прим.4 стр.47"
+   },
+   "poci_ecl": {
+    "value": 0.0,
+    "src": "CCBN_FY2025.pdf прим.4 стр.47"
+   },
+   "int_income": {
+    "value": 932.6,
+    "src": "CCBN_FY2025.pdf стр.9 / прим.5 (ЭПС 921,115 + прочие 11,458)"
+   },
+   "int_expense": {
+    "value": 509.9,
+    "src": "CCBN_FY2025.pdf стр.9 / прим.5"
+   },
+   "nii": {
+    "value": 422.6,
+    "src": "CCBN_FY2025.pdf стр.9 / прим.5"
+   },
+   "ecl_loans_note": {
+    "value": 85.7,
+    "src": "CCBN_FY2025.pdf прим.6 стр.51 (формирование 49,192 + новые активы 36,487; ссуды клиентам и банкам)"
+   },
+   "ecl_loans_pl": {
+    "value": 86.4,
+    "src": "CCBN_FY2025.pdf стр.9 (включая 702 по фин.аренде, прим.17(и))"
+   },
+   "fee_income": {
+    "value": 91.9,
+    "src": "CCBN_FY2025.pdf прим.7"
+   },
+   "fee_expense": {
+    "value": 47.2,
+    "src": "CCBN_FY2025.pdf прим.7"
+   },
+   "fvtpl_gain": {
+    "value": 23.6,
+    "src": "CCBN_FY2025.pdf стр.9"
+   },
+   "fvoci_gain": {
+    "value": -0.1,
+    "src": "CCBN_FY2025.pdf стр.9"
+   },
+   "fx_gain": {
+    "value": 118.0,
+    "src": "CCBN_FY2025.pdf стр.9"
+   },
+   "initial_recog": {
+    "value": -2.5,
+    "src": "CCBN_FY2025.pdf стр.9"
+   },
+   "other_income": {
+    "value": 14.5,
+    "src": "CCBN_FY2025.pdf стр.9"
+   },
+   "other_prov": {
+    "value": 7.1,
+    "src": "CCBN_FY2025.pdf стр.9 (прочие фин.активы +8,319; обяз-ва кред.хар-ра +1,902; нефин. -3,086)"
+   },
+   "opex": {
+    "value": 202.5,
+    "src": "CCBN_FY2025.pdf стр.10 / прим.10"
+   },
+   "pbt": {
+    "value": 339.1,
+    "src": "CCBN_FY2025.pdf стр.10"
+   },
+   "tax": {
+    "value": 70.7,
+    "src": "CCBN_FY2025.pdf стр.10 / прим.11"
+   },
+   "net_profit": {
+    "value": 268.3,
+    "src": "CCBN_FY2025.pdf стр.10"
+   },
+   "net_profit_sh": {
+    "value": 267.6,
+    "src": "CCBN_FY2025.pdf стр.10"
+   },
+   "oci_sh": {
+    "value": -28.2,
+    "src": "CCBN_FY2025.pdf стр.11/14"
+   },
+   "buyback": {
+    "value": 29.4,
+    "src": "CCBN_FY2025.pdf стр.15 (OCR) / ОДДС стр.17: выкуп акций, нетто"
+   },
+   "dividends_common": {
+    "value": 0.0,
+    "src": "CCBN_FY2025.pdf стр.13-15: дивидендов по простым акциям нет"
+   },
+   "np_common": {
+    "value": 267.3,
+    "src": "CCBN_FY2025.pdf прим.12"
+   },
+   "rwa": {
+    "value": 4465.3,
+    "src": "CCBN_FY2025.pdf прим.28 стр.101"
+   },
+   "tier1": {
+    "value": 786.4,
+    "src": "CCBN_FY2025.pdf прим.28"
+   },
+   "total_cap_reg": {
+    "value": 786.4,
+    "src": "CCBN_FY2025.pdf прим.28"
+   },
+   "iea_bank": {
+    "value": 6555.7,
+    "src": "CCBN_FY2025.pdf прим.27 (таблица процентного риска: итого активы, по которым начисляются проценты)"
+   },
+   "eps_basic": {
+    "value": 1501.47,
+    "src": "CCBN_FY2025.pdf прим.12"
+   },
+   "eps_diluted": {
+    "value": 1501.51,
+    "src": "CCBN_FY2025.pdf прим.12"
+   },
+   "wavg_shares": {
+    "value": 178009632,
+    "src": "CCBN_FY2025.pdf прим.12"
+   },
+   "shares_common_out": {
+    "value": 174812216,
+    "src": "CCBN_FY2025.pdf прим.25 стр.81"
+   },
+   "shares_treasury": {
+    "value": 13216819,
+    "src": "CCBN_FY2025.pdf прим.25 стр.81"
+   },
+   "shares_pref_out": {
+    "value": 195834,
+    "src": "CCBN_FY2025.pdf прим.25 стр.81"
+   },
+   "bvps_kase": {
+    "value": 4655,
+    "src": "CCBN_FY2025.pdf прим.12 стр.56 (методика KASE, без НМА)"
+   },
+   "k1": {
+    "value": 0.176,
+    "src": "CCBN_FY2025.pdf прим.28 стр.100-101"
+   },
+   "k1_2": {
+    "value": 0.176,
+    "src": "CCBN_FY2025.pdf прим.28"
+   },
+   "k2": {
+    "value": 0.176,
+    "src": "CCBN_FY2025.pdf прим.28"
+   },
+   "k1_min": {
+    "value": 0.095,
+    "src": "CCBN_FY2025.pdf прим.28"
+   },
+   "k1_2_min": {
+    "value": 0.105,
+    "src": "CCBN_FY2025.pdf прим.28"
+   },
+   "k2_min": {
+    "value": 0.12,
+    "src": "CCBN_FY2025.pdf прим.28"
+   },
+   "stage3_poci_share": {
+    "value": 0.0381,
+    "formula": "(Stage3 + POCI брутто) / сумма брутто по стадиям (кредиты клиентам)"
+   },
+   "stage3_coverage_s3": {
+    "value": 0.6494,
+    "formula": "резерв Stage3 / брутто Stage3"
+   },
+   "stage3_coverage_total": {
+    "value": 1.1236,
+    "formula": "весь резерв по кредитам клиентам / (Stage3+POCI брутто)"
+   },
+   "nim_bank_iea": {
+    "value": 0.0677,
+    "formula": "ЧПД / среднее (нач.+кон.)/2 активов, по которым начисляются проценты, из таблицы процентного риска банка (ДС и эквиваленты с %, ФИ ССПУ, инв. ЦБ ССПСД и АС, средства в банках, ссуды клиентам и банкам)"
+   },
+   "iea_broad": {
+    "value": 7894.7,
+    "formula": "(ДС и эквиваленты − наличные в кассе) + ФИ ССПУ + инвестиционные ЦБ + средства в банках + ссуды клиентам и банкам (нетто, вкл. обратное РЕПО и фин.аренду)"
+   },
+   "nim_broad": {
+    "value": 0.058,
+    "formula": "ЧПД / среднее iea_broad"
+   },
+   "cost_of_risk": {
+    "value": 0.0202,
+    "formula": "расходы на ОКУ по ссудам клиентам и банкам (примечание) / средние брутто-ссуды клиентам (нач.+кон.)/2"
+   },
+   "roe": {
+    "value": 0.3607,
+    "formula": "ЧП акционерам / средний капитал акционеров"
+   },
+   "roa": {
+    "value": 0.0344,
+    "formula": "ЧП / средние активы"
+   },
+   "op_income_pre_prov": {
+    "value": 620.8,
+    "formula": "ЧПД до резервов + чистый комиссионный + ССПУ + ССПСД + FX + первонач. признание + прочие доходы (+страх. результат с 2026); без резервов/обесценения и без дохода от выгодного приобретения"
+   },
+   "cost_income": {
+    "value": 0.3262,
+    "formula": "операционные расходы / op_income_pre_prov"
+   },
+   "equity_reconciliation": {
+    "value": {
+     "opening": 636.9,
+     "net_profit": 267.6,
+     "oci": -28.2,
+     "dividends_common": 0.0,
+     "buyback_net": 29.4,
+     "calc_closing": 846.9,
+     "reported_closing": 846.9,
+     "diff_mln": 0
+    },
+    "formula": "капитал акционеров нач. + ЧП + ПСД − дивиденды по простым − выкуп (нетто; отрицательное = продажа/выпуск акций) = кон."
+   },
+   "eps_check": {
+    "value": 1501.47,
+    "formula": "ЧП держателям простых акций (млн×1e6) / средневзв. число простых акций, тенге"
+   },
+   "bvps_calc": {
+    "value": 4845.0,
+    "formula": "капитал акционеров / простые акции в обращении (префы ~0.2 млрд не вычитались — несущественно), тенге"
+   },
+   "ltd": {
+    "value": 0.6803,
+    "formula": "ссуды клиентам и банкам нетто / средства клиентов"
+   },
+   "eff_tax_rate": {
+    "value": 0.2086,
+    "formula": "налог / прибыль до налога"
+   },
+   "auditor": {
+    "value": "ТОО «КПМГ Аудит» (рук. задания Магомедова М.М.); немодифицированное мнение; КВА: ОКУ по ссудам клиентам (51.62% активов)",
+    "src": "CCBN_FY2025.pdf стр.1-8; утв. 27.02.2026"
+   },
+   "shareholders_pct": {
+    "value": {
+     "Байсеитов Б.Р.": 52.11,
+     "Ли В.С.": 12.0
+    },
+    "src": "CCBN_FY2025.pdf прим.1 стр.18"
+   },
+   "related_parties_bn": {
+    "value": {
+     "loans_gross": 1.0,
+     "of_which_common_control_usd": 0.0,
+     "ecl": 0.0,
+     "deposits": 5.9,
+     "int_income": 0.18,
+     "int_expense": 0.46,
+     "ecl_charge": 0.0,
+     "kmp_comp": 2.02,
+     "loans_gross_pct_equity": 0.0012
+    },
+    "src": "CCBN_FY2025.pdf прим.33 стр.110-111 (USD-заем исчез — вероятно списан: списания корп. займов 2025 = 27,601 млн, прим.6)"
+   },
+   "concentrations_events": {
+    "value": {
+     "borrowers_gt10pct_capital": "нет",
+     "clients_deposits_gt10pct": "1 клиент, 202.0 млрд",
+     "fx_customer_deposits_share": 0.356,
+     "fx_note": "средства клиентов: USD 1,499 млрд, EUR 359 млрд, прочие валюты 500 млрд из 6,615; открытая позиция USD +54 млрд, прочие −41 млрд после деривативов",
+     "russian_banks_nostro": 8.0,
+     "programs": "7-20-25: 324.6 млрд; Баспана Хит: 77.1 млрд; продажа ипотеки КФУ с регрессом (продолжающееся участие) 394.0 млрд; займы ФРП ДАМУ/БРК/ФРП/АКК 1–12.5%"
+    },
+    "src": "CCBN_FY2025.pdf прим.13,17,20,21,27"
+   },
+   "share_buyback_detail": {
+    "value": "ОСД 07.04.2025: выкуп до 15.9 млн простых акций по 2,200 тг; выкуплено 11,948,384 шт. на 26.3 млрд (разница с номиналом 23.9 млрд списана с нераспределенной прибыли); всего выкуп в ОДДС 29.4 млрд",
+    "src": "CCBN_FY2025.pdf прим.25 стр.81; ОДДС стр.17"
+   }
+  },
+  "H1_2025": {
+   "ecl_clients": {
+    "value": 194.0,
+    "src": "CCBN_H1_2026.pdf прим.6 стр.25: резерв на 30.06.2025 194,636 вкл. 643 по банкам"
+   },
+   "equity_total": {
+    "value": 723.1,
+    "src": "CCBN_H1_2026.pdf стр.10"
+   },
+   "equity_sh": {
+    "value": 721.6,
+    "src": "CCBN_H1_2026.pdf стр.10 (остаток на 30.06.2025)"
+   },
+   "int_income": {
+    "value": 440.7,
+    "src": "CCBN_H1_2026.pdf стр.5 (сравн.)"
+   },
+   "int_expense": {
+    "value": 230.4,
+    "src": "CCBN_H1_2026.pdf стр.5"
+   },
+   "nii": {
+    "value": 210.3,
+    "src": "CCBN_H1_2026.pdf стр.5"
+   },
+   "ecl_loans_note": {
+    "value": 44.8,
+    "src": "CCBN_H1_2026.pdf прим.6 стр.25"
+   },
+   "ecl_loans_pl": {
+    "value": 44.8,
+    "src": "CCBN_H1_2026.pdf стр.5"
+   },
+   "fee_income": {
+    "value": 43.5,
+    "src": "CCBN_H1_2026.pdf стр.5"
+   },
+   "fee_expense": {
+    "value": 21.3,
+    "src": "CCBN_H1_2026.pdf стр.5"
+   },
+   "insurance_result": {
+    "value": 2.6,
+    "src": "CCBN_H1_2026.pdf стр.5 (реклассифицировано, прим.2(д))"
+   },
+   "fvtpl_gain": {
+    "value": 6.6,
+    "src": "CCBN_H1_2026.pdf стр.5"
+   },
+   "fvoci_gain": {
+    "value": -0.5,
+    "src": "CCBN_H1_2026.pdf стр.6"
+   },
+   "fx_gain": {
+    "value": 60.8,
+    "src": "CCBN_H1_2026.pdf стр.6"
+   },
+   "initial_recog": {
+    "value": 0.0,
+    "src": "CCBN_H1_2026.pdf стр.6"
+   },
+   "other_income": {
+    "value": 6.3,
+    "src": "CCBN_H1_2026.pdf стр.6 (после реклассиф.; до — 8,956)"
+   },
+   "other_prov": {
+    "value": 4.1,
+    "src": "CCBN_H1_2026.pdf стр.6"
+   },
+   "opex": {
+    "value": 97.3,
+    "src": "CCBN_H1_2026.pdf стр.6"
+   },
+   "pbt": {
+    "value": 170.5,
+    "src": "CCBN_H1_2026.pdf стр.6"
+   },
+   "tax": {
+    "value": 24.2,
+    "src": "CCBN_H1_2026.pdf стр.6"
+   },
+   "net_profit": {
+    "value": 146.2,
+    "src": "CCBN_H1_2026.pdf стр.6"
+   },
+   "net_profit_sh": {
+    "value": 145.9,
+    "src": "CCBN_H1_2026.pdf стр.6"
+   },
+   "oci_sh": {
+    "value": -34.3,
+    "src": "CCBN_H1_2026.pdf стр.9"
+   },
+   "buyback": {
+    "value": 26.9,
+    "src": "CCBN_H1_2026.pdf стр.10 / ОДДС стр.14"
+   },
+   "dividends_common": {
+    "value": 0.0,
+    "src": "CCBN_H1_2026.pdf стр.9-10"
+   },
+   "np_common": {
+    "value": 145.8,
+    "src": "CCBN_H1_2026.pdf прим.13"
+   },
+   "eps_basic": {
+    "value": 803.6,
+    "src": "CCBN_H1_2026.pdf стр.6 / прим.13"
+   },
+   "eps_diluted": {
+    "value": 803.58,
+    "src": "CCBN_H1_2026.pdf прим.13"
+   },
+   "wavg_shares": {
+    "value": 181393934,
+    "src": "CCBN_H1_2026.pdf прим.13"
+   },
+   "nim_bank_iea": {
+    "value": null,
+    "formula": "ЧПД ×2 / среднее (нач.+кон.)/2 активов, по которым начисляются проценты, из таблицы процентного риска банка (ДС и эквиваленты с %, ФИ ССПУ, инв. ЦБ ССПСД и АС, средства в банках, ссуды клиентам и банкам)"
+   },
+   "nim_broad": {
+    "value": null,
+    "formula": "ЧПД ×2 / среднее iea_broad"
+   },
+   "cost_of_risk": {
+    "value": null,
+    "formula": "расходы на ОКУ по ссудам клиентам и банкам (примечание) ×2 / средние брутто-ссуды клиентам (нач.+кон.)/2"
+   },
+   "roe": {
+    "value": 0.4297,
+    "formula": "ЧП акционерам ×2 / средний капитал акционеров"
+   },
+   "roa": {
+    "value": null,
+    "formula": "ЧП ×2 / средние активы"
+   },
+   "op_income_pre_prov": {
+    "value": 308.5,
+    "formula": "ЧПД до резервов + чистый комиссионный + ССПУ + ССПСД + FX + первонач. признание + прочие доходы (+страх. результат с 2026); без резервов/обесценения и без дохода от выгодного приобретения"
+   },
+   "cost_income": {
+    "value": 0.3154,
+    "formula": "операционные расходы / op_income_pre_prov"
+   },
+   "equity_reconciliation": {
+    "value": {
+     "opening": 636.9,
+     "calc_closing": 721.6,
+     "reported_closing": 721.6,
+     "diff_mln": 0
+    },
+    "formula": "как выше"
+   },
+   "eps_check": {
+    "value": 803.6,
+    "formula": "ЧП держателям простых акций (млн×1e6) / средневзв. число простых акций, тенге"
+   },
+   "eff_tax_rate": {
+    "value": 0.1422,
+    "formula": "налог / прибыль до налога"
+   }
+  },
+  "H1_2026": {
+   "total_assets": {
+    "value": 8935.4,
+    "src": "CCBN_H1_2026.pdf стр.8 (OCR; сумма строк сверена)"
+   },
+   "cash_equiv": {
+    "value": 1947.2,
+    "src": "CCBN_H1_2026.pdf стр.8"
+   },
+   "cash_in_hand": {
+    "value": 347.3,
+    "src": "CCBN_H1_2026.pdf прим.14 стр.30"
+   },
+   "fvtpl": {
+    "value": 158.7,
+    "src": "CCBN_H1_2026.pdf стр.8"
+   },
+   "inv_securities": {
+    "value": 1503.2,
+    "src": "CCBN_H1_2026.pdf стр.8"
+   },
+   "due_from_banks": {
+    "value": 161.0,
+    "src": "CCBN_H1_2026.pdf стр.8"
+   },
+   "loans_net_clients_banks": {
+    "value": 4801.8,
+    "src": "CCBN_H1_2026.pdf стр.8 = прим.18 4,801,829"
+   },
+   "loans_gross_clients": {
+    "value": 4920.3,
+    "src": "CCBN_H1_2026.pdf прим.18 стр.34-35"
+   },
+   "ecl_clients": {
+    "value": 215.0,
+    "src": "CCBN_H1_2026.pdf прим.18 стр.34-35"
+   },
+   "loans_net_clients": {
+    "value": 4705.3,
+    "src": "CCBN_H1_2026.pdf прим.18"
+   },
+   "customer_accounts": {
+    "value": 6770.4,
+    "src": "CCBN_H1_2026.pdf стр.8 / прим.21 = 6,770,395"
+   },
+   "equity_total": {
+    "value": 966.0,
+    "src": "CCBN_H1_2026.pdf стр.8"
+   },
+   "equity_sh": {
+    "value": 963.5,
+    "src": "CCBN_H1_2026.pdf стр.8"
+   },
+   "nci": {
+    "value": 2.5,
+    "src": "CCBN_H1_2026.pdf стр.8"
+   },
+   "share_capital": {
+    "value": 56.0,
+    "src": "CCBN_H1_2026.pdf стр.8"
+   },
+   "s1_gross": {
+    "value": 4612.7,
+    "src": "CCBN_H1_2026.pdf прим.4 стр.20 (корп.+розн.)"
+   },
+   "s2_gross": {
+    "value": 110.1,
+    "src": "CCBN_H1_2026.pdf прим.4 стр.20"
+   },
+   "s3_gross": {
+    "value": 190.7,
+    "src": "CCBN_H1_2026.pdf прим.4 стр.20"
+   },
+   "poci_gross": {
+    "value": 6.8,
+    "src": "CCBN_H1_2026.pdf прим.4 стр.20"
+   },
+   "s1_ecl": {
+    "value": 80.2,
+    "src": "CCBN_H1_2026.pdf прим.4 стр.20 (в прим.18 стр.39 OCR дал 53,719 — опечатка OCR, итог 145,827 сходится с 53,710)"
+   },
+   "s2_ecl": {
+    "value": 18.1,
+    "src": "CCBN_H1_2026.pdf прим.4 стр.20"
+   },
+   "s3_ecl": {
+    "value": 116.8,
+    "src": "CCBN_H1_2026.pdf прим.4 стр.20"
+   },
+   "poci_ecl": {
+    "value": 0.0,
+    "src": "CCBN_H1_2026.pdf прим.4 стр.20"
+   },
+   "int_income": {
+    "value": 527.1,
+    "src": "CCBN_H1_2026.pdf стр.5"
+   },
+   "int_expense": {
+    "value": 290.5,
+    "src": "CCBN_H1_2026.pdf стр.5"
+   },
+   "nii": {
+    "value": 236.5,
+    "src": "CCBN_H1_2026.pdf стр.5"
+   },
+   "ecl_loans_note": {
+    "value": 44.6,
+    "src": "CCBN_H1_2026.pdf прим.6 стр.25"
+   },
+   "ecl_loans_pl": {
+    "value": 44.6,
+    "src": "CCBN_H1_2026.pdf стр.5"
+   },
+   "fee_income": {
+    "value": 41.5,
+    "src": "CCBN_H1_2026.pdf стр.5 / прим.7"
+   },
+   "fee_expense": {
+    "value": 26.4,
+    "src": "CCBN_H1_2026.pdf прим.7"
+   },
+   "insurance_result": {
+    "value": 10.0,
+    "src": "CCBN_H1_2026.pdf стр.5 (результат страх. услуг 13,313; чистый фин. результат −3,291)"
+   },
+   "fvtpl_gain": {
+    "value": 11.2,
+    "src": "CCBN_H1_2026.pdf стр.5"
+   },
+   "fvoci_gain": {
+    "value": 2.4,
+    "src": "CCBN_H1_2026.pdf стр.6"
+   },
+   "fx_gain": {
+    "value": 50.1,
+    "src": "CCBN_H1_2026.pdf стр.6"
+   },
+   "initial_recog": {
+    "value": 0.0,
+    "src": "CCBN_H1_2026.pdf стр.6"
+   },
+   "other_income": {
+    "value": 3.4,
+    "src": "CCBN_H1_2026.pdf стр.6"
+   },
+   "other_prov": {
+    "value": -8.9,
+    "src": "CCBN_H1_2026.pdf стр.6"
+   },
+   "opex": {
+    "value": 121.5,
+    "src": "CCBN_H1_2026.pdf стр.6 / прим.11"
+   },
+   "pbt": {
+    "value": 153.9,
+    "src": "CCBN_H1_2026.pdf стр.6"
+   },
+   "tax": {
+    "value": 30.8,
+    "src": "CCBN_H1_2026.pdf стр.6"
+   },
+   "net_profit": {
+    "value": 123.1,
+    "src": "CCBN_H1_2026.pdf стр.6"
+   },
+   "net_profit_sh": {
+    "value": 122.5,
+    "src": "CCBN_H1_2026.pdf стр.6"
+   },
+   "oci_sh": {
+    "value": -3.2,
+    "src": "CCBN_H1_2026.pdf стр.11"
+   },
+   "buyback": {
+    "value": 2.6,
+    "src": "CCBN_H1_2026.pdf стр.12 / ОДДС стр.14"
+   },
+   "dividends_common": {
+    "value": 0.0,
+    "src": "CCBN_H1_2026.pdf стр.11-12"
+   },
+   "np_common": {
+    "value": 122.3,
+    "src": "CCBN_H1_2026.pdf прим.13"
+   },
+   "rwa": {
+    "value": 4817.7,
+    "src": "CCBN_H1_2026.pdf прим.28"
+   },
+   "tier1": {
+    "value": 891.8,
+    "src": "CCBN_H1_2026.pdf прим.28"
+   },
+   "total_cap_reg": {
+    "value": 891.8,
+    "src": "CCBN_H1_2026.pdf прим.28"
+   },
+   "iea_bank": {
+    "value": 6961.0,
+    "src": "CCBN_H1_2026.pdf прим.27 стр.62 (активы, по которым начисляются проценты)"
+   },
+   "eps_basic": {
+    "value": 700.28,
+    "src": "CCBN_H1_2026.pdf прим.13 стр.29"
+   },
+   "eps_diluted": {
+    "value": 700.19,
+    "src": "CCBN_H1_2026.pdf прим.13"
+   },
+   "wavg_shares": {
+    "value": 174696546,
+    "src": "CCBN_H1_2026.pdf прим.13"
+   },
+   "shares_common_out": {
+    "value": 174558994,
+    "src": "CCBN_H1_2026.pdf прим.13 стр.29"
+   },
+   "shares_pref_out": {
+    "value": 175559,
+    "src": "CCBN_H1_2026.pdf прим.13 стр.29"
+   },
+   "bvps_kase": {
+    "value": 5343,
+    "src": "CCBN_H1_2026.pdf прим.13 стр.29"
+   },
+   "k1": {
+    "value": 0.185,
+    "src": "CCBN_H1_2026.pdf прим.28 стр.65"
+   },
+   "k1_2": {
+    "value": 0.185,
+    "src": "CCBN_H1_2026.pdf прим.28"
+   },
+   "k2": {
+    "value": 0.185,
+    "src": "CCBN_H1_2026.pdf прим.28"
+   },
+   "k1_min": {
+    "value": 0.095,
+    "src": "CCBN_H1_2026.pdf прим.28"
+   },
+   "k1_2_min": {
+    "value": 0.105,
+    "src": "CCBN_H1_2026.pdf прим.28"
+   },
+   "k2_min": {
+    "value": 0.12,
+    "src": "CCBN_H1_2026.pdf прим.28"
+   },
+   "stage3_poci_share": {
+    "value": 0.0402,
+    "formula": "(Stage3 + POCI брутто) / сумма брутто по стадиям (кредиты клиентам)"
+   },
+   "stage3_coverage_s3": {
+    "value": 0.6122,
+    "formula": "резерв Stage3 / брутто Stage3"
+   },
+   "stage3_coverage_total": {
+    "value": 1.0882,
+    "formula": "весь резерв по кредитам клиентам / (Stage3+POCI брутто)"
+   },
+   "nim_bank_iea": {
+    "value": 0.07,
+    "formula": "ЧПД ×2 / среднее (нач.+кон.)/2 активов, по которым начисляются проценты, из таблицы процентного риска банка (ДС и эквиваленты с %, ФИ ССПУ, инв. ЦБ ССПСД и АС, средства в банках, ссуды клиентам и банкам)"
+   },
+   "iea_broad": {
+    "value": 8224.7,
+    "formula": "(ДС и эквиваленты − наличные в кассе) + ФИ ССПУ + инвестиционные ЦБ + средства в банках + ссуды клиентам и банкам (нетто, вкл. обратное РЕПО и фин.аренду)"
+   },
+   "nim_broad": {
+    "value": 0.0587,
+    "formula": "ЧПД ×2 / среднее iea_broad"
+   },
+   "cost_of_risk": {
+    "value": 0.0187,
+    "formula": "расходы на ОКУ по ссудам клиентам и банкам (примечание) ×2 / средние брутто-ссуды клиентам (нач.+кон.)/2"
+   },
+   "roe": {
+    "value": 0.2706,
+    "formula": "ЧП акционерам ×2 / средний капитал акционеров"
+   },
+   "roa": {
+    "value": 0.0282,
+    "formula": "ЧП ×2 / средние активы"
+   },
+   "op_income_pre_prov": {
+    "value": 328.8,
+    "formula": "ЧПД до резервов + чистый комиссионный + ССПУ + ССПСД + FX + первонач. признание + прочие доходы (+страх. результат с 2026); без резервов/обесценения и без дохода от выгодного приобретения"
+   },
+   "cost_income": {
+    "value": 0.3694,
+    "formula": "операционные расходы / op_income_pre_prov"
+   },
+   "equity_reconciliation": {
+    "value": {
+     "opening": 846.9,
+     "net_profit": 122.5,
+     "oci": -3.2,
+     "dividends_common": 0.0,
+     "buyback_net": 2.6,
+     "calc_closing": 963.5,
+     "reported_closing": 963.5,
+     "diff_mln": 0
+    },
+    "formula": "капитал акционеров нач. + ЧП + ПСД − дивиденды по простым − выкуп (нетто; отрицательное = продажа/выпуск акций) = кон."
+   },
+   "eps_check": {
+    "value": 700.28,
+    "formula": "ЧП держателям простых акций (млн×1e6) / средневзв. число простых акций, тенге"
+   },
+   "bvps_calc": {
+    "value": 5520.0,
+    "formula": "капитал акционеров / простые акции в обращении (префы ~0.2 млрд не вычитались — несущественно), тенге"
+   },
+   "ltd": {
+    "value": 0.7092,
+    "formula": "ссуды клиентам и банкам нетто / средства клиентов"
+   },
+   "eff_tax_rate": {
+    "value": 0.2004,
+    "formula": "налог / прибыль до налога"
+   },
+   "auditor": {
+    "value": "ТОО «КПМГ Аудит», обзорная проверка (ISRE 2410): вывод без оговорок, 17.09.2026",
+    "src": "CCBN_H1_2026.pdf стр.3-4 (OCR)"
+   },
+   "shareholders_pct": {
+    "value": {
+     "Байсеитов Б.Р.": 52.12,
+     "Ли В.С.": 12.0
+    },
+    "src": "CCBN_H1_2026.pdf прим.1 стр.15"
+   },
+   "related_parties_bn": {
+    "value": {
+     "loans_gross": 0.09,
+     "ecl": 0.0,
+     "deposits": 11.9,
+     "int_income": 0.008,
+     "int_expense": 0.32,
+     "opex_kmp": 3.28,
+     "loans_gross_pct_equity": 0.0001
+    },
+    "src": "CCBN_H1_2026.pdf прим.33 стр.75-76 (OCR)"
+   },
+   "concentrations_events": {
+    "value": {
+     "borrowers_gt10pct_capital": "нет",
+     "clients_deposits_gt10pct": "1 клиент, 120.3 млрд",
+     "EBRD_loans_new": 51.8
+    },
+    "src": "CCBN_H1_2026.pdf прим.18,20,21 (OCR)"
+   },
+   "share_buyback_detail": {
+    "value": "Выкуп нетто 2.6 млрд; казначейские простые 13,216,819 → 13,470,041 (+253,222), префы в обращении 195,834 → 175,559 (−20,275). Подразумеваемая цена ≈ 9.5–10.3 тыс. тг/акцию — выше BVPS (5,343); вероятны встречные продажи/выкуп префов, движение акций по количеству в промежуточной отчетности не раскрыто",
+    "src": "CCBN_H1_2026.pdf прим.25 стр.56, стр.12 (OCR)"
+   }
+  }
+ },
+ "checks": [
+  {
+   "check": "Баланс: сумма строк активов = итог, обязательства+капитал = итог",
+   "result": "OK для 2020–2025 и 30.06.2026 (OCR-цифры сверены суммированием). OCR-ошибка исправлена: 1П2026 стр.8 сравн. «196,769» → 100,769 (иначе не сходится итог 8,520,954)"
+  },
+  {
+   "check": "Сверка капитала акционеров (нач. + ЧП + ПСД − дивиденды − выкуп = кон.)",
+   "result": "Разница 0 млн тенге во всех периодах 2021, 2022, 2023, 2024, 2025, 1П2025, 1П2026"
+  },
+  {
+   "check": "ОКУ по кредитам: примечание vs ОПиУ",
+   "result": "Совпадает 2021 (27,390), 2022 (41,687), 2023 (43,075), 2024 (56,592), 1П25 (44,780), 1П26 (44,593). 2025: примечание 6 по ссудам клиентам и банкам 85,679 + 702 по финансовой аренде (прим.17(и)) = 86,381 в ОПиУ"
+  },
+  {
+   "check": "Стадии: сумма брутто по стадиям = брутто-кредиты; резервы по стадиям = резерв",
+   "result": "OK для всех дат. В FY2024 таблица стадий корп. сегмента включает фин. аренду (32,849 брутто/492 резерв), в FY2025 — нет; 1П2026: OCR стр.39 дал Stage1 резерв розницы 53,719, верное 53,710 (стр.20, итог 145,827)"
+  },
+  {
+   "check": "EPS = ЧП держателям простых / средневзв. акции",
+   "result": "Совпадает до 0.01 тг во всех периодах (114.86; 791.34; 730.46; 1,085.13; 1,501.47; 803.60; 700.28)"
+  },
+  {
+   "check": "Рестейтменты сравнительных данных",
+   "result": "(1) 2021 в FY2022: процентные доходы и расходы увеличены на 8,026 (выплаты ипотечной организации, ЧПД не изменился); средства в банках 6,570→12,997, прочие активы 126,761→120,334. (2) 2022 в FY2023: ДС 1,117,220→1,135,957, средства в банках 54,536→35,799; ОС 65,163→65,753, прочие активы 128,022→127,432; комиссионные расходы 20,715→21,933, прочие расходы 4,723→3,505. (3) Ставка по USD-займу связанной компании за 2022: 12.50% (FY2022) → 5.00% (FY2023). (4) 2023 BVPS префов 6 тг (FY2023) → 298 тг (FY2024). (5) 2024 в FY2025: распределение резерва корпоративные/МСБ 69,997/22,742 → 67,809/24,930 (фин. аренда в МСБ). (6) 31.12.2025 и 1П2025 в 1П2026: реклассификация под МСФО 17 (обязательства по страхованию 41,687 выделены из прочих, стабилизационный резерв 932 из нераспр. прибыли; прочие доходы 1П25 8,956→6,314) — на прибыль и капитал не влияет"
+  },
+  {
+   "check": "NIM: два метода",
+   "result": "Метод банка (активы, приносящие %, из таблицы процентного риска) и широкий (ДС без кассы + ССПУ + инв. ЦБ + банки + кредиты нетто) дают 4.2/3.8% (2021) … 6.8/5.8% (2025); разница — в широкий включены беспроцентные остатки на корсчетах/ностро. Собственный NIM банком в МСФО-отчетности не раскрывается"
+  },
+  {
+   "check": "H1 2026 *_notes.pdf",
+   "result": "CCBN_H1_2026_notes.pdf — копия той же промежуточной сокращенной отчетности (стр.14-64 примечания) без отчета КПМГ; цифры совпадают с CCBN_H1_2026.pdf по проверенным строкам (ОПиУ)"
+  }
+ ],
+ "red_flags": [
+  "Сделки со связанными сторонами: USD-заем компании под общим контролем конечного бенефициара (Байсеитов Б.Р.) — 21.4 млрд (2020) → 27.8 млрд (2024), ставка 7.24% → 12.50% → 5.00% (2022 пересмотрена задним числом), резерв нарастал 9.5 → 15.1 → 18.8 → 27.8 млрд (100% на 31.12.2024; ОКУ 2.1+5.6+3.8+5.4 ≈ 16.9 млрд за 2021–2024); в 2025 остаток исчез из примечания (вероятно списан — списания корп. займов 2025 = 27.6 млрд). Это ~17% капитала акционеров 2021 и ~4% капитала 2024.",
+  "2022: приобретение АО ДБ «Альфа-Банк» (дочка санкционного российского Альфа-Банка) за 50 млрд тг при справедливой стоимости чистых активов 134.2 млрд → доход от выгодного приобретения 84.2 млрд (58% прибыли 2022, не облагался налогом). Без него ЧП 2022 = 60.9 млрд, ROE ≈ 29% вместо 68%. Покупок у ВТБ / «Home Credit» в отчетности нет; в 2023 куплено 80.6% СК «Sinoasia B&R» (гудвил 0.9 млрд).",
+  "2022: приток средств клиентов +1.64 трлн тг (ОДДС), ДС выросли 261 → 1,136 млрд — релокационные/санкционные потоки; высокая доля валюты в депозитах (35.6% на 2025, из них 500 млрд — «прочие валюты»). Остатки в несанкционных российских банках 8.0 млрд (2025; 2024: 27.8), ЦБ российских эмитентов — Стадия 2, уровень 3.",
+  "2023: резерв по гарантии одному контрагенту 27.5 млрд (обязательство 31.2 млрд на 31.12.2023) — разовая крупная потеря по забалансу.",
+  "Качество активов 2020–2021 слабое: Stage3+POCI 20.3% (2020) и 13.4% (2021) кредитов, покрытие Stage3 резервом ~50%; списания 50.2 млрд (2020) и 56.9 млрд (2021). Улучшение до 3.7–4.0% в 2024–1П2026 во многом за счет роста знаменателя (кредиты ×4.1 за 2021–1П2026) и списаний (2023: 49.3; 2025: 60.0; 1П2026: 33.7 млрд). Розничная Stage3 растет: 59.6 (2024) → 113.0 (2025) → 127.4 млрд (1П2026).",
+  "Стоимость риска выросла: 1.7% (2024) → 2.0% (2025); 1П2026 1.9% годовых; CoR по рознице (потреб., авто, бизнес-развитие) — основной драйвер.",
+  "Учетные «day-one» эффекты: 2024 доход 27.9 млрд от первоначального признания облигаций 100 млрд под 8% (11% ПДН 2024); 2025 новый продукт — кредиты 3.5–15.5% под залог депозитов 0.1% (убыток 51.5 млрд по кредитам и доход 49.0 млрд по депозитам, нетто −2.5 млрд) — нестандартная схема, требующая внимания.",
+  "Выкуп акций 2025 по 2,200 тг (ниже BVPS 3,315–4,655) на 26.3–29.4 млрд — без дивидендов; доля Байсеитова выросла 49.41% → 52.11% (контроль >50%). Префы почти полностью в казначейских (39.05 из 39.25 млн).",
+  "Капитал: k2 = k1 = 17.6–18.5% после досрочного погашения субординированных облигаций КФУ (60 млрд, 4%, программа ППФУ 2017) в 2024–2025 с убытком 9.8 + 18.9 млрд; капитала 2-го уровня нет. Запас над минимумами (k1 9.5%, k2 12% с буферами D-SIB) ~8 п.п.",
+  "Концентрации: 2024 — 1 заемщик 73.6 млрд (>10% капитала); 2025 — 1 вкладчик 202 млрд (24% капитала). Совместная деятельность с застройщиками (РАМС-Казахстан и др.): дебиторская задолженность 11.5–12.8 млрд, изъятое обеспечение 59.8 млрд (2025) → 74.5 млрд (1П2026)."
+ ],
+ "notes": [
+  "Единицы: млрд тенге (исходные данные в млн тенге, округление до 0.1). Коэффициенты — доли. 1П-показатели доходности и CoR аннуализированы ×2.",
+  "Источники: FY2023–FY2025 — текст pdftotext; страницы-изображения основных форм (FY2023 стр.8-15, FY2024 стр.9-11,14,16, FY2025 стр.10-12,15,17) и сканы FY2021, FY2022, 1П2026 — выборочный OCR (tesseract rus+eng 300 dpi) отдельных страниц, т.к. общий OCR (ocr.log) не завершился. Каждое OCR-число сверено с итогами или со сравнительными данными следующего отчета.",
+  "FY2020 приведен только как база для средних (из сравнительных данных FY2021).",
+  "Кредиты брутто = ссуды клиентам до резерва с начисленным вознаграждением (без фин.аренды, ссуд банкам и обратного РЕПО). Резерв — по ссудам клиентам. Таблицы стадий — прим. «Анализ финансовых рисков»/кредитного качества.",
+  "1П2025: баланс на 30.06.2025 в отчете 1П2026 не приводится (только капитал из отчета об изменениях в капитале и резерв ОКУ 194.0 млрд) → NIM, CoR, ROA за 1П2025 = null.",
+  "Нормативы капитала — по Банку (неконсолидированные, требования НБРК/АРРФР, Постановление №170); минимумы указаны так, как раскрыты в примечании (с учетом буферов; с 2024 банк — системно значимый). Базель/МСФО-показатели капитала не раскрываются.",
+  "Дивиденды: по простым акциям не объявлялись 2021–1П2026 → payout = 0, DPS = 0. Дивиденды по префам дочерней СК (НКД) — 2–5 млн тг/год. Банк исключает из EPS 'дополнительные дивиденды' по префам (13–299 млн).",
+  "Государственная поддержка: (1) Программа повышения финансовой устойчивости 2017 — субординированные облигации, купленные АО «Казахстанский фонд устойчивости» (60 млрд, 15 лет, 4%, дисконт при признании 35.0 млрд как доход в 2017, ковенанты с конвертацией в акции) — досрочно погашены: 20 млрд (12.2024), 10 млрд (04.2025), 30 млрд (08.2025). Облигаций Минфина / ФПФС в отчетах 2021–2026 не найдено. (2) Ипотека «7-20-25» (продажа прав требования КФУ с обязательством обратного выкупа при просрочке >90 дней — продолжающееся участие 394 млрд) и «Баспана Хит»; (3) льготные займы ФРП «ДАМУ», БРК, ФРП, АКК под 1–12.5% для кредитования МСБ.",
+  "Market data (цена акции KASE ~230 → ~4850 тг) в файлах отсутствует и не проверялась; P/B при 4,850 тг ≈ 0.9× BVPS 1П2026 (5,520 тг по капиталу акционеров; 5,343 по методике KASE)."
+ ],
+ "share_structure_note": {
+  "value": "Объявлено 1,211,140,611 простых и 39,249,255 привилегированных акций; размещено простых (объявленные − неразмещенные) — 188,029,035 шт. неизменно с 2021 по 30.06.2026 (2020: 180,009,899 до размещения 8.0 млн в 2021). Сплитов/консолидации акций в отчетности 2021–1П2026 нет. Привилегированные (кумулятивные, конвертируемые 1:1 по решению СД, дивиденд (b+3.5%)×300 тг, 12–14%): почти все (39.05 млн) выкуплены банком, в обращении ~0.18–0.23 млн. Дивидендов по простым акциям 2021–1П2026 не объявлялось и не выплачивалось (отчеты об изменениях в капитале, ОДДС). Рост цены на KASE (~230 → ~4850 тг, по данным постановки задачи; в файлах цены нет) объясняется ростом BVPS с 765 (2020) до 5,520 тг (1П2026) без изменения числа акций.",
+  "src": "CCBN_FY2021.pdf прим.25; CCBN_FY2022.pdf прим.26; CCBN_FY2025.pdf прим.25; CCBN_H1_2026.pdf прим.25"
+ }
+}
