@@ -1,0 +1,3311 @@
+{
+ "ticker": "FRHC",
+ "name": "Freedom Holding Corp.",
+ "units": "млн USD (US GAAP); акции — шт.; EPS/BVPS — USD",
+ "fiscal_year_end": "31 March",
+ "sources": [
+  "FRHC_10-K_2022-03-31.txt",
+  "FRHC_10-K_2023-03-31.txt",
+  "FRHC_10-K_2024-03-31.txt",
+  "FRHC_10-K_2025-03-31.txt",
+  "FRHC_10-K_2026-03-31.txt",
+  "FRHC_10-Q_2026-06-30.txt",
+  "frhc_facts.json (XBRL)"
+ ],
+ "periods": {
+  "FY2021": {
+   "period_end": "2021-03-31",
+   "basis_note": "Баланс на 31.03.2021 — только из 10-K FY2022 (до рекаста). ОПиУ и капитал — рекаст в 10-K FY2023 (консолидация страховых компаний под общим контролем Турлова + перенос России в прекращённую деятельность).",
+   "balance": {
+    "total_assets": {
+     "value": 2018.645,
+     "src": "FRHC_10-K_2022-03-31.txt Balance Sheet p.83 (as originally reported)"
+    },
+    "trading_securities": {
+     "value": 736.188,
+     "src": "FRHC_10-K_2022-03-31.txt p.83; Note 5 p.100"
+    },
+    "brokerage_and_other_receivables_net": {
+     "value": 64.801,
+     "src": "FRHC_10-K_2022-03-31.txt Note 6 p.103"
+    },
+    "margin_lending_receivables": {
+     "value": 58.095,
+     "src": "FRHC_10-K_2022-03-31.txt Note 6 p.103"
+    },
+    "loans_issued_net": {
+     "value": 11.667,
+     "src": "FRHC_10-K_2022-03-31.txt Note 7 p.104"
+    },
+    "repo_obligations": {
+     "value": 426.715,
+     "src": "FRHC_10-K_2022-03-31.txt p.83; Note 12 p.107-108"
+    },
+    "customer_liabilities": {
+     "value": 1163.697,
+     "src": "FRHC_10-K_2022-03-31.txt Note 13 (brokerage 938,086 + banking 225,611)"
+    },
+    "equity_attrib_FRHC_original": {
+     "value": 277.312,
+     "src": "FRHC_10-K_2022-03-31.txt p.83"
+    },
+    "equity_attrib_FRHC_recast": {
+     "value": 309.315,
+     "src": "FRHC_10-K_2023-03-31.txt Statement of Shareholders' Equity p.97 (At March 31, 2021 Recasted)"
+    },
+    "total_equity_original": {
+     "value": 275.671,
+     "src": "FRHC_10-K_2022-03-31.txt p.83"
+    }
+   },
+   "trading_securities_structure": {
+    "corporate_debt": {
+     "value": 334.763,
+     "src": "FRHC_10-K_2022-03-31.txt Note 5 p.100"
+    },
+    "non_us_sovereign_debt": {
+     "value": 333.619,
+     "src": "FRHC_10-K_2022-03-31.txt Note 5"
+    },
+    "corporate_equity": {
+     "value": 47.34,
+     "src": "FRHC_10-K_2022-03-31.txt Note 5"
+    },
+    "us_sovereign_debt": {
+     "value": 10.828,
+     "src": "FRHC_10-K_2022-03-31.txt Note 5"
+    },
+    "exchange_traded_notes": {
+     "value": 9.638,
+     "src": "FRHC_10-K_2022-03-31.txt Note 5"
+    },
+    "of_which_KZ_MinFin": {
+     "value": 293.451,
+     "src": "FRHC_10-K_2022-03-31.txt Note 5 (issuers >10%)"
+    },
+    "of_which_Kazakhstan_Sustainability_Fund": {
+     "value": 193.677,
+     "src": "FRHC_10-K_2022-03-31.txt Note 5 (issuers >10%)"
+    }
+   },
+   "income": {
+    "fee_and_commission_income": {
+     "value": 216.008,
+     "src": "FRHC_10-K_2023-03-31.txt IS p.95 (2021 Recasted); original FRHC_10-K_2022-03-31.txt: 271,939"
+    },
+    "fee_and_commission_income_original": {
+     "value": 271.939,
+     "src": "FRHC_10-K_2022-03-31.txt IS p.84"
+    },
+    "net_gain_trading_securities": {
+     "value": 28.807,
+     "src": "FRHC_10-K_2023-03-31.txt IS p.95 (recast)"
+    },
+    "interest_income": {
+     "value": 38.474,
+     "src": "FRHC_10-K_2023-03-31.txt IS p.95 / Note 22 p.143 (recast)"
+    },
+    "insurance_underwriting_income": {
+     "value": 62.951,
+     "src": "FRHC_10-K_2023-03-31.txt IS p.95 (recast)"
+    },
+    "total_revenue_net": {
+     "value": 346.883,
+     "src": "FRHC_10-K_2023-03-31.txt IS p.95 (recast); original 352,551"
+    },
+    "interest_expense": {
+     "value": 22.444,
+     "src": "FRHC_10-K_2023-03-31.txt IS / Note 22 (recast); original 27,366"
+    },
+    "fee_and_commission_expense": {
+     "value": 70.537,
+     "src": "FRHC_10-K_2023-03-31.txt IS p.95"
+    },
+    "provision_for_impairment": {
+     "value": 1.59,
+     "src": "FRHC_10-K_2023-03-31.txt IS p.95"
+    },
+    "income_tax": {
+     "value": -23.307,
+     "src": "FRHC_10-K_2023-03-31.txt IS p.95 (continuing ops)"
+    },
+    "income_from_continuing_ops": {
+     "value": 128.498,
+     "src": "FRHC_10-K_2023-03-31.txt IS p.95"
+    },
+    "income_from_discontinued_ops": {
+     "value": 21.783,
+     "src": "FRHC_10-K_2023-03-31.txt IS p.95 (Russia)"
+    },
+    "net_income_attrib_common_recast": {
+     "value": 149.65,
+     "src": "FRHC_10-K_2023-03-31.txt IS p.95"
+    },
+    "net_income_attrib_common_original": {
+     "value": 142.293,
+     "src": "FRHC_10-K_2022-03-31.txt IS p.84"
+    }
+   },
+   "interest_breakdown_recast": {
+    "on_trading_securities": {
+     "value": 21.913,
+     "src": "FRHC_10-K_2023-03-31.txt Note 22 p.143"
+    },
+    "on_margin_lending": {
+     "value": 3.163,
+     "src": "FRHC_10-K_2023-03-31.txt Note 22"
+    },
+    "on_loans_issued": {
+     "value": 0.384,
+     "src": "FRHC_10-K_2023-03-31.txt Note 22"
+    },
+    "on_AFS": {
+     "value": 11.238,
+     "src": "FRHC_10-K_2023-03-31.txt Note 22"
+    },
+    "exp_on_repo": {
+     "value": 10.915,
+     "src": "FRHC_10-K_2023-03-31.txt Note 22"
+    },
+    "exp_on_customer_liabilities": {
+     "value": 7.335,
+     "src": "FRHC_10-K_2023-03-31.txt Note 22"
+    }
+   },
+   "fee_breakdown_recast": {
+    "brokerage_services": {
+     "value": 204.244,
+     "src": "FRHC_10-K_2023-03-31.txt Note 20 p.142"
+    },
+    "bank_services": {
+     "value": 0.523,
+     "src": "FRHC_10-K_2023-03-31.txt Note 20"
+    },
+    "underwriting": {
+     "value": 6.451,
+     "src": "FRHC_10-K_2023-03-31.txt Note 20"
+    },
+    "other": {
+     "value": 4.79,
+     "src": "FRHC_10-K_2023-03-31.txt Note 20"
+    }
+   },
+   "related_parties": {
+    "fee_income_from_RP_recast": {
+     "value": 184.725,
+     "src": "FRHC_10-K_2023-03-31.txt IS p.95 / Note 25 p.144"
+    },
+    "fee_income_from_RP_original": {
+     "value": 198.902,
+     "src": "FRHC_10-K_2022-03-31.txt Note 23 p.113 (~98% FFIN Brokerage = FST Belize, Turlov)"
+    },
+    "interest_income_from_RP": {
+     "value": 2.25,
+     "src": "FRHC_10-K_2023-03-31.txt Note 25"
+    },
+    "margin_receivables_from_RP": {
+     "value": 9.886,
+     "src": "FRHC_10-K_2022-03-31.txt Note 23 (83% FFIN Brokerage)"
+    },
+    "customer_liabilities_to_RP": {
+     "value": 327.61,
+     "src": "FRHC_10-K_2022-03-31.txt Note 23 (91% FFIN Brokerage)"
+    }
+   },
+   "shares": {
+    "shares_outstanding": {
+     "value": 58443212,
+     "src": "FRHC_10-K_2022-03-31.txt BS p.83"
+    },
+    "eps_basic_recast": {
+     "value": 2.56,
+     "src": "FRHC_10-K_2023-03-31.txt IS p.96"
+    },
+    "eps_basic_original": {
+     "value": 2.45,
+     "src": "FRHC_10-K_2022-03-31.txt IS p.84"
+    },
+    "weighted_avg_basic": {
+     "value": 58388445,
+     "src": "FRHC_10-K_2022-03-31.txt/FRHC_10-K_2023-03-31.txt IS"
+    },
+    "dividends": {
+     "value": 0,
+     "src": "FRHC_10-K_2022-03-31.txt Item 5: no cash dividends declared/paid in past three fiscal years"
+    },
+    "buyback": {
+     "value": 0,
+     "src": "FRHC_10-K_2022-03-31.txt Statement of Equity: no repurchases"
+    }
+   },
+   "audit": {
+    "auditor": {
+     "value": "WSRP, LLC (Salt Lake City)",
+     "src": "FRHC_10-K_2022-03-31.txt audit report p.79-81"
+    },
+    "opinion": {
+     "value": "Unqualified (FY2021 accounts audited by WSRP; 10-K FY2021 not in source set)",
+     "src": "FRHC_10-K_2022-03-31.txt p.79"
+    }
+   },
+   "segments_region_original": {
+    "Central_Asia_net_income": {
+     "value": 21.146,
+     "src": "FRHC_10-K_2022-03-31.txt Note 28 p.119"
+    },
+    "Europe_net_income": {
+     "value": 107.999,
+     "src": "FRHC_10-K_2022-03-31.txt Note 28"
+    },
+    "US_net_income": {
+     "value": -8.115,
+     "src": "FRHC_10-K_2022-03-31.txt Note 28"
+    },
+    "Russia_net_income": {
+     "value": 21.909,
+     "src": "FRHC_10-K_2022-03-31.txt Note 28"
+    },
+    "Europe_fee_income": {
+     "value": 200.975,
+     "src": "FRHC_10-K_2022-03-31.txt Note 28"
+    }
+   },
+   "ratios": {
+    "ROE_recast": {
+     "value": 64.9303,
+     "formula": "149,650 / avg(151,641 [31.03.2020 recast, K23 equity stmt]; 309,315)"
+    },
+    "ROE_original": {
+     "value": 69.6455,
+     "formula": "142,293 / avg(131,309; 277,312) [K22]"
+    },
+    "leverage_repo_to_equity": {
+     "value": 1.5388,
+     "formula": "repo 426,715 / equity 277,312 (original)"
+    },
+    "assets_to_equity": {
+     "value": 7.2793,
+     "formula": "2,018,645 / 277,312"
+    },
+    "fee_share_of_revenue": {
+     "value": 62.2711,
+     "formula": "fee / total revenue (recast)"
+    },
+    "cost_income": {
+     "value": 22.8629,
+     "formula": "opex(payroll+prof+stock+adv+G&A=46,068)/(revenue - int.exp - fee exp - ins.claims)"
+    },
+    "NIM_proxy": {
+     "value": null,
+     "formula": "нет баланса на 31.03.2020 в наборе источников"
+    },
+    "BVPS_usd": {
+     "value": 5.2926,
+     "formula": "equity 309,315k / 58,443,212 shares recast"
+    }
+   }
+  },
+  "FY2022": {
+   "period_end": "2022-03-31",
+   "basis_note": "Основные цифры — рекаст из 10-K FY2023/FY2024 (страховые компании Турлова консолидированы с 2018 как under common control; Россия — held for sale / discontinued). Оригинал 10-K FY2022 указан отдельно.",
+   "balance": {
+    "total_assets_recast": {
+     "value": 3230.347,
+     "src": "FRHC_10-K_2023-03-31.txt BS p.94 (incl. assets held for sale 825,419 — Russia)"
+    },
+    "total_assets_original": {
+     "value": 2921.009,
+     "src": "FRHC_10-K_2022-03-31.txt BS p.83"
+    },
+    "trading_securities": {
+     "value": 1158.377,
+     "src": "FRHC_10-K_2023-03-31.txt BS p.94 / Note 6 (recast); original 1,203,479"
+    },
+    "afs_securities": {
+     "value": 161.364,
+     "src": "FRHC_10-K_2023-03-31.txt BS p.94 (recast; original 1)"
+    },
+    "margin_lending_brokerage_receivables_net": {
+     "value": 147.659,
+     "src": "FRHC_10-K_2023-03-31.txt Note 7 p.129 (recast); original 357,567"
+    },
+    "margin_lending_receivables": {
+     "value": 138.983,
+     "src": "FRHC_10-K_2023-03-31.txt Note 7 (recast); original 349,179 (FRHC_10-K_2022-03-31.txt Note 6)"
+    },
+    "loans_gross": {
+     "value": 94.075,
+     "src": "FRHC_10-K_2023-03-31.txt Note 8 p.131 (net 92,446 + allowance 1,629)"
+    },
+    "loan_allowance": {
+     "value": 1.629,
+     "src": "FRHC_10-K_2023-03-31.txt Note 8 p.131"
+    },
+    "loans_net": {
+     "value": 92.446,
+     "src": "FRHC_10-K_2023-03-31.txt Note 8 p.131 (recast); original 94,797"
+    },
+    "repo_obligations": {
+     "value": 840.224,
+     "src": "FRHC_10-K_2023-03-31.txt BS p.94 / Note 13 (recast); original 775,178"
+    },
+    "customer_liabilities": {
+     "value": 765.628,
+     "src": "FRHC_10-K_2023-03-31.txt Note 14 (recast, excl. held for sale); original 1,417,937"
+    },
+    "debt_securities_issued": {
+     "value": 34.39,
+     "src": "FRHC_10-K_2023-03-31.txt BS p.94 (recast); original 99,027"
+    },
+    "equity_attrib_FRHC_recast": {
+     "value": 553.603,
+     "src": "FRHC_10-K_2023-03-31.txt BS p.94"
+    },
+    "equity_attrib_FRHC_original": {
+     "value": 514.671,
+     "src": "FRHC_10-K_2022-03-31.txt BS p.83"
+    },
+    "total_equity_recast": {
+     "value": 546.608,
+     "src": "FRHC_10-K_2023-03-31.txt BS p.94"
+    }
+   },
+   "trading_securities_structure": {
+    "corporate_debt": {
+     "value": 712.134,
+     "src": "FRHC_10-K_2023-03-31.txt Note 6 (recast); original 738,394"
+    },
+    "non_us_sovereign_debt": {
+     "value": 360.57,
+     "src": "FRHC_10-K_2023-03-31.txt Note 6 (recast); original 357,071"
+    },
+    "corporate_equity": {
+     "value": 72.354,
+     "src": "FRHC_10-K_2023-03-31.txt Note 6 (recast); original 91,254 incl. SPB Exchange 60,658"
+    },
+    "us_sovereign_debt": {
+     "value": 10.435,
+     "src": "FRHC_10-K_2023-03-31.txt Note 6"
+    },
+    "exchange_traded_notes": {
+     "value": 2.884,
+     "src": "FRHC_10-K_2023-03-31.txt Note 6"
+    },
+    "of_which_KZ_MinFin": {
+     "value": 328.951,
+     "src": "FRHC_10-K_2022-03-31.txt Note 5 p.100"
+    },
+    "of_which_Kazakhstan_Sustainability_Fund": {
+     "value": 414.591,
+     "src": "FRHC_10-K_2022-03-31.txt Note 5 p.100"
+    }
+   },
+   "loans_structure_recast": {
+    "mortgage": {
+     "value": 52.227,
+     "src": "FRHC_10-K_2023-03-31.txt Note 8 p.131"
+    },
+    "mortgage_7_20_25_principal": {
+     "value": 21.31,
+     "src": "FRHC_10-K_2022-03-31.txt Note 7 / FRHC_10-K_2023-03-31.txt Note 8"
+    },
+    "right_of_claim_FFIN_Credit": {
+     "value": 35.293,
+     "src": "FRHC_10-K_2023-03-31.txt Note 8 (purchased from Turlov's FFIN Credit)"
+    },
+    "subordinated_and_other": {
+     "value": 6.555,
+     "src": "FRHC_10-K_2023-03-31.txt Note 8 (5,033+1,256+123+43+100)"
+    }
+   },
+   "income": {
+    "fee_and_commission_income": {
+     "value": 335.211,
+     "src": "FRHC_10-K_2023-03-31.txt/FRHC_10-K_2024-03-31.txt IS (recast); original 431,938"
+    },
+    "net_gain_trading_securities": {
+     "value": 155.252,
+     "src": "FRHC_10-K_2024-03-31.txt IS p.94 (recast); original 77,671"
+    },
+    "interest_income": {
+     "value": 121.609,
+     "src": "FRHC_10-K_2024-03-31.txt IS / Note 21 (recast); original 91,801"
+    },
+    "insurance_underwriting_income": {
+     "value": 72.981,
+     "src": "FRHC_10-K_2024-03-31.txt IS"
+    },
+    "net_fx": {
+     "value": 3.791,
+     "src": "FRHC_10-K_2024-03-31.txt IS"
+    },
+    "total_revenue_net": {
+     "value": 689.79,
+     "src": "FRHC_10-K_2024-03-31.txt IS p.94 (recast); original 564,663"
+    },
+    "interest_expense": {
+     "value": 76.947,
+     "src": "FRHC_10-K_2024-03-31.txt IS (recast); original 75,899"
+    },
+    "fee_and_commission_expense": {
+     "value": 85.909,
+     "src": "FRHC_10-K_2024-03-31.txt IS"
+    },
+    "provision_ecl": {
+     "value": 2.502,
+     "src": "FRHC_10-K_2024-03-31.txt IS (recast); original 2,985"
+    },
+    "income_tax": {
+     "value": -38.57,
+     "src": "FRHC_10-K_2024-03-31.txt IS"
+    },
+    "income_from_continuing_ops": {
+     "value": 325.123,
+     "src": "FRHC_10-K_2024-03-31.txt IS p.94"
+    },
+    "income_from_discontinued_ops": {
+     "value": -104.195,
+     "src": "FRHC_10-K_2024-03-31.txt IS p.94 (Russia)"
+    },
+    "net_income_attrib_common_recast": {
+     "value": 227.494,
+     "src": "FRHC_10-K_2023-03-31.txt/FRHC_10-K_2024-03-31.txt IS"
+    },
+    "net_income_attrib_common_original": {
+     "value": 217.935,
+     "src": "FRHC_10-K_2022-03-31.txt IS p.84"
+    },
+    "net_interest_income_recast": {
+     "value": 44.662,
+     "src": "FRHC_10-K_2023-03-31.txt Note 22 p.143"
+    }
+   },
+   "interest_breakdown_recast": {
+    "on_trading_securities": {
+     "value": 78.327,
+     "src": "FRHC_10-K_2023-03-31.txt Note 22"
+    },
+    "on_margin_lending": {
+     "value": 14.164,
+     "src": "FRHC_10-K_2023-03-31.txt Note 22"
+    },
+    "on_loans_issued": {
+     "value": 4.617,
+     "src": "FRHC_10-K_2023-03-31.txt Note 22"
+    },
+    "on_AFS": {
+     "value": 22.437,
+     "src": "FRHC_10-K_2023-03-31.txt Note 22"
+    },
+    "exp_on_repo": {
+     "value": 58.229,
+     "src": "FRHC_10-K_2023-03-31.txt Note 22"
+    },
+    "exp_on_customer_liabilities": {
+     "value": 16.336,
+     "src": "FRHC_10-K_2023-03-31.txt Note 22"
+    }
+   },
+   "fee_breakdown_recast": {
+    "brokerage_services": {
+     "value": 318.698,
+     "src": "FRHC_10-K_2023-03-31.txt Note 20 / FRHC_10-K_2024-03-31.txt Note 19; original 391,996"
+    },
+    "bank_services": {
+     "value": 6.727,
+     "src": "FRHC_10-K_2023-03-31.txt Note 20; original 23,274"
+    },
+    "underwriting": {
+     "value": 5.963,
+     "src": "FRHC_10-K_2023-03-31.txt Note 20"
+    },
+    "other": {
+     "value": 3.823,
+     "src": "FRHC_10-K_2023-03-31.txt Note 20"
+    }
+   },
+   "related_parties": {
+    "fee_income_from_RP_recast": {
+     "value": 291.163,
+     "src": "FRHC_10-K_2023-03-31.txt Note 25 p.144 (94% FST Belize)"
+    },
+    "fee_income_from_RP_original": {
+     "value": 309.688,
+     "src": "FRHC_10-K_2022-03-31.txt Note 23 p.113 (99% FFIN Brokerage, owned by Turlov)"
+    },
+    "share_of_fee_income_from_RP": {
+     "value": 86.8596,
+     "formula": "291,163 / 335,211 (recast)"
+    },
+    "interest_income_from_RP": {
+     "value": 10.191,
+     "src": "FRHC_10-K_2023-03-31.txt Note 25"
+    },
+    "margin_receivables_from_RP": {
+     "value": 107.649,
+     "src": "FRHC_10-K_2022-03-31.txt Note 23 / FRHC_10-K_2023-03-31.txt Note 25 (95% FST Belize)"
+    },
+    "customer_liabilities_to_RP": {
+     "value": 325.904,
+     "src": "FRHC_10-K_2023-03-31.txt BS p.94 (75% FST Belize)"
+    },
+    "restricted_cash_at_RP": {
+     "value": 222.651,
+     "src": "FRHC_10-K_2023-03-31.txt Note 25 (78% FST Belize, 22% Wisdompoint)"
+    },
+    "loans_purchased_from_FFIN_Credit": {
+     "value": 35.293,
+     "src": "FRHC_10-K_2023-03-31.txt Note 25"
+    },
+    "capital_contribution_Turlov": {
+     "value": 21.6,
+     "src": "FRHC_10-K_2022-03-31.txt Note 24 (recast APIC contribution 24,417)"
+    },
+    "sale_23_88pct_Freedom_UA_to_president_Tashtitov": {
+     "value": 0.416,
+     "src": "FRHC_10-K_2022-03-31.txt Note 23"
+    },
+    "payable_to_Turlov_for_insurance_companies": {
+     "value": 21.477,
+     "src": "FRHC_10-K_2023-03-31.txt Note 25 (repaid FY2023)"
+    }
+   },
+   "shares": {
+    "shares_outstanding": {
+     "value": 59542212,
+     "src": "FRHC_10-K_2022-03-31.txt BS p.83"
+    },
+    "eps_basic_original": {
+     "value": 3.56,
+     "src": "FRHC_10-K_2022-03-31.txt IS p.84"
+    },
+    "eps_basic_recast": {
+     "value": 3.84,
+     "src": "FRHC_10-K_2023-03-31.txt IS p.96"
+    },
+    "weighted_avg_basic": {
+     "value": 59378207,
+     "src": "FRHC_10-K_2022-03-31.txt IS p.84"
+    },
+    "dividends": {
+     "value": 0,
+     "src": "FRHC_10-K_2022-03-31.txt Item 5"
+    },
+    "buyback": {
+     "value": 0,
+     "src": "FRHC_10-K_2022-03-31.txt Statement of Equity"
+    }
+   },
+   "audit": {
+    "auditor": {
+     "value": "WSRP, LLC",
+     "src": "FRHC_10-K_2022-03-31.txt p.79-82"
+    },
+    "opinion": {
+     "value": "Unqualified; ICFR effective (unqualified ICFR opinion). CAMs: impact of Russia-Ukraine conflict & goodwill impairment; identification of related parties; income tax provision",
+     "src": "FRHC_10-K_2022-03-31.txt p.79-82"
+    },
+    "recast_audit": {
+     "value": "Recast adjustments (insurance co. consolidation) audited by Deloitte in 10-K FY2023; WSRP dual-dated report re Note 30 (April 26, 2023)",
+     "src": "FRHC_10-K_2023-03-31.txt p.87,93"
+    }
+   },
+   "segments_region_original": {
+    "Central_Asia_net_income": {
+     "value": 6.988,
+     "src": "FRHC_10-K_2022-03-31.txt Note 28 p.118"
+    },
+    "Europe_net_income": {
+     "value": 309.843,
+     "src": "FRHC_10-K_2022-03-31.txt Note 28"
+    },
+    "US_net_income": {
+     "value": -20.984,
+     "src": "FRHC_10-K_2022-03-31.txt Note 28"
+    },
+    "Russia_net_income": {
+     "value": -84.207,
+     "src": "FRHC_10-K_2022-03-31.txt Note 28"
+    },
+    "Europe_fee_income": {
+     "value": 319.81,
+     "src": "FRHC_10-K_2022-03-31.txt Note 28"
+    }
+   },
+   "russia": {
+    "Russia_revenue_FY2022": {
+     "value": -0.249,
+     "src": "FRHC_10-K_2022-03-31.txt Note 28 p.120"
+    },
+    "SPB_Exchange_unrealized_loss": {
+     "value": 78.796,
+     "src": "FRHC_10-K_2022-03-31.txt Note 20 p.111"
+    },
+    "SPB_ETF_and_shares_realized_gain": {
+     "value": 177.146,
+     "src": "FRHC_10-K_2022-03-31.txt Note 20 p.111 (ETF units placed incl. via related FFIN Brokerage)"
+    }
+   },
+   "ratios": {
+    "ROE_recast": {
+     "value": 52.7267,
+     "formula": "227,494 / avg(309,315; 553,603)"
+    },
+    "ROE_original": {
+     "value": 55.0353,
+     "formula": "217,935 / avg(277,312; 514,671)"
+    },
+    "ROA_original": {
+     "value": 8.8239,
+     "formula": "217,935 / avg assets (original)"
+    },
+    "leverage_repo_to_equity": {
+     "value": 1.5177,
+     "formula": "840,224 / 553,603 (recast)"
+    },
+    "assets_to_equity": {
+     "value": 5.8351,
+     "formula": "3,230,347 / 553,603 (recast, incl. held for sale)"
+    },
+    "NIM_proxy_recast": {
+     "value": 3.7895,
+     "formula": "NII 44,662 / avg(IEA 31.03.21 original 805,951; IEA 31.03.22 recast 1,551,170); IEA=securities+margin receivables+loans net; смешанная база"
+    },
+    "cost_income": {
+     "value": 21.6467,
+     "formula": "opex 102,278 / net revenue 472,487"
+    },
+    "fee_from_RP_share": {
+     "value": 86.8596,
+     "formula": "RP fee / fee income (recast)"
+    },
+    "BVPS_usd": {
+     "value": 9.2977,
+     "formula": "equity 553,603k / 59,542,212 shares recast"
+    },
+    "EPS_check": {
+     "value": 3.6703,
+     "formula": "217,935k / 59,378,207 vs reported 3.56",
+     "note": "original: reported 3.56 ≈ total NI incl. NCI 211,369/59.38m=3.56; NI attributable gives 3.67"
+    }
+   }
+  },
+  "FY2023": {
+   "period_end": "2023-03-31",
+   "balance": {
+    "total_assets": {
+     "value": 5084.558,
+     "src": "FRHC_10-K_2023-03-31.txt BS p.94"
+    },
+    "trading_securities": {
+     "value": 2412.556,
+     "src": "FRHC_10-K_2023-03-31.txt BS p.94 / Note 6"
+    },
+    "afs_securities": {
+     "value": 239.053,
+     "src": "FRHC_10-K_2023-03-31.txt BS p.94"
+    },
+    "margin_lending_brokerage_receivables_net": {
+     "value": 376.329,
+     "src": "FRHC_10-K_2023-03-31.txt Note 7 p.129"
+    },
+    "margin_lending_receivables": {
+     "value": 361.684,
+     "src": "FRHC_10-K_2023-03-31.txt Note 7 p.129"
+    },
+    "loans_gross": {
+     "value": 829.05,
+     "src": "FRHC_10-K_2024-03-31.txt Note 8 p.138 (credit quality table)"
+    },
+    "loan_allowance": {
+     "value": 2.792,
+     "src": "FRHC_10-K_2023-03-31.txt Note 8 p.130 (incurred-loss, pre-CECL)"
+    },
+    "loans_net": {
+     "value": 826.258,
+     "src": "FRHC_10-K_2023-03-31.txt BS p.94"
+    },
+    "repo_obligations": {
+     "value": 1517.416,
+     "src": "FRHC_10-K_2023-03-31.txt BS p.94 / Note 13 p.135"
+    },
+    "customer_liabilities": {
+     "value": 1925.247,
+     "src": "FRHC_10-K_2023-03-31.txt Note 14 p.136"
+    },
+    "term_deposits": {
+     "value": 832.751,
+     "src": "FRHC_10-K_2023-03-31.txt Note 14"
+    },
+    "brokerage_customer_accounts": {
+     "value": 633.542,
+     "src": "FRHC_10-K_2023-03-31.txt Note 14"
+    },
+    "liability_continuing_involvement_7_20_25": {
+     "value": 440.805,
+     "src": "FRHC_10-K_2023-03-31.txt BS p.94 / Note 8"
+    },
+    "debt_securities_issued": {
+     "value": 60.025,
+     "src": "FRHC_10-K_2023-03-31.txt BS p.94"
+    },
+    "equity_attrib_FRHC": {
+     "value": 777.285,
+     "src": "FRHC_10-K_2023-03-31.txt BS p.94"
+    },
+    "equity_attrib_FRHC_LDTI_recast": {
+     "value": 790.291,
+     "src": "FRHC_10-K_2026-03-31.txt Statement of Equity p.107 (cumulative effect ASU 2018-12 +13,006 at transition 01.04.2023)"
+    },
+    "total_equity": {
+     "value": 770.736,
+     "src": "FRHC_10-K_2023-03-31.txt BS p.94"
+    }
+   },
+   "trading_securities_structure": {
+    "corporate_debt": {
+     "value": 1269.879,
+     "src": "FRHC_10-K_2023-03-31.txt Note 6"
+    },
+    "non_us_sovereign_debt": {
+     "value": 1029.857,
+     "src": "FRHC_10-K_2023-03-31.txt Note 6"
+    },
+    "corporate_equity": {
+     "value": 65.741,
+     "src": "FRHC_10-K_2023-03-31.txt Note 6"
+    },
+    "us_sovereign_debt": {
+     "value": 45.022,
+     "src": "FRHC_10-K_2023-03-31.txt Note 6"
+    },
+    "exchange_traded_notes": {
+     "value": 2.057,
+     "src": "FRHC_10-K_2023-03-31.txt Note 6"
+    },
+    "of_which_KZ_MinFin": {
+     "value": 1015.161,
+     "src": "FRHC_10-K_2024-03-31.txt Note 6 p.131"
+    },
+    "of_which_Kazakhstan_Sustainability_Fund": {
+     "value": 834.917,
+     "src": "FRHC_10-K_2024-03-31.txt Note 6 p.131"
+    }
+   },
+   "loans_structure": {
+    "mortgage": {
+     "value": 534.154,
+     "src": "FRHC_10-K_2023-03-31.txt Note 8 p.130"
+    },
+    "mortgage_7_20_25_principal": {
+     "value": 463.114,
+     "src": "FRHC_10-K_2023-03-31.txt Note 8"
+    },
+    "right_of_claim_FFIN_Credit": {
+     "value": 121.177,
+     "src": "FRHC_10-K_2023-03-31.txt Note 8"
+    },
+    "car_loans": {
+     "value": 102.269,
+     "src": "FRHC_10-K_2023-03-31.txt Note 8"
+    },
+    "uncollateralized_consumer": {
+     "value": 46.97,
+     "src": "FRHC_10-K_2023-03-31.txt Note 8"
+    },
+    "collateralized_consumer": {
+     "value": 17.653,
+     "src": "FRHC_10-K_2023-03-31.txt Note 8"
+    },
+    "other": {
+     "value": 6.827,
+     "src": "FRHC_10-K_2023-03-31.txt Note 8 (sub 5,039 + policyholders 1,488 + other 300)"
+    }
+   },
+   "credit_quality": {
+    "credit_impaired_90plus": {
+     "value": 0.035,
+     "src": "FRHC_10-K_2024-03-31.txt Note 8 p.138 (31.03.2023)"
+    },
+    "sicr": {
+     "value": 1.708,
+     "src": "FRHC_10-K_2024-03-31.txt Note 8 p.138"
+    },
+    "dpd_30_89": {
+     "value": 1.709,
+     "src": "FRHC_10-K_2024-03-31.txt Note 8 aging (1,461+248)"
+    },
+    "net_loan_charge": {
+     "value": 1.091,
+     "src": "FRHC_10-K_2024-03-31.txt Note 8 p.140 ACL rollforward FY2023 (charges 29,070 - recoveries 27,979)"
+    }
+   },
+   "income": {
+    "fee_and_commission_income": {
+     "value": 327.215,
+     "src": "FRHC_10-K_2023-03-31.txt IS p.95"
+    },
+    "net_gain_trading_securities": {
+     "value": 71.084,
+     "src": "FRHC_10-K_2023-03-31.txt IS p.95"
+    },
+    "interest_income": {
+     "value": 294.695,
+     "src": "FRHC_10-K_2023-03-31.txt IS p.95"
+    },
+    "insurance_underwriting_income": {
+     "value": 115.371,
+     "src": "FRHC_10-K_2023-03-31.txt IS"
+    },
+    "net_fx": {
+     "value": 52.154,
+     "src": "FRHC_10-K_2023-03-31.txt IS"
+    },
+    "net_derivatives": {
+     "value": -64.826,
+     "src": "FRHC_10-K_2023-03-31.txt IS (Freedom Bank KZ currency swaps loss 65,303, Note 24)"
+    },
+    "total_revenue_net": {
+     "value": 795.693,
+     "src": "FRHC_10-K_2023-03-31.txt IS p.95"
+    },
+    "interest_expense": {
+     "value": 208.947,
+     "src": "FRHC_10-K_2023-03-31.txt IS / Note 22"
+    },
+    "net_interest_income": {
+     "value": 85.748,
+     "src": "FRHC_10-K_2023-03-31.txt Note 22 p.143"
+    },
+    "fee_and_commission_expense": {
+     "value": 65.66,
+     "src": "FRHC_10-K_2023-03-31.txt IS"
+    },
+    "provision_ecl": {
+     "value": 29.119,
+     "src": "FRHC_10-K_2023-03-31.txt IS (incl. brokerage receivables)"
+    },
+    "operating_expenses": {
+     "value": 182.148,
+     "src": "payroll 81,819 + prof 17,006 + stock comp 9,293 + advertising 14,059 + G&A 59,971"
+    },
+    "income_tax": {
+     "value": -42.776,
+     "src": "FRHC_10-K_2023-03-31.txt IS"
+    },
+    "income_from_continuing_ops": {
+     "value": 193.162,
+     "src": "FRHC_10-K_2023-03-31.txt IS"
+    },
+    "income_from_discontinued_ops": {
+     "value": 12.424,
+     "src": "FRHC_10-K_2023-03-31.txt IS (incl. loss on divestiture 26,118 and CTA recycling 25,415)"
+    },
+    "net_income_attrib_common": {
+     "value": 205.14,
+     "src": "FRHC_10-K_2023-03-31.txt IS p.95"
+    }
+   },
+   "interest_breakdown": {
+    "on_trading_securities": {
+     "value": 178.288,
+     "src": "FRHC_10-K_2023-03-31.txt Note 22"
+    },
+    "on_margin_lending": {
+     "value": 34.558,
+     "src": "FRHC_10-K_2023-03-31.txt Note 22"
+    },
+    "on_loans_issued": {
+     "value": 43.486,
+     "src": "FRHC_10-K_2023-03-31.txt Note 22"
+    },
+    "on_AFS": {
+     "value": 27.003,
+     "src": "FRHC_10-K_2023-03-31.txt Note 22"
+    },
+    "exp_on_repo": {
+     "value": 158.595,
+     "src": "FRHC_10-K_2023-03-31.txt Note 22"
+    },
+    "exp_on_customer_liabilities": {
+     "value": 40.335,
+     "src": "FRHC_10-K_2023-03-31.txt Note 22"
+    }
+   },
+   "fee_breakdown": {
+    "brokerage_services": {
+     "value": 286.732,
+     "src": "FRHC_10-K_2024-03-31.txt Note 19"
+    },
+    "bank_services": {
+     "value": 17.964,
+     "src": "FRHC_10-K_2024-03-31.txt Note 19"
+    },
+    "underwriting": {
+     "value": 11.948,
+     "src": "FRHC_10-K_2024-03-31.txt Note 19"
+    },
+    "payment_processing": {
+     "value": 6.385,
+     "src": "FRHC_10-K_2024-03-31.txt Note 19"
+    },
+    "other": {
+     "value": 4.186,
+     "src": "FRHC_10-K_2024-03-31.txt Note 19"
+    }
+   },
+   "related_parties": {
+    "fee_income_from_RP": {
+     "value": 199.235,
+     "src": "FRHC_10-K_2023-03-31.txt IS / Note 25 (99% FST Belize)"
+    },
+    "share_of_fee_income_from_RP": {
+     "value": 60.8881,
+     "formula": "199,235 / 327,215"
+    },
+    "interest_income_from_RP": {
+     "value": 23.191,
+     "src": "FRHC_10-K_2023-03-31.txt Note 25 (100% FST Belize margin lending)"
+    },
+    "margin_receivables_from_RP": {
+     "value": 294.985,
+     "src": "FRHC_10-K_2023-03-31.txt Note 25 (98% FST Belize) = 78% of receivables; incl. 37.1m collateralised by FRHC shares"
+    },
+    "loans_purchased_from_FFIN_Credit": {
+     "value": 121.177,
+     "src": "FRHC_10-K_2023-03-31.txt Note 25"
+    },
+    "customer_liabilities_to_RP": {
+     "value": 130.21,
+     "src": "FRHC_10-K_2023-03-31.txt Note 25 (18% FST Belize, 36% Fresh Start Trading, 25% Wisdompoint)"
+    },
+    "restricted_cash_at_RP": {
+     "value": 114.885,
+     "src": "FRHC_10-K_2023-03-31.txt Note 25"
+    },
+    "prepayment_Aviata_Internet_Tourism_(Turlov_significant_influence)": {
+     "value": 16.089,
+     "src": "FRHC_10-K_2023-03-31.txt Note 25"
+    },
+    "acquisition_insurance_cos_from_Turlov": {
+     "value": 26.588,
+     "src": "FRHC_10-K_2023-03-31.txt Note 3 p.117 (Freedom Insurance 13,977 + Freedom Life 12,611; charged to APIC)"
+    },
+    "rp_assets_total_pct_equity": {
+     "value": 75.1358,
+     "formula": "(cash 35,549 + restricted 114,885 + trading 556 + receivables 295,611 + loans 121,316 + other 16,102)/equity 777,285 ({K24} Note 24)"
+    }
+   },
+   "regulatory_capital": {
+    "Freedom_Bank_KZ_net_capital": {
+     "value": 71.63,
+     "src": "FRHC_10-K_2024-03-31.txt Note 31 p.171 (31.03.2023)"
+    },
+    "Freedom_Bank_KZ_required_min": {
+     "value": 22.138,
+     "src": "FRHC_10-K_2024-03-31.txt Note 31"
+    },
+    "Freedom_Bank_KZ_capital_to_required": {
+     "value": 3.2356,
+     "formula": "71,630 / 22,138"
+    },
+    "Freedom_KZ_net_capital": {
+     "value": 109.952,
+     "src": "FRHC_10-K_2024-03-31.txt Note 31"
+    },
+    "Freedom_EU_net_capital": {
+     "value": 28.597,
+     "src": "FRHC_10-K_2024-03-31.txt Note 31"
+    }
+   },
+   "shares": {
+    "shares_outstanding": {
+     "value": 59659191,
+     "src": "FRHC_10-K_2023-03-31.txt BS p.94"
+    },
+    "eps_basic": {
+     "value": 3.5,
+     "src": "FRHC_10-K_2023-03-31.txt IS p.96"
+    },
+    "eps_diluted": {
+     "value": 3.45,
+     "src": "FRHC_10-K_2023-03-31.txt IS p.96"
+    },
+    "weighted_avg_basic": {
+     "value": 58629580,
+     "src": "FRHC_10-K_2023-03-31.txt IS"
+    },
+    "dividends": {
+     "value": 0,
+     "src": "FRHC_10-K_2023-03-31.txt Item 5"
+    },
+    "buyback": {
+     "value": 0,
+     "src": "FRHC_10-K_2023-03-31.txt Statement of Equity"
+    }
+   },
+   "audit": {
+    "auditor": {
+     "value": "Deloitte LLP (Almaty) — first year",
+     "src": "FRHC_10-K_2023-03-31.txt p.87-92"
+    },
+    "opinion_fs": {
+     "value": "Unqualified (dated Aug 4, 2023)",
+     "src": "FRHC_10-K_2023-03-31.txt p.87"
+    },
+    "opinion_icfr": {
+     "value": "ADVERSE — material weaknesses: insufficient qualified US GAAP personnel; complex transactions; cash-flow classification of bank loans/deposits and 7-20-25 funds; classification of margin interest income; review of notes",
+     "src": "FRHC_10-K_2023-03-31.txt p.91-92; Item 9A p.164"
+    },
+    "cams": {
+     "value": "Cash flow statement presentation; disposal of Russian segment to Freedom RU executive M. Povalishin; interest & fee income recognition; FST Belize related-party revenue and non-consolidation (VIE)",
+     "src": "FRHC_10-K_2023-03-31.txt p.87-90"
+    }
+   },
+   "segments_region": {
+    "Central_Asia_Eastern_Europe_net_income": {
+     "value": 165.243,
+     "src": "FRHC_10-K_2023-03-31.txt Note 32 p.159"
+    },
+    "Europe_ex_EE_net_income": {
+     "value": 76.633,
+     "src": "FRHC_10-K_2023-03-31.txt Note 32"
+    },
+    "US_net_income": {
+     "value": -46.661,
+     "src": "FRHC_10-K_2023-03-31.txt Note 32"
+    },
+    "Middle_East_Caucasus_net_income": {
+     "value": -2.053,
+     "src": "FRHC_10-K_2023-03-31.txt Note 32"
+    }
+   },
+   "segments_business": {
+    "Brokerage_net_income": {
+     "value": 169.543,
+     "src": "FRHC_10-K_2024-03-31.txt Note 30 p.167"
+    },
+    "Banking_net_income": {
+     "value": 49.431,
+     "src": "FRHC_10-K_2024-03-31.txt Note 30"
+    },
+    "Insurance_net_income": {
+     "value": 29.441,
+     "src": "FRHC_10-K_2024-03-31.txt Note 30"
+    },
+    "Other_net_income": {
+     "value": -55.253,
+     "src": "FRHC_10-K_2024-03-31.txt Note 30"
+    }
+   },
+   "ratios": {
+    "ROE": {
+     "value": 30.8275,
+     "formula": "205,140 / avg(553,603; 777,285)"
+    },
+    "ROA": {
+     "value": 4.9343,
+     "formula": "205,140 / avg(3,230,347; 5,084,558)"
+    },
+    "leverage_repo_to_equity": {
+     "value": 1.9522,
+     "formula": "1,517,416 / 777,285"
+    },
+    "assets_to_equity": {
+     "value": 6.5414,
+     "formula": "5,084,558 / 777,285"
+    },
+    "NIM_proxy": {
+     "value": 3.1813,
+     "formula": "NII 85,748 / avg IEA (1,551,170; 3,839,551)"
+    },
+    "cost_of_risk_loans": {
+     "value": 0.2364,
+     "formula": "net loan charge 1,091 / avg gross loans (94,075; 829,050)"
+    },
+    "credit_impaired_ratio": {
+     "value": 0.0042,
+     "formula": "35 / 829,050"
+    },
+    "ACL_to_gross_loans": {
+     "value": 0.3368,
+     "formula": "2,792 / 829,050 (pre-CECL)"
+    },
+    "cost_income": {
+     "value": 41.0468,
+     "formula": "182,148 / 443,757"
+    },
+    "fee_from_RP_share": {
+     "value": 60.8881,
+     "formula": "199,235 / 327,215"
+    },
+    "BVPS_usd": {
+     "value": 13.0288,
+     "formula": "equity 777,285k / 59,659,191 shares"
+    },
+    "EPS_check": {
+     "value": 3.4989,
+     "formula": "205,140k / 58,629,580 vs reported 3.5"
+    }
+   }
+  },
+  "FY2024": {
+   "period_end": "2024-03-31",
+   "basis_note": "ОПиУ/капитал — рекаст LDTI (10-K FY2026); оригинал 10-K FY2024 указан отдельно. Баланс — 10-K FY2024.",
+   "balance": {
+    "total_assets": {
+     "value": 8301.93,
+     "src": "FRHC_10-K_2024-03-31.txt BS p.93"
+    },
+    "trading_securities": {
+     "value": 3688.62,
+     "src": "FRHC_10-K_2024-03-31.txt BS p.93 / Note 6"
+    },
+    "afs_securities": {
+     "value": 216.621,
+     "src": "FRHC_10-K_2024-03-31.txt BS p.93"
+    },
+    "margin_lending_brokerage_receivables_net": {
+     "value": 1660.275,
+     "src": "FRHC_10-K_2024-03-31.txt Note 7 p.133"
+    },
+    "margin_lending_receivables": {
+     "value": 1635.377,
+     "src": "FRHC_10-K_2024-03-31.txt Note 7 p.133"
+    },
+    "loans_gross": {
+     "value": 1425.334,
+     "src": "FRHC_10-K_2024-03-31.txt Note 8 p.137"
+    },
+    "loan_allowance": {
+     "value": 43.619,
+     "src": "FRHC_10-K_2024-03-31.txt Note 8 p.139 (CECL)"
+    },
+    "loans_net": {
+     "value": 1381.715,
+     "src": "FRHC_10-K_2024-03-31.txt BS p.93"
+    },
+    "repo_obligations": {
+     "value": 2756.596,
+     "src": "FRHC_10-K_2024-03-31.txt BS p.93 / Note 13 p.145"
+    },
+    "customer_liabilities": {
+     "value": 2273.83,
+     "src": "FRHC_10-K_2024-03-31.txt Note 14 p.146"
+    },
+    "term_deposits": {
+     "value": 1221.072,
+     "src": "FRHC_10-K_2024-03-31.txt Note 14"
+    },
+    "brokerage_customer_accounts": {
+     "value": 742.902,
+     "src": "FRHC_10-K_2024-03-31.txt Note 14"
+    },
+    "margin_lending_and_trade_payables": {
+     "value": 867.88,
+     "src": "FRHC_10-K_2024-03-31.txt BS p.93"
+    },
+    "liability_continuing_involvement_7_20_25": {
+     "value": 521.885,
+     "src": "FRHC_10-K_2024-03-31.txt BS p.93"
+    },
+    "debt_securities_issued": {
+     "value": 267.251,
+     "src": "FRHC_10-K_2024-03-31.txt BS p.93"
+    },
+    "equity_attrib_FRHC_original": {
+     "value": 1163.65,
+     "src": "FRHC_10-K_2024-03-31.txt BS p.93"
+    },
+    "equity_attrib_FRHC_recast": {
+     "value": 1175.412,
+     "src": "FRHC_10-K_2026-03-31.txt Statement of Equity p.107"
+    }
+   },
+   "trading_securities_structure": {
+    "non_us_sovereign_debt": {
+     "value": 2409.126,
+     "src": "FRHC_10-K_2024-03-31.txt Note 6"
+    },
+    "corporate_debt": {
+     "value": 1108.87,
+     "src": "FRHC_10-K_2024-03-31.txt Note 6"
+    },
+    "corporate_equity": {
+     "value": 126.103,
+     "src": "FRHC_10-K_2024-03-31.txt Note 6"
+    },
+    "us_sovereign_debt": {
+     "value": 43.173,
+     "src": "FRHC_10-K_2024-03-31.txt Note 6"
+    },
+    "exchange_traded_notes": {
+     "value": 1.348,
+     "src": "FRHC_10-K_2024-03-31.txt Note 6"
+    },
+    "of_which_KZ_MinFin": {
+     "value": 2394.541,
+     "src": "FRHC_10-K_2024-03-31.txt Note 6 p.131"
+    },
+    "of_which_Kazakhstan_Sustainability_Fund": {
+     "value": 669.756,
+     "src": "FRHC_10-K_2024-03-31.txt Note 6 p.131"
+    }
+   },
+   "loans_structure": {
+    "mortgage": {
+     "value": 741.312,
+     "src": "FRHC_10-K_2024-03-31.txt Note 8 p.134"
+    },
+    "mortgage_7_20_25_principal": {
+     "value": 532.389,
+     "src": "FRHC_10-K_2024-03-31.txt Note 8"
+    },
+    "car_loans": {
+     "value": 262.708,
+     "src": "FRHC_10-K_2024-03-31.txt Note 8"
+    },
+    "uncollateralized_consumer": {
+     "value": 245.188,
+     "src": "FRHC_10-K_2024-03-31.txt Note 8"
+    },
+    "right_of_claim_FFIN_Credit": {
+     "value": 146.152,
+     "src": "FRHC_10-K_2024-03-31.txt Note 8"
+    },
+    "collateralized_consumer": {
+     "value": 22.299,
+     "src": "FRHC_10-K_2024-03-31.txt Note 8"
+    },
+    "other": {
+     "value": 7.675,
+     "src": "FRHC_10-K_2024-03-31.txt Note 8 (sub 5,037 + other 2,638)"
+    }
+   },
+   "credit_quality": {
+    "credit_impaired_90plus": {
+     "value": 20.525,
+     "src": "FRHC_10-K_2024-03-31.txt Note 8 p.138 aging"
+    },
+    "sicr": {
+     "value": 12.9,
+     "src": "FRHC_10-K_2024-03-31.txt Note 8 p.137 (sum of 'with significant increase in credit risk')"
+    },
+    "dpd_30_89": {
+     "value": 12.9,
+     "src": "FRHC_10-K_2024-03-31.txt Note 8 aging (7,876+5,024)"
+    },
+    "net_loan_charge": {
+     "value": 15.045,
+     "src": "FRHC_10-K_2024-03-31.txt Note 8 p.139 (charges 53,319 - recoveries 38,274); CECL day-1 adj. 25,195 via equity"
+    }
+   },
+   "income": {
+    "fee_and_commission_income": {
+     "value": 440.333,
+     "src": "FRHC_10-K_2026-03-31.txt IS p.105"
+    },
+    "net_gain_trading_securities": {
+     "value": 133.854,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "interest_income": {
+     "value": 828.224,
+     "src": "FRHC_10-K_2026-03-31.txt IS / Note 21"
+    },
+    "net_insurance_revenue": {
+     "value": 245.122,
+     "src": "FRHC_10-K_2026-03-31.txt IS (LDTI recast; original 264,218)"
+    },
+    "net_fx": {
+     "value": 72.245,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "net_derivatives": {
+     "value": -103.794,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "total_revenue_net": {
+     "value": 1647.256,
+     "src": "FRHC_10-K_2026-03-31.txt IS (recast); original 1,635,080 (FRHC_10-K_2024-03-31.txt p.94)"
+    },
+    "interest_expense": {
+     "value": 501.111,
+     "src": "FRHC_10-K_2026-03-31.txt IS / Note 21"
+    },
+    "net_interest_income": {
+     "value": 327.113,
+     "src": "FRHC_10-K_2026-03-31.txt Note 21 p.184"
+    },
+    "fee_and_commission_expense": {
+     "value": 154.716,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "allowance_ecl_total": {
+     "value": 21.225,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "operating_expenses": {
+     "value": 413.993,
+     "src": "payroll 180,283 + prof 34,238 + stock 22,719 + adv 38,327 + G&A 120,888 + cost of sales 17,538 (K26 IS)"
+    },
+    "income_tax": {
+     "value": -60.419,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "net_income_attrib_common_recast": {
+     "value": 379.107,
+     "src": "FRHC_10-K_2026-03-31.txt IS p.105"
+    },
+    "net_income_attrib_common_original": {
+     "value": 375.54,
+     "src": "FRHC_10-K_2024-03-31.txt IS p.95"
+    }
+   },
+   "interest_breakdown": {
+    "on_trading_securities": {
+     "value": 426.428,
+     "src": "FRHC_10-K_2024-03-31.txt Note 21 p.153"
+    },
+    "on_loans_issued": {
+     "value": 176.539,
+     "src": "FRHC_10-K_2024-03-31.txt Note 21"
+    },
+    "on_margin_lending": {
+     "value": 175.571,
+     "src": "FRHC_10-K_2024-03-31.txt Note 21"
+    },
+    "on_AFS": {
+     "value": 32.821,
+     "src": "FRHC_10-K_2024-03-31.txt Note 21"
+    },
+    "exp_on_repo": {
+     "value": 402.665,
+     "src": "FRHC_10-K_2024-03-31.txt Note 21"
+    },
+    "exp_on_customer_liabilities": {
+     "value": 70.778,
+     "src": "FRHC_10-K_2024-03-31.txt Note 21"
+    },
+    "exp_on_margin_payable": {
+     "value": 16.99,
+     "src": "FRHC_10-K_2024-03-31.txt Note 21"
+    },
+    "exp_on_debt_securities": {
+     "value": 10.356,
+     "src": "FRHC_10-K_2024-03-31.txt Note 21"
+    }
+   },
+   "fee_breakdown": {
+    "brokerage_services": {
+     "value": 333.383,
+     "src": "FRHC_10-K_2024-03-31.txt Note 19"
+    },
+    "payment_processing": {
+     "value": 41.659,
+     "src": "FRHC_10-K_2024-03-31.txt Note 19"
+    },
+    "bank_services": {
+     "value": 25.18,
+     "src": "FRHC_10-K_2024-03-31.txt Note 19"
+    },
+    "underwriting_market_making": {
+     "value": 18.801,
+     "src": "FRHC_10-K_2024-03-31.txt Note 19"
+    },
+    "other_agency": {
+     "value": 21.31,
+     "src": "FRHC_10-K_2024-03-31.txt Note 19"
+    },
+    "from_market_maker_customer_Freedom_Global": {
+     "value": 196.7,
+     "src": "FRHC_10-K_2025-03-31.txt Item 1A p.~45: 45% of fee income"
+    }
+   },
+   "related_parties": {
+    "fee_income_from_RP": {
+     "value": 65.972,
+     "src": "FRHC_10-K_2024-03-31.txt Note 24 p.156 (93% FST Belize)"
+    },
+    "share_of_fee_income_from_RP": {
+     "value": 14.9823,
+     "formula": "65,972 / 440,333"
+    },
+    "interest_income_from_RP": {
+     "value": 24.941,
+     "src": "FRHC_10-K_2024-03-31.txt Note 24"
+    },
+    "receivables_from_RP": {
+     "value": 22.039,
+     "src": "FRHC_10-K_2024-03-31.txt Note 24 (FST Belize ~0)"
+    },
+    "loans_to_RP_(FFIN_Credit)": {
+     "value": 147.44,
+     "src": "FRHC_10-K_2024-03-31.txt Note 24"
+    },
+    "customer_liabilities_to_RP": {
+     "value": 44.127,
+     "src": "FRHC_10-K_2024-03-31.txt Note 24"
+    },
+    "G&A_from_RP": {
+     "value": 10.341,
+     "src": "FRHC_10-K_2024-03-31.txt Note 24"
+    },
+    "acquisition_Aviata_price": {
+     "value": 31.318,
+     "src": "FRHC_10-K_2024-03-31.txt Note 28 p.159 (net assets FV 9,523; seller was entity where Turlov had significant influence per FRHC_10-K_2023-03-31.txt Note 25)"
+    },
+    "Arbuz_control_via_Turlov_18_08pct": {
+     "value": "FRHC 38.78% + Turlov personal 18.08% => control May 22, 2023",
+     "src": "FRHC_10-K_2024-03-31.txt Note 28 p.161"
+    },
+    "rp_assets_total_pct_equity": {
+     "value": 15.1476,
+     "formula": "(203+1,326+22,039+147,440+5,257)/1,163,650"
+    }
+   },
+   "regulatory_capital": {
+    "Freedom_Bank_KZ_net_capital": {
+     "value": 329.738,
+     "src": "FRHC_10-K_2024-03-31.txt Note 31 p.171"
+    },
+    "Freedom_Bank_KZ_required_min": {
+     "value": 196.594,
+     "src": "FRHC_10-K_2024-03-31.txt Note 31"
+    },
+    "Freedom_Bank_KZ_capital_to_required": {
+     "value": 1.6773,
+     "formula": "329,738 / 196,594"
+    },
+    "Freedom_EU_net_capital": {
+     "value": 269.424,
+     "src": "FRHC_10-K_2024-03-31.txt Note 31 (req. 10,868)"
+    },
+    "Freedom_KZ_net_capital": {
+     "value": 107.064,
+     "src": "FRHC_10-K_2024-03-31.txt Note 31 (req. 413)"
+    },
+    "Freedom_Global_net_capital": {
+     "value": 16.428,
+     "src": "FRHC_10-K_2024-03-31.txt Note 31 (req. 12,352 — thin buffer 1.33x)"
+    }
+   },
+   "shares": {
+    "shares_outstanding": {
+     "value": 60321813,
+     "src": "FRHC_10-K_2024-03-31.txt BS p.93"
+    },
+    "eps_basic_recast": {
+     "value": 6.43,
+     "src": "FRHC_10-K_2026-03-31.txt IS p.106"
+    },
+    "eps_basic_original": {
+     "value": 6.37,
+     "src": "FRHC_10-K_2024-03-31.txt IS p.95"
+    },
+    "eps_diluted_original": {
+     "value": 6.33,
+     "src": "FRHC_10-K_2024-03-31.txt IS"
+    },
+    "weighted_avg_basic": {
+     "value": 58958363,
+     "src": "FRHC_10-K_2024-03-31.txt IS"
+    },
+    "dividends": {
+     "value": 0,
+     "src": "FRHC_10-K_2024-03-31.txt Item 5"
+    },
+    "buyback": {
+     "value": 0,
+     "src": "FRHC_10-K_2024-03-31.txt Statement of Equity"
+    }
+   },
+   "audit": {
+    "auditor": {
+     "value": "Deloitte LLP",
+     "src": "FRHC_10-K_2024-03-31.txt p.87-91"
+    },
+    "opinion_fs": {
+     "value": "Unqualified with explanatory paragraph (change in accounting principle — CECL ASC 326)",
+     "src": "FRHC_10-K_2024-03-31.txt p.87"
+    },
+    "opinion_icfr": {
+     "value": "Unqualified (effective); FY2023 material weaknesses declared remediated",
+     "src": "FRHC_10-K_2024-03-31.txt p.90-91; Item 9A"
+    },
+    "cams": {
+     "value": "FST Belize related-party fee/interest income; payment-processing (ITS) revenue; CECL adoption",
+     "src": "FRHC_10-K_2024-03-31.txt p.88-89"
+    }
+   },
+   "segments_business": {
+    "Brokerage_net_income": {
+     "value": 297.756,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30 p.197"
+    },
+    "Banking_net_income": {
+     "value": 110.873,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30"
+    },
+    "Insurance_net_income": {
+     "value": 37.378,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30 (recast)"
+    },
+    "Other_net_income": {
+     "value": -67.488,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30"
+    },
+    "revenue_Kazakhstan": {
+     "value": 1471.247,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30 p.198"
+    },
+    "revenue_Cyprus": {
+     "value": 118.332,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30"
+    },
+    "revenue_Armenia": {
+     "value": 43.132,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30"
+    },
+    "revenue_US": {
+     "value": 12.842,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30"
+    }
+   },
+   "sanctions": {
+    "customer_liabilities_sanctioned_pct": {
+     "value": 3.4,
+     "src": "FRHC_10-K_2024-03-31.txt Item 1 p.~ (≈3.4% of customer liabilities, blocked accounts)"
+    }
+   },
+   "ratios": {
+    "ROE_recast": {
+     "value": 38.5722,
+     "formula": "379,107 / avg(790,291; 1,175,412) — LDTI basis"
+    },
+    "ROE_original": {
+     "value": 38.6968,
+     "formula": "375,540 / avg(777,285; 1,163,650)"
+    },
+    "ROA": {
+     "value": 5.664,
+     "formula": "379,107 / avg assets"
+    },
+    "leverage_repo_to_equity": {
+     "value": 2.3689,
+     "formula": "2,756,596 / 1,163,650"
+    },
+    "repo_to_trading_securities": {
+     "value": 74.7324,
+     "formula": "2,756,596 / 3,688,620"
+    },
+    "assets_to_equity": {
+     "value": 7.1344,
+     "formula": "8,301,930 / 1,163,650"
+    },
+    "NIM_proxy": {
+     "value": 6.0791,
+     "formula": "NII 327,113 / avg IEA (3,839,551; 6,922,333)"
+    },
+    "carry_trading_int_less_repo_int": {
+     "value": 23.763,
+     "src": "interest on trading securities 426,428 - repo interest 402,665"
+    },
+    "cost_of_risk_loans": {
+     "value": 1.3347,
+     "formula": "15,045 / avg gross loans (829,050; 1,425,334)"
+    },
+    "credit_impaired_ratio": {
+     "value": 1.44,
+     "formula": "20,525 / 1,425,334"
+    },
+    "ACL_to_gross_loans": {
+     "value": 3.0603,
+     "formula": "43,619 / 1,425,334"
+    },
+    "ACL_coverage_of_credit_impaired": {
+     "value": 2.1252,
+     "formula": "43,619 / 20,525 (x)"
+    },
+    "cost_income": {
+     "value": 47.3592,
+     "formula": "413,993 / 874,156"
+    },
+    "fee_from_RP_share": {
+     "value": 14.9823,
+     "formula": "65,972 / 440,333"
+    },
+    "fee_from_single_market_maker_share": {
+     "value": 45,
+     "src": "FRHC_10-K_2025-03-31.txt Item 1A"
+    },
+    "BVPS_usd": {
+     "value": 19.4857,
+     "formula": "equity 1,175,412k / 60,321,813 shares LDTI recast"
+    },
+    "EPS_check": {
+     "value": 6.4301,
+     "formula": "379,107k / 58,958,363 vs reported 6.43",
+     "note": "recast"
+    }
+   }
+  },
+  "FY2025": {
+   "period_end": "2025-03-31",
+   "basis_note": "Основные цифры — рекаст LDTI из 10-K FY2026; оригинал 10-K FY2025 указан отдельно.",
+   "balance": {
+    "total_assets": {
+     "value": 9915.117,
+     "src": "FRHC_10-K_2026-03-31.txt BS p.104 (recast); original 9,914,017"
+    },
+    "investment_securities": {
+     "value": 2814.733,
+     "src": "FRHC_10-K_2026-03-31.txt Note 6 p.142"
+    },
+    "trading_securities": {
+     "value": 2275.286,
+     "src": "FRHC_10-K_2026-03-31.txt Note 6"
+    },
+    "afs_securities": {
+     "value": 473.587,
+     "src": "FRHC_10-K_2026-03-31.txt Note 6"
+    },
+    "htm_securities": {
+     "value": 65.86,
+     "src": "FRHC_10-K_2026-03-31.txt Note 6"
+    },
+    "margin_lending_brokerage_receivables_net": {
+     "value": 3319.145,
+     "src": "FRHC_10-K_2026-03-31.txt Note 7 p.148"
+    },
+    "margin_lending_receivables": {
+     "value": 3294.569,
+     "src": "FRHC_10-K_2026-03-31.txt Note 7"
+    },
+    "loans_gross": {
+     "value": 1670.55,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8 p.153"
+    },
+    "loan_allowance": {
+     "value": 75.115,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8 p.150"
+    },
+    "loans_net": {
+     "value": 1595.435,
+     "src": "FRHC_10-K_2026-03-31.txt BS p.104"
+    },
+    "repo_obligations": {
+     "value": 1418.443,
+     "src": "FRHC_10-K_2026-03-31.txt BS / Note 13 p.162"
+    },
+    "customer_liabilities": {
+     "value": 4304.999,
+     "src": "FRHC_10-K_2026-03-31.txt Note 14 p.162"
+    },
+    "term_deposits": {
+     "value": 1722.313,
+     "src": "FRHC_10-K_2026-03-31.txt Note 14"
+    },
+    "brokerage_customer_accounts": {
+     "value": 2167.111,
+     "src": "FRHC_10-K_2026-03-31.txt Note 14"
+    },
+    "margin_lending_payable": {
+     "value": 1290.569,
+     "src": "FRHC_10-K_2026-03-31.txt Note 15 p.163"
+    },
+    "liability_continuing_involvement_7_20_25": {
+     "value": 503.705,
+     "src": "FRHC_10-K_2026-03-31.txt BS"
+    },
+    "debt_securities_issued": {
+     "value": 469.551,
+     "src": "FRHC_10-K_2026-03-31.txt BS / Note 16"
+    },
+    "equity_attrib_FRHC_recast": {
+     "value": 1224.447,
+     "src": "FRHC_10-K_2026-03-31.txt BS p.104"
+    },
+    "equity_attrib_FRHC_original": {
+     "value": 1214.241,
+     "src": "FRHC_10-K_2025-03-31.txt BS p.93"
+    }
+   },
+   "trading_securities_structure": {
+    "non_us_sovereign_debt": {
+     "value": 1282.45,
+     "src": "FRHC_10-K_2026-03-31.txt Note 6"
+    },
+    "corporate_debt": {
+     "value": 807.985,
+     "src": "FRHC_10-K_2026-03-31.txt Note 6"
+    },
+    "corporate_equity": {
+     "value": 106.227,
+     "src": "FRHC_10-K_2026-03-31.txt Note 6"
+    },
+    "us_sovereign_debt": {
+     "value": 73.787,
+     "src": "FRHC_10-K_2026-03-31.txt Note 6"
+    },
+    "exchange_traded_notes": {
+     "value": 4.837,
+     "src": "FRHC_10-K_2026-03-31.txt Note 6"
+    },
+    "of_which_KZ_MinFin_all_portfolios": {
+     "value": 1527.34,
+     "src": "FRHC_10-K_2026-03-31.txt Note 6 p.143"
+    },
+    "of_which_Kazakhstan_Sustainability_Fund": {
+     "value": 578.862,
+     "src": "FRHC_10-K_2026-03-31.txt Note 6 p.143"
+    }
+   },
+   "loans_structure": {
+    "mortgage": {
+     "value": 924.53,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8 p.150"
+    },
+    "mortgage_7_20_25_principal": {
+     "value": 511.851,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8 p.149"
+    },
+    "loans_to_SME": {
+     "value": 244.217,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8"
+    },
+    "right_of_claim_FFIN_Credit": {
+     "value": 183.635,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8"
+    },
+    "car_loans": {
+     "value": 156.34,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8"
+    },
+    "corporate": {
+     "value": 149.143,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8"
+    },
+    "retail": {
+     "value": 4.847,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8"
+    },
+    "other": {
+     "value": 7.838,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8"
+    }
+   },
+   "credit_quality": {
+    "credit_impaired_90plus": {
+     "value": 31.144,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8 p.154 aging"
+    },
+    "sicr": {
+     "value": 13.278,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8 p.153"
+    },
+    "dpd_30_89": {
+     "value": 13.278,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8 aging (8,474+4,804)"
+    },
+    "net_loan_charge": {
+     "value": 54.236,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8 p.155 (charges 79,324 - reversals 25,088)"
+    },
+    "write_offs": {
+     "value": 16.225,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8 p.155"
+    },
+    "SME_credit_impaired": {
+     "value": 17.311,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8 (7.1% of SME book)"
+    }
+   },
+   "income": {
+    "fee_and_commission_income": {
+     "value": 505.026,
+     "src": "FRHC_10-K_2026-03-31.txt IS p.105"
+    },
+    "net_gain_trading_securities": {
+     "value": -57.81,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "interest_income": {
+     "value": 864.453,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "net_insurance_revenue": {
+     "value": 571.224,
+     "src": "FRHC_10-K_2026-03-31.txt IS (recast; original 617,596)"
+    },
+    "net_fx": {
+     "value": 51.684,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "net_derivatives": {
+     "value": 12.404,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "total_revenue_net": {
+     "value": 2004.155,
+     "src": "FRHC_10-K_2026-03-31.txt IS (recast); original 2,050,527"
+    },
+    "interest_expense": {
+     "value": 535.895,
+     "src": "FRHC_10-K_2026-03-31.txt IS / Note 21"
+    },
+    "net_interest_income": {
+     "value": 328.558,
+     "src": "FRHC_10-K_2026-03-31.txt Note 21"
+    },
+    "fee_and_commission_expense": {
+     "value": 346.502,
+     "src": "FRHC_10-K_2026-03-31.txt IS (incl. insurance agency fees 284,447)"
+    },
+    "allowance_ecl_total": {
+     "value": 62.445,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "operating_expenses": {
+     "value": 694.242,
+     "src": "payroll 287,347 + prof 28,924 + stock 59,592 + adv 124,627 + G&A 162,474 + cost of sales 31,278"
+    },
+    "income_tax": {
+     "value": -28.425,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "net_income_attrib_common_recast": {
+     "value": 76.287,
+     "src": "FRHC_10-K_2026-03-31.txt IS p.105"
+    },
+    "net_income_attrib_common_original": {
+     "value": 84.65,
+     "src": "FRHC_10-K_2025-03-31.txt IS p.95"
+    }
+   },
+   "interest_breakdown": {
+    "on_trading_securities": {
+     "value": 378.35,
+     "src": "FRHC_10-K_2026-03-31.txt Note 21"
+    },
+    "on_margin_lending": {
+     "value": 212.36,
+     "src": "FRHC_10-K_2026-03-31.txt Note 21"
+    },
+    "on_loans_issued": {
+     "value": 207.802,
+     "src": "FRHC_10-K_2026-03-31.txt Note 21"
+    },
+    "on_AFS": {
+     "value": 40.297,
+     "src": "FRHC_10-K_2026-03-31.txt Note 21"
+    },
+    "exp_on_repo": {
+     "value": 340.863,
+     "src": "FRHC_10-K_2026-03-31.txt Note 21"
+    },
+    "exp_on_customer_liabilities": {
+     "value": 111.541,
+     "src": "FRHC_10-K_2026-03-31.txt Note 21"
+    },
+    "exp_on_margin_payable": {
+     "value": 45.748,
+     "src": "FRHC_10-K_2026-03-31.txt Note 21"
+    },
+    "exp_on_debt_securities": {
+     "value": 36.13,
+     "src": "FRHC_10-K_2026-03-31.txt Note 21"
+    }
+   },
+   "fee_breakdown": {
+    "brokerage_services": {
+     "value": 430.136,
+     "src": "FRHC_10-K_2026-03-31.txt Note 19 p.182"
+    },
+    "payment_processing": {
+     "value": 28.711,
+     "src": "FRHC_10-K_2026-03-31.txt Note 19"
+    },
+    "agency": {
+     "value": 15.616,
+     "src": "FRHC_10-K_2026-03-31.txt Note 19"
+    },
+    "bank_services": {
+     "value": 13.336,
+     "src": "FRHC_10-K_2026-03-31.txt Note 19 (net of cashback 24.2m)"
+    },
+    "underwriting_market_making": {
+     "value": 11.21,
+     "src": "FRHC_10-K_2026-03-31.txt Note 19"
+    },
+    "from_market_maker_customer_Freedom_Global": {
+     "value": 284.7,
+     "src": "FRHC_10-K_2025-03-31.txt/FRHC_10-K_2026-03-31.txt Item 1A: 56% of fee income"
+    }
+   },
+   "related_parties": {
+    "fee_income_from_RP": {
+     "value": 4.725,
+     "src": "FRHC_10-K_2026-03-31.txt Note 24"
+    },
+    "interest_income_from_RP": {
+     "value": 1.731,
+     "src": "FRHC_10-K_2026-03-31.txt Note 24"
+    },
+    "loans_to_RP": {
+     "value": 188.445,
+     "src": "FRHC_10-K_2026-03-31.txt Note 24 (188,154 companies controlled by management — FFIN Credit)"
+    },
+    "receivables_from_RP": {
+     "value": 41.308,
+     "src": "FRHC_10-K_2026-03-31.txt Note 24 (incl. ITS Central Securities Depository 29,693 per FRHC_10-K_2025-03-31.txt Note 23)"
+    },
+    "customer_liabilities_to_RP": {
+     "value": 48.161,
+     "src": "FRHC_10-K_2026-03-31.txt Note 24 (13% Turlov Family Office)"
+    },
+    "advertising_sponsorship_RP": {
+     "value": 18.497,
+     "src": "FRHC_10-K_2026-03-31.txt Note 24 (Kazakhstan Chess Federation 11,222; Freedom Youth Football League 3,497)"
+    },
+    "rp_assets_total_pct_equity": {
+     "value": 20.5211,
+     "formula": "(2,233+30+1,174+41,308+188,445+18,080)/1,224,447"
+    }
+   },
+   "regulatory_capital": {
+    "Freedom_Bank_KZ_net_capital": {
+     "value": 382.259,
+     "src": "FRHC_10-K_2025-03-31.txt Note 30 / FRHC_10-K_2026-03-31.txt Note 31 p.202"
+    },
+    "Freedom_Bank_KZ_required_min": {
+     "value": 175.396,
+     "src": "FRHC_10-K_2026-03-31.txt Note 31"
+    },
+    "Freedom_Bank_KZ_capital_to_required": {
+     "value": 2.1794,
+     "formula": "382,259 / 175,396"
+    },
+    "Freedom_EU_net_capital": {
+     "value": 450.903,
+     "src": "FRHC_10-K_2026-03-31.txt Note 31 (req. 19,320)"
+    },
+    "Freedom_Global_net_capital": {
+     "value": 66.217,
+     "src": "FRHC_10-K_2026-03-31.txt Note 31 (req. 21,564)"
+    },
+    "FRHC_holding_net_capital": {
+     "value": 526.906,
+     "src": "FRHC_10-K_2026-03-31.txt Note 31 (req. 200,000; table shows RE -256,096 — stand-alone basis)"
+    }
+   },
+   "shares": {
+    "shares_outstanding": {
+     "value": 60993949,
+     "src": "FRHC_10-K_2026-03-31.txt BS p.104"
+    },
+    "eps_basic_recast": {
+     "value": 1.28,
+     "src": "FRHC_10-K_2026-03-31.txt IS p.106"
+    },
+    "eps_basic_original": {
+     "value": 1.43,
+     "src": "FRHC_10-K_2025-03-31.txt IS p.95"
+    },
+    "eps_diluted_recast": {
+     "value": 1.26,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "weighted_avg_basic": {
+     "value": 59393629,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "dividends": {
+     "value": 0,
+     "src": "FRHC_10-K_2025-03-31.txt Item 5"
+    },
+    "buyback": {
+     "value": 0,
+     "src": "FRHC_10-K_2025-03-31.txt Statement of Equity"
+    }
+   },
+   "audit": {
+    "auditor": {
+     "value": "Deloitte LLP",
+     "src": "FRHC_10-K_2025-03-31.txt p.87-90"
+    },
+    "opinion_fs": {
+     "value": "Unqualified",
+     "src": "FRHC_10-K_2025-03-31.txt p.86"
+    },
+    "opinion_icfr": {
+     "value": "Unqualified (effective)",
+     "src": "FRHC_10-K_2025-03-31.txt p.86; Item 9A"
+    },
+    "cams": {
+     "value": "Fee income from ONE institutional brokerage customer (internalized trades via omnibus accounts, agent vs principal)",
+     "src": "FRHC_10-K_2025-03-31.txt p.87"
+    }
+   },
+   "segments_business": {
+    "Brokerage_net_income": {
+     "value": 315.506,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30 p.196"
+    },
+    "Banking_net_income": {
+     "value": -86.492,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30 (banking pre-tax loss -94,744)"
+    },
+    "Insurance_net_income": {
+     "value": 10.322,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30"
+    },
+    "Other_net_income": {
+     "value": -163.178,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30"
+    },
+    "revenue_Kazakhstan": {
+     "value": 1703.719,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30 p.198"
+    },
+    "revenue_Armenia": {
+     "value": 181.698,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30"
+    },
+    "revenue_Cyprus": {
+     "value": 69.49,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30"
+    },
+    "revenue_US": {
+     "value": 43.951,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30"
+    }
+   },
+   "sanctions": {
+    "customer_liabilities_sanctioned": {
+     "value": 156.7,
+     "src": "FRHC_10-K_2025-03-31.txt Item 1 p.~ (≈4% of customer liabilities)"
+    }
+   },
+   "ratios": {
+    "ROE_recast": {
+     "value": 6.3576,
+     "formula": "76,287 / avg(1,175,412; 1,224,447)"
+    },
+    "ROE_original": {
+     "value": 7.1198,
+     "formula": "84,650 / avg(1,163,650; 1,214,241)"
+    },
+    "ROA": {
+     "value": 0.8375,
+     "formula": "76,287 / avg assets"
+    },
+    "leverage_repo_to_equity": {
+     "value": 1.1584,
+     "formula": "1,418,443 / 1,224,447"
+    },
+    "assets_to_equity": {
+     "value": 8.0976,
+     "formula": "9,915,117 / 1,224,447"
+    },
+    "NIM_proxy": {
+     "value": 4.4925,
+     "formula": "NII 328,558 / avg IEA (6,922,333; 7,704,737)"
+    },
+    "cost_of_risk_loans": {
+     "value": 3.5037,
+     "formula": "54,236 / avg gross loans (1,425,334; 1,670,550)"
+    },
+    "credit_impaired_ratio": {
+     "value": 1.8643,
+     "formula": "31,144 / 1,670,550"
+    },
+    "ACL_to_gross_loans": {
+     "value": 4.4964,
+     "formula": "75,115 / 1,670,550"
+    },
+    "ACL_coverage_of_credit_impaired": {
+     "value": 2.4119,
+     "formula": "75,115 / 31,144 (x)"
+    },
+    "cost_income": {
+     "value": 80.6068,
+     "formula": "694,242 / 861,270"
+    },
+    "fee_from_single_market_maker_share": {
+     "value": 56,
+     "src": "FRHC_10-K_2025-03-31.txt/FRHC_10-K_2026-03-31.txt Item 1A"
+    },
+    "BVPS_usd": {
+     "value": 20.0749,
+     "formula": "equity 1,224,447k / 60,993,949 shares LDTI recast"
+    },
+    "EPS_check": {
+     "value": 1.2844,
+     "formula": "76,287k / 59,393,629 vs reported 1.28",
+     "note": "recast"
+    }
+   }
+  },
+  "FY2026": {
+   "period_end": "2026-03-31",
+   "balance": {
+    "total_assets": {
+     "value": 13155.239,
+     "src": "FRHC_10-K_2026-03-31.txt BS p.104"
+    },
+    "investment_securities": {
+     "value": 3342.561,
+     "src": "FRHC_10-K_2026-03-31.txt Note 6 p.142"
+    },
+    "trading_securities": {
+     "value": 2339.1,
+     "src": "FRHC_10-K_2026-03-31.txt Note 6"
+    },
+    "afs_securities": {
+     "value": 574.038,
+     "src": "FRHC_10-K_2026-03-31.txt Note 6"
+    },
+    "htm_securities": {
+     "value": 429.423,
+     "src": "FRHC_10-K_2026-03-31.txt Note 6"
+    },
+    "margin_lending_brokerage_receivables_net": {
+     "value": 4690.782,
+     "src": "FRHC_10-K_2026-03-31.txt Note 7 p.148"
+    },
+    "margin_lending_receivables": {
+     "value": 4632.506,
+     "src": "FRHC_10-K_2026-03-31.txt Note 7"
+    },
+    "margin_receivables_3_largest_non_RP_customers": {
+     "value": 3286.545,
+     "src": "FRHC_10-K_2026-03-31.txt Note 7 (collateral 4,677,913)"
+    },
+    "loans_gross": {
+     "value": 2179.405,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8 p.152"
+    },
+    "loan_allowance": {
+     "value": 101.799,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8 p.149"
+    },
+    "loans_net": {
+     "value": 2077.606,
+     "src": "FRHC_10-K_2026-03-31.txt BS p.104"
+    },
+    "repo_obligations": {
+     "value": 1024.923,
+     "src": "FRHC_10-K_2026-03-31.txt BS / Note 13 p.161"
+    },
+    "customer_liabilities": {
+     "value": 7103.984,
+     "src": "FRHC_10-K_2026-03-31.txt Note 14 p.162"
+    },
+    "term_deposits": {
+     "value": 2522.76,
+     "src": "FRHC_10-K_2026-03-31.txt Note 14"
+    },
+    "brokerage_customer_accounts": {
+     "value": 3998.521,
+     "src": "FRHC_10-K_2026-03-31.txt Note 14"
+    },
+    "single_customer_liability_>10pct": {
+     "value": 2368.911,
+     "src": "FRHC_10-K_2026-03-31.txt Note 14 (one non-related party)"
+    },
+    "margin_lending_payable": {
+     "value": 625.136,
+     "src": "FRHC_10-K_2026-03-31.txt Note 15"
+    },
+    "liability_continuing_involvement_7_20_25": {
+     "value": 554.594,
+     "src": "FRHC_10-K_2026-03-31.txt BS"
+    },
+    "debt_securities_issued": {
+     "value": 1261.12,
+     "src": "FRHC_10-K_2026-03-31.txt Note 16 p.164 (Freedom SPC bonds, AIX, FRHC-guaranteed)"
+    },
+    "equity_attrib_FRHC": {
+     "value": 1489.279,
+     "src": "FRHC_10-K_2026-03-31.txt BS p.104"
+    }
+   },
+   "trading_securities_structure": {
+    "non_us_sovereign_debt": {
+     "value": 1337.577,
+     "src": "FRHC_10-K_2026-03-31.txt Note 6"
+    },
+    "corporate_debt": {
+     "value": 793.85,
+     "src": "FRHC_10-K_2026-03-31.txt Note 6"
+    },
+    "corporate_equity": {
+     "value": 166.394,
+     "src": "FRHC_10-K_2026-03-31.txt Note 6"
+    },
+    "us_sovereign_debt": {
+     "value": 33.06,
+     "src": "FRHC_10-K_2026-03-31.txt Note 6"
+    },
+    "exchange_traded_notes": {
+     "value": 8.219,
+     "src": "FRHC_10-K_2026-03-31.txt Note 6"
+    },
+    "level3_trading": {
+     "value": 22.275,
+     "src": "FRHC_10-K_2026-03-31.txt Note 6 p.144"
+    },
+    "of_which_KZ_MinFin_all_portfolios": {
+     "value": 1897.085,
+     "src": "FRHC_10-K_2026-03-31.txt Note 6 p.143"
+    },
+    "of_which_Kazakhstan_Sustainability_Fund": {
+     "value": 544.306,
+     "src": "FRHC_10-K_2026-03-31.txt Note 6 p.143"
+    }
+   },
+   "loans_structure": {
+    "mortgage": {
+     "value": 1149.0,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8 p.148"
+    },
+    "mortgage_7_20_25_principal": {
+     "value": 568.065,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8 p.149"
+    },
+    "corporate": {
+     "value": 351.713,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8"
+    },
+    "loans_to_SME": {
+     "value": 195.495,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8"
+    },
+    "purchased_retail_(ex_FFIN_Credit)": {
+     "value": 182.13,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8"
+    },
+    "car_loans": {
+     "value": 167.805,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8"
+    },
+    "retail": {
+     "value": 100.927,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8"
+    },
+    "other": {
+     "value": 32.335,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8"
+    }
+   },
+   "credit_quality": {
+    "credit_impaired_90plus": {
+     "value": 48.909,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8 p.154 aging"
+    },
+    "sicr": {
+     "value": 27.471,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8 p.152"
+    },
+    "dpd_30_89": {
+     "value": 27.471,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8 aging (16,701+10,770)"
+    },
+    "net_loan_charge": {
+     "value": 37.038,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8 p.155 (charges 96,797 - reversals 59,759)"
+    },
+    "write_offs": {
+     "value": 15.19,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8 p.155"
+    },
+    "SME_credit_impaired": {
+     "value": 16.997,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8 (8.7% of SME; SME ACL 38,752)"
+    },
+    "car_credit_impaired": {
+     "value": 12.918,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8 (7.7% of car loans)"
+    },
+    "FFIN_loans_recognized_31_12_2025": {
+     "value": 186.0,
+     "src": "FRHC_10-K_2026-03-31.txt Note 8 p.150 (after release of FFIN credit protection on 215m; compensation ~23m)"
+    }
+   },
+   "income": {
+    "fee_and_commission_income": {
+     "value": 489.765,
+     "src": "FRHC_10-K_2026-03-31.txt IS p.105"
+    },
+    "net_gain_trading_securities": {
+     "value": 158.824,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "interest_income": {
+     "value": 882.478,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "net_insurance_revenue": {
+     "value": 402.396,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "net_fx": {
+     "value": 67.68,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "net_derivatives": {
+     "value": 66.772,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "sales_of_goods_services": {
+     "value": 97.446,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "total_revenue_net": {
+     "value": 2191.291,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "interest_expense": {
+     "value": 489.036,
+     "src": "FRHC_10-K_2026-03-31.txt IS / Note 21"
+    },
+    "net_interest_income": {
+     "value": 393.442,
+     "src": "FRHC_10-K_2026-03-31.txt Note 21 p.184"
+    },
+    "fee_and_commission_expense": {
+     "value": 218.565,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "allowance_ecl_total": {
+     "value": 52.365,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "operating_expenses": {
+     "value": 946.051,
+     "src": "payroll 426,471 + prof 46,258 + stock 68,047 + adv 103,304 + G&A 222,339 + cost of sales 79,632"
+    },
+    "income_tax": {
+     "value": -72.637,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "net_income_attrib_common": {
+     "value": 153.328,
+     "src": "FRHC_10-K_2026-03-31.txt IS p.105"
+    }
+   },
+   "interest_breakdown": {
+    "on_loans_issued": {
+     "value": 283.657,
+     "src": "FRHC_10-K_2026-03-31.txt Note 21"
+    },
+    "on_margin_lending": {
+     "value": 277.633,
+     "src": "FRHC_10-K_2026-03-31.txt Note 21"
+    },
+    "on_trading_securities": {
+     "value": 191.021,
+     "src": "FRHC_10-K_2026-03-31.txt Note 21"
+    },
+    "on_AFS": {
+     "value": 58.276,
+     "src": "FRHC_10-K_2026-03-31.txt Note 21"
+    },
+    "on_HTM": {
+     "value": 49.67,
+     "src": "FRHC_10-K_2026-03-31.txt Note 21"
+    },
+    "exp_on_customer_liabilities": {
+     "value": 204.578,
+     "src": "FRHC_10-K_2026-03-31.txt Note 21"
+    },
+    "exp_on_repo": {
+     "value": 162.76,
+     "src": "FRHC_10-K_2026-03-31.txt Note 21"
+    },
+    "exp_on_debt_securities": {
+     "value": 81.757,
+     "src": "FRHC_10-K_2026-03-31.txt Note 21"
+    },
+    "exp_on_margin_payable": {
+     "value": 31.687,
+     "src": "FRHC_10-K_2026-03-31.txt Note 21"
+    }
+   },
+   "fee_breakdown": {
+    "brokerage_services": {
+     "value": 504.283,
+     "src": "FRHC_10-K_2026-03-31.txt Note 19 p.182"
+    },
+    "payment_processing": {
+     "value": 22.755,
+     "src": "FRHC_10-K_2026-03-31.txt Note 19"
+    },
+    "agency": {
+     "value": 21.419,
+     "src": "FRHC_10-K_2026-03-31.txt Note 19"
+    },
+    "underwriting_market_making": {
+     "value": 9.473,
+     "src": "FRHC_10-K_2026-03-31.txt Note 19"
+    },
+    "bank_services": {
+     "value": -74.335,
+     "src": "FRHC_10-K_2026-03-31.txt Note 19 (NEGATIVE: cashback netted 154.8m)"
+    },
+    "from_market_maker_customer_Freedom_Global": {
+     "value": 345.5,
+     "src": "FRHC_10-K_2026-03-31.txt Item 1A p.36: 71% of fee income"
+    }
+   },
+   "related_parties": {
+    "fee_income_from_RP": {
+     "value": 7.68,
+     "src": "FRHC_10-K_2026-03-31.txt Note 24 p.187"
+    },
+    "interest_income_from_RP": {
+     "value": 12.703,
+     "src": "FRHC_10-K_2026-03-31.txt Note 24 (management 10,661)"
+    },
+    "other_income_from_RP": {
+     "value": 24.011,
+     "src": "FRHC_10-K_2026-03-31.txt Note 24 (companies controlled by management; likely FFIN compensation)"
+    },
+    "loans_to_RP": {
+     "value": 21.321,
+     "src": "FRHC_10-K_2026-03-31.txt Note 24"
+    },
+    "receivables_from_RP": {
+     "value": 22.267,
+     "src": "FRHC_10-K_2026-03-31.txt Note 24 (management 19,946)"
+    },
+    "other_assets_RP": {
+     "value": 40.119,
+     "src": "FRHC_10-K_2026-03-31.txt Note 24 (26% prepayment to Freedom Data Centers for A-Telecom)"
+    },
+    "customer_liabilities_to_RP": {
+     "value": 94.808,
+     "src": "FRHC_10-K_2026-03-31.txt Note 24 (13% Turlov Family Office)"
+    },
+    "insurance_liabilities_to_RP_(FFIN_Credit)": {
+     "value": 6.437,
+     "src": "FRHC_10-K_2026-03-31.txt Note 24 (99% FFIN Credit)"
+    },
+    "advertising_sponsorship_RP": {
+     "value": 27.151,
+     "src": "FRHC_10-K_2026-03-31.txt Note 24 (Chess Federation 10,026; Freedom Youth Football League 10,705)"
+    },
+    "rp_assets_total_pct_equity": {
+     "value": 6.7268,
+     "formula": "(1,771+6,586+8,117+22,267+21,321+40,119)/1,489,279"
+    }
+   },
+   "regulatory_capital": {
+    "Freedom_Bank_KZ_net_capital": {
+     "value": 518.891,
+     "src": "FRHC_10-K_2026-03-31.txt Note 31 p.202"
+    },
+    "Freedom_Bank_KZ_required_min": {
+     "value": 231.143,
+     "src": "FRHC_10-K_2026-03-31.txt Note 31"
+    },
+    "Freedom_Bank_KZ_capital_to_required": {
+     "value": 2.2449,
+     "formula": "518,891 / 231,143"
+    },
+    "k1_k1_2_k2": {
+     "value": null,
+     "src": "Не раскрыты в 10-K/10-Q: в прим. 31 дан только net capital vs required minimum"
+    },
+    "Freedom_EU_net_capital": {
+     "value": 686.75,
+     "src": "FRHC_10-K_2026-03-31.txt Note 31 (req. 19,509)"
+    },
+    "Freedom_Global_net_capital": {
+     "value": 139.906,
+     "src": "FRHC_10-K_2026-03-31.txt Note 31 (req. 37,068)"
+    },
+    "Freedom_KZ_net_capital": {
+     "value": 73.931,
+     "src": "FRHC_10-K_2026-03-31.txt Note 31 (req. 452)"
+    },
+    "Freedom_Life_net_capital": {
+     "value": 117.074,
+     "src": "FRHC_10-K_2026-03-31.txt Note 31 (req. 13,550)"
+    },
+    "FRHC_min_capital_requirement": {
+     "value": 200.0,
+     "src": "FRHC_10-K_2026-03-31.txt Note 31"
+    }
+   },
+   "shares": {
+    "shares_outstanding": {
+     "value": 61292581,
+     "src": "FRHC_10-K_2026-03-31.txt BS p.104"
+    },
+    "eps_basic": {
+     "value": 2.56,
+     "src": "FRHC_10-K_2026-03-31.txt IS p.106"
+    },
+    "eps_diluted": {
+     "value": 2.51,
+     "src": "FRHC_10-K_2026-03-31.txt IS p.106"
+    },
+    "weighted_avg_basic": {
+     "value": 59992357,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "weighted_avg_diluted": {
+     "value": 61117931,
+     "src": "FRHC_10-K_2026-03-31.txt IS"
+    },
+    "dividends": {
+     "value": 0,
+     "src": "FRHC_10-K_2026-03-31.txt Item 5 p.64: historically no cash dividends"
+    },
+    "buyback": {
+     "value": 0,
+     "src": "FRHC_10-K_2026-03-31.txt Item 5: no repurchases in Q4; none in Statement of Equity"
+    }
+   },
+   "audit": {
+    "auditor": {
+     "value": "Deloitte LLP (Almaty), auditor since 2022",
+     "src": "FRHC_10-K_2026-03-31.txt p.~99-103"
+    },
+    "opinion_fs": {
+     "value": "Unqualified (June 1, 2026)",
+     "src": "FRHC_10-K_2026-03-31.txt"
+    },
+    "opinion_icfr": {
+     "value": "Unqualified (effective); Astel/Freedom Cloud excluded",
+     "src": "FRHC_10-K_2026-03-31.txt p.103; Item 9A p.204"
+    },
+    "cams": {
+     "value": "Contingent liabilities re SEC Wells Notice; LDTI adoption",
+     "src": "FRHC_10-K_2026-03-31.txt p.100-102"
+    }
+   },
+   "segments_business": {
+    "Brokerage_net_income": {
+     "value": 371.916,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30 p.195"
+    },
+    "Banking_net_income": {
+     "value": 84.003,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30"
+    },
+    "Insurance_net_income": {
+     "value": 22.651,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30"
+    },
+    "Other_net_income": {
+     "value": -325.242,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30 (telecom, ecosystem, holding, repo funding)"
+    },
+    "revenue_Kazakhstan": {
+     "value": 1838.524,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30 p.198"
+    },
+    "revenue_Armenia": {
+     "value": 181.726,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30"
+    },
+    "revenue_Cyprus": {
+     "value": 154.16,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30"
+    },
+    "revenue_US": {
+     "value": 2.928,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30"
+    },
+    "revenue_Other": {
+     "value": 13.953,
+     "src": "FRHC_10-K_2026-03-31.txt Note 30"
+    }
+   },
+   "sanctions": {
+    "customer_liabilities_sanctioned": {
+     "value": 187.8,
+     "src": "FRHC_10-K_2026-03-31.txt Item 1 p.~ (≈3% of customer liabilities)"
+    }
+   },
+   "ratios": {
+    "ROE": {
+     "value": 11.3002,
+     "formula": "153,328 / avg(1,224,447; 1,489,279)"
+    },
+    "ROA": {
+     "value": 1.3292,
+     "formula": "153,328 / avg assets"
+    },
+    "leverage_repo_to_equity": {
+     "value": 0.6882,
+     "formula": "1,024,923 / 1,489,279"
+    },
+    "assets_to_equity": {
+     "value": 8.8333,
+     "formula": "13,155,239 / 1,489,279"
+    },
+    "NIM_proxy": {
+     "value": 4.4313,
+     "formula": "NII 393,442 / avg IEA (7,704,737; 10,052,673)"
+    },
+    "cost_of_risk_loans": {
+     "value": 1.9241,
+     "formula": "37,038 / avg gross loans (1,670,550; 2,179,405)"
+    },
+    "credit_impaired_ratio": {
+     "value": 2.2441,
+     "formula": "48,909 / 2,179,405"
+    },
+    "sicr_plus_ci_ratio": {
+     "value": 3.5046,
+     "formula": "(48,909+27,471)/2,179,405"
+    },
+    "ACL_to_gross_loans": {
+     "value": 4.671,
+     "formula": "101,799 / 2,179,405"
+    },
+    "ACL_coverage_of_credit_impaired": {
+     "value": 2.0814,
+     "formula": "101,799 / 48,909 (x)"
+    },
+    "cost_income": {
+     "value": 77.2677,
+     "formula": "946,051 / 1,224,381"
+    },
+    "loans_to_customer_deposits_bank": {
+     "value": 70.1797,
+     "formula": "gross loans / (term deposits + customer accounts)"
+    },
+    "fee_from_single_market_maker_share": {
+     "value": 71,
+     "src": "FRHC_10-K_2026-03-31.txt Item 1A p.36"
+    },
+    "BVPS_usd": {
+     "value": 24.2979,
+     "formula": "equity 1,489,279k / 61,292,581 shares"
+    },
+    "EPS_check": {
+     "value": 2.5558,
+     "formula": "153,328k / 59,992,357 vs reported 2.56"
+    }
+   }
+  },
+  "Q1_FY2026_3M_to_2025-06-30": {
+   "period_end": "2025-06-30",
+   "income": {
+    "fee_and_commission_income": {
+     "value": 107.642,
+     "src": "FRHC_10-Q_2026-06-30.txt IS p.4 (recast)"
+    },
+    "interest_income": {
+     "value": 198.571,
+     "src": "FRHC_10-Q_2026-06-30.txt IS"
+    },
+    "interest_expense": {
+     "value": 113.41,
+     "src": "FRHC_10-Q_2026-06-30.txt IS"
+    },
+    "net_interest_income": {
+     "value": 85.161,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 17"
+    },
+    "total_revenue_net": {
+     "value": 523.981,
+     "src": "FRHC_10-Q_2026-06-30.txt IS"
+    },
+    "allowance_ecl_total": {
+     "value": 4.822,
+     "src": "FRHC_10-Q_2026-06-30.txt IS"
+    },
+    "net_income_attrib_common_recast": {
+     "value": 37.356,
+     "src": "FRHC_10-Q_2026-06-30.txt IS p.4"
+    },
+    "net_income_attrib_common_original": {
+     "value": 30.396,
+     "src": "XBRL frhc_facts.json NetIncomeLoss 10-Q FY2026 Q1"
+    }
+   },
+   "credit_quality": {
+    "net_loan_charge": {
+     "value": 8.341,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 8 p.35 (25,296-16,955)"
+    }
+   },
+   "balance": {
+    "equity_attrib_FRHC_recast": {
+     "value": 1246.225,
+     "src": "FRHC_10-Q_2026-06-30.txt Statement of Equity p.8"
+    }
+   },
+   "shares": {
+    "eps_basic": {
+     "value": 0.62,
+     "src": "FRHC_10-Q_2026-06-30.txt IS p.5"
+    }
+   }
+  },
+  "Q1_FY2027_3M_to_2026-06-30": {
+   "period_end": "2026-06-30",
+   "basis_note": "Неаудированная промежуточная отчётность (10-Q). Годовые коэффициенты = квартал ×4.",
+   "balance": {
+    "total_assets": {
+     "value": 14046.883,
+     "src": "FRHC_10-Q_2026-06-30.txt BS p.3"
+    },
+    "investment_securities": {
+     "value": 4182.982,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 6"
+    },
+    "trading_securities": {
+     "value": 2974.677,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 6"
+    },
+    "afs_securities": {
+     "value": 686.784,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 6"
+    },
+    "htm_securities": {
+     "value": 521.521,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 6"
+    },
+    "margin_lending_brokerage_receivables_net": {
+     "value": 3996.783,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 7 p.28"
+    },
+    "margin_lending_receivables": {
+     "value": 3939.843,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 7"
+    },
+    "margin_receivables_3_largest_non_RP_customers": {
+     "value": 2982.821,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 7"
+    },
+    "loans_gross": {
+     "value": 2150.805,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 8 p.32"
+    },
+    "loan_allowance": {
+     "value": 114.29,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 8 p.29"
+    },
+    "loans_net": {
+     "value": 2036.515,
+     "src": "FRHC_10-Q_2026-06-30.txt BS"
+    },
+    "repo_obligations": {
+     "value": 1254.206,
+     "src": "FRHC_10-Q_2026-06-30.txt BS / Note 10"
+    },
+    "customer_liabilities": {
+     "value": 7048.8,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 11"
+    },
+    "term_deposits": {
+     "value": 3033.394,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 11"
+    },
+    "brokerage_customer_accounts": {
+     "value": 3482.453,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 11"
+    },
+    "debt_securities_issued": {
+     "value": 1470.693,
+     "src": "FRHC_10-Q_2026-06-30.txt BS"
+    },
+    "unsettled_private_placement_liability": {
+     "value": 300.0,
+     "src": "FRHC_10-Q_2026-06-30.txt BS / Note 27 (Reg S placement 2,374,356 shares closed 10.07.2026)"
+    },
+    "equity_attrib_FRHC": {
+     "value": 1535.276,
+     "src": "FRHC_10-Q_2026-06-30.txt BS p.3"
+    }
+   },
+   "trading_securities_structure": {
+    "non_us_sovereign_debt": {
+     "value": 2073.085,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 6"
+    },
+    "corporate_debt": {
+     "value": 682.474,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 6"
+    },
+    "corporate_equity": {
+     "value": 148.815,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 6"
+    },
+    "us_sovereign_debt": {
+     "value": 32.778,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 6"
+    },
+    "etn_and_funds": {
+     "value": 37.525,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 6"
+    },
+    "of_which_KZ_MinFin_principal": {
+     "value": 2733.248,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 6"
+    },
+    "of_which_Kazakhstan_Sustainability_Fund_principal": {
+     "value": 550.316,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 6"
+    }
+   },
+   "loans_structure": {
+    "mortgage": {
+     "value": 1142.148,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 8 p.29"
+    },
+    "mortgage_7_20_25_principal": {
+     "value": 573.114,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 8 p.30"
+    },
+    "corporate": {
+     "value": 354.243,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 8"
+    },
+    "loans_to_SME": {
+     "value": 179.612,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 8"
+    },
+    "car_loans": {
+     "value": 162.438,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 8"
+    },
+    "purchased_retail": {
+     "value": 155.553,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 8"
+    },
+    "retail": {
+     "value": 118.745,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 8"
+    },
+    "other": {
+     "value": 38.066,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 8"
+    }
+   },
+   "credit_quality": {
+    "credit_impaired_90plus": {
+     "value": 66.444,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 8 p.34 aging"
+    },
+    "sicr": {
+     "value": 28.001,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 8 p.32"
+    },
+    "dpd_30_89": {
+     "value": 28.001,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 8 aging (15,997+12,004)"
+    },
+    "net_loan_charge": {
+     "value": 13.127,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 8 p.35 (charges 24,315 - reversals 11,188)"
+    },
+    "purchased_retail_credit_impaired": {
+     "value": 20.653,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 8 (13.3% of purchased retail vs 5.9% at 31.03.2026)"
+    },
+    "SME_credit_impaired": {
+     "value": 22.202,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 8 (12.4% of SME)"
+    }
+   },
+   "income": {
+    "fee_and_commission_income": {
+     "value": 156.734,
+     "src": "FRHC_10-Q_2026-06-30.txt IS p.4"
+    },
+    "net_gain_trading_securities": {
+     "value": 79.778,
+     "src": "FRHC_10-Q_2026-06-30.txt IS"
+    },
+    "interest_income": {
+     "value": 295.106,
+     "src": "FRHC_10-Q_2026-06-30.txt IS / Note 17"
+    },
+    "net_insurance_revenue": {
+     "value": 124.175,
+     "src": "FRHC_10-Q_2026-06-30.txt IS"
+    },
+    "total_revenue_net": {
+     "value": 732.527,
+     "src": "FRHC_10-Q_2026-06-30.txt IS"
+    },
+    "interest_expense": {
+     "value": 177.563,
+     "src": "FRHC_10-Q_2026-06-30.txt IS"
+    },
+    "net_interest_income": {
+     "value": 117.543,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 17"
+    },
+    "fee_and_commission_expense": {
+     "value": 31.289,
+     "src": "FRHC_10-Q_2026-06-30.txt IS"
+    },
+    "allowance_ecl_total": {
+     "value": 17.659,
+     "src": "FRHC_10-Q_2026-06-30.txt IS"
+    },
+    "operating_expenses": {
+     "value": 333.6,
+     "src": "payroll 153,127 + prof 10,004 + stock 23,235 + adv 35,785 + G&A 76,205 + cost of sales 35,244"
+    },
+    "income_tax": {
+     "value": -9.174,
+     "src": "FRHC_10-Q_2026-06-30.txt IS"
+    },
+    "net_income_attrib_common": {
+     "value": 31.66,
+     "src": "FRHC_10-Q_2026-06-30.txt IS p.4"
+    }
+   },
+   "interest_breakdown": {
+    "on_margin_lending": {
+     "value": 108.19,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 17"
+    },
+    "on_loans_issued": {
+     "value": 81.481,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 17"
+    },
+    "on_trading_securities": {
+     "value": 59.81,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 17"
+    },
+    "exp_on_customer_liabilities": {
+     "value": 86.917,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 17"
+    },
+    "exp_on_repo": {
+     "value": 48.176,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 17"
+    },
+    "exp_on_debt_securities": {
+     "value": 33.234,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 17"
+    }
+   },
+   "fee_breakdown": {
+    "brokerage_services": {
+     "value": 164.261,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 15"
+    },
+    "bank_services": {
+     "value": -26.788,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 15 (negative, cashback)"
+    }
+   },
+   "related_parties": {
+    "loans_to_RP": {
+     "value": 25.157,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 19 p.51"
+    },
+    "receivables_from_RP": {
+     "value": 34.56,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 19"
+    },
+    "customer_liabilities_to_RP": {
+     "value": 113.506,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 19"
+    },
+    "advertising_sponsorship_RP": {
+     "value": 11.831,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 19 (Chess 4,123; Youth Football League 4,637; FC Shakhter 2,544 — Turlov Private Holding 99.9%)"
+    }
+   },
+   "regulatory_capital": {
+    "Freedom_Bank_KZ_net_capital": {
+     "value": 524.068,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 26"
+    },
+    "Freedom_Bank_KZ_required_min": {
+     "value": 250.005,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 26"
+    },
+    "Freedom_Bank_KZ_capital_to_required": {
+     "value": 2.0962,
+     "formula": "524,068 / 250,005"
+    },
+    "FRHC_status": {
+     "value": "Kazakhstan bank holding company (min. capital 200m)",
+     "src": "FRHC_10-Q_2026-06-30.txt Note 26"
+    }
+   },
+   "shares": {
+    "shares_outstanding": {
+     "value": 61428760,
+     "src": "FRHC_10-Q_2026-06-30.txt BS p.3"
+    },
+    "shares_after_July_2026_placement": {
+     "value": 63803116,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 27 (+2,374,356 shares for $300m ≈ $126.35/share)"
+    },
+    "eps_basic": {
+     "value": 0.52,
+     "src": "FRHC_10-Q_2026-06-30.txt IS p.5"
+    },
+    "eps_diluted": {
+     "value": 0.52,
+     "src": "FRHC_10-Q_2026-06-30.txt IS p.5"
+    },
+    "weighted_avg_basic": {
+     "value": 60416219,
+     "src": "FRHC_10-Q_2026-06-30.txt IS"
+    },
+    "dividends": {
+     "value": 0,
+     "src": "FRHC_10-Q_2026-06-30.txt"
+    }
+   },
+   "audit": {
+    "review": {
+     "value": "Unaudited 10-Q; disclosure controls effective",
+     "src": "FRHC_10-Q_2026-06-30.txt Item 4 p.97"
+    }
+   },
+   "segments_business": {
+    "Brokerage_net_income": {
+     "value": 133.646,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 25"
+    },
+    "Banking_net_income": {
+     "value": 3.685,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 25"
+    },
+    "Insurance_net_income": {
+     "value": -19.196,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 25"
+    },
+    "Other_net_income": {
+     "value": -86.475,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 25"
+    },
+    "revenue_Kazakhstan": {
+     "value": 612.151,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 25"
+    },
+    "revenue_Armenia": {
+     "value": 65.162,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 25"
+    },
+    "revenue_Cyprus": {
+     "value": 47.896,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 25"
+    }
+   },
+   "subsequent_events": {
+    "Turkish_Bank_acquisition_99_32pct": {
+     "value": 33.4,
+     "src": "FRHC_10-Q_2026-06-30.txt Note 27 (31.07.2026)"
+    }
+   },
+   "ratios": {
+    "ROE_annualized": {
+     "value": 8.3741,
+     "formula": "31,660×4 / avg(1,489,279; 1,535,276)"
+    },
+    "ROA_annualized": {
+     "value": 0.9311,
+     "formula": "31,660×4 / avg assets"
+    },
+    "leverage_repo_to_equity": {
+     "value": 0.8169,
+     "formula": "1,254,206 / 1,535,276"
+    },
+    "assets_to_equity": {
+     "value": 9.1494,
+     "formula": "14,046,883 / 1,535,276"
+    },
+    "NIM_proxy_annualized": {
+     "value": 4.6524,
+     "formula": "NII 117,543×4 / avg IEA (10,052,673; 10,159,340)"
+    },
+    "cost_of_risk_loans_annualized": {
+     "value": 2.4252,
+     "formula": "13,127×4 / avg gross loans"
+    },
+    "credit_impaired_ratio": {
+     "value": 3.0893,
+     "formula": "66,444 / 2,150,805"
+    },
+    "ACL_to_gross_loans": {
+     "value": 5.3138,
+     "formula": "114,290 / 2,150,805"
+    },
+    "ACL_coverage_of_credit_impaired": {
+     "value": 1.7201,
+     "formula": "114,290 / 66,444 (x)"
+    },
+    "cost_income": {
+     "value": 85.0819,
+     "formula": "333,600 / 392,093"
+    },
+    "BVPS_pro_forma_after_placement": {
+     "value": 28.7647,
+     "formula": "(1,535,276+300,000)k / 63,803,116 shares (USD)"
+    },
+    "BVPS_usd": {
+     "value": 24.9928,
+     "formula": "equity 1,535,276k / 61,428,760 shares"
+    },
+    "EPS_check": {
+     "value": 0.524,
+     "formula": "31,660k / 60,416,219 vs reported 0.52"
+    }
+   }
+  }
+ },
+ "checks": [
+  {
+   "check": "Сверка капитала FY2022 (оригинал, 10-K FY2022 p.85)",
+   "formula": "277,312 + NI 217,935 + SBC 15,746 + взнос Турлова 21,600 + опционы 119 − продажа Freedom UA 796 − пересчёт валют 17,245",
+   "computed": 514671,
+   "reported": 514671,
+   "diff": 0
+  },
+  {
+   "check": "Сверка капитала FY2022 (рекаст, 10-K FY2023 p.97)",
+   "formula": "309,315 + 227,494 + 15,746 + 24,417 + 119 − 796 − 2,070 − 20,622",
+   "computed": 553603,
+   "reported": 553603,
+   "diff": 0
+  },
+  {
+   "check": "Сверка капитала FY2023 (10-K FY2023 p.97)",
+   "formula": "553,603 + 205,140 + 11,038 + 677 + 4,290 − 26,588 (покупка страховых у Турлова) − 1,485 + 25,415 (CTA России) + 5,195",
+   "computed": 777285,
+   "reported": 777285,
+   "diff": 0
+  },
+  {
+   "check": "Сверка капитала FY2024 (оригинал, 10-K FY2024 p.96-97)",
+   "formula": "777,285 − 22,772 (CECL) + 19,627 − 6,549 (FF Ukraine) + 5,457 (Arbuz) + 2,987 + 12,075 + 375,540",
+   "computed": 1163650,
+   "reported": 1163650,
+   "diff": 0
+  },
+  {
+   "check": "Сверка капитала FY2024 (рекаст LDTI, 10-K FY2026 p.107)",
+   "formula": "790,291 − 22,772 + 19,627 − 6,549 + 5,457 − 1,824 + 12,075 + 379,107",
+   "computed": 1175412,
+   "reported": 1175412,
+   "diff": 0
+  },
+  {
+   "check": "Сверка капитала FY2025 (оригинал, 10-K FY2025 p.96-97)",
+   "formula": "1,163,650 + 3,092 + 59,593 + 138 + 2,175 + 5,045 − 104,102 + 84,650",
+   "computed": 1214241,
+   "reported": 1214241,
+   "diff": 0
+  },
+  {
+   "check": "Сверка капитала FY2025 (рекаст LDTI)",
+   "formula": "1,175,412 + 3,092 + 59,593 + 138 + 2,175 + 11,852 − 104,102 + 76,287",
+   "computed": 1224447,
+   "reported": 1224447,
+   "diff": 0
+  },
+  {
+   "check": "Сверка капитала FY2026 (10-K FY2026 p.107-108)",
+   "formula": "1,224,447 + SBC 68,047 − OCI 10,589 + FX 54,046 + NI 153,328",
+   "computed": 1489279,
+   "reported": 1489279,
+   "diff": 0
+  },
+  {
+   "check": "Сверка капитала Q1 FY2027 (10-Q p.8)",
+   "formula": "1,489,279 + 231 + 23,235 − 4,400 − 4,729 + 31,660",
+   "computed": 1535276,
+   "reported": 1535276,
+   "diff": 0
+  },
+  {
+   "check": "Дивиденды/выкуп",
+   "result": "Дивиденды не объявлялись и не выплачивались (Item 5 всех 10-K); выкупа акций нет — в отчётах о капитале строк repurchase/treasury нет. Payout = 0."
+  },
+  {
+   "check": "Кредиты: брутто − резерв = нетто",
+   "result": "FY2023 829,050−2,792=826,258 ✓; FY2024 1,425,334−43,619=1,381,715 ✓; FY2025 1,670,550−75,115=1,595,435 ✓; FY2026 2,179,405−101,799=2,077,606 ✓; Q1 2,150,805−114,290=2,036,515 ✓"
+  },
+  {
+   "check": "Ценные бумаги: сумма категорий = итог",
+   "result": "FY2026 trading 2,339,100 + AFS 574,038 + HTM 429,423 = 3,342,561 ✓; Q1 2,974,677+686,784+521,521=4,182,982 ✓; FY2024 3,688,620+216,621=3,905,241 (=Investment securities в 10-K FY2025) ✓"
+  },
+  {
+   "check": "EPS ≈ ЧП / средневзв. акции",
+   "result": "FY2023 3.499 vs 3.50 ✓; FY2024 recast 6.430 vs 6.43 ✓; FY2025 recast 1.284 vs 1.28 ✓; FY2026 2.556 vs 2.56 ✓; Q1 0.524 vs 0.52 ✓. FY2022 оригинал: 217,935/59.378m = 3.67, а отчётная 3.56 = совокупная ЧП вкл. NCI (211,369) — ошибка в исходном 10-K FY2022 (в рекасте 3.84 = сумма округлённых 5.59−1.75; точный расчёт 3.83). FY2021 оригинал 2.45 также посчитан от ЧП вкл. NCI (142,924)."
+  },
+  {
+   "check": "XBRL (frhc_facts.json) vs текст",
+   "result": "NetIncomeLoss, StockholdersEquity, Assets, EPS, Repo совпадают по всем датам; XBRL фиксирует обе версии рекастов (напр. ЧП FY2025 84,650 → 76,287; Q1 FY2026 30,396 → 37,356)."
+  },
+  {
+   "check": "Сегменты = консолидированный итог",
+   "result": "FY2026: сегментная ЧП 371,916+84,003+22,651−325,242=153,328 ✓; Q1: 133,646+3,685−19,196−86,475=31,660 ✓"
+  }
+ ],
+ "restatements": [
+  {
+   "what": "FY2021–FY2022: консолидация Freedom Life и Freedom Insurance (купленных у Т. Турлова в мае 2022, under common control с 2018)",
+   "effect": "Капитал 31.03.2022: 514,671 → 553,603; 31.03.2021: 277,312 → 309,315; ЧП FY2022: 217,935 → 227,494; FY2021: 142,293 → 149,650",
+   "src": "FRHC_10-K_2023-03-31.txt Note 3 p.117"
+  },
+  {
+   "what": "FY2022: российский сегмент (Freedom RU, Freedom Bank RU) переведён в held for sale / discontinued",
+   "effect": "Выручка FY2022 564,663 → 689,790 (cont. ops), убыток от прекращённой деятельности −104,195; активы 31.03.2022 2,921,009 → 3,230,347 (с учётом held for sale и страховщиков)",
+   "src": "FRHC_10-K_2023-03-31.txt IS p.95; Note 30"
+  },
+  {
+   "what": "FY2024–FY2025: LDTI (ASU 2018-12), модифицированный ретроспективный метод с 01.04.2023",
+   "effect": "ЧП FY2024 375,540 → 379,107 (+3,567); FY2025 84,650 → 76,287 (−8,363); капитал 31.03.2025 1,214,241 → 1,224,447; 31.03.2023 777,285 → 790,291; Q1 FY2026 ЧП 30,396 → 37,356",
+   "src": "FRHC_10-K_2026-03-31.txt Note 3; FRHC_10-Q_2026-06-30.txt Note 3"
+  },
+  {
+   "what": "FY2023 ‘Other income’ переклассифицирован",
+   "effect": "Выручка FY2023 795,693 (10-K FY2023/24) → 799,141 (10-K FY2025)",
+   "src": "FRHC_10-K_2025-03-31.txt IS p.94"
+  },
+  {
+   "what": "Смена категорий кредитов",
+   "effect": "‘Uncollateralized bank customer loans’ → ‘Loans to SME’/‘Retail’; ‘Right of claim FFIN’ → ‘Purchased retail loans’ (FY2026). Резерв на 31.03.2024 в 10-K FY2026 разнесён по новым категориям (SME 19,556 и т.п.), итог 43,619 не изменился",
+   "src": "FRHC_10-K_2024-03-31.txt Note 8 vs FRHC_10-K_2026-03-31.txt Note 8"
+  }
+ ],
+ "red_flags": [
+  "Концентрация брокерской выручки на одном контрагенте: до FY2024 — FST Belize (Freedom Securities Trading Inc., 100% Т. Турлов): 85–87% комиссий FY2021–FY2022, 61% FY2023; с FY2024 — один (формально несвязанный) маркет-мейкер Freedom Global: 45% (196.7m) FY2024 → 56% (284.7m) FY2025 → 71% (345.5m) FY2026 комиссионного дохода. Бизнес фактически перетёк от связанной стороны к одному внешнему клиенту.",
+  "SEC: расследование с 2021 (расчёты, отношения с институциональными маркет-мейкерами, учёт ‘internalized trades’, раскрытия, ВК); 11.03.2026 Wells Notice компании и Т. Турлову; оценка убытка невозможна; CAM у Deloitte в FY2026. OFAC запрашивал информацию по сделкам с подсанкционными лицами и клиринговым схемам.",
+  "Отчёт Hindenburg Research (авг. 2024) в 10-K/10-Q НЕ упоминается ни разу (grep 'Hindenburg'/'short seller' = 0) — подтвердить из файлов нельзя; связанная тематика (internalized trades, маркет-мейкер, санкции) раскрыта в рисках/CAM.",
+  "Существенные недостатки ВК на 31.03.2023 (ICFR adverse, Deloitte); 10-K FY2023 выпущен 04.08.2023. Устранены к 31.03.2024; FY2024–FY2026 ICFR эффективен.",
+  "Связанные стороны: покупка страховщиков у Турлова (26.6m, common control), Aviata/Internet-Tourism (31.3m при FV чистых активов 9.5m; продавец под значимым влиянием Турлова), контроль над Arbuz через личную долю Турлова 18.08%; кредиты FFIN Credit (Турлов) 35→121→146→188m; в FY2026 FRHC освободил FFIN от кредитной защиты на 215m за компенсацию ~23m и признал 186m кредитов на балансе — после этого просрочка 90+ по купленным розничным кредитам выросла с 5.9% до 13.3% за квартал.",
+  "Спонсорство структур Турлова (Шахматная федерация, Freedom Youth Football League, ФК Шахтёр): 18.5m FY2025, 27.2m FY2026, 11.8m за Q1 FY2027.",
+  "Леверидж и carry-trade на казахстанских госбумагах: РЕПО 2.76bn = 2.37x капитала (31.03.2024); процентный доход по торговым бумагам 426m vs процентный расход по РЕПО 403m (FY2024). 83–93% ‘trading income’ — проценты по гос/квазигос бумагам РК. Концентрация: Минфин РК 1.9–2.7bn + Фонд устойчивости (КФУ) 0.5–0.8bn (≈ 1.6–2.6x капитала: 2.6x на 31.03.2024, 1.6x на 31.03.2026, 2.1x на 30.06.2026).",
+  "Маржинальное кредитование: 4.63bn на 31.03.2026 (3.1x капитала), из них 3.29bn — 3 несвязанных клиента; 2023: 78% дебиторки — FST Belize, 37.1m обеспечено акциями FRHC.",
+  "Качество кредитов ухудшается: credit-impaired (90+) 1.4% → 1.9% → 2.2% → 3.1% (30.06.2026); CoR 1.3% → 3.5% → 1.9% → 2.4% (annualized); SME 12.4% и car 8.1% impaired. Нет раскрытия по стадиям/non-accrual: все 90+ показаны ‘still accruing’.",
+  "Банковские k1/k1-2/k2 Freedom Bank KZ не раскрыты; дан только ‘net capital vs required minimum’ (2.2x на 31.03.2026). Прим. 31 FY2025 показывает для FRHC ‘net capital’ 526.9m и RE −256.1m (stand-alone), а в FY2026 — консолидированный капитал: несопоставимость.",
+  "Доходность упала: ROE 53% (FY2022) → 39% (FY2024) → 6% (FY2025) → 11% (FY2026) → 8% (Q1 ann.). Сегмент ‘Other’ (телеком, экосистема, холдинг) — убыток 325m в FY2026; Cost/Income вырос с 22% до 77–85%.",
+  "Комиссии банка отрицательные (−74.3m FY2026, −26.8m Q1) из-за кэшбэка 154.8m, отнесённого против выручки.",
+  "Санкции: Т. Турлов и бывшая Freedom UA в санкционном списке СНБО Украины (19.10.2022); российские дочки проданы 28.02.2023 топ-менеджеру Freedom RU М. Повалишину (деньги — от продажи им акций FRHC на KASE; CAM); обязательства перед подсанкционными клиентами 156.7m (≈4%) FY2025 и 187.8m (≈3%) FY2026.",
+  "Крупный депозитор: один несвязанный клиент 2.37bn (33% customer liabilities) на 31.03.2026.",
+  "Размещение Reg S на $300m (07.2026) по ~$126.35/акция — деньги получены до 30.06.2026 и учтены как обязательство; покупатели не раскрыты."
+ ],
+ "notes": [
+  "Финансовый год FRHC заканчивается 31 марта; FY2026 = 01.04.2025–31.03.2026. Квартал до 30.06.2026 = Q1 FY2027 (3 месяца), сравнительный Q1 FY2026 (3М до 30.06.2025).",
+  "Единицы: млн USD (исходники — тыс. USD, значения переведены делением на 1000).",
+  "Spec-адаптация: Stage 3 ≈ ‘credit impaired’ = ‘90+ days past due and still accruing’ (CECL, US GAAP); Stage 2 ≈ ‘with significant increase in credit risk’; резерв по стадиям не раскрыт (только по продуктам), поэтому покрытие = общий ACL / credit-impaired.",
+  "Cost of risk = (charges − reversals/recoveries) по кредитам из roll-forward ACL / средние брутто-кредиты; ECL в ОПиУ включает также дебиторку брокеров, страхование и ценные бумаги.",
+  "NIM-прокси = NII / средние (инвестиционные бумаги + маржинальная дебиторка + кредиты нетто); денежные средства не включены. Раскрытого NIM нет.",
+  "Cost/Income = (payroll+professional+stock comp+advertising+G&A+cost of sales) / (total revenue − interest expense − fee&commission expense − insurance claims).",
+  "ROE по возможности на рекаст-базе (последняя версия), оригинальные значения приведены отдельно.",
+  "FY2021: 10-K FY2021 в наборе нет (только ссылка в frhc_urls.txt); данные взяты из сравнительных колонок 10-K FY2022 (оригинал) и 10-K FY2023 (рекаст). NIM FY2021 = null (нет баланса на 31.03.2020).",
+  "Капитальные нормативы k1/k1-2/k2 Freedom Bank KZ — null (не раскрыты в SEC-отчётности); приведены net capital и required minimum из прим. 'Statutory capital requirements'.",
+  "Hindenburg Research: в исходных файлах не упоминается — фактов о нём не приводим.",
+  "Тикер на KASE в 10-K указан как 'US_FRHC' (Item 5), а не FRHC_KZ."
+ ]
+}
