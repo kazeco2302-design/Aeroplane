@@ -1,0 +1,1068 @@
+
+EX-99.1
+2
+kspi-ex99_1.htm
+EX-99.1
+EX-99.1
+Exhibit 99.1
+JOINT STOCK COMPANY
+KASPI.KZ
+Interim Condensed Consolidated
+Financial Information
+For the six months ended
+30 June 2026 (Unaudited)
+Joint Stock Company Kaspi.kz
+Table of Contents
+Page
+interim condensed consolidated financial information
+FOR 
+THE THREE AND
+ six 
+MONTHS ENDED 30 JUNE 
+2026 (unaudited):
+|  |
+| Interim condensed consolidated statements of profit or loss (unaudited) | 3 |
+|  |
+| Interim condensed consolidated statements of other comprehensive income (unaudited) | 4 |
+|  |
+| Interim condensed consolidated statements of financial position (unaudited) | 5 |
+|  |
+| Interim condensed consolidated statements of changes in equity (unaudited) | 6 |
+|  |
+| Interim condensed consolidated statements of cash flows (unaudited) | 7-8 |
+|  |
+| Selected explanatory notes to the interim condensed consolidated financial information (unaudited) | 9-32 |
+Joint Stock Company Kaspi.kz
+Interim Condensed Consolidated Statements of Profit or Loss
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT, except for earnings per share which are in KZT)
+|  |
+| Notes | Six Months Ended | Three Months Ended |
+| 30 June | 30 June | 30 June | 30 June |
+| 2025 | 2026 | 2025 | 2026 |
+| REVENUE | 4,5,17 | 1,789,352 | 2,192,782 | 967,501 | 1,112,152 |
+| Net fee revenue | 741,205 | 794,815 | 387,464 | 408,234 |
+| Interest revenue | 709,033 | 935,092 | 381,069 | 483,205 |
+| Retail revenue | 335,322 | 431,160 | 200,979 | 212,592 |
+| Other gains/(losses) | 3,792 | 31,715 | (2,011) | 8,121 |
+|  |
+| COSTS AND OPERATING EXPENSES | 6,17 | (1,159,944) | (1,542,500) | (645,545) | (784,171) |
+| Cost of goods and services | (479,665) | (621,590) | (278,688) | (308,896) |
+| Interest expenses and fees | (401,354) | (553,546) | (218,287) | (285,596) |
+| Transaction expenses | (16,245) | (18,902) | (8,459) | (10,152) |
+| Technology & product development | (93,786) | (125,283) | (50,889) | (63,704) |
+| Sales & marketing | (51,990) | (72,669) | (29,762) | (38,702) |
+| General & administrative expenses | (34,476) | (43,582) | (17,523) | (21,033) |
+| Provision expenses | 7 | (82,428) | (106,928) | (41,937) | (56,088) |
+|  |
+| NET INCOME BEFORE TAX | 629,408 | 650,282 | 321,956 | 327,981 |
+|  |
+| Income tax | (116,730) | (139,486) | (63,327) | (69,092) |
+|  |
+| NET INCOME | 512,678 | 510,796 | 258,629 | 258,889 |
+|  |
+| Attributable to: |
+| Shareholders of the Company | 509,383 | 506,127 | 257,327 | 256,733 |
+| Non-controlling interest | 3,295 | 4,669 | 1,302 | 2,156 |
+| NET INCOME | 512,678 | 510,796 | 258,629 | 258,889 |
+|  |
+| Earnings per share |
+| Basic (KZT) | 8 | 2,675 | 2,665 | 1,348 | 1,352 |
+| Diluted (KZT) | 8 | 2,664 | 2,654 | 1,343 | 1,346 |
+|  |
+|  |
+The accompanying notes are an integral part of this interim condensed consolidated financial information.
+3
+Joint Stock Company Kaspi.kz
+Interim Condensed Consolidated Statements of Other Comprehensive Income
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT, except for earnings per share which are in KZT)
+|  |
+| Six Months Ended | Three Months Ended |
+| 30 June | 30 June | 30 June | 30 June |
+| 2025 | 2026 | 2025 | 2026 |
+| NET INCOME | 512,678 | 510,796 | 258,629 | 258,889 |
+|  |
+| OTHER COMPREHENSIVE INCOME/(LOSS) |
+| Items that will not be reclassified subsequently to profit or loss : |
+| Movement in investment revaluation reserve for equity instruments at FVTOCI | (35) | (25) | (77) | (39) |
+| Items that may be reclassified subsequently to profit or loss: |
+| Gains/(losses) arising during the period, net of tax KZT Nil, for debt instruments at FVTOCI | (83,662) | 13,504 | (20,944) | 11,041 |
+| Expected credit losses/(recoveries) recognised in profit or loss, for debt instruments at FVTOCI | (252) | 26 | (13) | 76 |
+| Reclassification of (gains)/losses included in profit or loss, net of tax KZT Nil, for debt instruments at FVTOCI | 1,597 | (4,672) | 1,350 | (2,827) |
+| Foreign exchange differences on translation of foreign operations | 3,982 | 12,896 | 3,988 | 14,347 |
+|  |
+| Other comprehensive income/(loss) for the period | (78,370) | 21,729 | (15,696) | 22,598 |
+|  |
+| TOTAL COMPREHENSIVE INCOME | 434,308 | 532,525 | 242,933 | 281,487 |
+| Attributable to: |
+| Shareholders of the Company | 431,883 | 526,937 | 241,839 | 278,480 |
+| Non-controlling interest | 2,425 | 5,588 | 1,094 | 3,007 |
+| TOTAL COMPREHENSIVE INCOME | 434,308 | 532,525 | 242,933 | 281,487 |
+|  |
+|  |
+The accompanying notes are an integral part of this interim condensed consolidated financial information.
+4
+Joint Stock Company Kaspi.kz
+Interim Condensed Consolidated Statements of Financial Position
+As at 31 December 2025 and 30 June 2026 (Unaudited)
+(in millions of KZT)
+|  |
+| Notes | 31 December 2025 | 30 June 2026 |
+| ASSETS: |
+| Cash and cash equivalents | 9 | 903,143 | 998,610 |
+| Mandatory cash balances with National Bank of the Republic of Kazakhstan | 305,126 | 469,802 |
+| Due from banks | 16 | 51,951 | 55,520 |
+| Investment securities and derivatives | 10,16 | 1,179,819 | 1,574,304 |
+| Loans to customers | 11,16,17 | 7,172,162 | 7,439,812 |
+| Property, equipment and intangible assets | 714,361 | 748,235 |
+| Goodwill | 447,128 | 459,118 |
+| Inventory | 124,522 | 110,641 |
+| Other assets | 17 | 183,536 | 201,451 |
+|  |
+| TOTAL ASSETS | 11,081,748 | 12,057,493 |
+|  |
+| LIABILITIES AND EQUITY |
+|  |
+| LIABILITIES: |
+| Due to banks | 12,16,17 | 16,183 | 6,943 |
+| Customer accounts | 13,16,17 | 7,531,286 | 8,132,007 |
+| Debt securities issued | 16 | 331,992 | 605,368 |
+| Trade liabilities | 16 | 346,401 | 304,384 |
+| Deferred tax liabilities | 71,409 | 73,209 |
+| Other liabilities | 17 | 182,900 | 205,077 |
+|  |
+| TOTAL LIABILITIES | 8,480,171 | 9,326,988 |
+|  |
+| EQUITY: |
+| Issued capital | 14 | 130,144 | 130,144 |
+| Treasury shares | 14 | (169,985) | (187,713) |
+| Additional paid-in-capital | 506 | 506 |
+| Revaluation deficit of financial assets and other reserves | (40,545) | (19,735) |
+| Share-based compensation reserve | 15 | 27,938 | 14,182 |
+| Retained earnings | 2,543,785 | 2,701,732 |
+| Total equity attributable to Shareholders of the Company | 2,491,843 | 2,639,116 |
+| Non-controlling interest | 109,734 | 91,389 |
+| TOTAL EQUITY | 2,601,577 | 2,730,505 |
+|  |
+| TOTAL LIABILITIES AND EQUITY | 11,081,748 | 12,057,493 |
+The accompanying notes are an integral part of this interim condensed consolidated financial information.
+5
+Joint Stock Company Kaspi.kz
+Interim Condensed Consolidated Statements of Changes in Equity
+For the six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+|  |
+| Issued capital | Treasury shares | Additional paid-in- capital | Revaluation deficit of financial assets and other reserves | Share-based compensation reserve | Retained earnings | Total equity attributable to Shareholders of the Company | Non-controlling interest | Total equity |
+| Balance at 31 December 2024 | 130,144 | (151,521) | 506 | 41,026 | 31,774 | 1,465,295 | 1,517,224 | 55,637 | 1,572,861 |
+| Net income | - | - | - | - | - | 509,383 | 509,383 | 3,295 | 512,678 |
+| Other comprehensive loss | - | - | - | (77,500) | - | - | (77,500) | (870) | (78,370) |
+| Total comprehensive income | - | - | - | (77,500) | - | 509,383 | 431,883 | 2,425 | 434,308 |
+| Acquisition of subsidiary with NCI | - | - | - | - | - | - | - | 17,748 | 17,748 |
+| Other movements in equity | - | - | - | 1,052 | - | - | 1,052 | - | 1,052 |
+| Dividends declared by subsidiary to non-controlling interest | - | - | - | - | - | - | - | (594) | (594) |
+| Share options accrued | - | - | - | - | 4,287 | - | 4,287 | - | 4,287 |
+| Share options exercised | - | 3,429 | - | - | (19,281) | 15,852 | - | - | - |
+| Balance at 30 June 2025 | 130,144 | (148,092) | 506 | (35,422) | 16,780 | 1,990,530 | 1,954,446 | 75,216 | 2,029,662 |
+| Balance at 31 December 2025 | 130,144 | (169,985) | 506 | (40,545) | 27,938 | 2,543,785 | 2,491,843 | 109,734 | 2,601,577 |
+| Net income | - | - | - | - | - | 506,127 | 506,127 | 4,669 | 510,796 |
+| Other comprehensive income | - | - | - | 20,810 | - | - | 20,810 | 919 | 21,729 |
+| Total comprehensive income | - | - | - | 20,810 | - | 506,127 | 526,937 | 5,588 | 532,525 |
+| Change in ownership interest in subsidiary without loss of control | - | - | - | - | - | (33,579) | (33,579) | (23,621) | (57,200) |
+| Dividends declared | - | - | - | - | - | (323,201) | (323,201) | - | (323,201) |
+| Dividends declared by subsidiary to non-controlling interest | - | - | - | - | - | - | - | (312) | (312) |
+| Share options accrued | - | - | - | - | 5,484 | - | 5,484 | - | 5,484 |
+| Share options exercised | - | 10,640 | - | - | (19,240) | 8,600 | - | - | - |
+| Share buy-back program | - | (28,368) | - | - | - | - | (28,368) | - | (28,368) |
+| Balance at 30 June 2026 | 130,144 | (187,713) | 506 | (19,735) | 14,182 | 2,701,732 | 2,639,116 | 91,389 | 2,730,505 |
+The accompanying notes are an integral part of this interim condensed consolidated financial information.
+6
+Joint Stock Company Kaspi.kz
+Interim Condensed Consolidated Statements of Cash Flows
+For the six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+|  |
+| Six months ended | Six months ended |
+| 30 June 2025 | 30 June 2026 |
+| CASH FLOWS FROM OPERATING ACTIVITIES: |
+| Interest received from loans to customers | 638,422 | 841,764 |
+| Other interest received | 126,967 | 139,583 |
+|  |
+| Interest and fees paid | (381,109) | (528,455) |
+| Expenses paid on obligatory insurance of individual deposits | (8,198) | (13,557) |
+| Net fee revenue received | 758,199 | 808,659 |
+| Retail revenue received | 335,322 | 431,160 |
+| Sales & marketing expenses paid | (52,365) | (72,159) |
+| Other income received | 3,911 | 13,235 |
+| Transaction expenses | (16,245) | (18,902) |
+| Cost of goods and services purchased | (479,229) | (618,890) |
+| Technology & product development expenses paid | (60,983) | (76,865) |
+| General & administrative expenses paid | (27,816) | (33,500) |
+|  |
+| Cash flows from operating activities before changes in operating assets and liabilities | 836,876 | 872,073 |
+|  |
+| Changes in operating assets and liabilities |
+| Decrease/(increase) in operating assets: |
+| Mandatory cash balances with NBRK | (19,815) | (164,676) |
+| Due from banks | (5,664) | (705) |
+| Financial assets at FVTPL | (32,149) | (24,960) |
+| Loans to customers | (759,052) | (423,405) |
+| Inventory | 6,116 | 13,881 |
+| Other assets | 11,909 | (7,009) |
+| Increase/(decrease) in operating liabilities: |
+| Due to banks | 160,222 | (8,840) |
+| Customer accounts | 121,685 | 618,853 |
+| Financial liabilities at FVTPL | 979 | 9,087 |
+| Trade liabilities | 73,005 | (42,017) |
+| Other liabilities | 33,806 | 85,199 |
+| Cash inflow from operating activities before income tax | 427,918 | 927,481 |
+| Income tax paid | (102,935) | (129,555) |
+| Net cash inflow from operating activities | 324,983 | 797,926 |
+| CASH FLOWS FROM INVESTING ACTIVITIES: |
+| Purchase of property, equipment and intangible assets | (78,294) | (89,364) |
+| Proceeds on sale of property and equipment | 153 | 72 |
+| Proceeds on disposal of investment securities at FVTOCI | 359,272 | 524,993 |
+| Purchase of investment securities at FVTOCI | (142,980) | (975,605) |
+| Acquisitions of subsidiaries, net of cash and cash equivalent acquired | (265,716) | - |
+|  |
+| Net cash outflow from investing activities | (127,565) | (539,904) |
+7
+Joint Stock Company Kaspi.kz
+Interim Condensed Consolidated Statements of Cash Flows (continued)
+For the six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+|  |
+| Six months ended | Six months ended |
+| 30 June 2025 | 30 June 2026 |
+|  |
+| CASH FLOWS FROM FINANCING ACTIVITIES: |
+| Proceeds from issue of debt securities | 326,047 | 275,262 |
+| Dividends paid | - | (323,201) |
+| Dividends paid by subsidiary to non-controlling interest | (594) | (312) |
+| Purchase of treasury shares | - | (28,368) |
+| Repayment of debt securities issued | (48,996) | - |
+| Acquisition of non-controlling interests | - | (57,200) |
+| Net cash (outflow)/inflow from financing activities | 276,457 | (133,819) |
+|  |
+| Effect of changes in foreign exchange rate on cash and cash equivalents | (15,397) | (28,736) |
+|  |
+| NET INCREASE IN CASH AND CASH EQUIVALENTS | 458,478 | 95,467 |
+|  |
+| CASH AND CASH EQUIVALENTS, beginning of period | 619,470 | 903,143 |
+|  |
+| CASH AND CASH EQUIVALENTS, end of period | 1,077,948 | 998,610 |
+|  |
+The accompanying notes are an integral part of this interim condensed consolidated financial information.
+8
+Joint Stock Company Kaspi.kz
+Notes to the Interim Condensed Consolidated Financial Information
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+1.
+Corporate information
+Overview
+Kaspi.kz operates a two-sided Super App business model in Kazakhstan: the Kaspi.kz Super App for consumers and the Kaspi Pay Super App for merchants and entrepreneurs. Our offerings include payments, marketplace and fintech solutions for both consumers and merchants. Our business model, reinforced by our highly recognizable brand and continuing product innovation, generates powerful network effects, which has resulted in growth across all our platforms and strong financial performance. Since 2025 the Group operates the Hepsiburada marketplace in Türkiye.
+Kaspi.kz Segments
+Our segment reporting is based on our three business platforms:
+•
+Payments:
+ Our Payments Platform facilitates transactions between and among merchants and consumers. For consumers, our Payments Platform is a highly convenient way to pay for shopping transactions, regular household bills and make peer-to-peer payments. 
+For merchants, our Payments Platform enables them to accept payments online and in-store, issue and instantly settle invoices, pay suppliers and monitor merchants’ turnover. Our Payments Platform is our main customer acquisition tool and we consider it to be fundamental for high levels of customer engagement. Having achieved scale with consumers and merchants, our Payments Platform brings more value to consumers and merchants.
+•
+Marketplace:
+ Our Marketplace Platform connects both online and offline merchants with consumers, enabling merchants to increase their sales and allowing consumers to purchase a broad selection of products and services from a wide range of merchants. Marketplace has three main propositions — m-Commerce, e-Commerce, and Kaspi Travel. m-Commerce brings a digital shopping experience to a merchant’s physical location, while consumers can use e-Commerce to shop anywhere, anytime and typically with free delivery. Kaspi Travel allows consumers to book domestic and international flights, domestic rail tickets and domestic and international package holidays. All Marketplace services, except for Türkiye, 
+are integrated with our Fintech and Payments Platforms. Other than in e-Grocery (which enables consumers to order groceries through the Kaspi.kz Super App with home delivery), part of e-Cars (which facilitates buying and selling used cars), and Türkiye Marketplace (which represents hybrid commerce model rooted in a unified “1P” and “3P” based catalogue), our Marketplace Platform is a “3P” model, enabling third-party merchants to sell their products directly to consumers. 
+•
+Fintech:
+ Our Fintech Platform provides consumers and merchants with BNPL, finance and deposit products. All our Fintech services can be accessed through our Super Apps, fully digitally, with users identified using Kaspi ID biometrics technology. We lend only in local currency and we fund our financing products mainly using deposit products, which are primarily local currency savings accounts. As we add more opportunities to transact with the Kaspi.kz Super App, we anticipate that consumers will keep more of their deposits 
+with us.
+9
+Joint Stock Company Kaspi.kz
+Notes to the Interim Condensed Consolidated Financial Information (continued)
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+Information about the group of companies
+Joint Stock Company Kaspi.kz (“the Company” or “the Group”) was incorporated in the Republic of Kazakhstan in 2008. The Company is regulated by the National Bank of the Republic of Kazakhstan (“NBRK”) and the Agency of the Republic of Kazakhstan for Regulation and Development of Financial Market. The registered address of the Company is 154A, Nauryzbai Batyr street, Almaty, 050000, the Republic of Kazakhstan.
+On 29 January 2025, the Group acquired 65.41% share in “D-MARKET Electronic Services & Trading” (“Hepsiburada”) JSC with the consideration of approximately USD 1,127 million, followed by an acquisition of an additional 21.33% of the shares in Hepsiburada to 86.74% with the consideration of approximately USD 179 million.
+On 27 March 2025, Kaspi.kz has signed a share purchase agreement with Rabobank Group, relating to the purchase of Rabobank’s Turkish subsidiary Rabobank A.Ş. The transaction is not material. Rabobank A.Ş. is a fully licensed bank in Türkiye which has neither borrowing or depositing clients nor a branch network. The agreement was subject to customary closing conditions and receipt of regulatory approval by certain Turkish government agencies.
+The shareholders are as follows:
+|  |
+| 31 December | 30 June |
+| 2025 | 2026 |
+| % | % |
+|  |
+| Mikheil Lomtadze | 22.58 | 23.04 |
+| Vyacheslav Kim | 20.74 | 20.06 |
+| Baring Funds* | 23.22 | 19.00 |
+| Public Investors | 29.59 | 33.87 |
+| Management | 3.87 | 4.03 |
+|  |
+| Total | 100.00 | 100.00 |
+*As at 31 December 2025 and 30 June 2026, Asia Equity Partners Limited held 7.29% and 3.74% of total shares, respectively, Fintech Partners Limited held 9.49% and 8.81% of total shares, respectively, and European Investors Limited held 6.44% and 6.45% on behalf of Baring Funds.
+This interim condensed consolidated financial information was approved on 12 August 2026.
+2.
+Basis of presentation 
+This interim condensed consolidated financial information has been prepared in accordance with International Accounting Standard (“IAS”) 34, 
+Interim Financial Reporting
+. This interim condensed consolidated financial information has been prepared on the assumption that the Group is a going concern, as the Group has the resources to continue in operation for at least the next twelve months. In making this assessment, management has considered a wide range of information in relation to present and future economic conditions, including projections of cash flows, profit and capital resources.
+10
+Joint Stock Company Kaspi.kz
+Notes to the Interim Condensed Consolidated Financial Information (continued)
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+This interim condensed consolidated financial information does not include all the information and disclosures required in the annual consolidated financial statements. The Group omitted disclosures, which would substantially duplicate the information contained in its audited annual consolidated financial statements for 2025 prepared in accordance with IFRS
+Accounting Standards as issued by the International Accounting Standards Board (IASB), such as accounting policies and details of accounts, which have not changed significantly in amount or composition.
+The exchange rates at the period-end used by the Group in the preparation of the interim condensed consolidated financial information are as follows:
+|  |
+| 31 December | 30 June |
+| 2025 | 2026 |
+|  |
+| KZT/USD | 505.53 | 480.72 |
+| KZT/EUR | 593.44 | 548.07 |
+| KZT/TRY | 11.80 | 10.30 |
+Reclassification
+Certain prior period amounts have been reclassified in order to conform to the current period presentation. These reclassifications had no impact on previously reported statements of profit or loss, other comprehensive income, financial position, changes in equity and cash flows.
+3.
+Material accounting policies
+This interim condensed consolidated financial information has been prepared under the historical cost convention, except for the revaluation of certain properties and financial instruments.
+The same accounting policies, presentation and methods of computation have been followed in this interim condensed consolidated financial information as were applied in the preparation of the Group’s consolidated financial statements for the year ended 31 December 2025.
+Adoption of new and revised Standards
+New and revised IFRS Standards that are effective for the current year
+The following amendments and interpretations are effective for the Group beginning 
+1 January 2026:
+|  |
+| Amendments IFRS 9 and IFRS 7 regarding the classification and measurement of financial instruments | 1 January 2026 |
+| Annual Improvements to IFRS Accounting Standards — Volume 11 | 1 January 2026 |
+The above standards and interpretations were reviewed by the Group's management and determined to not have a significant effect on the consolidated financial information of the Group.
+New and revised IFRS Standards in issue but not yet effective
+At the date of authorisation of this financial information, the Group has not applied the following new and revised IFRS Accounting Standards as issued by the IASB that have been issued but are not yet effective:
+11
+Joint Stock Company Kaspi.kz
+Notes to the Interim Condensed Consolidated Financial Information (continued)
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+|  |
+| New or revised standard or interpretation | Applicable to annual reporting periods beginning on or after |
+| IFRS 18 Presentation and Disclosures in Financial Statements | 1 January 2027 |
+| IFRS 19 Subsidiaries without Public Accountability: Disclosures | 1 January 2027 |
+The management does not expect that the adoption of the Standards listed above to have a material impact on the condensed consolidated financial information of the Group in future periods.
+4.
+Revenue 
+Revenue includes fee revenue, interest revenue, retail revenue, rewards and other gains/(losses). Rewards earned by retail customers of the Group are deducted from revenue.
+|  |
+| Six months ended | Six months ended | Three months ended | Three months ended |
+| 30 June | 30 June | 30 June | 30 June |
+| 2025 | 2026 | 2025 | 2026 |
+|  |
+| REVENUE | 1,789,352 | 2,192,782 | 967,501 | 1,112,152 |
+| Fee revenue | 768,183 | 814,585 | 402,222 | 417,132 |
+| Interest revenue | 709,033 | 935,092 | 381,069 | 483,205 |
+| Retail revenue | 335,322 | 433,459 | 200,979 | 213,680 |
+| Rewards | (26,978) | (22,069) | (14,758) | (9,986) |
+| Other gains/(losses) | 3,792 | 31,715 | (2,011) | 8,121 |
+Revenue by segments is presented below:
+|  |
+| Six months ended | Six months ended | Three months ended | Three months ended |
+| 30 June | 30 June | 30 June | 30 June |
+| 2025 | 2026 | 2025 | 2026 |
+| Payments | 308,687 | 327,174 | 161,216 | 168,880 |
+| Payments fee revenue | 241,200 | 245,938 | 125,737 | 128,133 |
+| Interest revenue | 67,487 | 81,236 | 35,479 | 40,747 |
+|  |
+| Marketplace | 808,433 | 1,028,033 | 459,088 | 508,173 |
+| Marketplace fee revenue | 425,533 | 523,149 | 230,727 | 268,506 |
+| Retail revenue | 335,322 | 433,459 | 200,979 | 213,680 |
+| Interest revenue | 31,401 | 34,119 | 19,732 | 14,609 |
+| Other gains | 16,177 | 37,306 | 7,650 | 11,378 |
+| Fintech | 713,528 | 884,468 | 370,717 | 454,915 |
+| Interest revenue | 619,963 | 839,115 | 332,394 | 434,829 |
+| Fintech fee revenue | 105,950 | 50,944 | 47,984 | 23,343 |
+| Other losses | (12,385) | (5,591) | (9,661) | (3,257) |
+| Intergroup | (14,318) | (24,824) | (8,762) | (9,830) |
+| Segment Revenue | 1,816,330 | 2,214,851 | 982,259 | 1,122,138 |
+| Rewards | (26,978) | (22,069) | (14,758) | (9,986) |
+| REVENUE | 1,789,352 | 2,192,782 | 967,501 | 1,112,152 |
+Intergroup includes Marketplace fee revenue that was offset by Marketing expense, for activities to attract customers of Fintech car loans. For the six months ended 30 June 2025 and 2026, intergroup includes interest revenue generated by Marketplace and Payments platforms due to placement of cash to term deposits in the Bank that is offset by interest expenses of Fintech.
+12
+Joint Stock Company Kaspi.kz
+Notes to the Interim Condensed Consolidated Financial Information (continued)
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+Other gains/(losses) are mainly due to net gains/(losses) on foreign exchange operations and financial assets and liabilities. For the six months ended 30 June 2025 and 2026, net gain on monetary position were KZT 13,670 million and KZT 27,644 million, respectively. For the six months ended 30 June 2025 and 2026, the net gains/(losses) on foreign exchange operations were KZT 1,406 million and KZT 18,302 million, respectively. For the six months ended 30 June 2025 and 2026, the net gains/(losses) on financial assets and liabilities were KZT (16,186) million and KZT (19,044) million, respectively.
+For the three months ended 30 June 2025 and 2026, net gain on monetary position were KZT 6,426 million and KZT 11,818 million, respectively. For the three months ended 30 June 2025 and 2026, net gains/(losses) on foreign exchange operations were KZT (9,180) million and KZT 2,531 million, respectively. For the three months ended 30 June 2025 and 2026, net gains/ (losses) on financial assets and liabilities were KZT (2,126) million and KZT (8,561) million, respectively.
+Fee revenue and retail revenue are presented by timing of revenue recognition in the table below:
+|  |
+| Six months ended | Six months ended | Three months ended | Three months ended |
+| 30 June | 30 June | 30 June | 30 June |
+| 2025 | 2026 | 2025 | 2026 |
+| Goods and services transferred at point in time | 975,154 | 1,175,443 | 542,802 | 596,405 |
+| Payments fee revenue - Transaction Revenue | 223,572 | 227,452 | 116,821 | 118,852 |
+| Marketplace fee revenue | 416,260 | 514,532 | 225,002 | 263,873 |
+| Retail revenue | 335,322 | 433,459 | 200,979 | 213,680 |
+| Goods and services transferred over time | 132,851 | 78,047 | 62,625 | 37,257 |
+| Payments fee revenue - Membership Revenue | 17,628 | 18,486 | 8,916 | 9,281 |
+| Marketplace fee revenue - Membership revenue | 9,273 | 8,617 | 5,725 | 4,633 |
+| Fintech fee revenue - Membership Revenue | 1,526 | 1,531 | 779 | 799 |
+| Fintech fee revenue - Fintech banking service fees | 104,424 | 49,413 | 47,205 | 22,544 |
+| TOTAL FEE AND RETAIL REVENUE | 1,108,005 | 1,253,490 | 605,427 | 633,662 |
+Interest revenue by type of operation for the three and six months ended 30 June 2025 and 2026 is presented below:
+|  |
+| Six months ended 30 June 2025 | Six months ended 30 June 2026 | Three months ended 30 June 2025 | Three months ended 30 June 2026 |
+|  |
+| Interest revenue from loans to customers | 602,377 | 803,015 | 323,737 | 414,111 |
+| Interest revenue from other operations | 106,656 | 132,077 | 57,332 | 69,094 |
+| Total interest revenue | 709,033 | 935,092 | 381,069 | 483,205 |
+13
+Joint Stock Company Kaspi.kz
+Notes to the Interim Condensed Consolidated Financial Information (continued)
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+5.
+Segment Reporting
+The Group reports its business in three operating segments.
+The following tables present the summary of each segments’ revenue and adjusted EBITDA:
+|  |
+| Six months ended 30 June 2025 | Six months ended 30 June 2026 | Three months ended 30 June 2025 | Three months ended 30 June 2026 |
+|  |
+| SEGMENT REVENUE | 1,816,330 | 2,214,851 | 982,259 | 1,122,138 |
+| Payments | 308,687 | 327,174 | 161,216 | 168,880 |
+| Marketplace | 808,433 | 1,028,033 | 459,088 | 508,173 |
+| Fintech | 713,528 | 884,468 | 370,717 | 454,915 |
+| Intergroup | (14,318) | (24,824) | (8,762) | (9,830) |
+|  |
+| ADJUSTED EBITDA | 715,421 | 765,101 | 377,855 | 397,242 |
+| Payments | 188,720 | 187,918 | 98,729 | 98,183 |
+| Marketplace | 223,276 | 246,266 | 117,879 | 128,055 |
+| Fintech | 303,425 | 330,917 | 161,247 | 171,004 |
+|  |
+The following table presents a reconciliation of net income to adjusted EBITDA:
+|  |
+| Six months ended 30 June 2025 | Six months ended 30 June 2026 | Three months ended 30 June 2025 | Three months ended 30 June 2026 |
+| Net Income | 512,678 | 510,796 | 258,629 | 258,889 |
+| Interest Revenue from other operations | (106,656) | (132,077) | (57,332) | (69,094) |
+| Interest Expenses and fees from other operations | 157,360 | 226,540 | 89,122 | 119,982 |
+| Share-based compensation expense | 4,287 | 5,484 | 2,126 | 2,749 |
+| Other gains/losses | (3,792) | (31,715) | 2,011 | (8,121) |
+| Income tax expense | 116,730 | 139,486 | 63,327 | 69,092 |
+| Depreciation and amortization expenses | 34,814 | 46,587 | 19,972 | 23,745 |
+| Adjusted EBITDA | 715,421 | 765,101 | 377,855 | 397,242 |
+Operating segments are identified based on how the Group manages the business on a day-to-day basis and the types of products and services provided. Operating segments are reported in a manner consistent with internal reports, which are reviewed and used by the management board (who are identified as Chief Operating Decision Makers, “CODM”). The operating performance measure of each operating segment is revenue and adjusted EBITDA.
+In 2026, the Group changed the primary performance measure of segments from net income to adjusted EBITDA. The comparative information has been adjusted to reflect this change. The Group has included adjusted EBITDA non-IFRS financial measure because it is used by CODM to evaluate operating performance.
+Management believes that other segment expenses are not material for analysis of our ongoing operations.
+Expenses associated with share-based compensation are recognised across the segments.
+14
+Joint Stock Company Kaspi.kz
+Notes to the Interim Condensed Consolidated Financial Information (continued)
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+The following table presents the summary of share-based compensation expense by segments:
+|  |
+| Six months ended 30 June 2025 | Six months ended 30 June 2026 | Three months Ended 30 June 2025 | Three months ended 30 June 2026 |
+|  |
+| SHARE-BASED COMPENSATION | (4,287) | (5,484) | (2,126) | (2,749) |
+| Payments | (1,651) | (2,186) | (820) | (1,090) |
+| Marketplace | (915) | (1,251) | (455) | (622) |
+| Fintech | (1,721) | (2,047) | (851) | (1,037) |
+The following tables present the summary of revenue and non-current assets (excluding financial instruments, goodwill, deferred tax assets and other financial assets) by geographical market:
+|  |
+| Six months ended 30 June 2025 | Six months ended 30 June 2026 | Three months ended 30 June 2025 | Three months ended 30 June 2026 |
+|  |
+| SEGMENT REVENUE | 1,816,330 | 2,214,851 | 982,259 | 1,122,138 |
+| Kazakhstan & Other | 1,419,601 | 1,663,099 | 734,115 | 858,641 |
+| Türkiye | 396,729 | 551,752 | 248,144 | 263,497 |
+|  |
+| 31 December | 30 June |
+| 2025 | 2026 |
+|  |
+| NON-CURRENT ASSETS | 719,037 | 764,255 |
+| Kazakhstan & Other | 371,170 | 405,431 |
+| Türkiye | 347,867 | 358,824 |
+Our geographic segments are Kazakhstan & Other Countries (including Azerbaijan and Ukraine) and Türkiye.
+Revenue attributed to geographic market is based on the selling location. Non-current assets are based on the physical location of the assets as of the end of each year.
+6.
+Costs and operating expenses
+Cost of goods include the purchase price of consumer products the subsequent sale of which generates Retail revenue, including supplier’s rebates and subsidies, write-downs and losses of
+inventories. Rebates includes consideration received from certain suppliers, representing rebates for sold out products or purchased products from supplier for a specified period. The Group considers those rebates as a reduction to costs of inventory when the amounts are reliably measurable. For the six months ended 30 June 2025, and 2026, the cost of goods were 
+KZT 298,647 million and KZT 387,423 million, respectively. For the three months ended 30 June 2025, and 2026, the cost of goods were KZT 178,245 million and KZT 189,821 million, respectively. Cost of services include costs incurred to operate retail network, 24-hour call support and communication with customers, product packaging and delivery, and other expenses which can be attributed to the Group’s operating activities related to the provision of the products and services.
+15
+Joint Stock Company Kaspi.kz
+Notes to the Interim Condensed Consolidated Financial Information (continued)
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+Interest expenses and fees include interest expenses on customer accounts, mandatory insurance of retail deposits, fees for collection of credit card receivables and interest expenses on debt securities, including subordinated debt and due to banks.
+Transaction expenses are mainly composed of the costs associated with accepting, processing and otherwise enabling payment transactions. Those costs include fees paid to payment processors, payment networks and various service providers.
+Technology & product development consist of staff and contractor costs that are incurred in connection with the research and development of new and maintenance of existing products and services, development, design, data science and maintenance of our products and services, and infrastructure costs. Infrastructure costs include depreciation of servers, networking equipment, data center, kartomats, postomats and payment equipment, rent, utilities, and other expenses necessary to support our technologies and platforms. Collectively, these costs reflect the investments we make in order to offer a wide variety of products and services to our customers.
+Sales & marketing consist primarily of online and offline advertising expenses, promotion expenses, staff costs and other expenses that are incurred directly to attract or retain consumers and merchants. It also includes our charity and sponsorship activities.
+General & administrative expenses consist primarily of costs incurred to provide support to our business, including legal, human resources, finance, risk, compliance, executive, professional services fees, office facilities, and other support functions.
+Interest expenses and fees by type of operation for the three and six months ended 30 June 2025 and 2026 is presented below:
+|  |
+| Six months ended 30 June 2025 | Six months ended 30 June 2026 | Three months ended 30 June 2025 | Three months ended 30 June 2026 |
+| Interest expenses |
+| Interest expense attributable to financing of loans to customers | 243,994 | 327,006 | 129,165 | 165,614 |
+| Interest expense from other operations | 130,376 | 182,809 | 71,314 | 98,419 |
+| Total interest expenses | 374,370 | 509,815 | 200,479 | 264,033 |
+| Fees for collection of credit card receivables | 26,984 | 43,731 | 17,808 | 21,563 |
+| Total interest expenses and fees | 401,354 | 553,546 | 218,287 | 285,596 |
+16
+Joint Stock Company Kaspi.kz
+Notes to the Interim Condensed Consolidated Financial Information (continued)
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+Employee benefits, depreciation and amortization expenses and operating lease expenses are presented as follows:
+|  |
+| Six months ended | Six months ended |
+| 30 June 2025 | 30 June 2026 |
+| Employee benefits | Depreciation & amortisation | Operating lease | Employee benefits | Depreciation & amortisation | Operating lease |
+| Cost of goods and services | (36,073) | - | (756) | (46,083) | - | (905) |
+| Technology & product development | (39,130) | (29,490) | (6,656) | (49,779) | (40,136) | (8,486) |
+| Sales & marketing | (3,223) | - | (140) | (5,579) | - | (139) |
+| General & administrative expenses | (16,592) | (5,324) | (1,566) | (21,665) | (6,451) | (1,156) |
+| Total | (95,018) | (34,814) | (9,118) | (123,106) | (46,587) | (10,686) |
+| Three months ended | Three months ended |
+| 30 June 2025 | 30 June 2026 |
+| Employee benefits | Depreciation & amortisation | Operating lease | Employee benefits | Depreciation & amortisation | Operating lease |
+| Cost of goods and services | (20,259) | - | (385) | (23,138) | - | (486) |
+| Technology & product development | (20,238) | (16,989) | (3,686) | (25,625) | (20,510) | (4,816) |
+| Sales & marketing | (1,755) | - | (89) | (1,547) | - | (77) |
+| General & administrative expenses | (8,056) | (2,983) | (1,015) | (11,534) | (3,235) | (160) |
+| Total | (50,308) | (19,972) | (5,175) | (61,844) | (23,745) | (5,539) |
+Expenses associated with share-based compensation are recognised across the functions in which the compensation recipients are employed.
+The following table sets forth an analysis of share-based compensation expense by function for the periods indicated:
+|  |
+| Six months ended | Six months ended | Three months ended | Three months ended |
+| 30 June | 30 June | 30 June | 30 June |
+| 2025 | 2026 | 2025 | 2026 |
+|  |
+| SHARE-BASED COMPENSATION | (4,287) | (5,484) | (2,126) | (2,749) |
+| Cost of goods and services | (303) | (329) | (159) | (162) |
+| Technology & product development | (2,899) | (3,795) | (1,434) | (1,875) |
+| Sales & marketing | (113) | (216) | (62) | (108) |
+| General & administrative expenses | (972) | (1,144) | (471) | (604) |
+17
+Joint Stock Company Kaspi.kz
+Notes to the Interim Condensed Consolidated Financial Information (continued)
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+7.
+Provision expenses
+The movements in loss allowance for the six months ended 30 June 2025 were as follows:
+|  |
+| Loans to customers | Due from banks | Financial assets at FVTOCI | Cash and cash equivalents | Other assets | Total |
+| Stage 1 | Stage 2 | Stage 3 | POCI | Stage 1 | Stage 1 | Stage 2 | Stage 3 | Stage 1 | Stage 3 |
+| Loss allowance as at 31 December 2024 | 77,521 | 22,378 | 193,759 | 2,185 | 7 | 451 | 140 | 587 | 42 | 8,570 | 305,640 |
+| Changes in provisions |
+| -Transfer to Stage 1 | 22,550 | (17,148) | (5,403) | - | - | - | - | - | - | - | - |
+| -Transfer to Stage 2 | (6,078) | 29,830 | (23,752) | - | - | - | - | - | - | - | - |
+| -Transfer to Stage 3 | (184) | (18,965) | 19,149 | - | - | - | - | - | - | - | - |
+| Net changes, resulting from changes in credit risk parameters | (33,771) | 9,869 | 74,967 | (767) | (3) | (53) | (36) | (153) | - | 2,711 | 52,764 |
+| New assets issued | 31,892 | - | - | - | - | 18 | - | - | - | - | 31,910 |
+| Repaid assets (except for write-off) | (20,494) | (713) | (4,272) | - | - | (28) | - | - | - | - | (25,507) |
+| Modification effect | - | - | 23,261 | - | - | - | - | - | - | - | 23,261 |
+| Total effect on Consolidated Statements of Profit or Loss | (22,372) | 9,155 | 93,956 | (767) | (3) | (63) | (36) | (153) | - | 2,711 | 82,428 |
+| Write-off, net of recoveries / recoveries | - | - | (44,661) | - | - | - | - | - | - | (115) | (44,776) |
+| On acquisition of subsidiary | 539 | 856 | 2,783 | - | - | - | - | - | - | - | 4,178 |
+| Other changes | (86) | (114) | (496) | - | - | - | - | - | - | 902 | 206 |
+| Foreign exchange difference | - | - | (1) | - | - | - | - | - | - | - | (1) |
+| As at 30 June 2025 | 71,890 | 25,993 | 235,333 | 1,418 | 4 | 388 | 104 | 434 | 42 | 12,068 | 347,674 |
+18
+Joint Stock Company Kaspi.kz
+Notes to the Interim Condensed Consolidated Financial Information (continued)
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+The movements in loss allowance for the six months ended 30 June 2026 were as follows:
+|  |
+| Loans to customers | Due from banks | Financial assets at FVTOCI | Cash and cash equivalents | Other assets | Total |
+| Stage 1 | Stage 2 | Stage 3 | POCI | Stage 1 | Stage 1 | Stage 2 | Stage 3 | Stage 1 | Stage 3 |
+| Loss allowance as at 31 December 2025 | 74,162 | 26,061 | 270,058 | 1,483 | 8 | 336 | 59 | 421 | 46 | 12,458 | 385,092 |
+| Changes in provisions |
+| -Transfer to Stage 1 | 17,804 | (1,845) | (15,959) | - | - | - | - | - | - | - | - |
+| -Transfer to Stage 2 | (4,119) | 10,669 | (6,550) | - | - | - | - | - | - | - | - |
+| -Transfer to Stage 3 | (12,394) | (19,653) | 32,047 | - | - | - | - | - | - | - | - |
+| Net changes, resulting from changes in credit risk parameters | (24,190) | 13,574 | 69,943 | 964 | 1 | 56 | (59) | 29 | - | 1,541 | 61,859 |
+| New assets issued | 33,998 | - | - | - | - | - | - | - | - | - | 33,998 |
+| Repaid assets (except for write-off) | (15,783) | (850) | (4,877) | - | - | - | - | - | - | - | (21,510) |
+| Modification effect | - | - | 32,581 | - | - | - | - | - | - | - | 32,581 |
+| Total effect on Consolidated Statements of Profit or Loss | (5,975) | 12,724 | 97,647 | 964 | 1 | 56 | (59) | 29 | - | 1,541 | 106,928 |
+| Write-off, net of recoveries / recoveries | - | - | (60,093) | - | - | - | - | - | - | (1,211) | (61,304) |
+| Foreign exchange difference | - | - | (1,098) | - | - | - | - | - | - | - | (1,098) |
+| As at 30 June 2026 | 69,478 | 27,956 | 316,052 | 2,447 | 9 | 392 | - | 450 | 46 | 12,788 | 429,618 |
+Net changes, resulting from changes in credit risk parameters include decrease of provisions due to partial repayment of loans.
+As at 31 December 2025 and 30 June 2026, the allowance for impairment losses on financial assets at FVTOCI of KZT 816
+million and
+KZT 842 million, respectively, is included in the ‘Revaluation reserve of financial assets and other reserves’ within equity.
+19
+Joint Stock Company Kaspi.kz
+Notes to the Interim Condensed Consolidated Financial Information (continued)
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+8.
+Earnings per share
+Earnings per share are determined by dividing the net income attributable to shareholders
+of the Company by the weighted average number of common shares outstanding during the six months ended 30 June 2026. For the purpose of diluted earnings per share calculation, the Group considers dilutive effects of share-based compensation.
+|  |
+| 30 June 2025 | 30 June 2026 |
+| Net income attributable to the shareholders of the Company | 509,383 | 506,127 |
+| Weighted average number of common shares for basic earnings per share | 190,402,249 | 189,932,402 |
+| Weighted average number of common shares for diluted earnings per share | 191,226,496 | 190,730,670 |
+| Earnings per share – basic (KZT) | 2,675 | 2,665 |
+| Earnings per share – diluted (KZT) | 2,664 | 2,654 |
+Reconciliation of the number of shares used for basic and diluted earnings per share:
+|  |
+| 30 June | 30 June |
+| 2025 | 2026 |
+| Weighted average number of common shares for basic earnings per share | 190,402,249 | 189,932,402 |
+| Number of potential common shares attributable to share-based compensation | 824,247 | 798,268 |
+| Weighted average number of common shares for diluted earnings per share | 191,226,496 | 190,730,670 |
+9.
+Cash and cash equivalents
+|  |
+| 31 December 2025 | 30 June 2026 |
+|  |
+| Cash on hand | 181,410 | 145,413 |
+| Current accounts with other banks | 153,554 | 262,302 |
+| Short-term deposits with other banks | 137,126 | 554,020 |
+| Reverse repurchase agreements | 431,053 | 36,875 |
+|  |
+| Total cash and cash equivalents | 903,143 | 998,610 |
+Cash on hand includes cash balances with ATMs and cash in transit.
+As at 31 December 2025 and 30 June 2026, current accounts and short-term deposits with NBRK are KZT Nil and KZT 470,956 million, respectively.
+As at 31 December 2025 and 30 June 2026, the fair value of collateral of reverse repurchase agreements classified as cash and cash equivalents, are KZT 431,053 million and KZT 36,875 million, respectively.
+As at 31 December 2025 and 30 June 2026, restricted deposits included in due from banks with investment credit ratings (higher than ‘BBB-‘) in favor of international payments systems were KZT 34,935 million and KZT 26,217 million, respectively.
+20
+Joint Stock Company Kaspi.kz
+Notes to the Interim Condensed Consolidated Financial Information (continued)
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+10.
+Investment securities and derivatives
+Investment securities and derivatives comprise:
+|  |
+| 31 December 2025 | 30 June 2026 |
+|  |
+| Total financial assets at FVTOCI | 1,155,282 | 1,552,201 |
+| Total financial assets at FVTPL | 22,464 | 22,103 |
+| Total financial assets at amortized cost | 2,073 | - |
+|  |
+| Total investment securities and derivatives | 1,179,819 | 1,574,304 |
+|  |
+| Financial assets at FVTOCI comprise: |
+| 31 December 2025 | 30 June 2026 |
+|  |
+| Debt securities | 1,154,800 | 1,551,751 |
+| Equity investments | 482 | 450 |
+|  |
+| Total financial assets at FVTOCI | 1,155,282 | 1,552,201 |
+|  |
+| Interest rate, % | 31 December 2025 | Interest rate, % | 30 June 2026 |
+| Debt securities |
+| Bonds of the Ministry of Finance of the Republic of Kazakhstan | 0.60-15.35 | 781,476 | 0.60-18.94 | 769,409 |
+| Sovereign bonds of foreign countries | 0.63-4.50 | 219,793 | 0.63-4.63 | 491,593 |
+| Corporate bonds | 2.00-18.01 | 153,531 | 2.00-18.81 | 290,749 |
+|  |
+| Total debt securities | 1,154,800 | 1,551,751 |
+Debt securities are graded according to their external credit ratings issued by international rating agencies, such as Standard and Poor’s, Fitch and Moody’s Investors Services and are graded as follows:
+|  |
+| A- and higher | BBB+ to BBB- | BB+ to B- | Not rated | Total |
+| Debt securities as at 31 December 2025 | 243,391 | 867,166 | 2,395 | 41,848 | 1,154,800 |
+| Debt securities as at 30 June 2026 | 534,310 | 907,319 | 479 | 109,643 | 1,551,751 |
+Financial assets at FVTPL comprise:
+|  |
+| 31 December | 30 June |
+| 2025 | 2026 |
+|  |
+| Investment funds | 21,717 | 20,904 |
+| Derivative financial instruments | 747 | 1,199 |
+| Total financial assets at FVTPL | 22,464 | 22,103 |
+As at 30 June 2026, financial assets at FVTPL included swap and spot instruments of KZT 323 million (31 December 2025: KZT 741 million) with a notional amount of KZT 125,676 million (31 December 2025: KZT 171,046 million) and forwards of KZT 876 million (31 December 2025: KZT 6 million) with a notional amount of KZT 215,570 million (31 December 2025: KZT 262,794 million).
+21
+Joint Stock Company Kaspi.kz
+Notes to the Interim Condensed Consolidated Financial Information (continued)
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+As at 30 June 2026, financial liabilities at FVTPL included swap and spot instruments of 
+KZT 6,851 million (31 December 2025: KZT 1,571 million) with a notional amount of KZT 125,715 million (31 December 2025: KZT 170,715 million) and forwards of KZT 9,295 million
+(31 December 2025: KZT 5,488 million) with a notional amount of KZT 225,011 million 
+(31 December 2025: KZT 276,712 million).
+As at 31 December 2025 and 30 June 2026, investment securities were not pledged or restricted, except for bonds of the Ministry of Finance of the Republic of Kazakhstan, notes of NBRK and corporate bonds pledged under repurchase agreements with other banks totaling 
+KZT Nil and KZT Nil, respectively (Note 12).
+11.
+Loans to customers
+|  |
+| 31 December | 30 June |
+| 2025 | 2026 |
+|  |
+| Gross loans to customers | 7,543,926 | 7,855,745 |
+| Less: allowance for impairment losses (Note 7) | (371,764) | (415,933) |
+|  |
+| Total loans to customers | 7,172,162 | 7,439,812 |
+All loans to customers issued by the Group were allocated to the Fintech segment for internal segment reporting purposes.
+The Group did not provide loans which individually exceeded 10% of the Group’s equity.
+Movements in allowances for impairment losses on loans to customers for the six months ended 30 June 2025 and 2026 are disclosed in Note 7.
+As at 31 December 2025 and 30 June 2026, accrued interest of KZT 106,348 million and 
+KZT 118,998 million, respectively, was included in loans to customers.
+Loans with principal or accrued interest in arrears for more than 90 days are classified as
+non-performing loans (“NPLs”). These loans were classified in Stage 3. Allowance for impairment losses to NPLs reflects the Group’s total provision as a percentage of NPLs. Considering the ratio represents allowance for impairment losses for all loans as a percentage of NPLs, the ratio can be more than 100%.
+The following table sets forth the Group’s outstanding NPLs as compared to the total allowance for impairment losses on total loans to customers:
+|  |
+| Gross NPLs | Total allowance for impairment | Total allowance for impairment losses to Gross NPLs |
+|  |
+| As at 31 December 2025 | 466,845 | 371,764 | 80% |
+| As at 30 June 2026 | 547,942 | 415,933 | 76% |
+22
+Joint Stock Company Kaspi.kz
+Notes to the Interim Condensed Consolidated Financial Information (continued)
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+Provision expenses on loans to customers:
+|  |
+| Six months ended | Six months ended | Three months ended | Three months ended |
+| 30 June | 30 June | 30 June | 30 June |
+| 2025 | 2026 | 2025 | 2026 |
+| Provision expenses on loans to customers | (79,972) | (105,360) | (39,813) | (55,178) |
+The gross carrying amount and related allowance for impairment losses on loans to customers by stage were as follows:
+|  |
+| Stage 1 | Stage 2 | Stage 3 |
+| 12-month ECL | Lifetime ECL | Lifetime ECL | POCI | Total |
+|  |
+| Gross loans to customers | 6,691,163 | 129,800 | 703,082 | 19,881 | 7,543,926 |
+| Less: allowance for impairment losses | (74,162) | (26,061) | (270,058) | (1,483) | (371,764) |
+| Carrying amount as at 31 December 2025 | 6,617,001 | 103,739 | 433,024 | 18,398 | 7,172,162 |
+|  |
+| Stage 1 | Stage 2 | Stage 3 |
+| 12-month ECL | Lifetime ECL | Lifetime ECL | POCI | Total |
+|  |
+| Gross loans to customers | 6,863,966 | 146,723 | 821,123 | 23,933 | 7,855,745 |
+| Less: allowance for impairment losses | (69,478) | (27,956) | (316,052) | (2,447) | (415,933) |
+| Carrying amount as at 30 June 2026 | 6,794,488 | 118,767 | 505,071 | 21,486 | 7,439,812 |
+During the six months ended 30 June 2025 and 2026, the Group has restructured loans to customers, which were classified as NPLs, in the amount of KZT 88,224 million and KZT 135,566 million, respectively, by providing an interest free extended repayment schedule.
+During the six months ended 30 June 2025 and 2026, KZT 50,254 million and KZT 70,959 million, respectively, of restructured loans were collected.
+As at 31 December 2025 and 30 June 2026, the Group’s restructured loans in Stage 3 amounted to the gross carrying amount of KZT 145,302 million and KZT 178,567 million, respectively.
+As at 31 December 2025 and 30 June 2026, the Group’s restructured loans in Stage 2 amounted to the gross carrying amount of KZT 26,505 million and KZT 26,836 million, respectively.
+As at 31 December 2025 and 30 June 2026, the Group’s restructured loans in Stage 1 amounted to the gross carrying amount of KZT 27,653 million and KZT 41,466 million, respectively.
+As at 31 December 2025 and 30 June 2026, the Group’s restructured loans recognised as POCI amounted to the gross carrying amount of KZT 19,881
+million and KZT 23,933 million, respectively.
+23
+Joint Stock Company Kaspi.kz
+Notes to the Interim Condensed Consolidated Financial Information (continued)
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+12.
+Due to banks
+|  |
+| 31 December | 30 June |
+| 2025 | 2026 |
+| Recorded at amortised cost: |
+| Time deposits of banks and other financial institutions | 16,183 | 6,943 |
+|  |
+| Total due to banks | 16,183 | 6,943 |
+As at 31 December 2025 and 30 June 2026, accrued interest of KZT 494 million and
+KZT 94 million, respectively, was included in due to banks.
+13.
+Customer accounts
+|  |
+| 31 December | 30 June |
+| 2025 | 2026 |
+|  |
+| Individuals |
+| Term deposits | 6,244,418 | 6,875,401 |
+| Current accounts | 934,286 | 854,025 |
+| Total due to individuals | 7,178,704 | 7,729,426 |
+|  |
+| Corporate customers |
+| Term deposits | 148,210 | 164,775 |
+| Current accounts | 204,372 | 237,806 |
+| Total due to corporate customers | 352,582 | 402,581 |
+|  |
+| Total customer accounts | 7,531,286 | 8,132,007 |
+As at 31 December 2025 and 30 June 2026, accrued interest of KZT 66,419 million and 
+KZT 75,456 million, respectively, was included in term deposits within customer accounts.
+As at 31 December 2025 and 30 June 2026, customer accounts of KZT 100,816 million and
+KZT 76,985 million, respectively, were held as prepayments on loans to customers.
+As at 31 December 2025 and 30 June 2026, customer accounts of KZT 78,145 million (1.0% of total customer accounts) and KZT 107,159 million (1.3% of total customer accounts), respectively, were due to the top twenty customers.
+As at 31 December 2025 and 30 June 2026, customer accounts were predominately denominated in KZT, comprising 93% and 93%, respectively.
+24
+Joint Stock Company Kaspi.kz
+Notes to the Interim Condensed Consolidated Financial Information (continued)
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+14.
+Share capital
+The table below provides a reconciliation of the change in the number of authorised shares, issued and fully paid shares, treasury shares and shares outstanding:
+|  |
+| Authorised shares | Issued and fully paid shares | Treasury shares | Shares outstanding |
+|  |
+| Common shares |
+|  |
+| 1 January 2025 | 216,742,000 | 199,500,000 | (9,484,271) | 190,015,729 |
+| ADS options exercised (Note 15) | - | - | 771,756 | 771,756 |
+| ADS buy-back program | - | - | (559,553) | (559,553) |
+|  |
+| 31 December 2025 | 216,742,000 | 199,500,000 | (9,272,068) | 190,227,932 |
+|  |
+| ADS options exercised (Note 15) | - | - | 536,912 | 536,912 |
+| ADS buy-back program | - | - | (737,578) | (737,578) |
+| 30 June 2026 | 216,742,000 | 199,500,000 | (9,472,734) | 190,027,266 |
+The Group accounts for ADSs repurchased in Treasury Shares component of Share Capital.
+One ADS represents one share.
+The following table summarizes the details of the GDR/ADS buy-back programs:
+|  |
+| Start date | Maturity date | Number of GDR/ADSs acquired | Total amount paid |
+| 6th buy-back program | 22 October 2023 | 16 January 2024 | 303,286 | 13,233 |
+| 7th buy-back program | 17 November 2025 | 27 February 2026 | 1,297,131 | 50,274 |
+| 30 June 2026 | 1,600,417 | 63,507 |
+The Company made certain amendments to its Deposit Agreement, pursuant to which, among others, it renamed Regulation S GDRs as ADSs, which amendments became effective on 
+18 January 2024. Pursuant to the amendments, the Company has an Amended Level III ADS Deposit Agreement among the Company, the Depositary and the Owners and Holders of ADSs, and an Amended Rule 144A GDR Deposit Agreement between the Company and the Depositary.	
+The table below provides a reconciliation of the change in outstanding share capital fully paid:
+|  |
+| Issued and fully paid shares | Treasury shares | Total |
+| 31 December 2024 | 130,144 | (151,521) | (21,377) |
+| ADS options exercised | - | 3,443 | 3,443 |
+| ADS buy-back program | - | (21,907) | (21,907) |
+| 31 December 2025 | 130,144 | (169,985) | (39,841) |
+| ADS options exercised | - | 10,640 | 10,640 |
+| ADS buy-back program | - | (28,368) | (28,368) |
+| 30 June 2026 | 130,144 | (187,713) | (57,569) |
+All shares are KZT denominated. The Group has one class of common shares which carry no right to fixed dividend.
+The following table represent dividends declared:
+25
+Joint Stock Company Kaspi.kz
+Notes to the Interim Condensed Consolidated Financial Information (continued)
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+|  |
+| Dividends declared | Dividend per share |
+|  |
+| April 2026 | 161,690 | KZT 850 |
+| June 2026 | 161,511 | KZT 850 |
+| Total for the period ended 30 June 2026 | 323,201 |
+15.
+Share-based compensation 
+In 2021, the share option program was expanded to include more senior executives and other core Group personnel. The share-based awards are used to attract, incentivize and retain employees over the long-term by the management of the Group.
+Share-based compensation expense
+According to IFRS 2, this accelerates the recognition of compensation expenses resulting in a higher proportion of expenses being recognised in the early years of overall plan.
+ADS Options
+The fair value of ADS options at the date of grant is determined using the Black-Scholes model. The fair value determined at the grant date is expensed over the five-year vesting period, based on the Group’s estimate of the number of ADS options that will eventually vest. Recipients of ADS options are entitled to receive dividends once ADS options vested and exercised.
+The inputs into the Black-Scholes model are as follows:
+|  |
+| 31 December | 30 June |
+| 2025 | 2026 |
+|  |
+| Black-Scholes model inputs: |
+| Weighted average share price in USD | 89.6 | 83.8 |
+| Expected volatility | 38.2% | 36.0% |
+| Risk-free rate | 5.4% | 6.5% |
+| Dividend yield | 6.8% | 7.2% |
+The following table summarizes the details of the ADS options outstanding:
+|  |
+| 31 December | 30 June |
+| 2025 | 2026 |
+| (ADSs) | (ADSs) |
+| Outstanding at the beginning of the period | 1,598,230 | 1,319,074 |
+| Granted | 497,790 | 26,667 |
+| Forfeited | (5,190) | (10,561) |
+| Exercised | (771,756) | (536,912) |
+| Expired | - | - |
+| Outstanding at the end of the period | 1,319,074 | 798,268 |
+26
+Joint Stock Company Kaspi.kz
+Notes to the Interim Condensed Consolidated Financial Information (continued)
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+The following table represents Share-based compensation reserve outstanding:
+|  |
+| Share-Based Compensation reserve |
+| 1 January 2025 | 31,774 |
+| ADS options accrued | 15,476 |
+| ADS options exercised | (19,312) |
+| 31 December 2025 | 27,938 |
+| ADS options accrued | 5,484 |
+| ADS options exercised | (19,240) |
+| 30 June 2026 | 14,182 |
+16.
+Fair value of financial instruments 
+a.
+Fair value of financial instruments 
+IFRS Accounting Standards as issued by the IASB defines fair value as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.
+b.
+Fair value of the Group's financial assets and financial liabilities measured at fair value on a recurring basis  
+Some of the Group's financial assets and financial liabilities are measured at fair value at the end of each reporting period. The following table gives information about how the fair values of these financial assets and financial liabilities are determined (in particular, the valuation technique(s) and inputs used).
+|  |
+| Financial assets/financial liabilities | Fair value as at 31 December 2025 | Fair value as at 30 June 2026 | Fair value hierarchy | Valuation technique(s) and key input(s) |
+|  |
+|  |
+| Non-derivative financial assets at FVTOCI (Note 10) | 237,573 | 511,598 | Level 1 | Quoted prices in an active market. |
+| Non-derivative financial assets at FVTOCI (Note 10) | 908,299 | 1,020,761 | Level 2 | Quoted prices in markets that are not active. |
+| Non-derivative financial assets at FVTOCI (Note 10) | 9,347 | 19,782 | Level 3 | DCF method with weighted average discount ratio 14.1% |
+| Unlisted equity investments classified as financial assets at FVTOCI (Note 10) | 63 | 60 | Level 3 | Adjusted net assets based on most recent published financial statements of unlisted companies with discount for marketability and liquidity. Discount ratios varies from 10% to 30%. |
+| Derivative financial assets (Note 10) | 747 | 1,199 | Level 2 | DCF method. Future cash flows are estimated based on forward exchange rates (from observable forward exchange rates at the end of the reporting period) and contract forward rates, discounted at a rate that reflects the credit risk of various counterparties. |
+| Investment funds at FVPTL (Note 10) | 21,717 | 20,904 | Level 2 | Quoted prices in markets that are not active. |
+| Derivative financial liabilities (Note 10) | 7,059 | 16,146 | Level 2 | DCF method. Future cash flows are estimated based on forward exchange rates (from observable forward exchange rates at the end of the reporting period) and contract forward rates, discounted at a rate that reflects the credit risk of various counterparties. |
+27
+Joint Stock Company Kaspi.kz
+Notes to the Interim Condensed Consolidated Financial Information (continued)
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+As at 31 December 2025, the fair value of the investment securities in Level 2 includes short-term and long-term sovereign debt securities of KZT 177,483 million and KZT 589,517
+million, respectively.
+As at 30 June 2026, the fair value of the investment securities in Level 2 includes short-term and long-term sovereign debt securities of KZT 210,097 million and KZT 543,808 million, respectively. Those investment securities are by nature and for regulatory purposes treated as high quality liquid assets, but are classified as Level 2 due to insufficient trading on regulated market.
+The reconciliation of Level 3 fair value measurements of financial assets is presented as follows:
+|  |
+| Fair value through other comprehensive income |
+| Unquoted debt securities | Total |
+|  |
+| 1 January 2026 | 9,347 | 9,347 |
+| Total gains or losses: |
+| - in profit or loss | - | - |
+| - in other comprehensive income | 123 | 123 |
+| Purchases | 10,312 | 10,312 |
+| Issues | - | - |
+| Disposals/settlements | - | - |
+| Transfer into Level 3 | - | - |
+| Transfers out of Level 3 | - | - |
+|  |
+| 30 June 2026 | 19,782 | 19,782 |
+During the six months ended 30 June 2026, there were no transfers between Level 1, Level 2 and Level 3.
+c.
+Fair value of financial assets and financial liabilities that are not measured at fair value on a recurring basis (but fair value disclosures are required). 
+Except as detailed in the following table, management of the Group considers that the carrying amount of financial assets and financial liabilities recognised in the consolidated financial statements approximate their fair values.
+|  |
+| 31 December 2025 |
+| Carrying amount | Fair value | Fair value hierarchy |
+|  |
+| Due from banks | 51,951 | 51,220 | Level 2 |
+| Loans to customers | 7,172,162 | 7,315,342 | Level 3 |
+| Due to banks | 16,183 | 16,183 | Level 2 |
+| Customer accounts | 7,531,286 | 7,463,854 | Level 2 |
+| Debt securities issued | 331,992 | 342,495 | Level 2 |
+| Trade liabilities | 346,401 | 346,401 | Level 3 |
+28
+Joint Stock Company Kaspi.kz
+Notes to the Interim Condensed Consolidated Financial Information (continued)
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+|  |
+| 30 June 2026 |
+| Carrying amount | Fair value | Fair value hierarchy |
+|  |
+| Due from banks | 55,520 | 54,215 | Level 2 |
+| Loans to customers | 7,439,812 | 7,606,049 | Level 3 |
+| Due to banks | 6,943 | 6,943 | Level 2 |
+| Customer accounts | 8,132,007 | 8,091,135 | Level 2 |
+| Debt securities issued | 605,368 | 608,873 | Level 2 |
+| Trade liabilities | 304,384 | 304,384 | Level 3 |
+Assets and liabilities for which fair value approximates carrying value
+For financial assets and liabilities that have a short-term maturity (less than 3 months), it is assumed that the carrying amounts approximate to their fair value. This assumption is also applied to demand deposits and savings accounts without a maturity.
+Due from banks
+The estimated fair value of term due from banks is determined by discounting the contractual cash flows using interest rates currently offered for due from banks with similar terms.
+Loans to customers
+Loans to individual customers are made at fixed rates. The fair value of fixed rate loans has been estimated by reference to the market rates available at the reporting date for loans with similar maturity profile.
+Due to banks
+The estimated fair value of due to banks
+ i
+s determined by discounting the contractual cash flows using interest rates currently offered for due to banks with similar terms.
+Customer accounts
+The estimated fair value of term deposits is determined by discounting contractual cash flows using interest rates currently offered for deposits with similar terms. For current accounts which are non-interest bearing, the Group considers fair value to equal carrying value, which is equivalent to the amount payable on the balance sheet date.
+Debt securities issued
+Debt securities issued is valued using quoted prices.
+Trade liabilities
+Trade liabilities are short-term in nature, it is assumed that the carrying values approximate to their fair value.
+29
+Joint Stock Company Kaspi.kz
+Notes to the Interim Condensed Consolidated Financial Information (continued)
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+17.
+Transactions with related parties
+In considering each possible related party relationship, attention is directed to the substance of the relationship, and not merely the legal form. The Group had the following transactions outstanding with related parties:
+|  |
+| 31 December 2025 | 30 June 2026 |
+| Transactions with related parties | Total category as per financial statements captions | Transactions with related parties | Total category as per financial statements captions |
+|  |
+| Consolidated statements of financial position |
+| Gross loans to customers | 333 | 7,543,926 | 6 | 7,855,745 |
+| - entities controlled by the key management personnel of the Group | 333 | 6 |
+|  |
+| Other assets | 1,971 | 183,536 | 3,272 | 201,451 |
+| - entities controlled by the key management personnel of the Group | 1,971 | 3,272 |
+|  |
+| Due to banks | 146 | 16,183 | 198 | 6,943 |
+| - entities controlled by the key management personnel of the Group | 146 | 198 |
+|  |
+| Customer accounts | 18,474 | 7,531,286 | 12,510 | 8,132,007 |
+| - entities controlled by the key management personnel of the Group | 2,865 | 1,987 |
+| - key management personnel of the Group | 15,573 | 10,482 |
+| - other related parties | 36 | 41 |
+|  |
+| Other liabilities | 3,352 | 182,900 | 1,832 | 205,077 |
+| - entities controlled by the key management personnel of the Group | 3,352 | 1,831 |
+| - key management personnel of the Group | - | 1 |
+30
+Joint Stock Company Kaspi.kz
+Notes to the Interim Condensed Consolidated Financial Information (continued)
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+|  |
+| 30 June 2025 | 30 June 2026 |
+| Transactions with related parties | Total category as per financial statements caption | Transactions with related parties | Total category as per financial statements caption |
+| Consolidated Statements of Profit or Loss |
+| Net fee revenue | 2,093 | 741,205 | 2,647 | 794,815 |
+| - entities controlled by the key management personnel of the Group | 2,005 | 2,612 |
+| - key management personnel of the Group | 88 | 35 |
+|  |
+| Interest revenue | 87 | 709,033 | 44 | 935,092 |
+| - other related parties | 87 | 44 |
+|  |
+| Cost of goods and services | (3,319) | (479,665) | (4,983) | (621,590) |
+| - entities controlled by the key management personnel of the Group | (3,319) | (4,983) |
+|  |
+| Interest expenses and fees | (494) | (401,354) | (996) | (553,546) |
+| - entities controlled by the key management personnel of the Group | (29) | (33) |
+| - key management personnel of the Group | (463) | (962) |
+| - other related parties | (2) | (1) |
+|  |
+| Transaction expenses | (127) | (16,245) | (407) | (18,902) |
+| - entities controlled by the key management personnel of the Group | (127) | (407) |
+|  |
+| Technology & product development | - | (93,786) | (531) | (125,283) |
+| - entities controlled by the key management personnel of the Group | - | (531) |
+|  |
+| General & administrative expenses | - | (34,476) | (5) | (43,582) |
+| - entities controlled by the key management personnel of the Group | - | (5) |
+|  |
+During the six months ended 30 June 2025 and 2026, the total value of goods purchased from entities controlled by the key management personnel was KZT 3,811 million and KZT 4,863 million, respectively, from which KZT 3,105 million and KZT 4,615 million, respectively, was recognised in cost of goods and services and remaining in inventory.
+During the six months ended 30 June 2025 and 2026, the total value of Property, equipment and intangible assets purchased from entities controlled by the key management personnel was KZT 75 million and KZT Nil, respectively.
+31
+Joint Stock Company Kaspi.kz
+Notes to the Interim Condensed Consolidated Financial Information (continued)
+For the three and six months ended 30 June 2025 and 2026 (Unaudited)
+(in millions of KZT)
+Compensation to key management personnel is presented as follows:
+|  |
+| Six months ended 30 June 2025 | Six months ended 30 June 2026 |
+| Transactions with related parties | Total category as per financial statements captions | Transactions with related parties | Total category as per financial statements captions |
+| Employee benefits | (278) | (95,018) | (308) | (123,106) |
+| Share-based compensation | (19) | (4,287) | (279) | (5,484) |
+18.
+Regulatory matters
+The management of Kaspi Bank JSC (“the Bank” – subsidiary of the Company) monitors capital adequacy ratio based on requirements of standardised approach of Basel Committee of Banking Supervision “Basel III: A global regulatory framework for more resilient banks and banking systems” (December 2010, updated in June 2011).
+The capital adequacy ratios calculated on the basis of the Bank’s consolidated financial statements under Basel III with updated RWA methodology are presented in the following table:
+|  |
+| 31 December | 30 June |
+| 2025 | 2026 |
+|  |
+| Tier 1 capital (k1.2) | 19.6% | 20.8% |
+| Total capital (k.2) | 19.6% | 20.8% |
+The Bank complies with NBRK’s capital requirements. The minimum regulatory capital adequacy requirements are 6.5% for k1.2 and 8% for k.2, excluding a conservation buffer of 3% and systemic buffer of 1% for each.
+The following table presents the Bank’s capital adequacy ratios in accordance with the NBRK requirements:
+|  |
+| 31 December | 30 June |
+| 2025 | 2026 |
+|  |
+| Tier 1 capital (k1.2) | 12.7% | 14.1% |
+| Total capital (k.2) | 12.7% | 14.1% |
+19.
+Subsequent events
+On 14 July 2026, the Group has completed acquisition of Rabobank A.Ş. At the time the interim condensed consolidated financial information was authorized for issue, the Group had not yet completed the accounting for the acquisition of Rabobank A.Ş. On 30 July 2026, the Company’s subsidiary Rabobank A.Ş. was renamed to Hepsi Bank A.Ş.
+On 6 August 2026, the Board of Directors of the Company proposed a dividend of
+KZT 1,000 per share, subject to Shareholders’ approval.
+32

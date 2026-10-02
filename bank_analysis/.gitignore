@@ -1,0 +1,10 @@
+# тяжёлые исходники (скачиваются заново скриптами; ссылки в data/kase/selected.json)
+data/reports/*.pdf
+data/banksites/*.pdf
+data/banksites/*.html
+data/sec/*.htm
+data/kase/iss_*.html
+data/tax/*.html
+data/tax/*.js
+data/tax/t.bin
+__pycache__/

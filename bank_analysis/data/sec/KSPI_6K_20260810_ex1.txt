@@ -1,0 +1,172 @@
+
+EX-99.1
+2
+kspi-ex99_1.htm
+EX-99.1
+EX-99.1
+Exhibit 99.1
+Kaspi.kz 2Q & 1H 2026 Financial Results
+Almaty, Kazakhstan, 10 August 2026 – Joint Stock Company Kaspi.kz (“Kaspi.kz”) (Nasdaq:KSPI) today published its unaudited consolidated IFRS financial results for the quarter and first half ended 30 June 2026 (“2Q and 1H 2026”).
+2Q 2026 Highlights
+•
+Our Board has proposed increasing the quarterly dividend by 18% to KZT1,000 per ADS, from KZT850 in 1Q 2026, subject to shareholder approval. The increase reflects our performance in the first half and confidence in the long-term growth outlook for Kaspi.kz.
+•
+e-Commerce continued to be our main growth driver. Constant-currency e-Commerce GMV increased 28% year-over-year to KZT1.3 trillion ($2.6 billion), while purchases increased 33% year-over-year.
+•
+e-Commerce consumer engagement and monetization both strengthened. Annualised e-Commerce purchases per consumer increased to 15.8 from 11.6 in 2Q 2025, while e-Commerce 3P take rate increased 160 bps year-over-year to 16.1%, supported by growth in advertising and delivery. As a result, 49% year-over-year constant-currency e-Commerce VAS revenue growth, outpaced constant currency e-Commerce revenue growth of 35% to KZT394 billion ($820 million).
+•
+Kasper, our personal AI shopping assistant, began rolling out in July and is now available to all our e-Commerce consumers in Kazakhstan. In less than a month, around 20% of consumers to whom Kasper is available had used it. Around eight in ten conversations produce a tailored product recommendation, and around six in ten of those recommendations guided the consumer to a specific product.
+•
+Marketplace constant-currency GMV increased 15% year-over-year to KZT2.3 trillion ($4.8 billion). Reported Marketplace revenue increased 11% to KZT508 billion ($1.1 billion) and adjusted EBITDA increased 9% to KZT128 billion ($266 million).
+•
+Payments TPV increased 13% year-over-year to KZT12.7 trillion ($26.3 billion). Payments revenue increased 5% year-over-year to KZT169 billion ($351 million), and adjusted EBITDA was broadly stable at KZT98 billion ($204 million) due to investments in Kaspi Alaqan (pay-by-palm).
+•
+Fintech revenue increased 23% year-over-year to KZT455 billion ($946 million), supported by 18% growth in average net loan portfolio.  Adjusted EBITDA increased 6% year-over-year to KZT171 billion ($356 million), with growth continuing to reflect higher funding costs. 
+1
+•
+In August, we reduced the interest rate on our 3-month deposit product by 100bps. This accounts for around a third of our deposits and is the first reduction in more than two years. 
+•
+Kaspi.kz revenue increased 15% year-over-year to KZT1.1 trillion ($2.3 billion). Adjusted EBITDA increased 5% year-over-year to KZT397 billion ($826 million). Net income was stable at KZT259 billion ($539 million), even with investments in Türkiye and high funding costs in Kazakhstan.
+•
+In July we completed the acquisition of Rabobank A.Ş. in Türkiye and rebranded the business Hepsi Bank. We are already piloting a new shopping loan integrated into Hepsiburada and plan to expand our Fintech offering in Türkiye from 2027.  
+•
+We reiterate our full-year 2026 guidance. As previously communicated, given changes in the mix and duration of our lending portfolio, average net loan portfolio growth is more representative of Fintech’s financial growth than TFV. Our guidance assumes constant currency exchange rates as of 1 January 2026.
+2
+Letter from Mikheil Lomtadze
+We have reinvented Kaspi.kz several times. We started in financial services, expanded into an ecosystem of everyday services and then integrated those services into the Kaspi.kz Super App, which our customers use every day. In Kazakhstan, active customers now make 77 transactions with us per month.
+Each reinvention made Kaspi.kz more useful to our customers and created new opportunities for growth. We are now at the beginning of our next chapter.
+We believe AI will fundamentally change how consumers interact with mobile apps. Today, people read information on screens, scroll, navigate menus, click buttons and type product names into a search bar. In the future, we believe they will simply give a trusted personal AI assistant a task and expect to get it done.
+Our ambition is to create that trusted assistant for our customers. We call it Kasper, our personal AI assistant for everyday tasks, and we launched it in July.
+We are starting with shopping on e-Commerce. Consumers can simply describe what they need to Kasper, using text or voice, naturally in Kazakh or Russian. Kasper can ask clarifying questions, understand preferences and constraints, compare products, explain technical terms in simple language and help to buy the product that best fits.
+We have built Kasper specifically around real customer tasks and plan to gradually add more uses. Rather than relying on a single AI model, we combine leading models with Kaspi.kz’s proprietary technology to understand customer intent, finding and ranking relevant products, using real-time information. For shopping, this includes current assortment, specifications, prices, ratings, reviews, merchants and delivery options.
+Kaspi.kz has high-quality first-party transactional data from millions of everyday interactions. We believe this real-world context is critical to making Kasper highly relevant and reliable and is an important advantage.
+We evaluate Kasper by whether it helps the customer complete the task successfully, not simply by whether it produces a good answer. Recommendation quality, accuracy, successful task completion and repeat use are therefore our priorities as we scale. Over time, we want Kasper not only to understand what customers want, but to accurately connect that intent to actions across Kaspi.kz services.
+Our immediate priority is earning customers’ trust. If Kasper consistently helps customers get things done, we believe repeat use, engagement and long-term commercial value will follow. If we’re successful, the potential reward is significant, and Kasper can fundamentally change how customers interact with our services.
+It is still very early, but the initial results are encouraging. In less than a month, around 20% of consumers to whom Kasper is available have used it. Around 80% of conversations produce a
+3
+tailored product recommendation, and around 60% of those recommendations guide the consumer to a specific product.
+We recently presented Kasper at our Kaspi Event, including examples of how customers can use it. Watch the presentation here: https://www.youtube.com/watch?v=Rk5vkC47yGo
+We are pursuing this next chapter from a position of strength. Reflecting our confidence in the outlook, our Board has proposed increasing the quarterly dividend by 18% to KZT1,000 per ADS.
+We have always believed that the best way to create long-term value is to keep reinventing ourselves as we strive to improve our customers’ lives. Kasper is the next step in that journey, and we believe it opens an exciting new chapter for Kaspi.kz.
+Thank you for your continued trust and support.
+Mikheil Lomtadze
+Co-Founder and CEO
+Kaspi.kz
+4
+Update on key strategic initiatives
+Kasper: Kaspi.kz’s personal AI assistant
+In July, we commenced the rollout of Kasper, our personal AI assistant with the initial task of shopping on our e-Commerce platform.
+Kasper transforms how consumers discover products by enabling them to describe what they need in natural language rather than relying only on keyword search or catalogue filters.
+Following its initial launch, Kasper, has demonstrated strong consumer adoption and engagement. 1 in 5 of those consumers to whom it is available have used it. Around 8 in 10 Kasper conversations produce a tailored product recommendation, and around 6 in 10 of those recommendations guide the customer to a specific product. Natural-language discovery with Kasper significantly reduces friction, produces more relevant results and accelerates buyer decision-making.
+5
+Kasper is built using leading models, Kaspi.kz’s proprietary technology and our unique commerce data. Our objective is to create an AI shopping experience specifically designed around the languages, products, merchants, payments and fulfilment capabilities of our ecosystem.
+Kasper is now available in Kazakhstan.
+Hepsi Bank Türkiye
+Having completed the acquisition of Rabobank A.Ş. in Türkiye, we have subsequently rebranded the business as Hepsi Bank.
+Following roll out of our risk management platform and leveraging Hepsiburada’s existing micro finance licence, we have launched a new shopping loan, seamlessly integrated with Hepsiburada. Initial consumer feedback has been positive and risk indicators are acceptable to scale further.
+Our banking licence gives us the ability to expand lending and deposit products in Türkiye, which will be a key priority from 2027. As previously communicated, we initially intend to capitalise Hepsi Bank with approximately $300 million.
+We see a significant long-term opportunity to develop high-quality, transparent and convenient digital Fintech products for consumers and merchants in Türkiye.
+6
+Kaspi.kz 2Q 2026 Financials
+Total revenue increased 15% year-over-year to KZT1.1 trillion ($2.3 billion). Growth was mainly driven by improving order frequency and fast growth from VAS in our e-Commerce business, strong Fintech loan portfolio growth, alongside robust and predictable growth from our Payments Platform. This was partially offset by 21% year-over-year depreciation of the Turkish Lira versus the Kazakhstan Tenge, which mainly impacts reported e-Commerce and Marketplace growth.
+Adjusted EBITDA increased 5% year-over-year to KZT397 billion ($826 million). Consolidated net income was stable at KZT259 billion ($539 million). Net income margin was impacted by higher deposit funding costs and ongoing investments at Hepsiburada.
+In August, we lowered the interest rate offered on our 3-month deposit product by 100 bps, with the earnings benefit expected to be visible in the final part of the year.
+Our Board has proposed increasing our quarterly dividend to KZT 1,000 per ADS up from KZT 850 paid in the first quarter of this year.
+7
+Marketplace Platform
+Within Marketplace, constant currency e-Commerce GMV increased 28% year-over-year to KZT1.3 trillion ($2.6 billion), during the second quarter of 2026.
+In both Kazakhstan and Türkiye, we’re prioritising improving consumer engagement; this is illustrated by e-Commerce purchases per consumer increasing to 15.8 from 11.6 in the second quarter of 2025.
+We’re also seeing good results growing revenue from value-added services, namely advertising and delivery. During 2Q 2026, constant currency VAS revenue increased 49% year-over-year. As a result, e-Commerce 3P take rate increased 160 bps year-over-year to 16.1%, and e-Commerce revenue grew significantly faster than GMV. During 2Q 2026, e-Commerce revenue increased 35% year-over-year on a constant currency basis to KZT394 billion ($820 million).
+Marketplace constant-currency GMV increased 15% year-over-year, driven by strong e-Commerce growth in Kazakhstan and Türkiye. Take rate improved 110 bps year-over-year to 12.1%, resulting in reported Marketplace revenue growing 11% year-over-year to KZT508 billion ($1.1 billion). Adjusted EBITDA grew 9% year-over-year to KZT128 billion ($266 million). Adjusted EBITDA growth was impacted by ongoing investments into Hepsiburada.
+8
+9
+Payments Platform
+During 2Q 2026, TPV increased 13% year-over-year to KZT12.7 trillion ($26.3 billion).
+Payments revenue increased 5% year-over-year to KZT169 billion ($351 million). Revenue growth below TPV growth reflects take-rate decline to 1.00% from 1.07% in 2Q 2025. This is due to changing product mix and is consistent with long-run trends. Interest revenue accounted for 24% of total revenue and increased 15% year-over-year.
+Adjusted EBITDA was down 1% year-over-year at KZT98 billion ($204 million), impacted by higher technology costs related to Kaspi Alaqan. In Payments, adjusted EBITDA excludes interest revenue.
+Fintech Platform
+During 2Q 2026, our average net loan portfolio increased by 18% year-over-year, to KZT7.3 trillion ($15.2 billion).
+We are deliberately shifting our lending mix toward longer-duration, higher-revenue products. Average net loan portfolio duration was 9.0 months in 2Q 2026, compared with 7.7 months in 2Q 2025. Portfolio yield was stable year-over-year at 6%. As a result, Fintech revenue growth remained strong and increased 23% year-over-year to KZT455 billion ($946 million).
+Interest rate increases in Kazakhstan last year resulted in our average cost of funding increasing 150 bps year-over-year during 2Q 2026 to 14.5%. In August, we lowered the interest rate offered on our 3-month deposit product, which accounts for around a third of deposits, by 100 bps. The benefits of this will be visible in the final part of this year.
+10
+Cost of risk was 0.7% in 2Q 2026 compared with 0.6% in the same period in 2025. Our underlying credit trends remain strong and consistent.
+Our NPL ratio of 7.0% in 6M 2026 was higher than the 6.1% seen in full-year 2025. Lower coverage reflects the growing share of lower risk car and merchant loans in our portfolio, a decreasing share of BNPL loans and ongoing improvements in our collection processes.
+Higher deposit costs and a slightly higher cost of risk negatively impacted 2Q 2026 Fintech adjusted EBITDA which increased 6% year-over-year to KZT171 billion ($356 million), compared with revenue growth of 23% to KZT455 billion ($946 million).
+11
+Full-year 2026 Guidance
+We reiterate our full-year 2026 guidance. 
+As previously flagged, given changes in our loan portfolio product mix and resulting duration, average net loan portfolio growth is more indicative of Fintech’s financial growth outlook than TFV.
+Our guidance assumes constant currency exchange rates as of January 1, 2026.
+12
+2Q and 1H 2026 Financial Results Conference Call
+Monday, 10
+th
+ August 2026 at 8.00am EST (1pm GMT, 5.00pm Astana time).
+To pre-register for this call, please go to the following link:
+Register Now
+You will receive access details via email.
+About Kaspi.kz
+Kaspi.kz’s mission is to improve people’s lives by developing innovative mobile products and services.
+Kaspi.kz operates a unique two-sided Super App model, serving more than 26 million consumers and 900 thousand merchants across Kazakhstan and Türkiye. In Kazakhstan, our Super App seamlessly integrates payments, e-Commerce, e-Grocery, fintech, travel, classifieds and government services. This comprehensive offering is deeply relevant to users’ daily lives, driving exceptional engagement with 77 monthly transactions per active consumer. In Türkiye, Kaspi.kz owns an 86.7% stake in Hepsiburada, one of the country’s leading e-Commerce platforms.
+Kaspi.kz has been listed on Nasdaq since January 2024.
+For further information
+David Ferguson 
+david.ferguson@kaspi.kz
+13
+Kaspi.kz Consolidated Financial Statements
+14
+15
+16
+Use of key financial & operating metrics
+Certain parts of this press release contain our key financial and operating metrics, which we do not consider to be non-IFRS financial measures. We use these metrics to evaluate our business, measure our performance, identify trends affecting our business, formulate financial projections and make strategic decisions. Our key operating metrics may be calculated in a manner different than similar key financial and operating metrics used by other companies. For definitions of our key financial and
+operating metrics please refer to “Other Key Financial and Operating Metrics” section of our latest 20-F.
+Additional/updated key financial and operating metrics used in this Release:
+(1)
+Adjusted EBITDA (Kaspi.kz Consolidated)
+ is Profit or loss for the period less interest revenue from other operations, plus interest expense and fees from other operations, share-based compensation expense, other gains (losses), less income tax expense, depreciation and amortization expenses.
+(2)
+Marketplace Active consumers 
+is The total number of consumers, including consumers in Türkiye, that completed at least one purchase of goods and services within Marketplace during the prior 12 months
+(3)
+e-Commerce Active Consumers
+ is The total number of consumers, including consumers in Türkiye, that completed at least one purchase of goods and services within e-Commerce during the prior 12 months
+(4)
+Total Active Consumers
+ is The total number of consumers, including consumers in Türkiye, that completed at least one transaction with Kaspi or Hepsiburada during the prior 12 months
+(5)
+Loan Duration (months)
+ is Average effective maturity of loans measured in months 
+(6)
+Cost of Funding
+ is Average effective rate paid on term deposits of individuals and legal entities
+(7)
+e-Commerce GMV
+ is The total transaction value of goods and services sold within the e-Commerce business of Marketplace (on an aggregate, “third-party” or “first-party” basis, as applicable). Our “first-party” e-Commerce GMV includes e-Grocery’s GMV. Starting from January 2026 e-Commerce GMV also includes GMV of Hepsiburada
+(8)
+Constant currency growth 
+is calculated by using end of period exchange rate for previous year reporting period and applying it to the corresponding current year reporting period, so as to calculate what our results would have been had exchange rates remained stable from one year to the next
+(9)
+Pro-forma growth
+ is Includes full 1Q’25 result of Hepsiburada including the amounts which were prior to acquisition of Hepsiburada on 28 January 2025, for comparability purposes in 1Q’26
+Non-IFRS financial measures
+To supplement our 
+results presented in accordance with IFRS, we present Adjusted EBITDA for both the Company and Hepsiburada on a standalone basis.
+ The Company
+provides a reconciliation of Adjusted EBITDA, a non-IFRS financial measure for historical
+periods. However, the Company does not provide guidance on net income and is unable
+to provide a reconciliation for its Adjusted EBITDA guidance range to net income without
+unreasonable efforts due to high variability and complexity with respect to estimating
+certain forward-looking amounts, the probable significance of which cannot be
+determined. The adjustments from net income for these forward-looking amounts
+include, for Adjusted EBITDA of the Company, 
+earnings before interest revenue from other operations, interest expenses and fees from other operations, share-based compensation expense, other gains (losses), income tax expense, and depreciation and amortization expenses,
+ and for Adjusted EBITDA of Hepsiburada on a standalone basis, taxation on income, financial income, financial expenses, depreciation and amortization,
+and monetary gain/(loss).
+Exchange rate calculations
+The Kazakhstani tenge (KZT) to US dollar ($) exchange rate used by us for the presentation of certain financial, operating and other data denominated in tenge and included in this presentation is KZT480.72 per $1 as of 30 June 2026. The Turkish lira (TRY) exchange rate used by us for the presentation of certain
+17
+financial, operating and other data denominated in lira and included in this presentation is KZT10.30 per TRY1 as of 30 June 2026.
+Cautionary statement regarding forward-looking statements
+This release contains forward-looking statements within the meaning of the U.S. federal securities laws, which statements relate to our current expectations and views of future events. In some cases, these forward-looking statements can be identified by words or phrases such as “believe,” “may,” “might,” “will,” “expect,” “estimate,” “could,” “should,” “anticipate,” “aim,”  “intend,” “plan,”  “potential,” “prospective,” “continue,” “is/are likely to” or other similar expressions. These forward-looking statements are subject to risks, uncertainties and assumptions, some of which are beyond our control. Therefore, you should not place undue reliance on these forward-looking statements. In addition, these forward-looking statements reflect our current views with respect to future events and are not a guarantee of future performance. Actual outcomes may differ materially from the information contained in the forward-looking statements as a result of a number of factors, including, without limitation, risks related to the following: our ability to attract sufficient new customers, engage and retain our existing customers or sell additional functionality, products and services to them on our platforms; our ability to maintain and improve the network effects of our Super App business model; our ability to improve or maintain technology infrastructure; our ability to successfully execute the new business model and reach profitability in certain of our operations; our ability to partner with sufficient new merchants or maintain relationships with our existing merchant partners; our ability to effectively manage the growth of our business and operations; developments affecting the financial services industry; our brand or trusted status of our platforms and Super Apps; our ability to retain and motivate our personnel and attract new talent, or to maintain our corporate culture; our ability to keep pace with rapid technological developments to provide innovative services; our ability to implement changes to our
+systems and operations necessary to capitalize on our future growth opportunities; changes in relationships with third-party providers, including software and hardware suppliers, delivery services, credit bureaus and debt collection agencies; our ability to compete successfully against existing or new competitors; our ability to integrate acquisitions, strategic alliances and investments and realize the benefits of such transactions; our ability to adequately obtain, maintain, enforce and protect our intellectual property and similar proprietary rights; risks related to Kazakhstan and the other countries in which we operate, including with regard to the evolving nature of the applicable legislative and regulatory framework and that of other jurisdictions in which we operate; our ability to obtain or retain certain licenses, permits and approvals in a timely manner; the significant influence of our existing shareholders and ability of ADS holders to influence corporate matters; differences between the rights of our shareholders, governed by Kazakhstan law and our charter, from the typical rights of shareholders under U.S. state laws; our ability to remediate additional material weaknesses (if any) in our internal control over financial reporting or those of certain of our subsidiaries and our ability to establish and maintain an effective system of internal control over financial reporting; dependence on our subsidiaries for cash to fund our operations and expenses, including future dividend payments, if any; lack of protections for ADS holders compared to those afforded to shareholders of companies that are not “foreign private issuers;” the fact that the price of our ADSs might fluctuate significantly and that any future sales of ADSs or common shares may negatively impact the stock price; and risks related to other factors discussed under Item 3.D. “Risk Factors” in our Annual Report on Form 20-F filed with the U.S. Securities and Exchange Commission on March 16, 2026 and our other SEC filings we make from time to time. We operate in an evolving environment. New risks emerge from time to time, and it is not possible for our management to predict all risks, nor can we assess the effect of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements. The forward-looking statements made in this press release relate only to events or information as of the date on which the statements are made in this press release. Except as required by law, we undertake no obligation to update or revise publicly any forward-looking statements, whether as a result of new information, future events or otherwise, after the date on which the statements are made or to reflect the occurrence of unanticipated events.
+18

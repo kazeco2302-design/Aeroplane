@@ -1,0 +1,7 @@
+https://www.sec.gov/Archives/edgar/data/924805/000092480526000047/frhc-20260630.htm FRHC_10-Q_2026-06-30.htm
+https://www.sec.gov/Archives/edgar/data/924805/000092480526000012/frhc-20260331.htm FRHC_10-K_2026-03-31.htm
+https://www.sec.gov/Archives/edgar/data/924805/000092480525000012/frhc-20250331.htm FRHC_10-K_2025-03-31.htm
+https://www.sec.gov/Archives/edgar/data/924805/000092480524000041/frhc-20240331.htm FRHC_10-K_2024-03-31.htm
+https://www.sec.gov/Archives/edgar/data/924805/000092480523000076/frhc-20230331.htm FRHC_10-K_2023-03-31.htm
+https://www.sec.gov/Archives/edgar/data/924805/000092480522000027/frhc-20220331.htm FRHC_10-K_2022-03-31.htm
+https://www.sec.gov/Archives/edgar/data/924805/000165495421006880/frhc_10k.htm FRHC_10-K_2021-03-31.htm
