@@ -55,7 +55,7 @@ def run(path='data/model_inputs.json'):
         g = x.get('g', inp['g'])
         res = {'pb_now': x['p0'] / x['bv0'],
                'pe_now': x['p0'] / x['eps_ltm'] if x.get('eps_ltm') else None}
-        res['fair_pb'] = {str(c): fair_pb(x['roe_sust'], c, g) for c in inp['coe_grid']}
+        res['fair_pb'] = {str(c): fair_pb(x['roe_sust'], c, g) for c in x.get('coe_grid', inp['coe_grid'])}
         res['fair_price'] = {c: v * x['bv0'] for c, v in res['fair_pb'].items()}
         res['upside_base'] = res['fair_price'][str(x['coe'])] / x['p0'] - 1
         res['scen'] = {k: scenario(x['p0'], x['bv0'], s, x['coe'], g, x['t_div'], x['t_cg'],
