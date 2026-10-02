@@ -993,7 +993,7 @@
     },
     "rp_assets_total_pct_equity": {
      "value": 75.1358,
-     "formula": "(cash 35,549 + restricted 114,885 + trading 556 + receivables 295,611 + loans 121,316 + other 16,102)/equity 777,285 ({K24} Note 24)"
+     "formula": "(cash 35,549 + restricted 114,885 + trading 556 + receivables 295,611 + loans 121,316 + other 16,102)/equity 777,285 (FRHC_10-K_2024-03-31.txt Note 24)"
     }
    },
    "regulatory_capital": {
